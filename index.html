@@ -13,13 +13,15 @@
     .muted { color:#666; font-size:14px;}
     h2 { margin: 0 0 8px 0;}
     .row { display:flex; justify-content:space-between; padding:6px 0; border-bottom:1px solid #f0f0f0; }
+    ul { padding-left: 18px; margin: 8px 0 0 0; }
+    li { margin: 4px 0; }
   </style>
 </head>
 <body>
   <header>
     <div class="wrap">
       <h1>Market Dashboard (Basic)</h1>
-      <div class="muted">US Indices · FX · Top News (free sources)</div>
+      <div class="muted">US Indices · Futures · FX · Top News (free sources)</div>
     </div>
   </header>
 
@@ -30,16 +32,16 @@
         <div id="indices">로딩 중…</div>
       </section>
       <section class="card">
+        <h2>Futures (Stooq)</h2>
+        <div id="futures">로딩 중…</div>
+      </section>
+      <section class="card">
         <h2>FX (Stooq)</h2>
         <div id="fx">로딩 중…</div>
       </section>
       <section class="card">
-        <h2>Futures</h2>
-        <div class="muted">추가 예정</div>
-      </section>
-      <section class="card">
-        <h2>Top News</h2>
-        <div class="muted">추가 예정</div>
+        <h2>Top News (Google News RSS)</h2>
+        <div id="news">로딩 중…</div>
       </section>
     </div>
   </div>
@@ -56,7 +58,9 @@
 
     async function load() {
       const indicesEl = document.getElementById('indices');
+      const futuresEl = document.getElementById('futures');
       const fxEl = document.getElementById('fx');
+      const newsEl = document.getElementById('news');
 
       try {
         const [spx, ndq, dji] = await Promise.all([
@@ -75,6 +79,22 @@
       }
 
       try {
+        const [es, nq, ym] = await Promise.all([
+          fetch('https://stooq.com/q/d/l/?s=es.f&i=d').then(r=>r.text()),
+          fetch('https://stooq.com/q/d/l/?s=nq.f&i=d').then(r=>r.text()),
+          fetch('https://stooq.com/q/d/l/?s=ym.f&i=d').then(r=>r.text())
+        ]);
+        const e = parseCSV(es), n = parseCSV(nq), y = parseCSV(ym);
+        futuresEl.innerHTML = `
+          <div class="row"><strong>ES (S&P)</strong><span>${e.Close} (${e.Date})</span></div>
+          <div class="row"><strong>NQ (Nasdaq)</strong><span>${n.Close} (${n.Date})</span></div>
+          <div class="row"><strong>YM (Dow)</strong><span>${y.Close} (${y.Date})</span></div>
+        `;
+      } catch (e) {
+        futuresEl.textContent = '데이터 로딩 실패';
+      }
+
+      try {
         const usdk = await fetch('https://stooq.com/q/d/l/?s=usdk&i=d').then(r=>r.text());
         const u = parseCSV(usdk);
         fxEl.innerHTML = `
@@ -82,6 +102,21 @@
         `;
       } catch (e) {
         fxEl.textContent = '데이터 로딩 실패';
+      }
+
+      try {
+        const rssUrl = encodeURIComponent('https://news.google.com/rss/search?q=stock+market&hl=en-US&gl=US&ceid=US:en');
+        const rss = await fetch(`https://api.allorigins.win/raw?url=${rssUrl}`).then(r=>r.text());
+        const parser = new DOMParser();
+        const xml = parser.parseFromString(rss, 'text/xml');
+        const items = Array.from(xml.querySelectorAll('item')).slice(0,5);
+        newsEl.innerHTML = '<ul>' + items.map(i => {
+          const title = i.querySelector('title')?.textContent || 'No title';
+          const link = i.querySelector('link')?.textContent || '#';
+          return `<li><a href="${link}" target="_blank" rel="noopener">${title}</a></li>`;
+        }).join('') + '</ul>';
+      } catch (e) {
+        newsEl.textContent = '뉴스 로딩 실패';
       }
     }
 

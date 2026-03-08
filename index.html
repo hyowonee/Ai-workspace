@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Market Dashboard</title>
+  <style>
+    body { font-family: system-ui, -apple-system, sans-serif; margin: 0; background:#f7f7f8; color:#111;}
+    header { padding: 24px; background:#111; color:#fff;}
+    .wrap { max-width: 980px; margin: 0 auto; padding: 24px;}
+    .grid { display:grid; grid-template-columns: repeat(2, 1fr); gap:16px; }
+    .card { background:#fff; border:1px solid #e6e6e6; border-radius:12px; padding:16px;}
+    .muted { color:#666; font-size:14px;}
+    h2 { margin: 0 0 8px 0;}
+  </style>
+</head>
+<body>
+  <header>
+    <div class="wrap">
+      <h1>Market Dashboard (Basic)</h1>
+      <div class="muted">US Indices · Futures · FX/Rates · Top News</div>
+    </div>
+  </header>
+
+  <div class="wrap">
+    <div class="grid">
+      <section class="card">
+        <h2>US Indices</h2>
+        <p class="muted">S&P 500, NASDAQ, Dow</p>
+        <div id="indices">데이터 연결 대기</div>
+      </section>
+      <section class="card">
+        <h2>Futures</h2>
+        <p class="muted">ES, NQ, YM</p>
+        <div id="futures">데이터 연결 대기</div>
+      </section>
+      <section class="card">
+        <h2>FX / Rates</h2>
+        <p class="muted">USD/KRW, DXY, 10Y</p>
+        <div id="fx">데이터 연결 대기</div>
+      </section>
+      <section class="card">
+        <h2>Top News</h2>
+        <p class="muted">Macro headlines</p>
+        <div id="news">데이터 연결 대기</div>
+      </section>
+    </div>
+  </div>
+</body>
+</html>

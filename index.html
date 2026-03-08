@@ -12,39 +12,80 @@
     .card { background:#fff; border:1px solid #e6e6e6; border-radius:12px; padding:16px;}
     .muted { color:#666; font-size:14px;}
     h2 { margin: 0 0 8px 0;}
+    .row { display:flex; justify-content:space-between; padding:6px 0; border-bottom:1px solid #f0f0f0; }
   </style>
 </head>
 <body>
   <header>
     <div class="wrap">
       <h1>Market Dashboard (Basic)</h1>
-      <div class="muted">US Indices · Futures · FX/Rates · Top News</div>
+      <div class="muted">US Indices · FX · Top News (free sources)</div>
     </div>
   </header>
 
   <div class="wrap">
     <div class="grid">
       <section class="card">
-        <h2>US Indices</h2>
-        <p class="muted">S&P 500, NASDAQ, Dow</p>
-        <div id="indices">데이터 연결 대기</div>
+        <h2>US Indices (Stooq)</h2>
+        <div id="indices">로딩 중…</div>
+      </section>
+      <section class="card">
+        <h2>FX (Stooq)</h2>
+        <div id="fx">로딩 중…</div>
       </section>
       <section class="card">
         <h2>Futures</h2>
-        <p class="muted">ES, NQ, YM</p>
-        <div id="futures">데이터 연결 대기</div>
-      </section>
-      <section class="card">
-        <h2>FX / Rates</h2>
-        <p class="muted">USD/KRW, DXY, 10Y</p>
-        <div id="fx">데이터 연결 대기</div>
+        <div class="muted">추가 예정</div>
       </section>
       <section class="card">
         <h2>Top News</h2>
-        <p class="muted">Macro headlines</p>
-        <div id="news">데이터 연결 대기</div>
+        <div class="muted">추가 예정</div>
       </section>
     </div>
   </div>
+
+  <script>
+    const parseCSV = (text) => {
+      const lines = text.trim().split('\n');
+      const headers = lines[0].split(',');
+      const last = lines[lines.length - 1].split(',');
+      const obj = {};
+      headers.forEach((h, i) => obj[h] = last[i]);
+      return obj;
+    };
+
+    async function load() {
+      const indicesEl = document.getElementById('indices');
+      const fxEl = document.getElementById('fx');
+
+      try {
+        const [spx, ndq, dji] = await Promise.all([
+          fetch('https://stooq.com/q/d/l/?s=^spx&i=d').then(r=>r.text()),
+          fetch('https://stooq.com/q/d/l/?s=^ndq&i=d').then(r=>r.text()),
+          fetch('https://stooq.com/q/d/l/?s=^dji&i=d').then(r=>r.text())
+        ]);
+        const s = parseCSV(spx), n = parseCSV(ndq), d = parseCSV(dji);
+        indicesEl.innerHTML = `
+          <div class="row"><strong>S&P 500</strong><span>${s.Close} (${s.Date})</span></div>
+          <div class="row"><strong>NASDAQ</strong><span>${n.Close} (${n.Date})</span></div>
+          <div class="row"><strong>Dow</strong><span>${d.Close} (${d.Date})</span></div>
+        `;
+      } catch (e) {
+        indicesEl.textContent = '데이터 로딩 실패';
+      }
+
+      try {
+        const usdk = await fetch('https://stooq.com/q/d/l/?s=usdk&i=d').then(r=>r.text());
+        const u = parseCSV(usdk);
+        fxEl.innerHTML = `
+          <div class="row"><strong>USD/KRW</strong><span>${u.Close} (${u.Date})</span></div>
+        `;
+      } catch (e) {
+        fxEl.textContent = '데이터 로딩 실패';
+      }
+    }
+
+    load();
+  </script>
 </body>
 </html>

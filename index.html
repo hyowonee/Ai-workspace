@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Market Dashboard</title>
+  <title>증시 현황 대시보드</title>
   <style>
     body { font-family: system-ui, -apple-system, sans-serif; margin: 0; background:#f7f7f8; color:#111;}
     header { padding: 24px; background:#111; color:#fff;}
@@ -20,27 +20,27 @@
 <body>
   <header>
     <div class="wrap">
-      <h1>Market Dashboard (Basic)</h1>
-      <div class="muted">US Indices · Futures · FX · Top News (free sources)</div>
+      <h1>증시 현황 대시보드 (기본)</h1>
+      <div class="muted">미국 지수 · 선물 · 환율 · 주요 뉴스 (무료 소스)</div>
     </div>
   </header>
 
   <div class="wrap">
     <div class="grid">
       <section class="card">
-        <h2>US Indices (Stooq)</h2>
+        <h2>미국 지수 (Stooq)</h2>
         <div id="indices">로딩 중…</div>
       </section>
       <section class="card">
-        <h2>Futures (Stooq)</h2>
+        <h2>선물 (Stooq)</h2>
         <div id="futures">로딩 중…</div>
       </section>
       <section class="card">
-        <h2>FX (Stooq)</h2>
+        <h2>환율 (Stooq)</h2>
         <div id="fx">로딩 중…</div>
       </section>
       <section class="card">
-        <h2>Top News (Google News RSS)</h2>
+        <h2>주요 뉴스 (Google News RSS)</h2>
         <div id="news">로딩 중…</div>
       </section>
     </div>
@@ -73,8 +73,8 @@
         const s = parseCSV(spx), n = parseCSV(ndq), d = parseCSV(dji);
         indicesEl.innerHTML = `
           <div class="row"><strong>S&P 500</strong><span>${s.Close} (${s.Date})</span></div>
-          <div class="row"><strong>NASDAQ</strong><span>${n.Close} (${n.Date})</span></div>
-          <div class="row"><strong>Dow</strong><span>${d.Close} (${d.Date})</span></div>
+          <div class="row"><strong>나스닥</strong><span>${n.Close} (${n.Date})</span></div>
+          <div class="row"><strong>다우</strong><span>${d.Close} (${d.Date})</span></div>
         `;
       } catch (e) {
         indicesEl.textContent = '데이터 로딩 실패';
@@ -89,8 +89,8 @@
         const e = parseCSV(es), n = parseCSV(nq), y = parseCSV(ym);
         futuresEl.innerHTML = `
           <div class="row"><strong>ES (S&P)</strong><span>${e.Close} (${e.Date})</span></div>
-          <div class="row"><strong>NQ (Nasdaq)</strong><span>${n.Close} (${n.Date})</span></div>
-          <div class="row"><strong>YM (Dow)</strong><span>${y.Close} (${y.Date})</span></div>
+          <div class="row"><strong>NQ (나스닥)</strong><span>${n.Close} (${n.Date})</span></div>
+          <div class="row"><strong>YM (다우)</strong><span>${y.Close} (${y.Date})</span></div>
         `;
       } catch (e) {
         futuresEl.textContent = '데이터 로딩 실패';
@@ -107,13 +107,13 @@
       }
 
       try {
-        const rssUrl = encodeURIComponent('https://news.google.com/rss/search?q=stock+market&hl=en-US&gl=US&ceid=US:en');
+        const rssUrl = encodeURIComponent('https://news.google.com/rss/search?q=stock+market&hl=ko&gl=KR&ceid=KR:ko');
         const rss = await fetch(`https://api.allorigins.win/raw?url=${rssUrl}`).then(r=>r.text());
         const parser = new DOMParser();
         const xml = parser.parseFromString(rss, 'text/xml');
         const items = Array.from(xml.querySelectorAll('item')).slice(0,5);
         newsEl.innerHTML = '<ul>' + items.map(i => {
-          const title = i.querySelector('title')?.textContent || 'No title';
+          const title = i.querySelector('title')?.textContent || '제목 없음';
           const link = i.querySelector('link')?.textContent || '#';
           return `<li><a href="${link}" target="_blank" rel="noopener">${title}</a></li>`;
         }).join('') + '</ul>';

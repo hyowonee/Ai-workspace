@@ -56,6 +56,8 @@
       return obj;
     };
 
+    const via = (url) => `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}`;
+
     async function load() {
       const indicesEl = document.getElementById('indices');
       const futuresEl = document.getElementById('futures');
@@ -64,9 +66,9 @@
 
       try {
         const [spx, ndq, dji] = await Promise.all([
-          fetch('https://stooq.com/q/d/l/?s=^spx&i=d').then(r=>r.text()),
-          fetch('https://stooq.com/q/d/l/?s=^ndq&i=d').then(r=>r.text()),
-          fetch('https://stooq.com/q/d/l/?s=^dji&i=d').then(r=>r.text())
+          fetch(via('https://stooq.com/q/d/l/?s=^spx&i=d')).then(r=>r.text()),
+          fetch(via('https://stooq.com/q/d/l/?s=^ndq&i=d')).then(r=>r.text()),
+          fetch(via('https://stooq.com/q/d/l/?s=^dji&i=d')).then(r=>r.text())
         ]);
         const s = parseCSV(spx), n = parseCSV(ndq), d = parseCSV(dji);
         indicesEl.innerHTML = `
@@ -80,9 +82,9 @@
 
       try {
         const [es, nq, ym] = await Promise.all([
-          fetch('https://stooq.com/q/d/l/?s=es.f&i=d').then(r=>r.text()),
-          fetch('https://stooq.com/q/d/l/?s=nq.f&i=d').then(r=>r.text()),
-          fetch('https://stooq.com/q/d/l/?s=ym.f&i=d').then(r=>r.text())
+          fetch(via('https://stooq.com/q/d/l/?s=es.f&i=d')).then(r=>r.text()),
+          fetch(via('https://stooq.com/q/d/l/?s=nq.f&i=d')).then(r=>r.text()),
+          fetch(via('https://stooq.com/q/d/l/?s=ym.f&i=d')).then(r=>r.text())
         ]);
         const e = parseCSV(es), n = parseCSV(nq), y = parseCSV(ym);
         futuresEl.innerHTML = `
@@ -95,7 +97,7 @@
       }
 
       try {
-        const usdk = await fetch('https://stooq.com/q/d/l/?s=usdk&i=d').then(r=>r.text());
+        const usdk = await fetch(via('https://stooq.com/q/d/l/?s=usdk&i=d')).then(r=>r.text());
         const u = parseCSV(usdk);
         fxEl.innerHTML = `
           <div class="row"><strong>USD/KRW</strong><span>${u.Close} (${u.Date})</span></div>

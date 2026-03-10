@@ -40,7 +40,8 @@ def translate_ko(text):
 
 
 def fetch_rss_items(url, limit=6):
-    with urllib.request.urlopen(url, timeout=20) as r:
+    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+    with urllib.request.urlopen(req, timeout=20) as r:
         xml = r.read().decode("utf-8")
     items = []
     for part in xml.split("<item>")[1:]:

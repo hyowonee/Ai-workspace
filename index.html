@@ -36,7 +36,7 @@
         <div id="futures">로딩 중…</div>
       </section>
       <section class="card">
-        <h2>환율 (Stooq)</h2>
+        <h2>환율 (USD/KRW)</h2>
         <div id="fx">로딩 중…</div>
       </section>
       <section class="card">
@@ -97,11 +97,11 @@
       }
 
       try {
-        const usdk = await fetch(via('https://stooq.com/q/d/l/?s=usdk&i=d')).then(r=>r.text());
-        const u = parseCSV(usdk);
-        fxEl.innerHTML = `
-          <div class="row"><strong>USD/KRW</strong><span>${u.Close} (${u.Date})</span></div>
-        `;
+        const fx = await fetch(via('https://open.er-api.com/v6/latest/USD')).then(r=>r.json());
+        const krw = fx?.rates?.KRW;
+        fxEl.innerHTML = krw ? `
+          <div class="row"><strong>USD/KRW</strong><span>${krw.toFixed(2)} (${fx.time_last_update_utc})</span></div>
+        ` : '데이터 로딩 실패';
       } catch (e) {
         fxEl.textContent = '데이터 로딩 실패';
       }

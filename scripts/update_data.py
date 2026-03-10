@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-import csv, io, json, urllib.request, datetime
+import csv, io, json, urllib.request, datetime, re
+
 
 def fetch_csv(symbol):
     url = f"https://stooq.com/q/l/?s={symbol}&f=sd2t2ohlcv&h&e=csv"
@@ -10,18 +11,49 @@ def fetch_csv(symbol):
         return None
     return rows[0]
 
-def fetch_rss_titles(url, limit=6):
-    # Simple RSS title extraction without external libs
+
+def strip_html(text):
+    return re.sub(r"<[^>]+>", "", text or "").replace("\xa0", " ").strip()
+
+
+def translate_ko(text):
+    if not text:
+        return ""
+    payload = json.dumps({
+        "q": text,
+        "source": "auto",
+        "target": "ko",
+        "format": "text"
+    }).encode("utf-8")
+    req = urllib.request.Request(
+        "https://libretranslate.de/translate",
+        data=payload,
+        headers={"Content-Type": "application/json"},
+        method="POST"
+    )
+    try:
+        with urllib.request.urlopen(req, timeout=20) as r:
+            data = json.loads(r.read().decode("utf-8"))
+        return data.get("translatedText") or ""
+    except Exception:
+        return ""
+
+
+def fetch_rss_items(url, limit=6):
     with urllib.request.urlopen(url, timeout=20) as r:
         xml = r.read().decode("utf-8")
     items = []
     for part in xml.split("<item>")[1:]:
-        title = part.split("<title>")[1].split("</title>")[0].strip()
-        link = part.split("<link>")[1].split("</link>")[0].strip()
-        items.append({"title": title, "link": link})
+        title = strip_html(part.split("<title>")[1].split("</title>")[0])
+        link = strip_html(part.split("<link>")[1].split("</link>")[0])
+        desc = ""
+        if "<description>" in part:
+            desc = strip_html(part.split("<description>")[1].split("</description>")[0])
+        items.append({"title": title, "link": link, "summary": desc[:220]})
         if len(items) >= limit:
             break
     return items
+
 
 def main():
     market = {
@@ -65,7 +97,7 @@ def main():
     ]
     for src in sources:
         try:
-            news["items"].extend(fetch_rss_titles(src, limit=4))
+            news["items"].extend(fetch_rss_items(src, limit=4))
         except Exception:
             continue
 
@@ -79,10 +111,16 @@ def main():
         deduped.append(it)
     news["items"] = deduped[:10]
 
+    # Translate to Korean (best effort)
+    for it in news["items"]:
+        it["title_ko"] = translate_ko(it["title"])
+        it["summary_ko"] = translate_ko(it["summary"])
+
     with open("data/market.json", "w", encoding="utf-8") as f:
         json.dump(market, f, ensure_ascii=False, indent=2)
     with open("data/news.json", "w", encoding="utf-8") as f:
         json.dump(news, f, ensure_ascii=False, indent=2)
+
 
 if __name__ == "__main__":
     main()

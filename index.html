@@ -87,7 +87,11 @@
 
       try {
         const news = await fetch(`./data/news.json?v=${Date.now()}`, { cache: 'no-store' }).then(r=>r.json());
-        newsEl.innerHTML = '<ul>' + news.items.map(i => `<li><a href="${i.link}" target="_blank" rel="noopener">${i.title}</a></li>`).join('') + '</ul>';
+        newsEl.innerHTML = '<ul>' + news.items.map(i => {
+          const title = i.title_ko || i.title;
+          const summary = i.summary_ko || i.summary || '';
+          return `<li><a href="${i.link}" target="_blank" rel="noopener">${title}</a><br><span class="muted">${summary}</span></li>`;
+        }).join('') + '</ul>';
       } catch (e) {
         newsEl.textContent = '뉴스 로딩 실패';
       }

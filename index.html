@@ -28,11 +28,11 @@
   <div class="wrap">
     <div class="grid">
       <section class="card">
-        <h2>미국 지수 (Stooq)</h2>
+        <h2>미국 지수</h2>
         <div id="indices">로딩 중…</div>
       </section>
       <section class="card">
-        <h2>선물 (Stooq)</h2>
+        <h2>선물</h2>
         <div id="futures">로딩 중…</div>
       </section>
       <section class="card">
@@ -40,83 +40,54 @@
         <div id="fx">로딩 중…</div>
       </section>
       <section class="card">
-        <h2>주요 뉴스 (Google News RSS)</h2>
+        <h2>주요 뉴스</h2>
         <div id="news">로딩 중…</div>
       </section>
     </div>
+    <p class="muted" id="updated">업데이트: -</p>
   </div>
 
   <script>
-    const parseCSV = (text) => {
-      const lines = text.trim().split('\n');
-      const headers = lines[0].split(',');
-      const last = lines[lines.length - 1].split(',');
-      const obj = {};
-      headers.forEach((h, i) => obj[h] = last[i]);
-      return obj;
-    };
-
-    const via = (url) => `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}`;
+    function row(label, value) {
+      return `<div class="row"><strong>${label}</strong><span>${value}</span></div>`;
+    }
 
     async function load() {
       const indicesEl = document.getElementById('indices');
       const futuresEl = document.getElementById('futures');
       const fxEl = document.getElementById('fx');
       const newsEl = document.getElementById('news');
+      const updatedEl = document.getElementById('updated');
 
       try {
-        const [spx, ndq, dji] = await Promise.all([
-          fetch(via('https://stooq.com/q/d/l/?s=^spx&i=d')).then(r=>r.text()),
-          fetch(via('https://stooq.com/q/d/l/?s=^ndq&i=d')).then(r=>r.text()),
-          fetch(via('https://stooq.com/q/d/l/?s=^dji&i=d')).then(r=>r.text())
-        ]);
-        const s = parseCSV(spx), n = parseCSV(ndq), d = parseCSV(dji);
-        indicesEl.innerHTML = `
-          <div class="row"><strong>S&P 500</strong><span>${s.Close} (${s.Date})</span></div>
-          <div class="row"><strong>나스닥</strong><span>${n.Close} (${n.Date})</span></div>
-          <div class="row"><strong>다우</strong><span>${d.Close} (${d.Date})</span></div>
-        `;
+        const market = await fetch('./data/market.json').then(r=>r.json());
+        const i = market.indices;
+        const f = market.futures;
+        indicesEl.innerHTML = [
+          row('S&P 500', `${i.spx.Close} (${i.spx.Date})`),
+          row('나스닥', `${i.ndq.Close} (${i.ndq.Date})`),
+          row('다우', `${i.dji.Close} (${i.dji.Date})`)
+        ].join('');
+        futuresEl.innerHTML = [
+          row('ES (S&P)', `${f.es.Close} (${f.es.Date})`),
+          row('NQ (나스닥)', `${f.nq.Close} (${f.nq.Date})`),
+          row('YM (다우)', `${f.ym.Close} (${f.ym.Date})`)
+        ].join('');
+        if (market.fx.usdkrw && market.fx.usdkrw.rate) {
+          fxEl.innerHTML = row('USD/KRW', `${market.fx.usdkrw.rate.toFixed(2)} (${market.fx.usdkrw.time_last_update_utc})`);
+        } else {
+          fxEl.textContent = '데이터 로딩 실패';
+        }
+        updatedEl.textContent = `업데이트: ${market.updated_at_utc}`;
       } catch (e) {
         indicesEl.textContent = '데이터 로딩 실패';
-      }
-
-      try {
-        const [es, nq, ym] = await Promise.all([
-          fetch(via('https://stooq.com/q/d/l/?s=es.f&i=d')).then(r=>r.text()),
-          fetch(via('https://stooq.com/q/d/l/?s=nq.f&i=d')).then(r=>r.text()),
-          fetch(via('https://stooq.com/q/d/l/?s=ym.f&i=d')).then(r=>r.text())
-        ]);
-        const e = parseCSV(es), n = parseCSV(nq), y = parseCSV(ym);
-        futuresEl.innerHTML = `
-          <div class="row"><strong>ES (S&P)</strong><span>${e.Close} (${e.Date})</span></div>
-          <div class="row"><strong>NQ (나스닥)</strong><span>${n.Close} (${n.Date})</span></div>
-          <div class="row"><strong>YM (다우)</strong><span>${y.Close} (${y.Date})</span></div>
-        `;
-      } catch (e) {
         futuresEl.textContent = '데이터 로딩 실패';
-      }
-
-      try {
-        const fx = await fetch(via('https://open.er-api.com/v6/latest/USD')).then(r=>r.json());
-        const krw = fx?.rates?.KRW;
-        fxEl.innerHTML = krw ? `
-          <div class="row"><strong>USD/KRW</strong><span>${krw.toFixed(2)} (${fx.time_last_update_utc})</span></div>
-        ` : '데이터 로딩 실패';
-      } catch (e) {
         fxEl.textContent = '데이터 로딩 실패';
       }
 
       try {
-        const rssUrl = encodeURIComponent('https://news.google.com/rss/search?q=stock+market&hl=ko&gl=KR&ceid=KR:ko');
-        const rss = await fetch(`https://api.allorigins.win/raw?url=${rssUrl}`).then(r=>r.text());
-        const parser = new DOMParser();
-        const xml = parser.parseFromString(rss, 'text/xml');
-        const items = Array.from(xml.querySelectorAll('item')).slice(0,5);
-        newsEl.innerHTML = '<ul>' + items.map(i => {
-          const title = i.querySelector('title')?.textContent || '제목 없음';
-          const link = i.querySelector('link')?.textContent || '#';
-          return `<li><a href="${link}" target="_blank" rel="noopener">${title}</a></li>`;
-        }).join('') + '</ul>';
+        const news = await fetch('./data/news.json').then(r=>r.json());
+        newsEl.innerHTML = '<ul>' + news.items.map(i => `<li><a href="${i.link}" target="_blank" rel="noopener">${i.title}</a></li>`).join('') + '</ul>';
       } catch (e) {
         newsEl.textContent = '뉴스 로딩 실패';
       }

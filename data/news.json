@@ -1,32 +1,46 @@
 {
-  "updated_at_utc": "2026-03-10 13:47:24 UTC",
+  "updated_at_utc": "2026-03-10 14:27:36 UTC",
   "items": [
     {
-      "title": "Amazon targeting $37 billion to $42 billion in bond sale, Bloomberg News reports",
-      "link": "https://www.investing.com/news/stock-market-news/amazon-targeting-37-billion-to-42-billion-in-bond-sale-bloomberg-news-reports-4552322",
+      "title": "Strategy gets new Buy rating at B. Riley on strong positioning",
+      "link": "https://www.investing.com/news/stock-market-news/strategy-gets-new-buy-rating-at-b-riley-on-strong-positioning-4552381",
       "summary": "",
-      "title_ko": "블룸버그 뉴스는 아마존이 370억 달러에서 420억 달러의 채권 판매를 목표로 하고 있다고 보도했습니다.",
+      "title_ko": "전략은 강력한 포지셔닝에 대한 B. Riley의 새로운 구매 등급을 얻습니다.",
       "summary_ko": ""
     },
     {
-      "title": "CrowdStrike upgraded and named ‘Top Pick’ at Morgan Stanley on AI positioning",
-      "link": "https://www.investing.com/news/stock-market-news/crowdstrike-upgraded-and-named-top-pick-at-morgan-stanley-on-ai-positioning-4552306",
+      "title": "Deutsche Bank upgrades software stocks amid AI disruption fade",
+      "link": "https://www.investing.com/news/stock-market-news/deutsche-bank-upgrades-software-stocks-amid-ai-disruption-fade-4552371",
       "summary": "",
-      "title_ko": "CrowdStrike 업그레이드 및 AI 포지셔닝에 대한 Morgan Stanley의 ‘Top Pick’ 선정",
+      "title_ko": "Deutsche Bank는 AI 중단이 사라지는 가운데 소프트웨어 주식을 업그레이드합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Wall St opens subdued as investors monitor US-Iran tensions",
-      "link": "https://www.investing.com/news/stock-market-news/wall-st-opens-subdued-as-investors-monitor-usiran-tensions-4552295",
+      "title": "Kohl’s forecasts steeper-than-expected annual sales drop amid stiff competition",
+      "link": "https://www.investing.com/news/stock-market-news/kohls-forecasts-annual-sales-below-estimates-4551663",
       "summary": "",
-      "title_ko": "Wall St는 투자자들이 미국과 이란의 긴장을 모니터링하면서 제압되어 문을 엽니다.",
+      "title_ko": "Kohl 's는 치열한 경쟁 속에서 예상보다 가파른 연간 매출 하락을 예측합니다.",
       "summary_ko": ""
     },
     {
-      "title": "U.S. stocks search for direction at the open after roller-coaster previous session",
-      "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-climb-oil-declines-as-trump-says-iran-war-to-end-soon-4551561",
+      "title": "Spirit Airlines recalls furloughed pilots as it prepares to emerge from bankruptcy",
+      "link": "https://www.investing.com/news/stock-market-news/spirit-airlines-recalls-furloughed-pilots-as-it-prepares-to-emerge-from-bankruptcy-4552366",
       "summary": "",
-      "title_ko": "미국 주식은 롤러코스터 이전 세션 후 오픈에서 방향을 찾습니다.",
+      "title_ko": "스피릿 항공 (Spirit Airlines) 은 파산에서 벗어날 준비를 하면서 펄럭이는 조종사들을 회상합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "US existing home sales unexpectedly increase in February",
+      "link": "https://www.investing.com/news/economic-indicators/us-existing-home-sales-unexpectedly-increase-in-february-4552388",
+      "summary": "",
+      "title_ko": "2월에 예상치 못한 미국 내 기존 주택 판매량 증가",
+      "summary_ko": ""
+    },
+    {
+      "title": "U.S. Existing Home Sales Surpass Expectations, Indicating Market Resilience",
+      "link": "https://www.investing.com/news/economic-indicators/us-existing-home-sales-surpass-expectations-indicating-market-resilience-93CH-4552370",
+      "summary": "",
+      "title_ko": "미국 내 기존 주택 판매가 기대치를 뛰어넘어 시장 회복탄력성을 나타냄",
       "summary_ko": ""
     },
     {
@@ -44,32 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Greece’s inflation rises to 3.1% in February on higher food and clothing costs",
-      "link": "https://www.investing.com/news/economic-indicators/greeces-inflation-rises-to-31-in-february-on-higher-food-and-clothing-costs-93CH-4551485",
-      "summary": "",
-      "title_ko": "그리스의 인플레이션은 식품 및 의류 비용 상승에 따라 2월에 3.1% 로 상승합니다.",
-      "summary_ko": ""
+      "title": "Gold: Tepid flows despite geopolitical shock – TD Securities",
+      "link": "https://www.fxstreet.com/news/gold-tepid-flows-despite-geopolitical-shock-td-securities-202603101343",
+      "summary": "TD Securities Senior Commodity Strategist Daniel Ghali highlights surprisingly weak Gold demand since the onset of the war, with OTC interest fading after the first session and volumes resembling a summer lull.",
+      "title_ko": "금: 지정학적 충격에도 불구하고 미지근한 흐름 – TD Securities",
+      "summary_ko": "TD 증권 수석 상품 전략가 다니엘 갈리 (Daniel Ghali) 는 전쟁이 시작된 이후 놀랍게도 약한 금 수요를 강조하며, 첫 번째 세션 이후 OTC 관심은 희미해지고 볼륨은 여름 자장가를 닮았습니다."
     },
     {
-      "title": "Hungary’s inflation slows to 1.4% in February, below forecasts",
-      "link": "https://www.investing.com/news/economic-indicators/hungarys-inflation-slows-to-14-in-february-below-forecasts-93CH-4551375",
-      "summary": "",
-      "title_ko": "헝가리의 2월 물가상승률은 1.4% 로 전망치를 밑돌고 있습니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "AUD/USD: RBA seen delivering back‑to‑back hike – BBH",
-      "link": "https://www.fxstreet.com/news/aud-usd-rba-seen-delivering-back-to-back-hike-bbh-202603101254",
-      "summary": "Brown Brothers Harriman's (BBH) Elias Haddad reports AUD/USD has broken above 0.7100 with momentum toward 0.7150, as Australian sentiment data leave Reserve Bank of Australia expectations largely unchanged.",
-      "title_ko": "AUD/USD: RBA가 백투백 하이킹을 제공하는 것으로 보임 – BBH",
-      "summary_ko": "Brown Brothers Harriman (BBH) 의 Elias Haddad는 호주 중앙은행 (Reserve Bank of Australia) 의 기대치에 큰 변화가 없기 때문에 AUD/USD가 0.7150을 향한 모멘텀과 함께 0.7100을 초과했다고 보고했다."
-    },
-    {
-      "title": "GBP: BoE repricing supports currency near term – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/gbp-boe-repricing-supports-currency-near-term-deutsche-bank-202603101248",
-      "summary": "Deutsche Bank strategists Shreyas Gopal and Sanjay Raja note that UK front-end rates have seen the largest hawkish repricing among G10 central banks, removing earlier dovish expectations for the Bank of England.",
-      "title_ko": "GBP: BOE 재가격 책정으로 단기 통화 지원 – Deutsche Bank",
-      "summary_ko": "도이체방크의 전략가인 Shreyas Gopal과 Sanjay Raja는 영국의 프론트엔드 환율이 G10 중앙은행 중 가장 큰 매파적 재가격화로 인해 잉글랜드 은행에 대한 이전의 비열한 기대가 사라졌다고 지적했다."
+      "title": "CHF: SNB watches currency as inflation stays near zero – Nomura",
+      "link": "https://www.fxstreet.com/news/chf-snb-watches-currency-as-inflation-stays-near-zero-nomura-202603101333",
+      "summary": "Nomura’s Global Markets Research Team argues that Switzerland’s low energy weight in CPI and hydropower reliance limit the inflation impact of higher Oil and gas prices.",
+      "title_ko": "CHF: SNB는 인플레이션이 0에 가깝게 유지됨에 따라 통화를 주시합니다 – Nomura",
+      "summary_ko": "Nomura의 글로벌 시장 조사팀은 스위스의 CPI 및 수력 발전 의존도에서 낮은 에너지 중량이 석유 및 가스 가격 상승의 인플레이션 영향을 제한한다고 주장합니다."
     }
   ]
 }

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import csv, io, json, urllib.request, datetime, re
+import csv, io, json, urllib.request, urllib.parse, datetime, re
 
 
 def fetch_csv(symbol):
@@ -19,22 +19,13 @@ def strip_html(text):
 def translate_ko(text):
     if not text:
         return ""
-    payload = json.dumps({
-        "q": text,
-        "source": "auto",
-        "target": "ko",
-        "format": "text"
-    }).encode("utf-8")
-    req = urllib.request.Request(
-        "https://libretranslate.de/translate",
-        data=payload,
-        headers={"Content-Type": "application/json"},
-        method="POST"
-    )
     try:
+        q = urllib.parse.quote(text)
+        url = f"https://api.mymemory.translated.net/get?q={q}&langpair=en|ko"
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
         with urllib.request.urlopen(req, timeout=20) as r:
             data = json.loads(r.read().decode("utf-8"))
-        return data.get("translatedText") or ""
+        return (data.get("responseData", {}) or {}).get("translatedText") or ""
     except Exception:
         return ""
 

@@ -1,25 +1,11 @@
 {
-  "updated_at_utc": "2026-03-11 21:36:22 UTC",
+  "updated_at_utc": "2026-03-11 22:29:39 UTC",
   "items": [
     {
-      "title": "Janus Henderson says Victory’s offer not superior to Trian, General Catalyst deal",
-      "link": "https://www.investing.com/news/stock-market-news/janus-henderson-says-victorys-offer-not-superior-to-trian-general-catalyst-deal-4555645",
+      "title": "Costco customers sue for share of refunds from Trump tariffs",
+      "link": "https://www.investing.com/news/stock-market-news/costco-customers-sue-for-share-of-refunds-from-trump-tariffs-4555731",
       "summary": "",
-      "title_ko": "야누스 헨더슨 (Janus Henderson) 은 승리의 제안이 일반 촉매 거래인 트라이언 (Trian) 보다 우월하지 않다고 말합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Maersk redistributes vessel fuel to ensure supplies, as Iran war disrupts flows",
-      "link": "https://www.investing.com/news/stock-market-news/maersk-redistributes-vessel-fuel-to-ensure-supplies-as-iran-war-disrupts-flows-4555634",
-      "summary": "",
-      "title_ko": "이란 전쟁이 흐름을 방해하기 때문에 머스크는 선박 연료를 재분배하여 공급을 보장합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Pentagon headhunting Goldman, JPMorgan bankers for ’Economic Defense Unit’, Semafor reports",
-      "link": "https://www.investing.com/news/stock-market-news/pentagon-headhunting-goldman-jpmorgan-bankers-for-economic-defense-unit-semafor-reports-4555623",
-      "summary": "",
-      "title_ko": "국방부 헤드헌팅 골드만, ’경제 방어 부대’ 의 JP모건 뱅커, 세마포 보고서",
+      "title_ko": "코스트코 고객, 트럼프 관세 환급 몫 소송",
       "summary_ko": ""
     },
     {
@@ -27,6 +13,20 @@
       "link": "https://www.investing.com/news/stock-market-news/shares-steady-oil-turbulence-deepens-as-middle-east-war-roils-markets-4553493",
       "summary": "",
       "title_ko": "주식 하락, 국채 수익률은 석유가 더 높게 밀리면서 뛰어오릅니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Metals Acquisition Corp. II prices $200 million IPO at $10 per unit",
+      "link": "https://www.investing.com/news/stock-market-news/metals-acquisition-corp-ii-prices-200-million-ipo-at-10-per-unit-432SI-4555798",
+      "summary": "",
+      "title_ko": "Metals Acquisition Corp. II, 단위당 10달러로 2억 달러 IPO 가격 책정",
+      "summary_ko": ""
+    },
+    {
+      "title": "Iran-linked hackers claim responsibility for attack on US medical device maker Stryker",
+      "link": "https://www.investing.com/news/stock-market-news/iranlinked-hackers-claim-responsibility-for-attack-on-us-medical-device-maker-stryker-4555780",
+      "summary": "",
+      "title_ko": "이란과 연계된 해커들은 미국 의료기기 제조업체 스트라이커에 대한 공격에 대한 책임을 주장합니다.",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
+      "title": "KRW: BoK defends won as oil shock bites – Commerzbank",
+      "link": "https://www.fxstreet.com/news/krw-bok-defends-won-as-oil-shock-bites-commerzbank-202603112132",
+      "summary": "Commerzbank’s Moses Lim notes that higher Oil prices and heavy reliance on Middle Eastern crude have kept KRW volatile, with USD/KRW trading between 1,420 and 1,500 and the won down year-to-date.",
+      "title_ko": "원화: BOK, 오일 쇼크로 승리를 방어하다 – Commerzbank",
+      "summary_ko": "Commerzbank의 Moses Lim은 더 높은 유가와 중동 원유에 대한 의존도가 원/원의 변동성을 유지하고 있으며, USD/KRW는 1,420에서 1,500 사이, 원화는 연말까지 거래되고 있다고 지적합니다."
+    },
+    {
       "title": "USD/CHF Price Forecast: Traders eye 0.7800 as RSI turns bullish",
       "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-traders-eye-07800-as-rsi-turns-bullish-202603111847",
       "summary": "USD/CHF posted back-to-back bullish days on Wednesday, rising by over 0.25% after the latest US inflation report and as high energy prices pushed US Treasury yields higher, consequently the US Dollar (USD). At the time o",
       "title_ko": "USD/CHF 가격 예측: RSI가 강세로 전환함에 따라 트레이더의 눈 0.7800",
       "summary_ko": "USD/CHF는 수요일에 연이은 강세를 보였으며, 최근 미국 인플레이션 보고서 이후 0.25% 이상 상승했으며, 높은 에너지 가격이 미국 국채를 밀어붙이면서 결과적으로 미국 달러 (USD) 가 상승했습니다. 당시 o"
-    },
-    {
-      "title": "AUD/NZD Price Analysis: Pair nears 13-year high amid Middle East conflict",
-      "link": "https://www.fxstreet.com/news/aud-nzd-price-analysis-pair-nears-13-year-high-amid-middle-east-conflict-202603112045",
-      "summary": "The AUD/NZD cross is trading near the 1.2100 price region on Wednesday, touching its highest level in 13 years amid market chaos due to the Middle East war between Israel, the US and Iran.",
-      "title_ko": "AUD/NZD 가격 분석: 중동 분쟁 속에서 13년 만에 최고치를 기록한 페어",
-      "summary_ko": "AUD/NZD 십자가는 수요일에 1.2100 가격 지역 근처에서 거래되고 있으며, 이스라엘, 미국, 이란 간의 중동 전쟁으로 인한 시장 혼란 속에서 13 년 만에 가장 높은 수준에 도달하고 있습니다."
     }
   ]
 }

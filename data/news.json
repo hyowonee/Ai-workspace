@@ -1,32 +1,46 @@
 {
-  "updated_at_utc": "2026-03-11 05:33:42 UTC",
+  "updated_at_utc": "2026-03-11 06:58:07 UTC",
   "items": [
     {
-      "title": "Citi’s Top Chip Stocks to Buy Now as AI Infrastructure Spend Holds Strong",
-      "link": "https://www.investing.com/news/stock-market-news/citis-top-chip-stocks-to-buy-now-as-ai-infrastructure-spend-holds-strong-93CH-4553565",
+      "title": "Porsche targets some improvement under new CEO after 2025 tailspin",
+      "link": "https://www.investing.com/news/stock-market-news/porsche-expects-margin-improvement-after-rough-2025-4553579",
       "summary": "",
-      "title_ko": "AI 인프라 지출이 강력함에 따라 지금 구매해야 하는 Citi의 최고 칩 주식",
+      "title_ko": "포르쉐는 2025년 테일스핀 이후 새로운 CEO의 일부 개선을 목표로 합니다.",
       "summary_ko": ""
     },
     {
-      "title": "JPMorgan marks down loan portfolios of private credit groups, FT reports",
-      "link": "https://www.investing.com/news/stock-market-news/jpmorgan-marks-down-loan-portfolios-of-private-credit-groups-ft-reports-4553564",
+      "title": "Shares steady, oil turbulence deepens over Middle East war fears",
+      "link": "https://www.investing.com/news/stock-market-news/shares-steady-oil-turbulence-deepens-as-middle-east-war-roils-markets-4553493",
       "summary": "",
-      "title_ko": "JPMorgan, 민간 신용 그룹의 대출 포트폴리오 감점, FT 보고서",
+      "title_ko": "중동 전쟁에 대한 두려움보다 석유 난기류가 더 깊어짐",
       "summary_ko": ""
     },
     {
-      "title": "OpenAI plans to launch its Sora video tool in ChatGPT, The Information reports",
-      "link": "https://www.investing.com/news/stock-market-news/openai-plans-to-launch-its-sora-video-tool-in-chatgpt-the-information-reports-4553561",
+      "title": "Morgan Stanley Picks Top European Telecom Stocks",
+      "link": "https://www.investing.com/news/stock-market-news/morgan-stanley-picks-top-european-telecom-stocks-93CH-4553578",
       "summary": "",
-      "title_ko": "OpenAI는 ChatGPT에서 SORA 비디오 도구를 출시할 계획입니다. 정보 보고서",
+      "title_ko": "Morgan Stanley가 선정한 유럽 최고의 텔레콤 주식",
       "summary_ko": ""
     },
     {
-      "title": "OpenAI plans to launch Sora video AI in ChatGPT- The Information",
-      "link": "https://www.investing.com/news/stock-market-news/openai-plans-to-launch-sora-video-ai-in-chatgpt-the-information-4553560",
+      "title": "Oracle sees AI boom through at least 2027, sending shares up 8%",
+      "link": "https://www.investing.com/news/stock-market-news/oracle-beats-quarterly-revenue-estimates-shares-rise-4552963",
       "summary": "",
-      "title_ko": "OpenAI는 ChatGPT- The Information에서 SORA 비디오 AI를 출시할 계획입니다.",
+      "title_ko": "오라클은 최소 2027년까지 AI 붐을 일으켜 주식을 8% 증가시킵니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "China’s February auto sales, exports fall at fastest pace in two years",
+      "link": "https://www.investing.com/news/economic-indicators/chinas-february-auto-sales-exports-fall-at-fastest-pace-in-two-years-4553581",
+      "summary": "",
+      "title_ko": "중국의 2월 자동차 판매, 수출이 2년 만에 가장 빠른 속도로 감소",
+      "summary_ko": ""
+    },
+    {
+      "title": "UK business optimism reaches 16-month high in February survey",
+      "link": "https://www.investing.com/news/economic-indicators/uk-business-optimism-reaches-16month-high-in-february-survey-4553573",
+      "summary": "",
+      "title_ko": "2월 설문조사에서 영국 비즈니스 낙관주의가 16개월 만에 최고치를 기록했습니다.",
       "summary_ko": ""
     },
     {
@@ -44,32 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Crude Stockpiles Unexpectedly Decline, Signaling Stronger Demand",
-      "link": "https://www.investing.com/news/economic-indicators/crude-stockpiles-unexpectedly-decline-signaling-stronger-demand-93CH-4553147",
-      "summary": "",
-      "title_ko": "원유 비축량이 예기치 않게 감소하여 수요 증가 신호",
-      "summary_ko": ""
-    },
-    {
-      "title": "French growth on track but Middle East conflict clouds outlook, central bank says",
-      "link": "https://www.investing.com/news/economic-indicators/french-growth-on-track-but-middle-east-conflict-clouds-outlook-central-bank-says-4552865",
-      "summary": "",
-      "title_ko": "중앙 은행은 프랑스의 성장이 궤도에 올랐지만 중동 분쟁은 전망을 흐리고 있다고 말합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "US CPI data expected to show steady inflation in February",
+      "title": "US CPI set to hold steady at 2.4% YoY in February",
       "link": "https://www.fxstreet.com/news/us-cpi-data-seen-steady-in-february-as-markets-assess-fed-policy-outlook-202603110400",
       "summary": "The US Bureau of Labor Statistics (BLS) will publish the February Consumer Price Index (CPI) data on Wednesday. The report is expected to show a stabilization in inflation, still above the Federal Reserve’s (Fed) 2% targ",
-      "title_ko": "미국 CPI 데이터는 2월에 꾸준한 인플레이션을 보일 것으로 예상됩니다.",
+      "title_ko": "미국 CPI는 2월에 전년 동기 대비 2.4% 로 안정적으로 유지될 것으로 예상됩니다.",
       "summary_ko": "미국 노동 통계국 (BLS) 은 2월 소비자 물가 지수 (CPI) 데이터를 수요일에 발표할 예정입니다. 이 보고서는 여전히 연방준비제도 (Fed) 의 2% targ를 상회하는 인플레이션의 안정화를 보여줄 것으로 예상됩니다."
     },
     {
-      "title": "EUR/USD Price Forecast: Eyes 1.1650 barrier near nine-day EMA",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-eyes-11650-barrier-near-nine-day-ema-202603110450",
-      "summary": "EUR/USD pares its recent losses registered in the previous session, trading around 1.1630 during the Asian hours on Wednesday. Daily chart technical analysis indicates a bearish bias as the pair continues to trade within",
-      "title_ko": "EUR/USD 가격 예측: EYES 1.1650 barrier near nine-day EMA",
-      "summary_ko": "EUR/USD는 수요일 아시아 시간 동안 약 1.1630에 거래되는 이전 세션에 등록된 최근 손실을 비교합니다. 일일 차트 기술적 분석은 해당 쌍의 거래가 계속됨에 따라 약세 편향을 나타냅니다."
+      "title": "Gold bulls seem hesitant despite Middle East tensions and softer USD; US CPI awaited",
+      "link": "https://www.fxstreet.com/news/gold-holds-above-5-200-as-middle-east-tensions-and-weak-usd-support-ahead-of-us-cpi-202603110422",
+      "summary": "Gold (XAU/USD) struggles to capitalize on its modest intraday gains and remains below a one-week top set the previous day, heading into the European session on Wednesday.",
+      "title_ko": "금소는 중동의 긴장과 더 부드러운 미국 달러에도 불구하고 주저하는 것처럼 보였습니다. 미국 CPI가 기다리고 있었습니다.",
+      "summary_ko": "금 (XAU/USD) 은 소폭의 일중 이득을 활용하기 위해 고군분투하며 전날 유럽 세션으로 향하는 1주일 이하의 상위권에 머물러 있습니다."
     }
   ]
 }

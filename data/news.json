@@ -1,32 +1,32 @@
 {
-  "updated_at_utc": "2026-03-11 18:11:37 UTC",
+  "updated_at_utc": "2026-03-11 19:25:16 UTC",
   "items": [
+    {
+      "title": "U.S. stocks slip as Iran conflict rages on with no end in sight",
+      "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-tick-up-ahead-of-cpi-data-traders-assess-iran-war-outlook-4553398",
+      "summary": "",
+      "title_ko": "이란의 갈등이 끝도 없이 불거지면서 미국 증시가 미끄러지고 있다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "McDonald’s to launch new $3 value items in US starting April, WSJ reports",
+      "link": "https://www.investing.com/news/stock-market-news/mcdonalds-to-launch-3-value-meals-in-us-starting-april-wsj-reports-4555218",
+      "summary": "",
+      "title_ko": "WSJ는 맥도날드가 4월부터 미국에서 새로운 $ 3 상당의 아이템을 출시할 것이라고 보도했습니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Chubb to serve as lead US insurer for Gulf shipping amid Iran war",
+      "link": "https://www.investing.com/news/stock-market-news/chubb-to-serve-as-lead-us-insurer-for-gulf-shipping-amid-iran-war-4555308",
+      "summary": "",
+      "title_ko": "Chubb, 이란 전쟁 중 걸프 해운의 미국 선두 보험사 역할 수행",
+      "summary_ko": ""
+    },
     {
       "title": "Oracle, Micron among market cap stock movers on Wednesday",
       "link": "https://www.investing.com/news/stock-market-news/oracle-micron-among-market-cap-stock-movers-on-wednesday-93CH-4555290",
       "summary": "",
       "title_ko": "수요일 시가 총액 주식 이동자 중 오라클, 마이크론",
-      "summary_ko": ""
-    },
-    {
-      "title": "Building permits and jobless claims headline Thursday’s data slate",
-      "link": "https://www.investing.com/news/stock-market-news/building-permits-and-jobless-claims-headline-thursdays-data-slate-93CH-4555287",
-      "summary": "",
-      "title_ko": "건축 허가 및 실업 보험금 청구 헤드라인 목요일 데이터 슬레이트",
-      "summary_ko": ""
-    },
-    {
-      "title": "Papa John’s reviews fresh $1.5 billion take-private bid from Irth Capital, WSJ reports",
-      "link": "https://www.investing.com/news/stock-market-news/papa-johns-reviews-fresh-15-billion-takeprivate-bid-from-irth-capital-wsj-reports-4555282",
-      "summary": "",
-      "title_ko": "WSJ에 따르면, 파파 존은 어스 캐피털 (Irth Capital) 의 새로운 $ 15억 규모의 비공개 입찰을 검토합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Stocks dip, Treasury yields jump as oil pushes higher",
-      "link": "https://www.investing.com/news/stock-market-news/shares-steady-oil-turbulence-deepens-as-middle-east-war-roils-markets-4553493",
-      "summary": "",
-      "title_ko": "주식 하락, 국채 수익률은 석유가 더 높게 밀리면서 뛰어오릅니다.",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Netherlands: Inflation sensitivity to Iran energy shock – ABN AMRO",
-      "link": "https://www.fxstreet.com/news/netherlands-inflation-sensitivity-to-iran-energy-shock-abn-amro-202603111752",
-      "summary": "ABN AMRO economists see the Dutch economy broadly mirroring Eurozone dynamics under Iran conflict scenarios, with transmission mainly via higher inflation rather than deep growth damage.",
-      "title_ko": "네덜란드: 이란 에너지 충격에 대한 인플레이션 민감도 – ABN AMRO",
-      "summary_ko": "ABN AMRO 경제학자들은 네덜란드 경제가 이란의 갈등 시나리오 하에서 유로존 역학을 광범위하게 반영하고 있으며, 깊은 성장 피해보다는 높은 인플레이션을 통해 전파되고 있다고 보고 있다."
+      "title": "Gold slips as US Dollar, yields rise on Oil-driven inflation fears",
+      "link": "https://www.fxstreet.com/news/gold-slips-as-us-dollar-yields-rise-on-oil-driven-inflation-fears-202603111759",
+      "summary": "Gold (XAU/USD) prices edge lower on Wednesday amid broad US Dollar (USD) strength following the release of US inflation data, which maintained the status quo.",
+      "title_ko": "금은 미국 달러로 미끄러지고, 수율은 석유 중심의 인플레이션 공포에서 상승합니다.",
+      "summary_ko": "금 (XAU/USD) 가격은 미국 인플레이션 데이터 발표 이후 광범위한 미국 달러 (USD) 강세 속에서 수요일에 하락하여 현 상태를 유지했습니다."
     },
     {
-      "title": "USD/CAD Price Analysis: US Dollar Rebounds as IEA Oil release weighs on CAD",
-      "link": "https://www.fxstreet.com/news/usd-cad-price-analysis-us-dollar-rebounds-as-iea-oil-release-weighs-on-cad-202603111746",
-      "summary": "The USD/CAD pair is trading near the 1.3580 level, regaining its footing in Wednesday's American session after the International Energy Agency (IEA) agreed to release 400 million barrels of oil to address the supply disr",
-      "title_ko": "USD/CAD 가격 분석: IEA 오일 출시가 CAD에 무게를 두기 때문에 미국 달러 리바운드",
-      "summary_ko": "USD/CAD 쌍은 1.3580 수준 근처에서 거래되고 있으며, 국제 에너지기구 (IEA) 가 공급 문제를 해결하기 위해 4억 배럴의 석유를 방출하기로 합의한 후 수요일 미국 세션에서 그 기반을 회복했습니다."
+      "title": "EUR/USD Price Forecast: Sellers target 1.1500 as bearish momentum builds",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-sellers-target-11500-as-bearish-momentum-builds-202603111757",
+      "summary": "The Euro (EUR) edges lower against the US Dollar (USD) on Wednesday as the Greenback remains well supported amid cautious market sentiment driven by the ongoing US-Iran war.",
+      "title_ko": "EUR/USD 가격 예측: 약세 모멘텀이 형성됨에 따라 판매자 목표 1.1500",
+      "summary_ko": "수요일 미국-이란 전쟁으로 인한 신중한 시장 정서 속에서 그린백이 여전히 잘 유지되고 있기 때문에 유로화 (EUR) 는 미국 달러 (USD) 대비 낮아졌습니다."
     }
   ]
 }

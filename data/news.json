@@ -1,11 +1,18 @@
 {
-  "updated_at_utc": "2026-03-11 02:12:05 UTC",
+  "updated_at_utc": "2026-03-11 04:21:12 UTC",
   "items": [
     {
-      "title": "Starboard nominates two to CarMax board, source says",
-      "link": "https://www.investing.com/news/stock-market-news/starboard-nominates-two-to-carmax-board-source-says-4553404",
+      "title": "Heinz Wattie’s plans to shut three NZ facilities, cut about 350 jobs",
+      "link": "https://www.investing.com/news/stock-market-news/heinz-watties-plans-to-shut-three-nz-facilities-cut-about-350-jobs-4553553",
       "summary": "",
-      "title_ko": "우현이 CarMax 보드에 두 명을 지명했다고 소식통이 전합니다.",
+      "title_ko": "Heinz Wattie는 3개의 뉴질랜드 시설을 폐쇄하고 약 350개의 일자리를 줄일 계획입니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Anduril to acquire space surveillance firm ExoAnalytic eyeing more Golden Dome capabilities",
+      "link": "https://www.investing.com/news/stock-market-news/anduril-to-acquire-space-surveillance-firm-exoanalytic-eyeing-more-golden-dome-capabilities-4553551",
+      "summary": "",
+      "title_ko": "Anduril, 우주 감시 회사 ExoAnalytic 인수 더 많은 Golden Dome 기능 주목",
       "summary_ko": ""
     },
     {
@@ -16,17 +23,10 @@
       "summary_ko": ""
     },
     {
-      "title": "SoftBank’s PayPay IPO seen pricing near low end, Reuters reports",
-      "link": "https://www.investing.com/news/stock-market-news/softbanks-paypay-ipo-seen-pricing-near-low-end-reuters-reports-4553436",
+      "title": "Asia stocks extend gains on lower oil prices; Iran war concerns persist",
+      "link": "https://www.investing.com/news/stock-market-news/asia-stocks-extend-gains-on-lower-oil-prices-iran-war-concerns-persist-4553533",
       "summary": "",
-      "title_ko": "로이터는 SoftBank의 PayPay IPO가 로우엔드 근처에서 가격을 보았다고 보도했습니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Starboard builds $350 mln stake in CarMax, nominates board members- Bloomberg",
-      "link": "https://www.investing.com/news/stock-market-news/starboard-builds-350-mln-stake-in-carmax-nominates-board-members-bloomberg-4553420",
-      "summary": "",
-      "title_ko": "우현은 CarMax에 3억 5천만 $ 의 지분을 건설하고 이사회 구성원을 지명합니다. - Bloomberg",
+      "title_ko": "아시아 증시는 유가 하락으로 이익 확대, 이란 전쟁 우려 지속",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Iran’s Revolutionary Guard announces targeting of enemy tech infrastructure in region",
-      "link": "https://www.fxstreet.com/news/irans-revolutionary-guard-announces-targeting-of-enemy-tech-infrastructure-in-region-202603110157",
-      "summary": "The Islamic Revolutionary Guard Corps (IRGC) on Wednesday escalated its operations against the United States (US) and Israel. IRGC announced the start of targeting the enemy's technological infrastructure in the region.",
-      "title_ko": "이란의 혁명 경비대가 지역 내 적의 기술 인프라를 겨냥한다고 발표했습니다.",
-      "summary_ko": "수요일 이슬람 혁명수비대 (IRGC) 는 미국과 이스라엘에 대한 작전을 확대했다. IRGC는 이 지역에서 적의 기술 인프라를 목표로 삼기 시작했다고 발표했습니다."
+      "title": "US CPI data seen steady in February as markets assess Fed policy outlook",
+      "link": "https://www.fxstreet.com/news/us-cpi-data-seen-steady-in-february-as-markets-assess-fed-policy-outlook-202603110400",
+      "summary": "The US Bureau of Labor Statistics (BLS) will publish the February Consumer Price Index (CPI) data on Wednesday. The report is expected to show a stabilization in inflation, still above the Federal Reserve’s (Fed) 2% targ",
+      "title_ko": "미국 CPI 데이터는 2월에 시장이 연준 정책 전망을 평가할 때 꾸준히 확인되었습니다.",
+      "summary_ko": "미국 노동 통계국 (BLS) 은 2월 소비자 물가 지수 (CPI) 데이터를 수요일에 발표할 예정입니다. 이 보고서는 여전히 연방준비제도 (Fed) 의 2% targ를 상회하는 인플레이션의 안정화를 보여줄 것으로 예상됩니다."
     },
     {
-      "title": "Silver Price Forecast: XAG/USD consolidates below $89.00; bullish bias remains",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-consolidates-below-8900-bullish-bias-remains-202603110154",
-      "summary": "Silver (XAG/USD) trades with a positive bias for the fourth straight day on Wednesday, though it lacks bullish conviction and remains below a one-week high set the previous day. The white metal currently trades just belo",
-      "title_ko": "실버 가격 예측: XAG/USD는 $ 89.00 미만으로 통합됩니다. 강세 편향은 여전히 남아 있습니다.",
-      "summary_ko": "실버 (XAG/USD) 는 수요일에 4 일 연속으로 긍정적 인 편견을 가지고 거래하지만, 강도 높은 확신이 부족하고 전날 1 주일 최고치 이하로 유지됩니다. 화이트 메탈은 현재 벨로만 거래합니다"
+      "title": "NZD/USD remains below 0.5950 due to increased risk aversion",
+      "link": "https://www.fxstreet.com/news/nzd-usd-remains-below-05950-due-to-increased-risk-aversion-202603110244",
+      "summary": "NZD/USD remains in the negative territory after giving up daily gains, trading around 0.5930 during the Asian hours on Wednesday. However, the pair advanced as the New Zealand Dollar (NZD) strengthened amid rising Reserv",
+      "title_ko": "위험 회피 증가로 인해 NZD/USD가 0.5950 이하로 유지됨",
+      "summary_ko": "NZD/USD는 수요일 아시아 시간 동안 약 0.5930에 거래되는 일일 이득을 포기한 후 마이너스 영역에 남아 있습니다. 그러나 예비군 증가 속에서 뉴질랜드 달러 (NZD) 가 강세를 보임에 따라 쌍은 진전했다."
     }
   ]
 }

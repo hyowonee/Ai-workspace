@@ -1,6 +1,20 @@
 {
-  "updated_at_utc": "2026-03-11 22:29:39 UTC",
+  "updated_at_utc": "2026-03-11 22:53:30 UTC",
   "items": [
+    {
+      "title": "Factbox-Tech companies tap debt markets to fund AI and cloud expansion",
+      "link": "https://www.investing.com/news/stock-market-news/factboxtech-companies-tap-debt-markets-to-fund-ai-and-cloud-expansion-4553319",
+      "summary": "",
+      "title_ko": "Factbox-Tech 회사는 부채 시장을 활용하여 AI 및 클라우드 확장에 자금을 지원합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Pentagon headhunting Goldman, JPMorgan bankers for ’Economic Defense Unit’, Semafor reports",
+      "link": "https://www.investing.com/news/stock-market-news/pentagon-headhunting-goldman-jpmorgan-bankers-for-economic-defense-unit-semafor-reports-4555623",
+      "summary": "",
+      "title_ko": "국방부 헤드헌팅 골드만, ’경제 방어 부대’ 의 JP모건 뱅커, 세마포 보고서",
+      "summary_ko": ""
+    },
     {
       "title": "Costco customers sue for share of refunds from Trump tariffs",
       "link": "https://www.investing.com/news/stock-market-news/costco-customers-sue-for-share-of-refunds-from-trump-tariffs-4555731",
@@ -13,20 +27,6 @@
       "link": "https://www.investing.com/news/stock-market-news/shares-steady-oil-turbulence-deepens-as-middle-east-war-roils-markets-4553493",
       "summary": "",
       "title_ko": "주식 하락, 국채 수익률은 석유가 더 높게 밀리면서 뛰어오릅니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Metals Acquisition Corp. II prices $200 million IPO at $10 per unit",
-      "link": "https://www.investing.com/news/stock-market-news/metals-acquisition-corp-ii-prices-200-million-ipo-at-10-per-unit-432SI-4555798",
-      "summary": "",
-      "title_ko": "Metals Acquisition Corp. II, 단위당 10달러로 2억 달러 IPO 가격 책정",
-      "summary_ko": ""
-    },
-    {
-      "title": "Iran-linked hackers claim responsibility for attack on US medical device maker Stryker",
-      "link": "https://www.investing.com/news/stock-market-news/iranlinked-hackers-claim-responsibility-for-attack-on-us-medical-device-maker-stryker-4555780",
-      "summary": "",
-      "title_ko": "이란과 연계된 해커들은 미국 의료기기 제조업체 스트라이커에 대한 공격에 대한 책임을 주장합니다.",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "KRW: BoK defends won as oil shock bites – Commerzbank",
-      "link": "https://www.fxstreet.com/news/krw-bok-defends-won-as-oil-shock-bites-commerzbank-202603112132",
-      "summary": "Commerzbank’s Moses Lim notes that higher Oil prices and heavy reliance on Middle Eastern crude have kept KRW volatile, with USD/KRW trading between 1,420 and 1,500 and the won down year-to-date.",
-      "title_ko": "원화: BOK, 오일 쇼크로 승리를 방어하다 – Commerzbank",
-      "summary_ko": "Commerzbank의 Moses Lim은 더 높은 유가와 중동 원유에 대한 의존도가 원/원의 변동성을 유지하고 있으며, USD/KRW는 1,420에서 1,500 사이, 원화는 연말까지 거래되고 있다고 지적합니다."
+      "title": "Rare earths: Strategic leverage in US–China tensions – Rabobank",
+      "link": "https://www.fxstreet.com/news/rare-earths-strategic-leverage-in-us-china-tensions-rabobank-202603112237",
+      "summary": "RaboResearch highlights that US rare earths inventories may cover only about two months after depletion from the Iran conflict, potentially giving China significant leverage.",
+      "title_ko": "희토류: 미 · 중 긴장의 전략적 지렛대 – Rabobank",
+      "summary_ko": "라보리서치 (RaboResearch) 는 미국 희토류 인벤토리가 이란 분쟁에서 고갈된 후 약 2개월 만에 중국에 상당한 영향력을 미칠 수 있다고 강조한다."
     },
     {
-      "title": "USD/CHF Price Forecast: Traders eye 0.7800 as RSI turns bullish",
-      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-traders-eye-07800-as-rsi-turns-bullish-202603111847",
-      "summary": "USD/CHF posted back-to-back bullish days on Wednesday, rising by over 0.25% after the latest US inflation report and as high energy prices pushed US Treasury yields higher, consequently the US Dollar (USD). At the time o",
-      "title_ko": "USD/CHF 가격 예측: RSI가 강세로 전환함에 따라 트레이더의 눈 0.7800",
-      "summary_ko": "USD/CHF는 수요일에 연이은 강세를 보였으며, 최근 미국 인플레이션 보고서 이후 0.25% 이상 상승했으며, 높은 에너지 가격이 미국 국채를 밀어붙이면서 결과적으로 미국 달러 (USD) 가 상승했습니다. 당시 o"
+      "title": "EUR/USD Price Forecast: Drops below 200-day SMA, targets 1.1500 level",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-drops-below-200-day-sma-targets-11500-level-202603112229",
+      "summary": "The EUR/USD tumbles for the second straight day after clashing with the 200-day Simple Moving Average (SMA) at 1.1672 on Tuesday, due to overall US Dollar strength.",
+      "title_ko": "EUR/USD 가격 예측: 200일 SMA 아래로 떨어짐, 목표 1.1500 수준",
+      "summary_ko": "EUR/USD는 전반적인 미국 달러 강세로 인해 화요일에 1.1672에서 200 일 단순 이동 평균 (SMA) 과 충돌한 후 2 일 연속 하락했습니다."
     }
   ]
 }

@@ -1,11 +1,18 @@
 {
-  "updated_at_utc": "2026-03-12 07:51:56 UTC",
+  "updated_at_utc": "2026-03-12 08:49:58 UTC",
   "items": [
     {
-      "title": "Halma Reiterates FY26 Guidance, Reports Strong M&amp;A Activity",
-      "link": "https://www.investing.com/news/stock-market-news/halma-reiterates-fy26-guidance-reports-strong-ma-activity-93CH-4556151",
+      "title": "Indonesia stocks lower at close of trade; IDX Composite Index down 0.09%",
+      "link": "https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-009-4556203",
       "summary": "",
-      "title_ko": "Halma는 FY26 지침을 반복하고 강력한 M&amp;A 활동을 보고합니다.",
+      "title_ko": "인도네시아 주식 거래 마감 시점 낮아짐, IDX 종합 지수 0.09% 하락",
+      "summary_ko": ""
+    },
+    {
+      "title": "European shares decline as oil surge fuels inflation worries",
+      "link": "https://www.investing.com/news/stock-market-news/european-shares-decline-as-oil-surge-fuels-inflation-worries-4556202",
+      "summary": "",
+      "title_ko": "석유 급증으로 인플레이션 우려가 커지면서 유럽 증시가 하락",
       "summary_ko": ""
     },
     {
@@ -16,17 +23,10 @@
       "summary_ko": ""
     },
     {
-      "title": "How many ships have been attacked in the Gulf since start of Iran war?",
-      "link": "https://www.investing.com/news/stock-market-news/factboxhow-many-ships-have-been-attacked-in-the-gulf-since-start-of-iran-war-4554909",
+      "title": "Tesla set to start supplying UK homes with electricity",
+      "link": "https://www.investing.com/news/stock-market-news/teslas-energy-business-wins-approval-to-supply-electricity-in-uk-4556141",
       "summary": "",
-      "title_ko": "이란 전쟁이 시작된 이후 걸프만에서 몇 척의 선박이 공격을 받았습니까?",
-      "summary_ko": ""
-    },
-    {
-      "title": "Interroll Holding Confirms Preliminary Results, Offers Optimistic 2026 Outlook",
-      "link": "https://www.investing.com/news/stock-market-news/interroll-holding-confirms-preliminary-results-offers-optimistic-2026-outlook-93CH-4556145",
-      "summary": "",
-      "title_ko": "Interroll Holding은 예비 결과를 확인하고 Optimistic 2026 Outlook을 제공합니다.",
+      "title_ko": "테슬라, 영국 가정에 전기 공급 시작",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Oil: Reserve release impact weighed against Hormuz risk – MUFG",
-      "link": "https://www.fxstreet.com/news/oil-reserve-release-impact-weighed-against-hormuz-risk-mufg-202603120642",
-      "summary": "MUFG’s Senior Currency Analyst Lloyd Chan highlights that Brent Oil has risen above US$90/bbl as supply risks from Iraq and the Strait of Hormuz overshadow the International Energy Agency’s record 400 million barrel emer",
-      "title_ko": "오일: Hormuz 위험에 대한 예비 방출 영향 – MUFG",
-      "summary_ko": "MUFG의 수석 통화 분석가 로이드 챈 (Lloyd Chan) 은 브렌트유가 이라크와 호르무즈 해협의 공급 위험으로 인해 US $ 90/bbl 이상 상승한 것이 국제 에너지 기구의 기록적인 4억 배럴의 비상 사태를 덮고 있다고 강조합니다."
+      "title": "USD/JPY: Hawkish BOJ risks at multi‑decade highs – DBS",
+      "link": "https://www.fxstreet.com/news/usd-jpy-hawkish-boj-risks-at-multi-decade-highs-dbs-202603120750",
+      "summary": "DBS Group Research’s Philip Wee warns that caution is warranted on USD/JPY as the pair trades near the 159–160 resistance zone after Operation Epic Fury. He expects the Bank of Japan to deliver a hawkish hold on March 19",
+      "title_ko": "USD/JPY: 수십 년 만에 최고치를 기록한 호키시 BOJ 위험 – DBS",
+      "summary_ko": "DBS Group Research의 Philip Wee는 Epic Fury 작전 이후 159–160 저항 지역 근처에서 거래되기 때문에 USD/JPY에 대한 주의가 필요하다고 경고합니다. 그는 일본 은행이 3 월 19 일에 매파 보류를 제공 할 것으로 기대합니다."
     },
     {
-      "title": "USD/INR steadies as Indian Rupee pressure offsets improved sentiment",
-      "link": "https://www.fxstreet.com/news/indian-rupee-steadies-amid-lower-oil-prices-202603110431",
-      "summary": "USD/INR moves little as the Indian Rupee (INR) pressure from hedging demand and foreign outflows offsets improved sentiment, boosted by easing oil prices. Oil prices decline after reports that the International Energy Ag",
-      "title_ko": "인도 루피 압력이 감정 개선을 상쇄함에 따라 USD/INR 안정화",
-      "summary_ko": "USD/INR은 인도 루피 (INR) 가 위험회피 수요로부터 압력을 받고 해외 유출이 유가를 완화함으로써 감정 개선을 상쇄함에 따라 거의 움직이지 않습니다. 국제 에너지 협회 (International Energy Ag) 가 보고한 후 유가는 하락합니다."
+      "title": "AUD: RBA tightening path supports currency – TD Securities",
+      "link": "https://www.fxstreet.com/news/aud-rba-tightening-path-supports-currency-td-securities-202603120741",
+      "summary": "TD Securities’ Prashant Newnaha expects the Reserve Bank of Australia to raise rates by 25 bps in March and again in May, fully reversing last year’s cuts and taking the cash rate back to 4.35%.",
+      "title_ko": "AUD: RBA 타이트닝 경로는 통화를 지원합니다 – TD 증권",
+      "summary_ko": "TD증권의 프라샨트 뉴나하 (Prashant Newnaha) 는 호주준비은행이 3월에 25bps, 5월에 다시 금리를 인상하여 작년 인하를 완전히 뒤집고 현금 금리를 4.35% 로 되돌릴 것으로 예상하고 있다."
     }
   ]
 }

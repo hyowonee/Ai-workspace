@@ -1,11 +1,18 @@
 {
-  "updated_at_utc": "2026-03-12 02:25:14 UTC",
+  "updated_at_utc": "2026-03-12 04:25:51 UTC",
   "items": [
     {
       "title": "Nissan, Uber, Wayve unveil robotaxi tie-up",
       "link": "https://www.investing.com/news/stock-market-news/nissan-uber-wayve-announce-robotaxi-tieup-4555988",
       "summary": "",
       "title_ko": "닛산, 우버, 웨이브, 로보택시 타이업 공개",
+      "summary_ko": ""
+    },
+    {
+      "title": "Logistics firm GLP seeks $20 billion valuation in planned Hong Kong IPO, sources say",
+      "link": "https://www.investing.com/news/stock-market-news/logistics-firm-glp-seeks-20-billion-valuation-in-planned-hong-kong-ipo-sources-say-4556047",
+      "summary": "",
+      "title_ko": "소식통에 따르면 물류 회사 GLP는 계획된 홍콩 IPO에서 200억 달러 ($) 의 가치를 추구합니다.",
       "summary_ko": ""
     },
     {
@@ -16,17 +23,10 @@
       "summary_ko": ""
     },
     {
-      "title": "Uber announces Japan robotaxi tieup with Wayve, Nissan",
-      "link": "https://www.investing.com/news/stock-market-news/uber-announces-japan-robotaxi-tieup-with-wayve-nissan-4555986",
+      "title": "Nintendo shares extend gains as Pokemon Pokopia sells over 2 mln copies",
+      "link": "https://www.investing.com/news/stock-market-news/nintendo-shares-extend-gains-as-pokemon-pokopia-sells-over-2-mln-copies-4556045",
       "summary": "",
-      "title_ko": "Uber, 닛산 Wayve와 일본 로봇 택시 제휴 발표",
-      "summary_ko": ""
-    },
-    {
-      "title": "Shares skid, oil surges again as Iran attacks Gulf shipping",
-      "link": "https://www.investing.com/news/stock-market-news/shares-skid-oil-surges-again-as-iran-attacks-gulf-shipping-4555974",
-      "summary": "",
-      "title_ko": "이란이 걸프 해운을 공격함에 따라 스키드, 석유가 다시 급증",
+      "title_ko": "Pokemon Pokopia가 2백만 부 이상 판매됨에 따라 Nintendo 주식은 이득을 확대합니다",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "BoJ’s Ueda: Will conduct appropriate monetary policy, assessing forex impact on forecasts",
-      "link": "https://www.fxstreet.com/news/bojs-ueda-will-conduct-appropriate-monetary-policy-assessing-forex-impact-on-forecasts-202603120204",
-      "summary": "Bank of Japan (BoJ) Governor Kazuo Ueda said on Thursday that the central bankn “will conduct appropriate monetary policy while assessing how forex affect the likelihood of our forecasts.”",
-      "title_ko": "BOJ의 UEDA: 적절한 통화 정책을 수행하여 예측에 대한 외환 영향을 평가합니다.",
-      "summary_ko": "일본은행 (BOJ) 우에다 가즈오 총재는 목요일 중앙은행이 \"외환이 예측 가능성에 어떤 영향을 미치는지 평가하면서 적절한 통화 정책을 실시할 것\" 이라고 말했다."
+      "title": "EUR/USD slips below 1.1550 as US Dollar gains on heightened inflationary risks",
+      "link": "https://www.fxstreet.com/news/eur-usd-slips-below-11550-as-us-dollar-gains-on-heightened-inflationary-risks-202603120259",
+      "summary": "EUR/USD extends its losses for the third successive session, trading around 1.1540 during the Asian hours on Thursday.",
+      "title_ko": "상승한 인플레이션 위험에 대한 미국 달러의 상승으로 EUR/USD는 1.1550 아래로 전락합니다.",
+      "summary_ko": "EUR/USD는 목요일 아시아 시간 동안 약 1.1540에 거래되는 세 번째 연속 세션에 대한 손실을 연장합니다."
     },
     {
-      "title": "Canadian Dollar gains as Oil prices rise on Strait of Hormuz closure",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-gains-as-oil-prices-rise-on-strait-of-hormuz-closure-202603120158",
-      "summary": "USD/CAD loses its recent gains registered in the previous session, trading around 1.3580 during the Asian hours on Thursday.",
-      "title_ko": "호르무즈 해협 폐쇄로 유가가 상승함에 따라 캐나다 달러 상승",
-      "summary_ko": "USD/CAD는 이전 세션에 등록된 최근 이익을 잃고, 목요일 아시아 시간 동안 약 1.3580에 거래됩니다."
+      "title": "Silver Price Forecast: XAG/USD seems vulnerable below 100-hour EMA hurdle near $86.15",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-falls-as-us-dollar-gains-geopolitical-risks-persist-202603111708",
+      "summary": "Silver (XAG/USD) rebounds following the Asian session slide to sub-$84.00 levels, though it lacks follow-through buying and remains below the 100-hour Exponential Moving Average (EMA).",
+      "title_ko": "실버 가격 예측: XAG/USD는 $ 86.15 근처에서 100 시간 EMA 장애물보다 취약한 것으로 보입니다.",
+      "summary_ko": "실버 (XAG/USD) 는 아시아 세션 슬라이드에 따라 $ 84.00 이하 수준으로 반등하지만 후속 구매가 부족하고 100시간 지수 이동 평균 (EMA) 이하로 유지됩니다."
     }
   ]
 }

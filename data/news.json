@@ -1,32 +1,46 @@
 {
-  "updated_at_utc": "2026-03-12 14:27:11 UTC",
+  "updated_at_utc": "2026-03-12 15:32:10 UTC",
   "items": [
     {
-      "title": "JPMorgan downgrades MercadoLibre as competition and investment weigh on margins",
-      "link": "https://www.investing.com/news/stock-market-news/jpmorgan-downgrades-mercadolibre-as-competition-and-investment-weigh-on-margins-4557490",
+      "title": "Rivian to begin R2 deliveries with $58,000 launch variant this spring",
+      "link": "https://www.investing.com/news/stock-market-news/rivian-to-begin-r2-deliveries-with-58000-launch-variant-this-spring-4557638",
       "summary": "",
-      "title_ko": "JPMorgan은 경쟁과 투자가 마진에 비중을 두기 때문에 MercadoLibre를 하향 조정합니다.",
+      "title_ko": "Rivian, 올 봄 출시 버전 $ 58,000로 R2 배달 시작",
       "summary_ko": ""
     },
     {
-      "title": "Citi flags upside catalysts for Delta and SkyWest over the next 30 days",
-      "link": "https://www.investing.com/news/stock-market-news/citi-flags-upside-catalysts-for-delta-and-skywest-over-the-next-30-days-4557476",
+      "title": "US Fed’s Bowman unveils relaxed bank capital rules",
+      "link": "https://www.investing.com/news/stock-market-news/us-feds-bowman-unveils-relaxed-bank-capital-rules-4557618",
       "summary": "",
-      "title_ko": "Citi는 향후 30일 동안 델타와 스카이웨스트를 위한 촉매제를 거꾸로 표시합니다",
+      "title_ko": "미국 연방준비제도 (Fed) 의 바우만 (Bowman) 이 완화된 은행 자본 규칙을 공개",
       "summary_ko": ""
     },
     {
-      "title": "Palantir continues using Claude AI amid Pentagon clash with Anthropic",
-      "link": "https://www.investing.com/news/stock-market-news/palantir-continues-using-claude-ai-amid-pentagon-clash-with-anthropic-93CH-4557437",
+      "title": "Barclays prefers U.S. office sector over Europe on valuations",
+      "link": "https://www.investing.com/news/stock-market-news/barclays-prefers-us-office-sector-over-europe-on-valuations-4557609",
       "summary": "",
-      "title_ko": "Palantir는 Anthropic과의 펜타곤 충돌 속에서 Claude AI를 계속 사용합니다.",
+      "title_ko": "Barclays는 유럽보다 미국 사무소 부문을 선호합니다",
       "summary_ko": ""
     },
     {
-      "title": "Fertilizer stocks surge as Middle East conflict disrupts global supply",
-      "link": "https://www.investing.com/news/stock-market-news/fertilizer-stocks-surge-as-middle-east-conflict-disrupts-global-supply-4557418",
+      "title": "Bank of America changes forecast, expects Bank of England to hold rates",
+      "link": "https://www.investing.com/news/stock-market-news/bank-of-america-changes-forecast-expects-bank-of-england-to-hold-rates-93CH-4557604",
       "summary": "",
-      "title_ko": "중동 분쟁으로 전 세계 공급이 중단되면서 비료 재고가 급증하고 있습니다.",
+      "title_ko": "뱅크오브아메리카의 변화 예측, 뱅크오브잉글랜드가 금리를 보유할",
+      "summary_ko": ""
+    },
+    {
+      "title": "US weekly jobless claims point to stable labor market; Iran war poses a risk",
+      "link": "https://www.investing.com/news/economic-indicators/us-weekly-jobless-claims-edge-down-4557038",
+      "summary": "",
+      "title_ko": "미국 주간 실업 보험 청구는 안정적인 노동 시장을 가리키며, 이란 전쟁은 위험을 초래합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Natural gas storage sees smaller drawdown than forecasted",
+      "link": "https://www.investing.com/news/economic-indicators/natural-gas-storage-sees-smaller-drawdown-than-forecasted-93CH-4557524",
+      "summary": "",
+      "title_ko": "천연가스 저장고는 예상보다 적은 유입량을 보입니다.",
       "summary_ko": ""
     },
     {
@@ -44,32 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "US weekly jobless claims edge down",
-      "link": "https://www.investing.com/news/economic-indicators/us-weekly-jobless-claims-edge-down-4557038",
-      "summary": "",
-      "title_ko": "미국 주간 실업 보험 청구 엣지 다운",
-      "summary_ko": ""
+      "title": "Oil: Conflict scenarios drive wide price range – TD Securities",
+      "link": "https://www.fxstreet.com/news/oil-conflict-scenarios-drive-wide-price-range-td-securities-202603121514",
+      "summary": "TD Securities strategist Pooja Kumra highlights that markets are focused on the Strait of Hormuz and Iran conflict scenarios, with prediction markets assigning only modest odds to a ceasefire by April 2026.",
+      "title_ko": "석유: 갈등 시나리오가 광범위한 가격대를 주도 – TD Securities",
+      "summary_ko": "TD 증권 전략가 푸자 쿰라 (Pooja Kumra) 는 2026년 4월까지 시장이 호르무즈 해협 (Strait of Hormuz) 과 이란 분쟁 시나리오에 초점을 맞추고 있으며, 예측 시장은 휴전협정에 대해 보통의 확률만을 할당하고 있다고 강조합니다."
     },
     {
-      "title": "Building permits plunge, signaling potential economic slowdown",
-      "link": "https://www.investing.com/news/economic-indicators/building-permits-plunge-signaling-potential-economic-slowdown-93CH-4557006",
-      "summary": "",
-      "title_ko": "건축 허가 급락, 잠재적인 경기 둔화 신호",
-      "summary_ko": ""
-    },
-    {
-      "title": "US: Energy shock risks higher headline CPI – ING",
-      "link": "https://www.fxstreet.com/news/us-energy-shock-risks-higher-headline-cpi-ing-202603121425",
-      "summary": "ING’s James Knightley says February US inflation was contained before the Iran military action, with core and goods prices showing limited tariff pass-through.",
-      "title_ko": "미국: 에너지 충격으로 헤드라인 CPI가 높아질 위험이 있음",
-      "summary_ko": "ING의 제임스 나이틀리 (James Knightley) 는 이란의 군사 행동 이전에 2월 미국 인플레이션이 포함되었으며 핵심 및 상품 가격이 제한된 관세 통과를 보였다고 말한다."
-    },
-    {
-      "title": "Canada: Trade deficit widens as volatility persists – RBC",
-      "link": "https://www.fxstreet.com/news/canada-trade-deficit-widens-as-volatility-persists-rbc-202603121414",
-      "summary": "Royal Bank of Canada (RBC) economist Abbey Xu notes that Canada’s merchandise trade deficit widened sharply in January as both exports and imports declined.",
-      "title_ko": "캐나다: 변동성 지속에 따라 무역 적자 확대 – RBC",
-      "summary_ko": "Royal Bank of Canada (RBC) 의 경제학자 Abbey Xu는 수출과 수입이 모두 감소함에 따라 1월에 캐나다의 상품 무역 적자가 급격히 확대되었다고 지적합니다."
+      "title": "AUD/USD declines as geopolitical risks boost USD, RBA rate hike expectations persist",
+      "link": "https://www.fxstreet.com/news/aud-usd-declines-as-geopolitical-risks-boost-usd-rba-rate-hike-expectations-persist-202603121457",
+      "summary": "AUD/USD trades lower on Thursday at around 0.7095 at the time of writing, down 0.83% on the day, after reaching its highest level since June 2022 near 0.7185 on Wednesday. The pullback mainly reflects renewed demand for ",
+      "title_ko": "지정학적 위험이 USD를 높이고 RBA 금리 인상 기대가 지속됨에 따라 AUD/USD가 하락",
+      "summary_ko": "AUD/USD 거래는 2022년 6월 이후 수요일 0.7185 근처에서 가장 높은 수준에 도달한 후 목요일에 0.7095 주위로 낮아져 당일 0.83% 하락했습니다. 풀백은 주로 에 대한 새로운 수요를 반영합니다."
     }
   ]
 }

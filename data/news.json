@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-03-12 20:48:11 UTC",
+  "updated_at_utc": "2026-03-12 21:35:54 UTC",
   "items": [
     {
-      "title": "U.S. stocks lower at close of trade; Dow Jones Industrial Average down 1.56%",
-      "link": "https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-156-4558300",
+      "title": "Telus stock faces cyber breach investigation after unauthorized access - Bloomberg",
+      "link": "https://www.investing.com/news/stock-market-news/telus-stock-faces-cyber-breach-investigation-after-unauthorized-access--bloomberg-93CH-4558468",
       "summary": "",
-      "title_ko": "미국 증시는 거래 종료 시점에 하락, 다우존스 산업평균지수 1.56% 하락",
+      "title_ko": "Telus STOCK, 무단 액세스 후 사이버 침해 조사 직면 - Bloomberg",
       "summary_ko": ""
     },
     {
-      "title": "After-hours movers: Adobe, Rubrik, PagerDuty, Ulta Beauty",
-      "link": "https://www.investing.com/news/stock-market-news/afterhours-movers-adobe-rubrik-pagerduty-ulta-beauty-432SI-4558291",
+      "title": "SentinelOne’s quarterly profit forecast falls short of estimates amid stiff competition",
+      "link": "https://www.investing.com/news/stock-market-news/sentinelones-quarterly-profit-forecast-falls-short-of-estimates-amid-stiff-competition-4558439",
       "summary": "",
-      "title_ko": "애프터 아워 이동자: Adobe, Rubrik, PagerDuty, Ulta Beauty",
+      "title_ko": "SentinelOne의 분기별 이익 전망은 치열한 경쟁 속에서 추정치에 미치지 못합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Canada stocks lower at close of trade; S&amp;P/TSX Composite down 0.84%",
-      "link": "https://www.investing.com/news/stock-market-news/canada-stocks-lower-at-close-of-trade-sptsx-composite-down-084-4558292",
+      "title": "Adobe’s longtime CEO to exit role amid AI disruption, shares fall",
+      "link": "https://www.investing.com/news/stock-market-news/adobe-announces-ceo-transition-shares-fall-4558224",
       "summary": "",
-      "title_ko": "캐나다 주식은 거래 종료 시점에 하락, S&amp;P/TSX 복합재는 0.84% 하락",
+      "title_ko": "AI의 혼란 속에서 역할을 종료하는 Adobe의 오랜 CEO, 주식 하락",
       "summary_ko": ""
     },
     {
-      "title": "Brazil stocks lower at close of trade; Bovespa down 2.55%",
-      "link": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-255-4558290",
+      "title": "SeaWorld sued over alleged mishandling of Sesame Street brand",
+      "link": "https://www.investing.com/news/stock-market-news/seaworld-sued-over-alleged-mishandling-of-sesame-street-brand-4558388",
       "summary": "",
-      "title_ko": "브라질 주식은 거래 마감 시점에 하락, 보베스파는 2.55% 하락",
+      "title_ko": "씨월드는 세서미 스트리트 브랜드의 잘못된 취급 혐의에 대해 소송을 제기했습니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "US shipping waiver and release of stockpiles will not ease pain at the pumps, analysts say",
+      "link": "https://www.investing.com/news/economic-indicators/us-shipping-waiver-and-release-of-stockpiles-will-not-ease-pain-at-the-pumps-analysts-say-4558339",
+      "summary": "",
+      "title_ko": "분석가들은 미국 선적 면제 및 비축 해제로 펌프의 통증이 완화되지 않을 것이라고 말합니다.",
       "summary_ko": ""
     },
     {
@@ -51,25 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "US single-family housing starts fall in January",
-      "link": "https://www.investing.com/news/economic-indicators/us-singlefamily-housing-starts-fall-in-january-4557143",
-      "summary": "",
-      "title_ko": "미국 단독 주택은 1월에 가을에 시작됩니다.",
-      "summary_ko": ""
+      "title": "Asia: Innovation and income drive regional appeal – HSBC",
+      "link": "https://www.fxstreet.com/news/asia-innovation-and-income-drive-regional-appeal-hsbc-202603122119",
+      "summary": "HSBC positions Asia as a prime destination for investors diversifying away from US-heavy portfolios, citing dynamic growth, strong domestic demand and supportive technology policies.",
+      "title_ko": "아시아: 혁신과 소득으로 지역적 매력도 높이기 – HSBC",
+      "summary_ko": "HSBC는 역동적인 성장, 강력한 국내 수요 및 지원 기술 정책을 인용하여 아시아를 미국 중심의 포트폴리오에서 벗어나 투자자들의 주요 목적지로 자리매김하고 있습니다."
     },
     {
-      "title": "USD/CNH: Consolidation with Oil and risk in focus – OCBC",
-      "link": "https://www.fxstreet.com/news/usd-cnh-consolidation-with-oil-and-risk-in-focus-ocbc-202603122018",
-      "summary": "OCBC strategists Sim Moh Siong and Christopher Wong note that USD/CNH is consolidating near recent lows with fading bullish momentum, as fears of persistently high Oil prices and Iran-related risks weigh on broader senti",
-      "title_ko": "USD/CNH: 오일과의 통합 및 리스크 집중 – OCBC",
-      "summary_ko": "OCBC 전략가 심 모 시옹 (Sim Moh Siong) 과 크리스토퍼 웡 (Christopher Wong) 은 USD/CNH가 지속적으로 높은 유가와 이란 관련 위험에 대한 두려움이 더 넓은 센티에 무게를 두고 있기 때문에 최근 최저치에 근접한 강세를 보이고 있다고 지적했다."
-    },
-    {
-      "title": "Israel Prime Minister Netanyahu: We are changing the Middle East",
-      "link": "https://www.fxstreet.com/news/israel-prime-minister-benjamin-netanyahu-we-are-changing-the-middle-east-202603121949",
-      "summary": "Israeli Prime Minister Benjamin Netanyahu held his first press conference on Thursday since the war with Iran started and said that they are aiming to stop Iran from moving nuclear and ballistic projects underground, and",
-      "title_ko": "네타냐후 이스라엘 총리: 우리는 중동을 변화시키고 있습니다",
-      "summary_ko": "베냐민 네타냐후 이스라엘 총리는 이란과의 전쟁이 시작된 이후 목요일에 첫 기자회견을 열고 이란이 핵과 탄도 프로젝트를 지하로 옮기는 것을 막는 것을 목표로 하고 있다고 말했다."
+      "title": "Taiwan: TWD supported by exports and inflows – Commerzbank",
+      "link": "https://www.fxstreet.com/news/taiwan-twd-supported-by-exports-and-inflows-commerzbank-202603122109",
+      "summary": "Commerzbank economists highlight that Taiwan’s February exports grew 20.6% year-on-year, marking a thirteenth straight month of double-digit gains despite holiday distortions. Electronics and AI-related shipments remain ",
+      "title_ko": "대만: 수출 및 유입으로 지원되는 TWD – Commerzbank",
+      "summary_ko": "코메르츠방크 경제학자들은 대만의 2월 수출이 전년 대비 20.6% 증가하여 휴일 왜곡에도 불구하고 13개월 연속 두 자릿수 증가를 기록했다고 강조한다. 전자제품 및 AI 관련 출하량은 그대로 유지됩니다."
     }
   ]
 }

@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-03-13 15:09:47 UTC",
+  "updated_at_utc": "2026-03-13 16:03:03 UTC",
   "items": [
     {
-      "title": "New Target CEO slashes prices. Previous cuts offered short-lived sales boost",
-      "link": "https://www.investing.com/news/stock-market-news/analysisnew-target-ceo-slashes-prices-previous-cuts-offered-shortlived-sales-boost-4559371",
+      "title": "Linde positioned to weather inflation, tighter helium supply, JPMorgan says",
+      "link": "https://www.investing.com/news/stock-market-news/linde-positioned-to-weather-inflation-tighter-helium-supply-jpmorgan-says-4560518",
       "summary": "",
-      "title_ko": "새로운 목표 CEO가 가격을 인하합니다. 이전 컷은 단기 판매 부스트를 제공했습니다",
+      "title_ko": "JPMorgan은 린데가 날씨의 인플레이션, 더 엄격한 헬륨 공급에 배치되었다고 말합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Powering AI: Top U.S. Stocks in Battery Energy Storage Systems",
-      "link": "https://www.investing.com/news/stock-market-news/powering-ai-top-us-stocks-in-battery-energy-storage-systems-93CH-4560416",
+      "title": "PayPay IPO surges 18% in second trading day, ARK buys shares",
+      "link": "https://www.investing.com/news/stock-market-news/paypay-ipo-surges-18-in-second-trading-day-ark-buys-shares-4560517",
       "summary": "",
-      "title_ko": "POWERING AI: 배터리 에너지 저장 시스템의 미국 최고 재고",
+      "title_ko": "PayPay IPO는 2거래일째 18% 급등, ARK는 주식 매수",
       "summary_ko": ""
     },
     {
-      "title": "William Blair recommends Dave stock on growth potential and valuation",
-      "link": "https://www.investing.com/news/stock-market-news/william-blair-recommends-dave-stock-on-growth-potential-and-valuation-93CH-4560398",
+      "title": "Turkey stocks lower at close of trade; BIST 100 down 1.45%",
+      "link": "https://www.investing.com/news/stock-market-news/turkey-stocks-lower-at-close-of-trade-bist-100-down-145-4560503",
       "summary": "",
-      "title_ko": "William Blair는 성장 잠재력과 가치 평가에 대해 Dave 주식을 추천합니다",
+      "title_ko": "터키 주식은 거래 마감 시점에 하락, BIST 100 1.45% 하락",
       "summary_ko": ""
     },
     {
-      "title": "Micron, Lam Research among market cap stock movers on Friday",
-      "link": "https://www.investing.com/news/stock-market-news/micron-lam-research-among-market-cap-stock-movers-on-friday-93CH-4560397",
+      "title": "Adobe pays $75 million to settle US lawsuit over termination fees, subscription cancellations",
+      "link": "https://www.investing.com/news/stock-market-news/adobe-to-pay-75-million-to-resolve-us-lawsuit-over-fees-subscription-cancellations-4560028",
       "summary": "",
-      "title_ko": "금요일에 시가 총액 주식 이동자들 사이에서 Micron, Lam Research",
+      "title_ko": "Adobe는 해지 수수료, 구독 취소에 대한 미국 소송을 해결하기 위해 $ 75,000,000를 지불합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "US job openings rise in January, but hiring tepid",
+      "link": "https://www.investing.com/news/economic-indicators/us-job-openings-rise-in-january-but-hiring-tepid-4560451",
+      "summary": "",
+      "title_ko": "미국 채용 공고는 1월에 상승하지만 미지근한 채용",
       "summary_ko": ""
     },
     {
@@ -51,25 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "U.S. core PCE rises 3.1% year-on-year in January",
-      "link": "https://www.investing.com/news/economic-indicators/us-core-pce-rises-31-yearonyear-in-january-4559916",
-      "summary": "",
-      "title_ko": "미국 핵심 PCE, 1월 전년 대비 3.1% 상승",
-      "summary_ko": ""
+      "title": "CAD: Resilient but seen lower against USD – TD Securities",
+      "link": "https://www.fxstreet.com/news/cad-resilient-but-seen-lower-against-usd-td-securities-202603131502",
+      "summary": "TD Securities analysts expect the Canadian Dollar (CAD) to show relative resilience versus non-USD peers thanks to Oil links, lower beta to risk-off and cleaner positioning.",
+      "title_ko": "CAD: 탄력적이지만 USD 대비 낮음 – TD 증권",
+      "summary_ko": "TD 증권 분석가들은 캐나다 달러 (CAD) 가 오일 링크, 리스크 오프에 대한 낮은 베타 및 더 깨끗한 포지셔닝 덕분에 비USD 피어와 비교하여 상대적인 탄력성을 보여줄 것으로 기대합니다."
     },
     {
-      "title": "EUR/USD holds near seven-month lows as traders digest US data, Dollar remains firm",
-      "link": "https://www.fxstreet.com/news/eur-usd-holds-near-seven-month-lows-as-traders-digest-us-data-dollar-remains-firm-202603131421",
-      "summary": "The Euro (EUR) trims part of its earlier losses against the US Dollar (USD) on Friday as traders digest the latest  US economic data. At the time of writing, EUR/USD is trading around 1.1472 after touching an intraday lo",
-      "title_ko": "EUR/USD는 거래자가 미국 데이터를 소화함에 따라 7 개월 가까이 저점을 유지하고 달러는 확고하게 유지됩니다.",
-      "summary_ko": "유로 (EUR) 는 거래자가 최신 미국 경제 데이터를 소화함에 따라 금요일에 미국 달러 (USD) 에 대한 이전 손실의 일부를 다듬습니다. 서면 작성 시 EUR/USD는 약 1.1472에 거래되고 있습니다."
-    },
-    {
-      "title": "Oil: Stagflation risks and FX volatility – OCBC",
-      "link": "https://www.fxstreet.com/news/oil-stagflation-risks-and-fx-volatility-ocbc-202603131419",
-      "summary": "OCBC strategists Sim Moh Siong and Christopher Wong highlight that Brent’s move above USD100/bbl and rising Hormuz disruption risk raise the odds of a durable energy shock, with markets bracing for stagflation and a stro",
-      "title_ko": "석유: 스태그플레이션 위험 및 외환 변동성 – OCBC",
-      "summary_ko": "OCBC 전략가 심 모 시옹 (Sim Moh Siong) 과 크리스토퍼 웡 (Christopher Wong) 은 브렌트의 움직임이 USD100/bbl 이상으로 상승하고 호르무즈 붕괴 위험이 내구성 있는 에너지 충격의 가능성을 높이며, 시장은 스태그플레이션과 스트로크에 대비하고 있음을 강조합니다."
+      "title": "JOLTS Job Openings rose to 6.94 million in January, beating expectations",
+      "link": "https://www.fxstreet.com/news/jolts-job-openings-rose-to-694-million-in-january-beating-expectations-202603131454",
+      "summary": "The number of job openings in the US was little changed at 6.94 million in January, while for December it was revised upward to 6.55 million from the 6.54 million previously reported, the US Bureau of Labor Statistics (B",
+      "title_ko": "JOLTS Job Openings는 1월에 6,940만 명으로 증가하여 예상을 뛰어넘었습니다.",
+      "summary_ko": "미국의 구직자 수는 1월에 6,940만 명으로 거의 변경되지 않았으며, 12월에는 이전에 보고된 6,540만 명에서 6,550만 명으로 상향 조정되었습니다. 미국 노동 통계국 (B"
     }
   ]
 }

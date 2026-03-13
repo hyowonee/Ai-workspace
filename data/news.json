@@ -1,6 +1,20 @@
 {
-  "updated_at_utc": "2026-03-13 04:24:05 UTC",
+  "updated_at_utc": "2026-03-13 05:33:25 UTC",
   "items": [
+    {
+      "title": "Bloomberg tells Dubai, Gulf staff they can temporarily leave region",
+      "link": "https://www.investing.com/news/stock-market-news/bloomberg-tells-dubai-gulf-staff-they-can-temporarily-leave-region-4558007",
+      "summary": "",
+      "title_ko": "블룸버그는 두바이, 걸프 직원들에게 일시적으로 지역을 떠날 수 있다고 말합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Exclusive-Glencore raises hope of reviving Rio Tinto deal as coal prices turn",
+      "link": "https://www.investing.com/news/stock-market-news/exclusiveglencore-raises-hope-of-reviving-rio-tinto-deal-as-coal-prices-turn-4558879",
+      "summary": "",
+      "title_ko": "Exclusive-Glencore는 석탄 가격이 변함에 따라 리오 틴토 거래를 부활시킬 희망을 제기합니다.",
+      "summary_ko": ""
+    },
     {
       "title": "Honda shares slide nearly 7% as automaker flags first annual loss in 70 years",
       "link": "https://www.investing.com/news/stock-market-news/honda-shares-slide-nearly-7-as-automaker-flags-first-annual-loss-in-70-years-4558870",
@@ -13,20 +27,6 @@
       "link": "https://www.investing.com/news/stock-market-news/china-expands-iron-ore-ban-to-new-bhp-product-sources-say-4556559",
       "summary": "",
       "title_ko": "소식통에 따르면 중국은 계약 협상 과정에서 BHP 철광석 금지를 확대한다고 한다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "China’s ByteDance gets access to Nvidia Blackwell chips- WSJ",
-      "link": "https://www.investing.com/news/stock-market-news/chinas-bytedance-gets-access-to-nvidia-blackwell-chips-wsj-4558859",
-      "summary": "",
-      "title_ko": "중국의 ByteDance가 Nvidia Blackwell 칩에 액세스 - WSJ",
-      "summary_ko": ""
-    },
-    {
-      "title": "China’s ByteDance gets access to top Nvidia AI chips, WSJ reports",
-      "link": "https://www.investing.com/news/stock-market-news/chinas-bytedance-gets-access-to-top-nvidia-ai-chips-wsj-reports-4558854",
-      "summary": "",
-      "title_ko": "WSJ에 따르면 중국의 ByteDance는 상위 엔비디아 AI 칩에 액세스 할 수 있습니다.",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "AUD/JPY remains depressed above 112.50 as JPY recovers slightly on intervention fears",
-      "link": "https://www.fxstreet.com/news/aud-jpy-remains-depressed-above-11250-as-jpy-recovers-slightly-on-intervention-fears-202603130416",
-      "summary": "The AUD/JPY cross remains on the back foot for the second consecutive day and trades just above mid-112.00s during the Asian session on Friday.",
-      "title_ko": "JPY가 개입에 대한 두려움에서 약간 회복됨에 따라 AUD/JPY는 112.50 이상으로 우울한 상태를 유지합니다.",
-      "summary_ko": "AUD/JPY 크로스는 이틀 연속 뒷발에 머물러 있으며 금요일 아시아 세션에서 12시 중반에 거래됩니다."
+      "title": "Gold struggles to capitalize on modest gains amid as traders await US PCE data",
+      "link": "https://www.fxstreet.com/news/gold-rebounds-as-safe-haven-flows-counter-inflation-driven-fed-rate-concerns-202603130354",
+      "summary": "Gold (XAU/USD) sticks to modest intraday gains through the Asian session on Friday, though it lacks follow-through buying.",
+      "title_ko": "금은 거래자들이 미국 PCE 데이터를 기다리는 동안 소폭의 이익을 활용하기 위해 고군분투합니다.",
+      "summary_ko": "금 (XAU/USD) 은 후속 구매가 부족하지만 금요일 아시아 세션을 통해 소폭의 일간 이득을 유지합니다."
     },
     {
-      "title": "Gold rebounds as safe-haven flows counter inflation-driven Fed rate concerns",
-      "link": "https://www.fxstreet.com/news/gold-rebounds-as-safe-haven-flows-counter-inflation-driven-fed-rate-concerns-202603130354",
-      "summary": "Gold (XAU/USD) gains some positive traction during the Asian session on Friday and recovers a part of its losses recorded over the past two days.",
-      "title_ko": "금은 안전 자금 흐름이 인플레이션 중심의 연준 금리 우려에 대응함에 따라 반등",
-      "summary_ko": "금 (XAU/USD) 은 금요일 아시아 세션에서 긍정적인 견인력을 얻고 지난 이틀 동안 기록된 손실의 일부를 회수합니다."
+      "title": "AUD/USD Price Forecast: Retreats to near 0.7050, constructive view prevails",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-retreats-to-near-07050-constructive-view-prevails-202603130512",
+      "summary": "The AUD/USD pair loses traction to around 0.7060 during the early European session on Friday. The pair retreats from near three-year highs as rising tensions in the Middle East boost the safe-haven flows, supporting the ",
+      "title_ko": "AUD/USD 가격 예측: 0.7050 근처로 후퇴하며 건설적인 시야가 우선합니다.",
+      "summary_ko": "AUD/USD 쌍은 금요일의 초기 유럽 세션에서 약 0.7060으로 견인력을 잃습니다. 쌍은 중동의 긴장 고조가 안전 피난처 흐름을 촉진함에 따라 3 년 가까이 높은 수준에서 후퇴하여"
     }
   ]
 }

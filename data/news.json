@@ -1,32 +1,46 @@
 {
-  "updated_at_utc": "2026-03-13 05:33:25 UTC",
+  "updated_at_utc": "2026-03-13 06:58:24 UTC",
   "items": [
     {
-      "title": "Bloomberg tells Dubai, Gulf staff they can temporarily leave region",
-      "link": "https://www.investing.com/news/stock-market-news/bloomberg-tells-dubai-gulf-staff-they-can-temporarily-leave-region-4558007",
+      "title": "Jefferies upgrades Sabre Insurance to “hold” after earnings beat",
+      "link": "https://www.investing.com/news/stock-market-news/jefferies-upgrades-sabre-insurance-to-hold-after-earnings-beat-4558991",
       "summary": "",
-      "title_ko": "블룸버그는 두바이, 걸프 직원들에게 일시적으로 지역을 떠날 수 있다고 말합니다.",
+      "title_ko": "Jefferies는 수입이 감소한 후 Sabre Insurance를 '보류' 상태로 업그레이드합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Exclusive-Glencore raises hope of reviving Rio Tinto deal as coal prices turn",
-      "link": "https://www.investing.com/news/stock-market-news/exclusiveglencore-raises-hope-of-reviving-rio-tinto-deal-as-coal-prices-turn-4558879",
+      "title": "Top 4 Information Services Stocks Resilient to AI Disruption, Morgan Stanley Says",
+      "link": "https://www.investing.com/news/stock-market-news/top-4-information-services-stocks-resilient-to-ai-disruption-morgan-stanley-says-93CH-4558990",
       "summary": "",
-      "title_ko": "Exclusive-Glencore는 석탄 가격이 변함에 따라 리오 틴토 거래를 부활시킬 희망을 제기합니다.",
+      "title_ko": "모건 스탠리 (Morgan Stanley) 는 AI 붕괴에 탄력적인 상위 4대 정보 서비스 주식이라고 말합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Honda shares slide nearly 7% as automaker flags first annual loss in 70 years",
-      "link": "https://www.investing.com/news/stock-market-news/honda-shares-slide-nearly-7-as-automaker-flags-first-annual-loss-in-70-years-4558870",
+      "title": "Taiwan stocks higher at close of trade; Taiwan Weighted up 4.10%",
+      "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-410-4558945",
       "summary": "",
-      "title_ko": "자동차 제조업체가 70년 만에 첫 연간 손실을 기록하면서 Honda 주식은 거의 7% 하락했습니다.",
+      "title_ko": "거래 종결 시 대만 주식이 더 높음, 대만 가중치 4.10% 증가",
       "summary_ko": ""
     },
     {
-      "title": "China widens BHP iron ore ban amid contract talks, sources say",
-      "link": "https://www.investing.com/news/stock-market-news/china-expands-iron-ore-ban-to-new-bhp-product-sources-say-4556559",
+      "title": "Apple cuts China App Store commission fees after government pressure",
+      "link": "https://www.investing.com/news/stock-market-news/apple-cuts-china-app-store-commission-fees-after-government-pressure-4558922",
       "summary": "",
-      "title_ko": "소식통에 따르면 중국은 계약 협상 과정에서 BHP 철광석 금지를 확대한다고 한다.",
+      "title_ko": "애플, 정부 압박 이후 중국 앱스토어 수수료 인하",
+      "summary_ko": ""
+    },
+    {
+      "title": "Vietnam produces world’s largest trade surplus with US, Jan data shows",
+      "link": "https://www.investing.com/news/economic-indicators/vietnam-produces-worlds-largest-trade-surplus-with-us-jan-data-shows-4558974",
+      "summary": "",
+      "title_ko": "베트남, 미국과 세계 최대 무역 흑자, JAN 데이터 쇼",
+      "summary_ko": ""
+    },
+    {
+      "title": "Analysis-Debt-burdened Europe has fewer options to buffer energy shock",
+      "link": "https://www.investing.com/news/economic-indicators/analysisdebtburdened-europe-has-fewer-options-to-buffer-energy-shock-4558963",
+      "summary": "",
+      "title_ko": "분석 - 부채 부담 유럽은 에너지 충격을 완충 할 수있는 옵션이 적습니다.",
       "summary_ko": ""
     },
     {
@@ -44,32 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Natural gas storage sees smaller drawdown than forecasted",
-      "link": "https://www.investing.com/news/economic-indicators/natural-gas-storage-sees-smaller-drawdown-than-forecasted-93CH-4557524",
-      "summary": "",
-      "title_ko": "천연가스 저장고는 예상보다 적은 유입량을 보입니다.",
-      "summary_ko": ""
+      "title": "Breaking: EUR/USD breaks below 1.1500 amid Middle East crisis",
+      "link": "https://www.fxstreet.com/news/breaking-eur-usd-breaks-below-11500-amid-middle-east-crisis-202603130618",
+      "summary": "The EUR/USD pair resumes the downside, breaking below 1.1500  in the early European hours on Friday to trade at levels last seen in November 2025, as the US Dollar (USD) finds fresh haven demand in a risk-averse environm",
+      "title_ko": "깨짐: 중동 위기 상황에서 EUR/USD가 1.1500 이하로 떨어짐",
+      "summary_ko": "EUR/USD 쌍은 미국 달러 (USD) 가 위험을 회피하는 환경에서 신선한 피난처 수요를 발견함에 따라 금요일 유럽 초기에 1.1500 아래로 하락하여 2025 년 11 월에 마지막으로 나타난 수준으로 거래를 재개합니다."
     },
     {
-      "title": "US trade deficit narrows in January as exports jump to record high",
-      "link": "https://www.investing.com/news/economic-indicators/us-trade-deficit-narrows-in-january-as-exports-jump-to-record-high-4557396",
-      "summary": "",
-      "title_ko": "수출이 사상 최고치로 치솟으면서 1월 미국 무역적자 폭이 좁아진다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Gold struggles to capitalize on modest gains amid as traders await US PCE data",
-      "link": "https://www.fxstreet.com/news/gold-rebounds-as-safe-haven-flows-counter-inflation-driven-fed-rate-concerns-202603130354",
-      "summary": "Gold (XAU/USD) sticks to modest intraday gains through the Asian session on Friday, though it lacks follow-through buying.",
-      "title_ko": "금은 거래자들이 미국 PCE 데이터를 기다리는 동안 소폭의 이익을 활용하기 위해 고군분투합니다.",
-      "summary_ko": "금 (XAU/USD) 은 후속 구매가 부족하지만 금요일 아시아 세션을 통해 소폭의 일간 이득을 유지합니다."
-    },
-    {
-      "title": "AUD/USD Price Forecast: Retreats to near 0.7050, constructive view prevails",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-retreats-to-near-07050-constructive-view-prevails-202603130512",
-      "summary": "The AUD/USD pair loses traction to around 0.7060 during the early European session on Friday. The pair retreats from near three-year highs as rising tensions in the Middle East boost the safe-haven flows, supporting the ",
-      "title_ko": "AUD/USD 가격 예측: 0.7050 근처로 후퇴하며 건설적인 시야가 우선합니다.",
-      "summary_ko": "AUD/USD 쌍은 금요일의 초기 유럽 세션에서 약 0.7060으로 견인력을 잃습니다. 쌍은 중동의 긴장 고조가 안전 피난처 흐름을 촉진함에 따라 3 년 가까이 높은 수준에서 후퇴하여"
+      "title": "USD/INR rebounds toward record highs despite possible RBI intervention",
+      "link": "https://www.fxstreet.com/news/usd-inr-inches-lower-after-reaching-fresh-highs-202603130510",
+      "summary": "USD/INR has recovered its daily losses and is trading near an all-time high of 92.90 in the previous session.",
+      "title_ko": "RBI 개입 가능성에도 불구하고 USD/INR이 사상 최고치로 반등",
+      "summary_ko": "USD/INR은 일일 손실을 회복했으며 이전 세션에서 역대 최고치인 92.90 에 가깝게 거래되고 있습니다."
     }
   ]
 }

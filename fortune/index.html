@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>오늘의 운세</title>
+  <style>
+    body { font-family: system-ui, -apple-system, sans-serif; margin: 0; background:#0b0f19; color:#e7e9ee; }
+    header { padding: 28px 20px; text-align:center; background: radial-gradient(1200px 400px at 50% -50%, #2a3cff55, transparent); }
+    .wrap { max-width: 860px; margin: 0 auto; padding: 20px; }
+    .card { background:#121826; border:1px solid #1f2942; border-radius:16px; padding:18px; margin:12px 0; }
+    .grid { display:grid; grid-template-columns: 1fr 1fr; gap:12px; }
+    label { display:block; margin-bottom:6px; color:#aab3c5; }
+    input { width:100%; padding:10px 12px; border-radius:10px; border:1px solid #2a3553; background:#0e1424; color:#e7e9ee; }
+    button { padding:10px 14px; border-radius:10px; border:none; background:#4f6bff; color:white; font-weight:600; cursor:pointer; }
+    button:hover { background:#3e58e0; }
+    .zodiac { display:flex; align-items:center; gap:12px; }
+    .zodiac svg { width:56px; height:56px; }
+    .muted { color:#9aa4b7; font-size:14px; }
+    .badge { display:inline-block; padding:4px 10px; border-radius:999px; background:#1b243a; color:#cdd6ea; font-size:12px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>오늘의 운세</h1>
+    <div class="muted">생년월일을 입력하면 오늘의 운세 + 별자리 운세 + 행운의 색을 알려드립니다.</div>
+  </header>
+
+  <div class="wrap">
+    <div class="card">
+      <div class="grid">
+        <div>
+          <label>생년월일</label>
+          <input id="birth" type="date" />
+        </div>
+        <div style="display:flex; align-items:flex-end;">
+          <button id="btn">운세 보기</button>
+        </div>
+      </div>
+    </div>
+
+    <div class="card" id="result" style="display:none;">
+      <div class="zodiac" id="zodiacBox"></div>
+      <p id="todayFortune"></p>
+      <p id="zodiacFortune"></p>
+      <div class="badge" id="luckyColor"></div>
+    </div>
+  </div>
+
+  <script>
+    const zodiacSigns = [
+      {name:'양자리', range:[ [3,21],[4,19] ], icon:'\u2648'},
+      {name:'황소자리', range:[ [4,20],[5,20] ], icon:'\u2649'},
+      {name:'쌍둥이자리', range:[ [5,21],[6,20] ], icon:'\u264A'},
+      {name:'게자리', range:[ [6,21],[7,22] ], icon:'\u264B'},
+      {name:'사자자리', range:[ [7,23],[8,22] ], icon:'\u264C'},
+      {name:'처녀자리', range:[ [8,23],[9,22] ], icon:'\u264D'},
+      {name:'천칭자리', range:[ [9,23],[10,22] ], icon:'\u264E'},
+      {name:'전갈자리', range:[ [10,23],[11,21] ], icon:'\u264F'},
+      {name:'사수자리', range:[ [11,22],[12,21] ], icon:'\u2650'},
+      {name:'염소자리', range:[ [12,22],[12,31], [1,1],[1,19] ], icon:'\u2651'},
+      {name:'물병자리', range:[ [1,20],[2,18] ], icon:'\u2652'},
+      {name:'물고기자리', range:[ [2,19],[3,20] ], icon:'\u2653'},
+    ];
+
+    const fortunes = [
+      '오늘은 작은 변화가 큰 성과로 이어질 수 있어요. 우선순위를 명확히 해보세요.',
+      '사소한 대화에서 힌트를 얻는 날입니다. 메모해두면 도움이 됩니다.',
+      '집중력이 높은 날이에요. 중요한 일을 먼저 처리해보세요.',
+      '타이밍이 중요한 하루입니다. 서두르기보다 흐름을 읽어보세요.',
+      '에너지가 올라오는 날입니다. 미뤘던 일을 시작하기 좋아요.',
+      '균형이 중요한 날. 휴식과 업무를 잘 배분하면 효율이 높아집니다.'
+    ];
+
+    const zodiacFortunes = [
+      '대인관계에서 협력이 빛나는 하루. 먼저 손을 내밀어 보세요.',
+      '금전운은 안정적이지만 지출 관리가 관건입니다.',
+      '창의적인 아이디어가 떠오르기 쉬운 날. 기록해 두세요.',
+      '가족/친구와의 대화가 힘이 됩니다. 연락을 추천해요.',
+      '성과를 보여줄 수 있는 날입니다. 자신감 있게 움직이세요.',
+      '세부 점검이 중요한 하루. 꼼꼼함이 복을 부릅니다.'
+    ];
+
+    const colors = ['블루', '그린', '골드', '퍼플', '화이트', '블랙', '레드', '실버'];
+
+    function getZodiac(month, day){
+      for (const z of zodiacSigns){
+        const r = z.range;
+        if (r.length===2){
+          const [s,e]=r;
+          if ((month===s[0] && day>=s[1]) || (month===e[0] && day<=e[1])) return z;
+        } else {
+          // Capricorn split
+          if ((month===12 && day>=22) || (month===1 && day<=19)) return z;
+        }
+      }
+      return zodiacSigns[0];
+    }
+
+    function dailySeed(birth, date){
+      const str = birth + '|' + date.toISOString().slice(0,10);
+      let hash = 0;
+      for (let i=0;i<str.length;i++) hash = (hash*31 + str.charCodeAt(i)) >>> 0;
+      return hash;
+    }
+
+    function pick(arr, seed){
+      return arr[seed % arr.length];
+    }
+
+    function zodiacSVG(icon){
+      return `<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+        <defs>
+          <linearGradient id="g" x1="0" x2="1">
+            <stop offset="0%" stop-color="#4f6bff" />
+            <stop offset="100%" stop-color="#9b5cff" />
+          </linearGradient>
+        </defs>
+        <circle cx="50" cy="50" r="46" fill="url(#g)" opacity="0.25" stroke="#4f6bff"/>
+        <text x="50" y="62" text-anchor="middle" font-size="44" fill="#cfe2ff">${icon}</text>
+      </svg>`;
+    }
+
+    document.getElementById('btn').addEventListener('click', () => {
+      const birth = document.getElementById('birth').value;
+      if (!birth) return alert('생년월일을 입력해주세요.');
+      const d = new Date(birth);
+      const zodiac = getZodiac(d.getMonth()+1, d.getDate());
+      const seed = dailySeed(birth, new Date());
+
+      document.getElementById('zodiacBox').innerHTML = `${zodiacSVG(zodiac.icon)}<div><h2>${zodiac.name}</h2><div class="muted">서양 12궁 기준</div></div>`;
+      document.getElementById('todayFortune').textContent = '오늘의 운세: ' + pick(fortunes, seed);
+      document.getElementById('zodiacFortune').textContent = '별자리 운세: ' + pick(zodiacFortunes, seed>>1);
+      document.getElementById('luckyColor').textContent = '행운의 색: ' + pick(colors, seed>>2);
+      document.getElementById('result').style.display='block';
+    });
+  </script>
+</body>
+</html>

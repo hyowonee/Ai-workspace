@@ -130,8 +130,8 @@
 
       document.getElementById('zodiacBox').innerHTML = `${zodiacSVG(zodiac.icon)}<div><h2>${zodiac.name}</h2><div class="muted">서양 12궁 기준</div></div>`;
       document.getElementById('todayFortune').textContent = '오늘의 운세: ' + pick(fortunes, seed);
-      document.getElementById('zodiacFortune').textContent = '별자리 운세: ' + pick(zodiacFortunes, seed>>1);
-      document.getElementById('luckyColor').textContent = '행운의 색: ' + pick(colors, seed>>2);
+      document.getElementById('zodiacFortune').textContent = '별자리 운세: ' + pick(zodiacFortunes, seed>>>1);
+      document.getElementById('luckyColor').textContent = '행운의 색: ' + pick(colors, seed>>>2);
       document.getElementById('result').style.display='block';
     });
   </script>

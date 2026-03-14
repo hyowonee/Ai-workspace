@@ -1,6 +1,13 @@
 {
-  "updated_at_utc": "2026-03-14 04:21:50 UTC",
+  "updated_at_utc": "2026-03-14 05:31:41 UTC",
   "items": [
+    {
+      "title": "US, Japan agree on their roles in potential nuclear power project, Westinghouse says",
+      "link": "https://www.investing.com/news/stock-market-news/us-japan-agree-on-their-roles-in-potential-nuclear-power-project-westinghouse-says-4561318",
+      "summary": "",
+      "title_ko": "웨스팅하우스는 미국, 일본이 잠재적 원자력 발전 프로젝트에서 자신들의 역할에 동의한다고 말합니다.",
+      "summary_ko": ""
+    },
     {
       "title": "Auto groups urge Trump to keep Chinese carmakers out of US",
       "link": "https://www.investing.com/news/stock-market-news/auto-industry-groups-urge-trump-to-keep-chinese-autos-out-of-us-4561104",
@@ -20,13 +27,6 @@
       "link": "https://www.investing.com/news/stock-market-news/exclusivemeta-planning-sweeping-layoffs-as-ai-costs-mount-4561225",
       "summary": "",
       "title_ko": "독점 - AI 비용이 증가함에 따라 전면 정리 해고를 계획하는 메타",
-      "summary_ko": ""
-    },
-    {
-      "title": "BP revises Whiting oil refinery contract offer after union members reject proposal",
-      "link": "https://www.investing.com/news/stock-market-news/usw-members-vote-to-reject-bps-final-offer-to-whiting-refinery-workers-4560537",
-      "summary": "",
-      "title_ko": "BP는 조합원이 제안을 거부한 후 Whiting 정유사 계약 제안을 수정합니다.",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
+      "title": "Breaking: US strikes military targets on Kharg Island – Iran’s main oil hub",
+      "link": "https://www.fxstreet.com/news/breaking-us-strikes-military-targets-on-kharg-island-irans-main-oil-hub-202603140410",
+      "summary": "US President Donald Trump said on Saturday that the US struck military targets at a strategic Iranian outpost in the Persian Gulf and warned it could hit oil infrastructure next if Tehran keeps disrupting energy flows in",
+      "title_ko": "속보: 미국, 이란의 주요 석유 허브인 카르그 섬에서 군사 목표물 타격",
+      "summary_ko": "도널드 트럼프 미국 대통령은 토요일에 미국이 페르시아만의 전략적 이란 전초 기지에서 군사 목표를 타격했으며 테헤란이 에너지 흐름을 계속 방해하면 다음으로 석유 인프라를 타격할 수 있다고 경고했다."
+    },
+    {
       "title": "EUR/USD Price Forecast: Ends week near 1.1400, down below the 200-DMA",
       "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-ends-week-near-11400-down-below-the-200-dma-202603132152",
       "summary": "The Euro finalized the week posting losses of over 1.74% against the Greenback and 0.84% in the day. The EUR/USD posted four bearish days after falling below the 200-day Simple Moving Average (SMA) at 1.1672, turning the",
       "title_ko": "EUR/USD 가격 예측: 1.1400 근처에서 200-DMA 아래로 주 종료",
       "summary_ko": "유로화는 그린백을 상대로 1.74%, 당일 0.84% 이상의 손실을 기록한 주를 마무리했다. EUR/USD는 200일 단순이동평균 (SMA) 1.1672 이하로 떨어진 지 4일 만에 포스팅하여"
-    },
-    {
-      "title": "US Judge dismisses subpoenas against Fed Chair Powell in DOJ probe – WSJ",
-      "link": "https://www.fxstreet.com/news/us-judge-dismisses-subpoenas-against-fed-chair-powell-in-doj-probe-wsj-202603132127",
-      "summary": "An article of the Wall Street Journal mentioned that a Federal Judge threw out a pair of subpoenas that the Justice Department issued to the Federal Reserve Chair Jerome Powell.",
-      "title_ko": "미국 판사, 미국 법무부 조사관 파월 연준 의장에 대한 소환장 기각 – WSJ",
-      "summary_ko": "월스트리트 저널의 한 기사는 한 연방 판사가 법무부가 제롬 파월 연방준비제도 의장에게 발행한 한 쌍의 소환장을 던졌다고 언급했다."
     }
   ]
 }

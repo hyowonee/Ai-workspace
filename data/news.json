@@ -1,6 +1,13 @@
 {
-  "updated_at_utc": "2026-03-15 06:33:31 UTC",
+  "updated_at_utc": "2026-03-15 07:46:49 UTC",
   "items": [
+    {
+      "title": "Walmart, Target outpace peers in AI-driven supply chain race, Jefferies says",
+      "link": "https://www.investing.com/news/stock-market-news/walmart-target-outpace-peers-in-aidriven-supply-chain-race-jefferies-says-4561534",
+      "summary": "",
+      "title_ko": "Walmart, AI 중심의 공급망 경쟁에서 타겟이 동료를 능가한다고 Jefferies는 말합니다.",
+      "summary_ko": ""
+    },
     {
       "title": "Fertitta Entertainment in talks to buy Caesars for $6.5 billion, CNBC reports",
       "link": "https://www.investing.com/news/stock-market-news/fertitta-entertainment-in-talks-to-buy-caesars-for-65-billion-cnbc-reports-4561509",
@@ -20,13 +27,6 @@
       "link": "https://www.investing.com/news/stock-market-news/musk-says-teslas-gigantic-chip-fab-project-to-launch-in-seven-days-4561485",
       "summary": "",
       "title_ko": "머스크는 테슬라의 메가 AI 칩 팹 프로젝트가 7일 안에 시작될 것이라고 말합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Goldman: Software giants face ‘radical transformation’ as agentic AI rises",
-      "link": "https://www.investing.com/news/stock-market-news/goldman-software-giants-face-radical-transformation-as-agentic-ai-rises-4561462",
-      "summary": "",
-      "title_ko": "골드만: 소프트웨어 대기업들은 에이전트 AI가 증가함에 따라 ‘급격한 변화’ 에 직면해 있습니다.",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
+      "title": "Israeli Military: Defense systems operating to intercept missiles launched from Iran",
+      "link": "https://www.fxstreet.com/news/israeli-military-defense-systems-operating-to-intercept-missiles-launched-from-iran-202603150705",
+      "summary": "The Israel Defense Forces (IDF), the country’s military, said in its social media post on X on Sunday that Iran continued to launch missiles toward the territory of the State of Israel.",
+      "title_ko": "이스라엘군: 이란에서 발사된 미사일을 요격하기 위해 작동하는 방어 시스템",
+      "summary_ko": "이란의 군대인 이스라엘 방위군 (IDF) 은 일요일 X의 소셜 미디어 게시물에서 이란이 이스라엘 영토를 향해 미사일을 계속 발사했다고 밝혔다."
+    },
+    {
       "title": "US President Trump: Not ready for Iran deal, warns Kharg Island could be hit again",
       "link": "https://www.fxstreet.com/news/us-president-trump-not-ready-for-iran-deal-warns-kharg-island-could-be-hit-again-202603150221",
       "summary": "In an interview with NBC News on Saturday, US President Donald Trump commented on the military strikes on the Kharg Island and whether he was prepared to make a deal with Iran while pressing allies once again to help sec",
       "title_ko": "트럼프 미국 대통령: 이란 거래에 대한 준비가 되지 않았으며, 카르그 섬이 다시 타격을 입을 수 있다고 경고",
       "summary_ko": "토요일 NBC 뉴스와의 인터뷰에서 도널드 트럼프 미국 대통령은 카르그 섬에 대한 군사 공격과 이란과 협상을 할 준비가 되었는지에 대해 언급하면서 동맹국들에게 다시 한 번 압력을 가해 SEC를 도울 수 있다고 말했다."
-    },
-    {
-      "title": "Breaking: US strikes military targets on Kharg Island – Iran’s main oil hub",
-      "link": "https://www.fxstreet.com/news/breaking-us-strikes-military-targets-on-kharg-island-irans-main-oil-hub-202603140410",
-      "summary": "US President Donald Trump said on Saturday that the US struck military targets at a strategic Iranian outpost in the Persian Gulf and warned it could hit oil infrastructure next if Tehran keeps disrupting energy flows in",
-      "title_ko": "속보: 미국, 이란의 주요 석유 허브인 카르그 섬에서 군사 목표물 타격",
-      "summary_ko": "도널드 트럼프 미국 대통령은 토요일에 미국이 페르시아만의 전략적 이란 전초 기지에서 군사 목표를 타격했으며 테헤란이 에너지 흐름을 계속 방해하면 다음으로 석유 인프라를 타격할 수 있다고 경고했다."
     }
   ]
 }

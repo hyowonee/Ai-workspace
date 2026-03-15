@@ -1,11 +1,25 @@
 {
-  "updated_at_utc": "2026-03-15 22:31:13 UTC",
+  "updated_at_utc": "2026-03-15 23:31:54 UTC",
   "items": [
     {
       "title": "Perpetual to sell wealth management arm to Bain Capital for $350 million upfront",
       "link": "https://www.investing.com/news/stock-market-news/perpetual-to-sell-wealth-management-arm-to-bain-capital-for-350-million-upfront-4561588",
       "summary": "",
       "title_ko": "자산 관리 부서를 Bain Capital에 선불로 3억 5천만 $ 에 판매하는 영구",
+      "summary_ko": ""
+    },
+    {
+      "title": "US oil CEOs warn Trump administration that energy crisis likely to worsen, WSJ reports",
+      "link": "https://www.investing.com/news/stock-market-news/us-oil-ceos-warn-trump-administration-that-energy-crisis-likely-to-worsen-wsj-reports-4561594",
+      "summary": "",
+      "title_ko": "WSJ는 미국 석유 CEO들이 트럼프 행정부에 에너지 위기가 악화될 것이라고 경고했다고 보도했다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Australia’s Lynas inks US rare earth oxide supply deal",
+      "link": "https://www.investing.com/news/stock-market-news/australias-lynas-inks-us-rare-earth-oxide-supply-deal-4561592",
+      "summary": "",
+      "title_ko": "호주의 Lynas 잉크 미국 희토류 산화물 공급 거래",
       "summary_ko": ""
     },
     {
@@ -16,17 +30,10 @@
       "summary_ko": ""
     },
     {
-      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-      "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4561586",
+      "title": "Britain unveils jobs drive for young people to tackle high unemployment",
+      "link": "https://www.investing.com/news/economic-indicators/britain-unveils-jobs-drive-for-young-people-to-tackle-high-unemployment-4561591",
       "summary": "",
-      "title_ko": "러시아 주식은 교역 마감 시점보다 낮습니다. MOEX 러시아 지수는 변동이 없습니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Fonterra CEO Miles Hurrell resigns after eight years in role",
-      "link": "https://www.investing.com/news/stock-market-news/fonterra-ceo-miles-hurrell-to-step-down-4561584",
-      "summary": "",
-      "title_ko": "Fonterra CEO Miles Hurrell, 8년 만에 사임",
+      "title_ko": "영국, 청년들이 높은 실업률에 대처할 수 있는 일자리 창출 방안 발표",
       "summary_ko": ""
     },
     {
@@ -51,25 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Consumer sentiment dips slightly but beats expectations",
-      "link": "https://www.investing.com/news/economic-indicators/consumer-sentiment-dips-slightly-but-beats-expectations-93CH-4560318",
-      "summary": "",
-      "title_ko": "소비자의 감정은 약간 쇠퇴하지만 기대를 능가합니다.",
-      "summary_ko": ""
+      "title": "WTI Crude Oil jumps towards $100 amid fresh supply concerns",
+      "link": "https://www.fxstreet.com/news/wti-crude-oil-jumps-towards-100-amid-fresh-supply-concerns-202603152248",
+      "summary": "Crude Oil Prices are roughly 3% up at the weekly opening, with the barrel of West Texas Intermediate (WTI) crude hovering around $99.",
+      "title_ko": "WTI 원유는 신선한 공급 우려 속에서 $ 100로 뛰어 올랐습니다.",
+      "summary_ko": "원유 가격은 주간 오프닝에서 대략 3% 상승하고 있으며, 서부 텍사스 중급 (WTI) 원유의 배럴은 $ 99 정도를 맴돌고 있습니다."
     },
     {
-      "title": "USD/JPY opens lower on FM pledge to “monitor” market developments",
-      "link": "https://www.fxstreet.com/news/usd-jpy-opens-lower-on-fm-pledge-to-monitor-market-developments-202603152218",
-      "summary": "The war in the Middle East intensified over the weekend, leading  to opening gaps across the FX board.",
-      "title_ko": "USD/JPY는 시장 발전을 \"모니터링\" 하기 위해 FM 서약에 하한을 엽니 다.",
-      "summary_ko": "중동 전쟁은 주말에 심화되어 FX 이사회 전반에 걸쳐 격차를 벌렸다."
-    },
-    {
-      "title": "US energy secretary says Iran war expected to end within next few weeks",
-      "link": "https://www.fxstreet.com/news/us-energy-secretary-says-iran-war-expected-to-end-within-next-few-weeks-202603152215",
-      "summary": "US energy secretary Chris Wright said that he expects the United States (US)–Israel war with Iran to end within “the next few weeks,” with oil supplies rebounding and energy costs declining afterwards, the Guardian repor",
-      "title_ko": "미국 에너지 장관은 이란 전쟁이 앞으로 몇 주 안에 끝날 것으로 예상된다고 말했습니다.",
-      "summary_ko": "미국 에너지 장관 크리스 라이트 (Chris Wright) 는 미국 (미국) -이란과의 이스라엘 전쟁이 \"앞으로 몇 주 내에\" 끝날 것으로 기대한다고 말했다. 석유 공급이 반등하고 에너지 비용이 감소했다. 가디언 repor"
+      "title": "France’s Macron: Freedom of navigation through the Strait of Hormuz must be restored",
+      "link": "https://www.fxstreet.com/news/frances-macron-freedom-of-navigation-through-the-strait-of-hormuz-must-be-restored-202603152243",
+      "summary": "France’s President Emmanuel Macron said on Sunday that freedom of navigation through the Strait of Hormuz must be restored as soon as possible. Macron called on Iran president to put an immediate end to unacceptable atta",
+      "title_ko": "프랑스의 마크롱: 호르무즈 해협을 통과하는 항행의 자유가 회복되어야 합니다.",
+      "summary_ko": "에마뉘엘 마크롱 프랑스 대통령은 일요일에 호르무즈 해협을 통과하는 항행의 자유가 가능한 한 빨리 회복되어야 한다고 말했다. 마크롱은 이란 대통령에게 용납할 수 없는 협상을 즉각 중단할 것을 촉구했다."
     }
   ]
 }

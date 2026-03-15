@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-03-14 23:32:30 UTC",
+  "updated_at_utc": "2026-03-15 02:39:49 UTC",
   "indices": {
     "spx": {
       "Symbol": "^SPX",
@@ -66,8 +66,8 @@
   },
   "fx": {
     "usdkrw": {
-      "rate": 1496.539707,
-      "time_last_update_utc": "Sat, 14 Mar 2026 00:02:32 +0000"
+      "rate": 1495.240466,
+      "time_last_update_utc": "Sun, 15 Mar 2026 00:02:32 +0000"
     }
   }
 }

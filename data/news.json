@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-03-16 17:35:40 UTC",
+  "updated_at_utc": "2026-03-16 19:06:15 UTC",
   "items": [
     {
-      "title": "Germany stocks mixed at close of trade; DAX up 0.51%",
-      "link": "https://www.investing.com/news/stock-market-news/germany-stocks-mixed-at-close-of-trade-dax-up-051-4563448",
+      "title": "Eni stock rises after Libya gas discovery boosts supply outlook",
+      "link": "https://www.investing.com/news/stock-market-news/eni-stock-rises-after-libya-gas-discovery-boosts-supply-outlook-93CH-4563544",
       "summary": "",
-      "title_ko": "독일 주식은 교역 마감 시점에서 혼합되며, DAX는 0.51% 상승",
+      "title_ko": "리비아 가스 디스커버리가 공급 전망을 높인 후 ENI 재고 증가",
       "summary_ko": ""
     },
     {
-      "title": "France stocks higher at close of trade; CAC 40 up 0.31%",
-      "link": "https://www.investing.com/news/stock-market-news/france-stocks-higher-at-close-of-trade-cac-40-up-031-4563447",
+      "title": "Factbox-Key players in UniCredit’s pursuit of Commerzbank",
+      "link": "https://www.investing.com/news/stock-market-news/factboxkey-players-in-unicredits-pursuit-of-commerzbank-4563538",
       "summary": "",
-      "title_ko": "프랑스는 거래 마감 시점에서 더 높은 주식을 보유하고 있으며, CAC 40은 0.31% 상승했습니다.",
+      "title_ko": "팩트박스-유니크레딧의 코메르츠방크 추구의 핵심 선수들",
       "summary_ko": ""
     },
     {
-      "title": "Belgium stocks higher at close of trade; BEL 20 up 0.38%",
-      "link": "https://www.investing.com/news/stock-market-news/belgium-stocks-higher-at-close-of-trade-bel-20-up-038-4563444",
+      "title": "Jefferies bullish on Eaton after Boyd Thermal deal boosts data center exposure",
+      "link": "https://www.investing.com/news/stock-market-news/jefferies-bullish-on-eaton-after-boyd-thermal-deal-boosts-data-center-exposure-4563537",
       "summary": "",
-      "title_ko": "벨기에의 주가는 거래 종료 시점에 더 높습니다. 벨 20은 0.38% 상승했습니다.",
+      "title_ko": "Boyd Thermal 거래가 데이터 센터 노출을 높인 후 Eaton에서 Jefferies가 강세를 보임",
       "summary_ko": ""
     },
     {
-      "title": "European stocks rise as oil price drop boosts risk sentiment",
-      "link": "https://www.investing.com/news/stock-market-news/european-stocks-open-higher-as-iran-war-enters-third-week-4561828",
+      "title": "OneMain sued by US states for saddling subprime borrowers with add-ons, fees",
+      "link": "https://www.investing.com/news/stock-market-news/onemain-sued-by-us-states-for-selling-hidden-addon-products-collecting-junk-fees-4563154",
       "summary": "",
-      "title_ko": "유가 하락이 위험 심리를 높임에 따라 유럽 증시가 상승합니다.",
+      "title_ko": "서브프라임 차용자에게 부가 서비스, 수수료를 부과한 혐의로 미국 주에서 소송을 제기한 OneMain",
+      "summary_ko": ""
+    },
+    {
+      "title": "Cuba to allow nationals living abroad to own businesses on island, NBC News reports",
+      "link": "https://www.investing.com/news/economic-indicators/cuba-to-allow-nationals-living-abroad-to-own-businesses-on-island-nbc-news-reports-4563494",
+      "summary": "",
+      "title_ko": "NBC 뉴스는 쿠바가 해외에 거주하는 국민이 섬에서 사업을 소유할 수 있도록 허용한다고 보도했습니다.",
       "summary_ko": ""
     },
     {
@@ -51,11 +58,11 @@
       "summary_ko": ""
     },
     {
-      "title": "Canadian housing starts rise slightly in February, says CMHC",
-      "link": "https://www.investing.com/news/economic-indicators/canadian-housing-starts-rise-slightly-in-february-says-cmhc-4562635",
-      "summary": "",
-      "title_ko": "CMHC에 따르면 캐나다 주택은 2월에 소폭 상승하기 시작한다.",
-      "summary_ko": ""
+      "title": "NZD/USD rebounds on strong Chinese data, RBNZ rate hike outlook",
+      "link": "https://www.fxstreet.com/news/nzd-usd-rebounds-on-strong-chinese-data-rbnz-rate-hike-outlook-202603161811",
+      "summary": "NZD/USD rises on Monday and trades around 0.5850 at the time of writing, up 1.42% on the day. The pair rebounds after several days of decline, supported by improving risk sentiment and macroeconomic factors favorable to ",
+      "title_ko": "중국 강세 데이터에 대한 NZD/USD 반등, RBNZ 금리 인상 전망",
+      "summary_ko": "NZD/USD는 월요일에 상승하고 서면 작성 시 약 0.5850에 거래되며 당일 1.42% 상승합니다. 이 쌍은 며칠 동안 하락한 후 반등하며, 위험 감정과 거시경제 요인을 개선하여"
     },
     {
       "title": "EUR/USD rebounds toward 1.1500 as US Dollar pauses; Fed and ECB decisions in focus",
@@ -63,13 +70,6 @@
       "summary": "The Euro (EUR) rebounds against the US Dollar (USD) on Monday as the Greenback eases following its recent rally, allowing EUR/USD to rebound from the seven-month lows touched on Friday.",
       "title_ko": "EUR/USD는 미국 달러화가 일시 중지됨에 따라 1.1500으로 반등했습니다. 연준과 ECB의 결정에 중점을 두었습니다.",
       "summary_ko": "유로 (EUR) 는 최근 랠리 이후 그린백이 완화됨에 따라 월요일에 미국 달러 (USD) 에 대해 반등하여 금요일에 만진 7 개월 최저치에서 EUR/USD가 반등 할 수 있습니다."
-    },
-    {
-      "title": "USD/JPY dips as markets eye Fed, BoJ meetings amid rising inflation risks",
-      "link": "https://www.fxstreet.com/news/usd-jpy-dips-as-markets-eye-fed-boj-meetings-amid-rising-inflation-risks-202603161707",
-      "summary": "USD/JPY declines on Monday, trading around 159.20 at the time of writing, down 0.33% on the day as the Japanese Yen (JPY) gains modest ground ahead of a crucial week for global central banks, with policy decisions from t",
-      "title_ko": "USD/JPY는 인플레이션 위험이 증가하는 가운데 연준, BOJ 회의에서 시장의 눈길을 끌고 있습니다.",
-      "summary_ko": "USD/JPY는 월요일에 약 159.20에 거래되며, 일본 엔화 (JPY) 가 글로벌 중앙 은행에게 중요한 한 주를 앞두고 소폭의 지지를 얻음에 따라 당일 0.33% 하락했다."
     }
   ]
 }

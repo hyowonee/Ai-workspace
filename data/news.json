@@ -1,18 +1,11 @@
 {
-  "updated_at_utc": "2026-03-16 22:02:38 UTC",
+  "updated_at_utc": "2026-03-16 22:57:40 UTC",
   "items": [
     {
-      "title": "Roche ramps up AI computing capacity with Nvidia chip expansion",
-      "link": "https://www.investing.com/news/stock-market-news/roche-ramps-up-ai-computing-capacity-with-nvidia-chip-expansion-4563880",
+      "title": "Boeing asks suppliers to check for Middle East impact as war rages",
+      "link": "https://www.investing.com/news/stock-market-news/boeing-asks-suppliers-to-check-for-middle-east-impact-as-war-rages-4563812",
       "summary": "",
-      "title_ko": "Roche, Nvidia 칩 확장으로 AI 컴퓨팅 용량 증대",
-      "summary_ko": ""
-    },
-    {
-      "title": "Supreme Court to weigh Trump bid to end legal protections for Haitian, Syrian migrants",
-      "link": "https://www.investing.com/news/stock-market-news/supreme-court-to-weigh-trump-bid-to-strip-temporary-status-from-haitian-syrian-migrants-4563621",
-      "summary": "",
-      "title_ko": "아이티, 시리아 이민자에 대한 법적 보호를 종료하기 위해 트럼프 입찰에 무게를 두는 대법원",
+      "title_ko": "보잉은 공급 업체에 전쟁이 격화됨에 따라 중동의 영향을 확인하도록 요청합니다.",
       "summary_ko": ""
     },
     {
@@ -23,10 +16,17 @@
       "summary_ko": ""
     },
     {
-      "title": "JBS workers launch first US meatpacking strike in 40 years, union says",
-      "link": "https://www.investing.com/news/stock-market-news/jbs-workers-launch-first-us-meatpacking-strike-in-40-years-union-says-4564081",
+      "title": "Samsung Elec workers’ strike plan would disrupt chip supply, union chief says",
+      "link": "https://www.investing.com/news/stock-market-news/samsung-elec-workers-strike-plan-would-disrupt-chip-supply-union-chief-says-4564228",
       "summary": "",
-      "title_ko": "노조는 JBS 노동자들이 40년 만에 처음으로 미국 육류 포장 파업을 시작했다고 말한다.",
+      "title_ko": "삼성일렉 노동자들의 파업 계획은 칩 공급을 방해할 것이라고 노조 최고책임자는 말한다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Pono Capital Four completes $120 million SPAC IPO on NASDAQ",
+      "link": "https://www.investing.com/news/stock-market-news/pono-capital-four-completes-120-million-spac-ipo-on-nasdaq-432SI-4564210",
+      "summary": "",
+      "title_ko": "포노 캐피탈 포, 나스닥에서 1억 2천만 달러 규모의 SPAC IPO 완료 ($ 120 million SPAC IPO)",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "China: Growth outlook stays resilient – Commerzbank",
-      "link": "https://www.fxstreet.com/news/china-growth-outlook-stays-resilient-commerzbank-202603162052",
-      "summary": "Commerzbank’s Senior Economist Dr. Henry Hao highlights a resilient start to 2026 for China, driven by strong industrial production, exports and infrastructure investment, despite ongoing property sector weakness.",
-      "title_ko": "중국: 성장 전망 회복탄력성 유지 – Commerzbank",
-      "summary_ko": "코메르츠방크의 수석 이코노미스트 헨리 하오 (Henry Hao) 박사는 지속적인 부동산 부문 약세에도 불구하고 강력한 산업 생산, 수출 및 인프라 투자에 힘입어 중국의 2026년을 탄력적으로 시작한다고 강조합니다."
+      "title": "GBP/USD bounces from lows as US Dollar retreats",
+      "link": "https://www.fxstreet.com/news/gbp-usd-bounces-from-lows-as-us-dollar-retreats-202603162214",
+      "summary": "GBP/USD gained almost 0.75% on Monday, bouncing from Friday's low close to 1.3220 to settle on the high side of 1.3300.",
+      "title_ko": "미국 달러화 후퇴로 GBP/USD가 최저치에서 반등",
+      "summary_ko": "GBP/USD는 월요일에 거의 0.75% 상승하여 1.3220에 가까운 금요일 최저치에서 반등하여 1.3300의 높은 편에 안착했습니다."
     },
     {
-      "title": "NZD/USD Price Analysis: Kiwi recovers to near 0.5860 as China data lifts outlook",
-      "link": "https://www.fxstreet.com/news/nzd-usd-price-analysis-kiwi-recovers-to-near-05860-as-china-data-lifts-outlook-202603162041",
-      "summary": "The NZD/USD pair is trading near the 0.5860 level, recovering after four days of straight losses. The rebound was supported by the release of solid economic data from China, New Zealand’s trading partner.",
-      "title_ko": "NZD/USD 가격 분석: 중국 데이터가 전망을 높이면서 키위는 0.5860 근처로 회복",
-      "summary_ko": "NZD/USD 쌍은 0.5860 수준 근처에서 거래되고 있으며, 4일 연속 손실 후 회복 중입니다. 반등은 뉴질랜드의 무역 파트너인 중국의 견고한 경제 데이터 발표로 뒷받침되었습니다."
+      "title": "Gold Price Forecast: XAU/USD pulls back amid cooling safe-haven demand",
+      "link": "https://www.fxstreet.com/news/xau-usd-price-forecast-gold-pulls-back-amid-cooling-safe-haven-demand-202603162208",
+      "summary": "XAU/USD spun in a flat circle on Monday, settling close to 5,000 in a relatively contained session following last week's sharp decline from the highs.",
+      "title_ko": "금 가격 예측: XAU/USD, 냉각 안전 피난처 수요 속에서 철수",
+      "summary_ko": "XAU/USD는 월요일에 평평한 원형으로 회전하여 지난 주 급격한 최고치 하락에 이어 상대적으로 포함 된 세션에서 5,000에 가깝게 정착했습니다."
     }
   ]
 }

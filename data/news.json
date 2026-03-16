@@ -1,32 +1,32 @@
 {
-  "updated_at_utc": "2026-03-16 10:55:39 UTC",
+  "updated_at_utc": "2026-03-16 11:51:10 UTC",
   "items": [
     {
-      "title": "Needham keeps Meta at Hold amid AI investment concerns",
-      "link": "https://www.investing.com/news/stock-market-news/needham-keeps-meta-at-hold-amid-ai-investment-concerns-93CH-4562152",
+      "title": "Germany rejects hostile UniCredit takeover of Commerzbank",
+      "link": "https://www.investing.com/news/stock-market-news/germany-rejects-hostile-unicredit-takeover-of-commerzbank-93CH-4562347",
       "summary": "",
-      "title_ko": "니드햄은 AI 투자 우려 속에서 메타를 유지합니다.",
+      "title_ko": "독일, 코메르츠방크에 대한 적대적 UniCredit 인수 거부",
       "summary_ko": ""
     },
     {
-      "title": "Dollar Tree forecasts soft annual sales",
+      "title": "U.S. stock futures rise as Trump calls for help reopening key shipping lane",
+      "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-as-trump-calls-for-help-reopening-key-shipping-lane-4562325",
+      "summary": "",
+      "title_ko": "트럼프가 주요 운송 경로를 재개하는 데 도움을 요청함에 따라 미국 주식 선물이 상승합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Dollar Tree forecasts subdued annual sales as spending tightens",
       "link": "https://www.investing.com/news/stock-market-news/dollar-tree-forecasts-soft-annual-sales-4562148",
       "summary": "",
-      "title_ko": "달러 트리는 소프트 연간 매출을 예측합니다",
+      "title_ko": "달러 트리 (Dollar Tree) 는 지출이 강화됨에 따라 연간 매출이 감소할 것으로 예측합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Senior housing REIT Janus Living aims to raise $740 million in US IPO",
-      "link": "https://www.investing.com/news/stock-market-news/senior-housing-reit-janus-living-aims-to-raise-740-million-in-us-ipo-4562146",
+      "title": "Equities face rising correction risk, Goldman’s Oppenheimer warns",
+      "link": "https://www.investing.com/news/stock-market-news/equities-face-rising-correction-risk-goldmans-oppenheimer-warns-4562310",
       "summary": "",
-      "title_ko": "노인 주택 REIT Janus Living은 미국 IPO에서 7억 4천만 달러 ($) 를 모으는 것을 목표로 합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Exclusive-European publishers, tech firms urge EU to speed up fine on Google over search",
-      "link": "https://www.investing.com/news/stock-market-news/exclusiveeuropean-publishers-tech-firms-urge-eu-to-speed-up-fine-on-google-over-search-4562101",
-      "summary": "",
-      "title_ko": "독점 유럽 출판사, 기술 회사는 유럽 연합 (EU) 이 검색을 통해 Google에서 벌금을 부과 할 것을 촉구합니다.",
+      "title_ko": "골드만스 오펜하이머 (Goldman's Oppenheimer) 는 주식이 교정 위험 증가에 직면하고 있다고 경고합니다.",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Canada CPI set to show cooling inflation, still slightly above BoC target",
-      "link": "https://www.fxstreet.com/news/canada-cpi-expected-to-edge-lower-in-february-ahead-of-boc-rate-meeting-202603160800",
-      "summary": "On Monday, attention in Canada will turn to the release of February’s Consumer Price Index (CPI) figures.",
-      "title_ko": "캐나다 CPI가 냉각 인플레이션을 표시하도록 설정되었지만 여전히 BoC 목표를 약간 상회합니다.",
-      "summary_ko": "월요일에는 캐나다의 관심이 2월 소비자 물가 지수 (CPI) 수치 발표로 바뀔 것입니다."
+      "title": "CAD: Softer jobs and CPI seen versus Oil risk – TD Securities",
+      "link": "https://www.fxstreet.com/news/cad-softer-jobs-and-cpi-seen-versus-oil-risk-td-securities-202603161108",
+      "summary": "TD Securities analysts expect Canadian headline CPI to slow to 1.9% year-on-year in February, with softer core measures leaving inflation below Bank of Canada projections. However, they stress that this softer path matte",
+      "title_ko": "CAD: 더 부드러운 작업 및 석유 위험 대비 CPI – TD 증권",
+      "summary_ko": "TD 증권 분석가들은 캐나다 헤드라인 CPI가 2월에 전년 대비 1.9% 로 둔화될 것으로 예상하며, 더 부드러운 핵심 조치로 인해 인플레이션이 캐나다 은행 예상치보다 낮아질 것으로 예상합니다. 그러나 그들은 이 더 부드러운 경로가 매트하다고 강조합니다."
     },
     {
-      "title": "USD: Conflict premium supports gains – ING",
-      "link": "https://www.fxstreet.com/news/usd-conflict-premium-supports-gains-ing-202603160959",
-      "summary": "ING’s Chris Turner expects the Dollar to stay supported as the Middle East conflict keeps Oil prices elevated and markets await central bank responses. He sees this week’s FOMC meeting as Dollar-positive, with the Federa",
-      "title_ko": "USD: 분쟁 프리미엄 지원 이익 – ING",
-      "summary_ko": "ING의 크리스 터너 (Chris Turner) 는 중동 분쟁으로 유가가 상승하고 시장이 중앙 은행의 반응을 기다리고 있기 때문에 달러가 계속 지원될 것으로 기대하고 있다. 그는 이번 주 FOMC 회의가 페더러와 달러-긍정적이라고 보고 있다."
+      "title": "Canada CPI expected to edge lower in February ahead of BoC rate meeting",
+      "link": "https://www.fxstreet.com/news/canada-cpi-expected-to-edge-lower-in-february-ahead-of-boc-rate-meeting-202603160800",
+      "summary": "On Monday, attention in Canada will turn to the release of February’s Consumer Price Index (CPI) figures.",
+      "title_ko": "캐나다 CPI는 BoC 환율 회의를 앞두고 2월에 하락할 것으로 예상됩니다.",
+      "summary_ko": "월요일에는 캐나다의 관심이 2월 소비자 물가 지수 (CPI) 수치 발표로 바뀔 것입니다."
     }
   ]
 }

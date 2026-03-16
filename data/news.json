@@ -1,39 +1,53 @@
 {
-  "updated_at_utc": "2026-03-16 02:40:25 UTC",
+  "updated_at_utc": "2026-03-16 05:18:23 UTC",
   "items": [
     {
-      "title": "Asia shares wary, oil volatile as war drags on",
-      "link": "https://www.investing.com/news/stock-market-news/asia-shares-wary-oil-volatile-as-war-drags-on-4561608",
+      "title": "Zhipu shares surge after introducing GLM-5-Turbo for OpenClaw ecosystem",
+      "link": "https://www.investing.com/news/stock-market-news/zhipu-shares-surge-after-introducing-glm5turbo-for-openclaw-ecosystem-4561635",
       "summary": "",
-      "title_ko": "아시아 주식은 전쟁이 계속됨에 따라 경계심이 강하고 석유가 휘발성입니다.",
+      "title_ko": "OpenClaw 생태계를 위한 GLM-5-Turbo 도입 후 Zhipu 주식 급증",
       "summary_ko": ""
     },
     {
-      "title": "Syrah, Tesla extend deadline to resolve graphite supply default",
-      "link": "https://www.investing.com/news/stock-market-news/syrah-tesla-extend-deadline-to-resolve-graphite-supply-default-4561618",
+      "title": "Exclusive-China’s No. 2 chipmaker readies 7 nm production as Beijing ramps up self-suffiency drive",
+      "link": "https://www.investing.com/news/stock-market-news/exclusivechinas-no-2-chipmaker-readies-7-nm-production-as-beijing-ramps-up-selfsuffiency-drive-4561633",
       "summary": "",
-      "title_ko": "Syrah, Tesla는 흑연 공급 기본값을 해결하기 위해 기한을 연장합니다",
+      "title_ko": "중국 독점 2위 칩 메이커, 베이징이 자급자족을 추진함에 따라 7nm 생산 준비",
       "summary_ko": ""
     },
     {
-      "title": "Nvidia to focus on competition-beating AI advances at megaconference",
-      "link": "https://www.investing.com/news/stock-market-news/nvidia-to-focus-on-competitionbeating-ai-advances-at-megaconference-4561615",
+      "title": "Warner Bros’ Oscar triumph a bittersweet moment as Paramount deal looms",
+      "link": "https://www.investing.com/news/stock-market-news/warner-bros-oscar-triumph-a-bittersweet-moment-as-paramount-deal-looms-4561632",
       "summary": "",
-      "title_ko": "메가컨퍼런스에서 경쟁을 이기는 AI 발전에 집중하는 엔비디아",
+      "title_ko": "워너 브라더스의 오스카는 파라마운트 딜이 시작되면서 씁쓸한 순간을 이깁니다",
       "summary_ko": ""
     },
     {
-      "title": "Perpetual to sell wealth management arm to Bain Capital for $350 million upfront",
-      "link": "https://www.investing.com/news/stock-market-news/perpetual-to-sell-wealth-management-arm-to-bain-capital-for-350-million-upfront-4561588",
+      "title": "Asia stocks fall as Iran war, oil surge weigh; Chinese data in focus",
+      "link": "https://www.investing.com/news/stock-market-news/asia-stocks-fall-as-iran-war-oil-surge-weigh-chinese-data-in-focus-4561623",
       "summary": "",
-      "title_ko": "자산 관리 부서를 Bain Capital에 선불로 3억 5천만 $ 에 판매하는 영구",
+      "title_ko": "이란전으로 아시아 증시 하락, 원유 급등 추세; 중국 데이터 집중",
       "summary_ko": ""
     },
     {
-      "title": "China’s new home prices extend decline in February",
+      "title": "China’s new home prices extend drop in February as recovery remains elusive",
       "link": "https://www.investing.com/news/economic-indicators/chinas-new-home-prices-extend-decline-in-february-4561617",
       "summary": "",
-      "title_ko": "2월 중국 신규 주택 가격 하락폭 확대",
+      "title_ko": "복구가 어려워지면서 중국의 신규 주택 가격이 2월에 하락폭을 확대합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Trump accuses Iran of using AI to spread disinformation",
+      "link": "https://www.investing.com/news/economic-indicators/trump-accuses-iran-of-using-ai-to-spread-disinformation-4561625",
+      "summary": "",
+      "title_ko": "트럼프는 이란이 인공지능을 이용해 허위 정보를 퍼뜨리고 있다고 비난한다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Chinese industrial production, retail sales rise more than expected in Jan-Feb",
+      "link": "https://www.investing.com/news/economic-indicators/chinese-industrial-production-retail-sales-rise-more-than-expected-in-janfeb-4561620",
+      "summary": "",
+      "title_ko": "중국 공업 생산, 소매 판매는 1 ~ 2월 예상보다 증가",
       "summary_ko": ""
     },
     {
@@ -44,32 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "German corporate insolvencies reach highest level since 2014",
-      "link": "https://www.investing.com/news/economic-indicators/german-corporate-insolvencies-reach-highest-level-since-2014-4559687",
-      "summary": "",
-      "title_ko": "독일 기업 파산은 2014년 이후 최고 수준에 도달했습니다.",
-      "summary_ko": ""
+      "title": "Iranian Foreign Minister claims Israeli strikes on fuel depots are ‘ecocide’",
+      "link": "https://www.fxstreet.com/news/iranian-foreign-minister-claims-israeli-strikes-on-fuel-depots-are-ecocide-202603160453",
+      "summary": "Iran’s Foreign Minister, Abbas Araghchi, claimed Israeli strikes on fuel depots across Tehran amount to \"ecocide,\" citing the impact on the health of the Iranian capital’s residents, the Guardian reported on Monday. He a",
+      "title_ko": "이란 외무장관, 이스라엘의 연료 저장소 파업이 ‘에코사이드‘ 라고 주장",
+      "summary_ko": "이란 외무장관 압바스 아라기 (Abbas Araghchi) 는 이란 수도 주민들의 건강에 미치는 영향을 언급하면서 테헤란 전역의 연료 저장소에 대한 이스라엘의 파업이 \"에코사이드 (ecocide)\" 라고 주장했다고 월요일 가디언이 보도했다. 그는"
     },
     {
-      "title": "US job openings rise in January, but hiring tepid",
-      "link": "https://www.investing.com/news/economic-indicators/us-job-openings-rise-in-january-but-hiring-tepid-4560451",
-      "summary": "",
-      "title_ko": "미국 채용 공고는 1월에 상승하지만 미지근한 채용",
-      "summary_ko": ""
-    },
-    {
-      "title": "Japan PM Takaichi: No plan currently to dispatch its navy to Middle East to escort vessels",
-      "link": "https://www.fxstreet.com/news/japan-pm-takaichi-no-plan-currently-to-dispatch-its-navy-to-middle-east-to-escort-vessels-202603160152",
-      "summary": "Japanese Prime Minister (PM) Sanae Takaichi said on Monday that “Japan has no plan currently to dispatch its navy to the Middle East to escort vessels.”",
-      "title_ko": "일본 PM 다카이치: 현재 선박을 호위하기 위해 해군을 중동에 파견할 계획은 없습니다.",
-      "summary_ko": "일본 총리 (PM) 사나에 다카이치 (Sanae Takaichi) 는 월요일 \"일본은 현재 선박을 호위하기 위해 해군을 중동에 파견할 계획이 없다\" 고 말했다."
-    },
-    {
-      "title": "US Dollar Index remains above 100.00 after pulling back from nearly 10-month highs",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-remains-above-10000-after-pulling-back-from-nearly-10-month-highs-202603160126",
-      "summary": "The US Dollar Index (DXY), which measures the value of the US Dollar (USD) against six major currencies, retreats after touching a near 10-month high of 100.54 in the previous session, trading around 100.20 during Asian ",
-      "title_ko": "거의 10개월간의 최고치에서 물러난 후에도 미국 달러 인덱스는 100.00을 상회합니다.",
-      "summary_ko": "6개 주요 통화에 대한 미국 달러 (USD) 의 가치를 측정하는 미국 달러 지수 (DXY) 는 이전 세션에서 100.54 의 거의 10개월 최고치를 기록한 후 후퇴하며 아시아 기간 동안 약 100.20 에 거래됩니다."
+      "title": "Pound Sterling gains momentum above 1.3250 as traders brace for Fed, BoE rate decisions",
+      "link": "https://www.fxstreet.com/news/pound-sterling-gains-momentum-above-13250-as-traders-brace-for-fed-boe-rate-decisions-202603160448",
+      "summary": "The GBP/USD pair gains momentum around 1.3255 during the early European session on Monday, bolstered by a weaker US Dollar (USD). The major pair currently trades near its lowest since December 2025.",
+      "title_ko": "파운드 스털링은 트레이더가 연준, BoE 금리 결정을 보완함에 따라 1.3250 이상의 모멘텀을 얻습니다.",
+      "summary_ko": "GBP/USD 쌍은 월요일의 초기 유럽 세션에서 약 1.3255의 모멘텀을 얻었으며 약한 미국 달러 (USD) 로 강화되었습니다. 메이저 페어는 현재 2025년 12월 이후 가장 낮은 수준으로 거래되고 있습니다."
     }
   ]
 }

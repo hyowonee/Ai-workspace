@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-03-17 20:41:56 UTC",
+  "updated_at_utc": "2026-03-17 21:40:51 UTC",
   "items": [
     {
-      "title": "Lululemon sees annual revenue, profit below estimates amid board, demand challenges",
+      "title": "Mexico stocks higher at close of trade; S&amp;P/BMV IPC up 0.83%",
+      "link": "https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-083-4567008",
+      "summary": "",
+      "title_ko": "멕시코는 거래 마감 시점에서 더 높은 주식을 보유하고 있으며, S&amp;P/BMV IPC는 0.83% 상승",
+      "summary_ko": ""
+    },
+    {
+      "title": "Colombia stocks lower at close of trade; COLCAP down 0.05%",
+      "link": "https://www.investing.com/news/stock-market-news/colombia-stocks-lower-at-close-of-trade-colcap-down-005-4566996",
+      "summary": "",
+      "title_ko": "콜롬비아 주식은 거래 마감 시점에 하락, COLCAP는 0.05% 하락",
+      "summary_ko": ""
+    },
+    {
+      "title": "Russia stocks lower at close of trade; MOEX Russia Index down 0.00%",
+      "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-000-4566973",
+      "summary": "",
+      "title_ko": "러시아는 교역 마감 시점에 주가가 낮아지고, MOEX 러시아 지수는 0.00% 하락",
+      "summary_ko": ""
+    },
+    {
+      "title": "Lululemon forecasts softer 2026 amid board, demand strains",
       "link": "https://www.investing.com/news/stock-market-news/lululemon-forecasts-annual-revenue-profit-below-estimates-4566690",
       "summary": "",
-      "title_ko": "룰루레몬은 연간 매출, 이사회 중 추정치 이하의 이익, 수요 도전을 봅니다.",
+      "title_ko": "룰루레몬은 보드, 수요 균주 가운데 부드러운 2026 예측",
       "summary_ko": ""
     },
     {
-      "title": "SoFi stock rises after-hours as CEO Noto buys shares amid short seller attack",
-      "link": "https://www.investing.com/news/stock-market-news/sofi-stock-rises-afterhours-as-ceo-noto-buys-shares-amid-short-seller-attack-4566695",
+      "title": "Crude Oil Inventories Surge, Surpassing Forecasts and Previous Levels",
+      "link": "https://www.investing.com/news/economic-indicators/crude-oil-inventories-surge-surpassing-forecasts-and-previous-levels-93CH-4566867",
       "summary": "",
-      "title_ko": "공매도 공세 속에서 CEO 노토가 주식을 사들임에 따라 SoFi 주가가 시간 후 상승합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Nvidia restarting manufacturing of China AI chip variant, CEO says",
-      "link": "https://www.investing.com/news/stock-market-news/nvidia-restarting-manufacturing-of-china-ai-chip-variant-ceo-says-4566694",
-      "summary": "",
-      "title_ko": "CEO는 Nvidia가 중국 AI 칩 변종 제조를 다시 시작한다고 말합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Unicredit should clarify intentions for Commerzbank, German state premier says",
-      "link": "https://www.investing.com/news/stock-market-news/unicredit-should-clarify-intentions-for-commerzbank-german-state-premier-says-4566417",
-      "summary": "",
-      "title_ko": "Unicredit은 Commerzbank에 대한 의도를 명확히 해야 한다고 독일 총리는 말합니다.",
+      "title_ko": "원유 재고 급증, 예측치 및 이전 수준 능가",
       "summary_ko": ""
     },
     {
@@ -51,25 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "JP Morgan revises UK forecasts, delays BoE rate cut to 2027",
-      "link": "https://www.investing.com/news/economic-indicators/jp-morgan-revises-uk-forecasts-delays-boe-rate-cut-to-2027-4565511",
-      "summary": "",
-      "title_ko": "JP Morgan, 영국 예측 수정, BOE 금리 인하 2027년으로 지연",
-      "summary_ko": ""
+      "title": "USD/CHF Price Forecast: US Dollar slips toward 0.7850 ahead of Fed decision",
+      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-slips-toward-07850-ahead-of-fed-decision-202603172046",
+      "summary": "The USD/CHF pair falls during the North American session on Tuesday, depreciating by some 0.20% at the time of writing, trading near 0.7850, as traders brace for the Federal Reserve’s (Fed) monetary policy decision on We",
+      "title_ko": "USD/CHF 가격 예측: 미국 달러는 연준의 결정에 앞서 0.7850으로 하락",
+      "summary_ko": "USD/CHF 쌍은 화요일 북미 세션에서 하락하여 서면 작성 시점에 약 0.20% 하락하여 0.7850 근처에서 거래되며, 트레이더는 당사에 대한 연방준비제도 (Fed) 의 통화 정책 결정을 지지합니다."
     },
     {
-      "title": "USD/THB: Overbought but still upside risks – OCBC",
-      "link": "https://www.fxstreet.com/news/usd-thb-overbought-but-still-upside-risks-ocbc-202603172003",
-      "summary": "OCBC strategists Sim Moh Siong and Christopher Wong note USD/THB has risen over 4% month‑to‑date as markets scaled back expectations for near‑term Fed easing and Oil prices surged, hurting Thailand’s terms of trade.",
-      "title_ko": "USD/THB: 과매수했지만 여전히 리스크 상향 – OCBC",
-      "summary_ko": "OCBC 전략가 심 모 시옹 (Sim Moh Siong) 과 크리스토퍼 웡 (Christopher Wong) 은 단기 연준의 완화와 유가에 대한 시장의 기대치가 급등함에 따라 USD/THB가 4% 이상 상승하여 태국의 무역 조건에 타격을 입혔다고 지적했다."
-    },
-    {
-      "title": "Gold struggles near $5,000 as Oil surge caps upside",
-      "link": "https://www.fxstreet.com/news/gold-struggles-near-5-000-as-oil-surge-caps-upside-202603171914",
-      "summary": "Gold price consolidates on Tuesday during the North American session around the $5,000 level, down 0.11% amid broad US Dollar weakness and falling US Treasury yields.",
-      "title_ko": "석유 탄력요금제가 상향 조정됨에 따라 금은 $ 5,000 근처에서 어려움을 겪고 있습니다.",
-      "summary_ko": "화요일 북미 세션에서 금 가격은 광범위한 미국 달러 약세와 미국 국채 수익률 하락 속에서 0.11% 하락한 $ 5,000 수준을 중심으로 통합됩니다."
+      "title": "NZD/USD trims losses as US Dollar weakens ahead of Fed",
+      "link": "https://www.fxstreet.com/news/nzd-usd-trims-losses-as-us-dollar-weakens-ahead-of-fed-202603172045",
+      "summary": "The NZD/USD pair is trading near the 0.5860 price region on Tuesday, erasing almost all its intraday losses as the Middle East war escalates,  pressuring the US Dollar (USD).",
+      "title_ko": "NZD/USD는 미국 달러가 연준보다 약화됨에 따라 손실을 줄입니다.",
+      "summary_ko": "NZD/USD 쌍은 화요일 0.5860 가격 지역 근처에서 거래되고 있으며, 중동 전쟁이 격화됨에 따라 거의 모든 일간 손실을 지우고 미국 달러 (USD) 를 압박하고 있습니다."
     }
   ]
 }

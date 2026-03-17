@@ -1,6 +1,13 @@
 {
-  "updated_at_utc": "2026-03-17 22:36:34 UTC",
+  "updated_at_utc": "2026-03-17 23:35:25 UTC",
   "items": [
+    {
+      "title": "BHP names Brandon Craig as CEO, succeeding Mike Henry",
+      "link": "https://www.investing.com/news/stock-market-news/bhp-names-brandon-craig-as-ceo-succeeding-mike-henry-4567056",
+      "summary": "",
+      "title_ko": "BHP는 마이크 헨리 (Mike Henry) 의 뒤를 이어 브랜든 크레이그 (Brandon Craig) 를",
+      "summary_ko": ""
+    },
     {
       "title": "FTC monitoring how drug companies react to patent cliff, official says",
       "link": "https://www.investing.com/news/stock-market-news/ftc-monitoring-how-drug-companies-react-to-patent-cliff-official-says-4567121",
@@ -13,13 +20,6 @@
       "link": "https://www.investing.com/news/stock-market-news/amazon-to-slash-usps-volume-in-shift-toward-inhouse-logistics--wsj-4567119",
       "summary": "",
       "title_ko": "아마존, USPS 물동량을 사내 물류로 전환 - WSJ",
-      "summary_ko": ""
-    },
-    {
-      "title": "BHP names Brandon Craig as CEO, succeeding Mike Henry",
-      "link": "https://www.investing.com/news/stock-market-news/bhp-names-brandon-craig-as-ceo-succeeding-mike-henry-4567056",
-      "summary": "",
-      "title_ko": "BHP는 마이크 헨리 (Mike Henry) 의 뒤를 이어 브랜든 크레이그 (Brandon Craig) 를",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "BoT: Rate on hold as Oil shock unfolds – UOB",
-      "link": "https://www.fxstreet.com/news/bot-rate-on-hold-as-oil-shock-unfolds-uob-202603172148",
-      "summary": "UOB economists Enrico Tanuwidjaja and Sathit Talaengsatya expect Bank of Thailand to keep the BoT 1-D Repo Rate at 1.00% through at least 1Q27, despite higher headline inflation from the Oil shock.",
-      "title_ko": "BoT: 오일 쇼크가 전개됨에 따라 요금이 보류됨 – UOB",
-      "summary_ko": "UOB 경제학자 Enrico Tanuwidjaja와 Sathit Talaengsatya는 태국 은행이 오일 쇼크로 인한 높은 헤드라인 인플레이션에도 불구하고 최소 1Q27까지 BoT 1-D Repo 금리를 1.00% 로 유지할 것으로 예상합니다."
+      "title": "GBP/USD steadies ahead of back-to-back Fed and BoE decisions",
+      "link": "https://www.fxstreet.com/news/gbp-usd-steadies-ahead-of-back-to-back-fed-and-boe-decisions-202603172240",
+      "summary": "The Pound Sterling edged higher for a second session as traders brace for Wednesday's Fed hold and Thursday's BoE rate decision.",
+      "title_ko": "연이은 연준 및 BOE 결정에 앞서 GBP/USD 안정화",
+      "summary_ko": "파운드 스털링은 거래자들이 수요일의 연준 보류와 목요일의 BoE 금리 결정을 고수함에 따라 두 번째 세션에서 더 상승했습니다."
     },
     {
-      "title": "AUD/USD extends rally as RBA hike boosts Aussie",
-      "link": "https://www.fxstreet.com/news/aud-usd-extends-rally-as-rba-hike-boosts-aussie-202603172144",
-      "summary": "The Australian Dollar extended its gains for the second straight day after the Reserve Bank of Australia raised rates by 25 basis points, as expected. At the time of writing, the AUD/USD trades at 0.7104, up 0.48%.",
-      "title_ko": "AUD/USD는 RBA 하이킹이 호주를 부양함에 따라 랠리를 연장합니다.",
-      "summary_ko": "호주 달러는 호주 중앙은행이 예상대로 금리를 25 베이시스 포인트 인상한 후 이틀 연속 이익을 연장했다. 서면 작성 시 AUD/USD는 0.48% 상승한 0.7104에 거래됩니다."
+      "title": "USD/JPY Edges lower for second day as traders brace for Fed and BoJ",
+      "link": "https://www.fxstreet.com/news/usd-jpy-edges-lower-for-second-day-as-traders-brace-for-fed-and-boj-202603172236",
+      "summary": "USD/JPY fell less than 0.1% on Tuesday, settling close to 158.90 in a narrow, directionless session.",
+      "title_ko": "트레이더들이 Fed와 BOJ를 지지함에 따라 USD/JPY 에지는 둘째 날 낮아졌습니다.",
+      "summary_ko": "USD/JPY는 화요일에 0.1% 미만으로 하락하여 좁고 방향이 없는 세션에서 158.90에 가깝게 정착했습니다."
     }
   ]
 }

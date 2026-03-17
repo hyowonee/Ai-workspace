@@ -1,32 +1,32 @@
 {
-  "updated_at_utc": "2026-03-17 02:25:17 UTC",
+  "updated_at_utc": "2026-03-17 04:30:05 UTC",
   "items": [
     {
-      "title": "Samsung shares rise after Nvidia’s Huang flags tie-up on new AI chips",
-      "link": "https://www.investing.com/news/stock-market-news/samsung-shares-rise-after-nvidias-huang-flags-tieup-on-new-ai-chips-4564432",
+      "title": "US judge upends Kennedy’s overhaul of childhood vaccine policies",
+      "link": "https://www.investing.com/news/stock-market-news/us-judge-blocks-efforts-to-reshape-childhood-vaccine-policy-4563631",
       "summary": "",
-      "title_ko": "엔비디아의 황 (Huang) 플래그가 새로운 AI 칩에 대한 제휴를 맺은 후 삼성 주식이 상승",
+      "title_ko": "미국 판사, 케네디의 소아 백신 정책 개편",
       "summary_ko": ""
     },
     {
-      "title": "WeRide unveils next-gen robotaxi powered by Nvidia tech",
-      "link": "https://www.investing.com/news/stock-market-news/weride-unveils-nextgen-robotaxi-powered-by-nvidia-tech-4564425",
+      "title": "Foxconn shares fall as Q4 profit miss offsets strong outlook",
+      "link": "https://www.investing.com/news/stock-market-news/foxconn-shares-fall-as-q4-profit-miss-offsets-strong-outlook-4564584",
       "summary": "",
-      "title_ko": "위라이드, 엔비디아 기술로 구동되는 차세대 로보택시 공개",
+      "title_ko": "Foxconn 주식은 4분기 이익 손실이 강한 전망을 상쇄함에 따라 하락합니다.",
       "summary_ko": ""
     },
     {
-      "title": "SK Group chairman says wafer shortage to last until 2030, trying to stabilise memory prices",
-      "link": "https://www.investing.com/news/stock-market-news/sk-group-chairman-says-wafer-shortage-to-last-until-2030-trying-to-stabilise-memory-prices-4564424",
+      "title": "JPMorgan poaches Goldman veteran Zhang as co-head of China investment banking",
+      "link": "https://www.investing.com/news/stock-market-news/jpmorgan-poaches-goldman-veteran-zhang-as-cohead-of-china-investment-banking-4564510",
       "summary": "",
-      "title_ko": "SK그룹 회장은 메모리 가격을 안정화하기 위해 2030년까지 웨이퍼 부족이 지속될 것이라고 말했습니다.",
+      "title_ko": "JP모건은 골드만 베테랑 장 (Zhang) 을 중국 투자은행의 공동 책임자로 밀어붙인다.",
       "summary_ko": ""
     },
     {
-      "title": "SK Hynix chair sees memory shortage lasting till 2030- reports",
-      "link": "https://www.investing.com/news/stock-market-news/sk-hynix-chair-sees-memory-shortage-lasting-till-2030-reports-4564417",
+      "title": "US government confirms Tesla and LG Energy Solution’s $4.3 billion battery deal",
+      "link": "https://www.investing.com/news/stock-market-news/us-government-confirms-tesla-and-lg-energy-solutions-43-billion-battery-deal-4564532",
       "summary": "",
-      "title_ko": "SK하이닉스 의자는 2030년까지 기억력 부족이 지속된다고 보고합니다.",
+      "title_ko": "미국 정부, 테슬라와 LG Energy Solution의 43억 달러 ($) 규모의 배터리 계약 확정",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "NZD/USD seems vulnerable around mid-0.5800s; below 200-day SMA ahead of Fed, NZD GDP",
-      "link": "https://www.fxstreet.com/news/nzd-usd-seems-vulnerable-around-mid-05800s-below-200-day-sma-ahead-of-fed-nzd-gdp-202603170157",
-      "summary": "The NZD/USD pair meets with a fresh supply during the Asian session on Tuesday and erodes a part of the previous day's solid recovery from the vicinity of a one-month low, touched last week.",
-      "title_ko": "NZD/USD는 0.5800s 중반 무렵에 취약해 보입니다. Fed, NZD GDP 대비 200일 미만의 SMA",
-      "summary_ko": "NZD/USD 쌍은 화요일 아시아 세션에서 새로운 공급을 만나고 지난 주에 만진 1 개월 최저치 부근에서 전날의 견고한 회복의 일부를 침식합니다."
+      "title": "Breaking: RBA hikes interest rate by 25 bps to 4.10%, as expected",
+      "link": "https://www.fxstreet.com/news/rba-set-for-second-consecutive-rate-hike-as-iran-war-fuels-concerns-over-high-inflation-202603170030",
+      "summary": "The Reserve Bank of Australia (RBA) announced on Tuesday that it hiked the Official Cash Rate (OCR) by 25 basis points (bps) to 4.10% from 3.85% after concluding its March monetary policy meeting.",
+      "title_ko": "속보: RBA가 예상대로 금리를 25bps에서 4.10% 로 인상합니다.",
+      "summary_ko": "호주 준비은행 (RBA) 은 3월 통화 정책 회의를 마친 후 화요일에 공식 현금 금리 (OCR) 를 3.85% 에서 4.10% 로 25 베이시스 포인트 (BPS) 인상했다고 발표했다."
     },
     {
-      "title": "Japanese Yen weakens as USD strengthens, intervention looms",
-      "link": "https://www.fxstreet.com/news/japanese-yen-weakens-as-usd-strengthens-intervention-looms-202603170155",
-      "summary": "USD/JPY recovers losses from the previous session, trading near 159.40 during Asian hours on Tuesday. However, the upside of the pair may be limited as the Japanese Yen (JPY) could find support from potential interventio",
-      "title_ko": "미국 달러화 강세에 따른 일본 엔화 약세, 개입 완화",
-      "summary_ko": "USD/JPY는 화요일 아시아 시간 동안 159.40 근처에서 거래되는 이전 세션의 손실을 복구합니다. 그러나 일본 엔화 (JPY) 가 잠재적인 개입으로부터 지원을 받을 수 있기 때문에 쌍의 장점은 제한적일 수 있습니다."
+      "title": "US Dollar Index holds correction near 100.00 in countdown to Fed policy",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-holds-correction-near-10000-in-countdown-to-fed-policy-202603170318",
+      "summary": "The US Dollar (USD) holds its Monday’s corrective move, which was driven by a significant retracement in the oil price that eased de-anchored consumer inflation concerns.",
+      "title_ko": "미국 달러 지수는 연준 정책에 대한 카운트다운에서 100.00 근처의 보정을 보유하고 있습니다.",
+      "summary_ko": "미국 달러 (USD) 는 월요일 시정 움직임을 보이고 있는데, 이는 닻을 잃은 소비자 인플레이션 우려를 완화한 유가의 상당한 후퇴에 힘입은 것이다."
     }
   ]
 }

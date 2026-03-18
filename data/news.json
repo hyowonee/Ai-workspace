@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-03-18 18:01:01 UTC",
+  "updated_at_utc": "2026-03-18 19:29:24 UTC",
   "items": [
     {
-      "title": "Top Republican calls out Trump’s Homeland nominee over inflammatory rhetoric",
+      "title": "Kraft Heinz and Unilever held merger talks on food brands",
+      "link": "https://www.investing.com/news/stock-market-news/kraft-heinz-and-unilever-held-merger-talks-on-food-brands-93CH-4569060",
+      "summary": "",
+      "title_ko": "Kraft Heinz와 Unilever는 식품 브랜드에 대한 합병 간담회를 개최했습니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Google developing options to allow AI opt-out in search to ease UK concerns",
+      "link": "https://www.investing.com/news/stock-market-news/google-to-allow-ai-optout-to-ease-uk-competition-concerns-4568830",
+      "summary": "",
+      "title_ko": "Google은 영국의 우려를 해소하기 위해 검색에서 AI 옵트아웃을 허용하는 옵션을 개발하고 있습니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Compass voluntarily dismisses lawsuit against Zillow regarding real estate listings",
+      "link": "https://www.investing.com/news/stock-market-news/compass-voluntarily-dismisses-lawsuit-against-zillow-regarding-real-estate-listings-4569047",
+      "summary": "",
+      "title_ko": "Compass는 부동산 리스팅과 관련하여 Zillow를 상대로 한 소송을 자발적으로 기각합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Top Republican opposes Trump’s Homeland nominee over inflammatory rhetoric",
       "link": "https://www.investing.com/news/stock-market-news/trumps-homeland-nominee-testifies-before-senate-panel-with-immigration-under-spotlight-4567826",
       "summary": "",
-      "title_ko": "최고 공화당 원은 염증성 수사에 대한 트럼프의 국토 지명자를 부른다.",
+      "title_ko": "상위 공화당 원은 염증성 수사학에 대한 트럼프의 국토 지명자에 반대한다",
       "summary_ko": ""
     },
     {
-      "title": "Artelo Biosciences stock surges on glaucoma study agreement",
-      "link": "https://www.investing.com/news/stock-market-news/artelo-biosciences-stock-surges-on-glaucoma-study-agreement-93CH-4568960",
+      "title": "Instant View: Fed holds rates steady as expected, calls inflation somewhat elevated",
+      "link": "https://www.investing.com/news/economic-indicators/instant-view-fed-holds-rates-steady-as-expected-calls-inflation-somewhat-elevated-4569040",
       "summary": "",
-      "title_ko": "Artelo Biosciences, DrDeramus 연구 계약에 대한 주가 급등",
-      "summary_ko": ""
-    },
-    {
-      "title": "TD Cowen Names 2 Top Telecom Stocks to Watch",
-      "link": "https://www.investing.com/news/stock-market-news/td-cowen-names-2-top-telecom-stocks-to-watch-93CH-4568957",
-      "summary": "",
-      "title_ko": "TD Cowen, 지켜봐야 할 최고의 텔레콤 주식 2곳 선정",
-      "summary_ko": ""
-    },
-    {
-      "title": "Grail stock jumps after TD Cowen upgrade on cancer test outlook",
-      "link": "https://www.investing.com/news/stock-market-news/grail-stock-jumps-after-td-cowen-upgrade-on-cancer-test-outlook-93CH-4568950",
-      "summary": "",
-      "title_ko": "암 검사 전망에서 TD Cowen 업그레이드 후 Grail 재고 점프",
+      "title_ko": "즉시 보기: 연방준비제도 (Fed) 가 예상대로 금리를 안정적으로 유지하고 있으며, 인플레이션이 다소 상승했다고 부름",
       "summary_ko": ""
     },
     {
@@ -51,25 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "U.S. Factory Orders Meet Expectations, Reflecting Economic Stability",
-      "link": "https://www.investing.com/news/economic-indicators/us-factory-orders-meet-expectations-reflecting-economic-stability-93CH-4568631",
-      "summary": "",
-      "title_ko": "미국 공장 발주, 기대치 충족, 경제 안정성 반영",
-      "summary_ko": ""
+      "title": "Fed's Powell: Upward revision in growth projections is productivity",
+      "link": "https://www.fxstreet.com/news/federal-reserve-set-to-hold-interest-rates-as-iran-war-clouds-outlook-202603181000",
+      "summary": "At the post-meeting press conference, Fed Chair Jerome Powell explained why policymakers decided to keep interest rates unchanged following the March meeting and took questions from reporters on the decision.",
+      "title_ko": "Fed's Powell: 성장 예측의 상향 조정은 생산성입니다",
+      "summary_ko": "회의 후 기자회견에서 제롬 파월 연준 의장은 3월 회의 이후 정책 입안자들이 금리를 변경하지 않기로 결정한 이유를 설명하고 이 결정에 대한 기자들의 질문을 받았다."
     },
     {
-      "title": "Gold crashes below $4,900 as hot PPI, Oil spike fuel USD rally",
-      "link": "https://www.fxstreet.com/news/gold-crashes-below-4-900-as-hot-ppi-oil-spike-fuel-usd-rally-202603181737",
-      "summary": "Gold (XAU/USD) tumbles by more than 2.20% on Wednesday as tensions in the Middle East rise and US inflation edges up, which could deter the Federal Reserve from easing policy. At the time of writing, the XAU/USD trades a",
-      "title_ko": "금이 뜨거운 PPI로 인해 $ 4,900 이하로 추락, 오일 스파이크 연료 USD 랠리",
-      "summary_ko": "금 (XAU/USD) 은 중동의 긴장이 고조되고 미국 인플레이션이 상승함에 따라 수요일에 2.20% 이상 하락하여 연방준비제도 (Fed) 의 정책 완화를 저지할 수 있다. 서면 작성 시 XAU/USD는"
-    },
-    {
-      "title": "US Dollar Index holds near 100.00 as hot PPI and Fed decision dominate",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-holds-near-10000-as-hot-ppi-and-fed-decision-dominate-202603181735",
-      "summary": "DXY edged up about 0.3% on Wednesday, trading around 99.85 in a session dominated by the hotter-than-expected Producer Price Index (PPI) print ahead of Wednesday's Federal Reserve (Fed) decision.",
-      "title_ko": "미국 달러 지수는 뜨거운 PPI와 연준 결정이 지배적이기 때문에 100.00 근처를 유지합니다.",
-      "summary_ko": "DXY는 수요일에 약 0.3% 상승했으며, 수요일 연방준비제도 (Fed) 결정에 앞서 예상보다 더 높은 생산자물가지수 (PPI) 인쇄가 지배적인 세션에서 약 99.85 에 거래되었습니다."
+      "title": "NZD/USD slides as Fed holds interest rate, focus on NZ GDP",
+      "link": "https://www.fxstreet.com/news/nzd-usd-slides-as-fed-holds-interest-rate-focus-on-nz-gdp-202603181914",
+      "summary": "The NZD/USD pair is trading near the 0.5814 price region, sliding by 0.71% after the Federal Reserve (Fed) kept interest rates unchanged on Wednesday and forecast only one rate cut in 2026, supporting the US Dollar (USD)",
+      "title_ko": "Fed가 이자율을 보유함에 따라 NZD/USD 슬라이드, NZ GDP에 중점",
+      "summary_ko": "NZD/USD 쌍은 0.5814 가격 지역 근처에서 거래되고 있으며, 연방 준비 제도 이사회 (Fed) 가 수요일에 금리를 변경하지 않고 2026 년에 단 한 번의 금리 인하 만 예측하여 미국 달러 (USD) 를지지 한 후 0.71% 하락했다."
     }
   ]
 }

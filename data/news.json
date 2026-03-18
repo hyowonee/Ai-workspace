@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-03-18 08:54:35 UTC",
+  "updated_at_utc": "2026-03-18 09:58:27 UTC",
   "items": [
     {
-      "title": "Indonesia stocks higher at close of trade; IDX Composite Index up 1.20%",
-      "link": "https://www.investing.com/news/stock-market-news/indonesia-stocks-higher-at-close-of-trade-idx-composite-index-up-120-4567707",
+      "title": "OpenClaw-linked Chinese stocks surge on Nvidia chief’s AI comments",
+      "link": "https://www.investing.com/news/stock-market-news/openclawlinked-chinese-stocks-surge-on-nvidia-chiefs-ai-comments-4567757",
       "summary": "",
-      "title_ko": "인도네시아는 거래 마감 시점에서 더 높은 주식을 보유하고 있으며, IDX 종합 지수는 1.20% 상승했습니다.",
+      "title_ko": "Nvidia Chief의 AI 코멘트에 대한 OpenClaw 연계 중국 증시 급등",
       "summary_ko": ""
     },
     {
-      "title": "Exclusive-Amazon CEO sees AI doubling prior AWS sales projections to $600 billion by 2036",
-      "link": "https://www.investing.com/news/stock-market-news/amazon-ceo-sees-ai-doubling-his-prior-aws-sales-projections-to-600-billion-by-2036-4566479",
+      "title": "Nvidia gets Beijing’s nod for H200 chip sales, adapts Groq chip for China, sources say",
+      "link": "https://www.investing.com/news/stock-market-news/chinese-authorities-approve-nvidias-h200-ai-chip-sales-source-says-4567348",
       "summary": "",
-      "title_ko": "독점 아마존 CEO는 AI가 2036년까지 이전 AWS 판매 예상치를 $ 6,000억 달러로 두 배로 늘릴 것으로 보고 있습니다.",
+      "title_ko": "소식통에 따르면 엔비디아는 H200 칩 판매에 대한 베이징의 고개를 끄덕이고 중국에 대한 그로크 칩을 적용합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Samsung CEO seeks multi-year chip contracts with major customers",
-      "link": "https://www.investing.com/news/stock-market-news/samsung-sees-ai-driving-strong-chip-demand-in-2026-executive-says-4567330",
+      "title": "Amplifon downgraded by Barclays, Jefferies after surprise €2.3 bln GN deal",
+      "link": "https://www.investing.com/news/stock-market-news/amplifon-downgraded-by-barclays-jefferies-after-surprise-23-bln-gn-deal-4567746",
       "summary": "",
-      "title_ko": "삼성 CEO는 주요 고객과 다년간의 칩 계약을 추구합니다.",
+      "title_ko": "Amplifon은 Barclays, Jefferies에 의해 깜짝 € 2.3 bln GN 거래로 다운그레이드되었습니다.",
       "summary_ko": ""
     },
     {
-      "title": "BHP’s newly appointed CEO says to focus on Americas in new age for mining",
-      "link": "https://www.investing.com/news/stock-market-news/bhp-names-brandon-craig-as-ceo-succeeding-mike-henry-4567056",
+      "title": "Tencent’s quarterly revenue rises 13% on gaming, AI demand",
+      "link": "https://www.investing.com/news/stock-market-news/tencent-books-13-rise-in-quarterly-revenue-on-gaming-ai-demand-4567724",
       "summary": "",
-      "title_ko": "BHP의 새로 임명 된 CEO는 광업을 위해 새로운 시대의 미주에 집중해야한다고 말합니다.",
+      "title_ko": "Tencent의 분기별 매출은 게임, AI 수요에 따라 13% 증가합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Hong Kong’s December-February unemployment falls to 3.8%",
+      "link": "https://www.investing.com/news/economic-indicators/hong-kongs-decemberfebruary-unemployment-falls-to-38-4567715",
+      "summary": "",
+      "title_ko": "홍콩의 12 ~ 2월 실업률 3.8% 로 하락",
       "summary_ko": ""
     },
     {
@@ -51,25 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Crude Oil Inventories Surge, Surpassing Forecasts and Previous Levels",
-      "link": "https://www.investing.com/news/economic-indicators/crude-oil-inventories-surge-surpassing-forecasts-and-previous-levels-93CH-4566867",
-      "summary": "",
-      "title_ko": "원유 재고 급증, 예측치 및 이전 수준 능가",
-      "summary_ko": ""
+      "title": "USD: Fed Dot Plot risks support – ING",
+      "link": "https://www.fxstreet.com/news/usd-fed-dot-plot-risks-support-ing-202603180951",
+      "summary": "ING strategist Francesco Pesole argues that a hawkish revision of the Federal Reserve Dot Plot could support the Dollar, with markets already pricing limited cuts.",
+      "title_ko": "USD: Fed Dot Plot 위험 지원 – ING",
+      "summary_ko": "ING 전략가 프란체스코 페솔레 (Francesco Pesole) 는 연방 준비 제도 이사회 닷 플롯 (Federal Reserve Dot Plot) 의 매파적인 개정이 이미 제한된 인하 가격을 책정하고 있는 시장에서 달러를 지원할 수 있다고 주장한다."
     },
     {
-      "title": "Fed: Powell focus as policy steady – UBS",
-      "link": "https://www.fxstreet.com/news/fed-powell-focus-as-policy-steady-ubs-202603180752",
-      "summary": "UBS' Chief Economist Paul Donovan notes that the Federal Reserve is widely expected to keep policy unchanged, with attention centered on Fed Chair Powell’s press conference. Markets are looking for Powell’s reaction to O",
-      "title_ko": "연방준비제도 (FED): 안정적인 정책으로서의 파월 집중 – UBS",
-      "summary_ko": "UBS의 수석 이코노미스트 폴 도노반 (Paul Donovan) 은 연방준비제도이사회 (Federal Reserve) 가 연준의장 파월 (Powell) 의 기자회견을 중심으로 정책을 변경하지 않을 것으로 예상된다고 언급했다. 시장은 O에 대한 파월의 반응을 찾고 있습니다"
-    },
-    {
-      "title": "USD/INR trades flat in countdown to Fed’s monetary policy",
-      "link": "https://www.fxstreet.com/news/usd-inr-opens-flat-as-feds-policy-comes-under-the-spotlight-202603180514",
-      "summary": "The Indian Rupee (INR) trades almost flat against the US Dollar (USD) at around 92.80 during India's afternoon trading hours on Wednesday. The USD/INR pair wobbles as investors shift to the sidelines ahead of the Federal",
-      "title_ko": "USD/INR은 Fed의 통화 정책에 따라 평평하게 거래됩니다.",
-      "summary_ko": "인도 루피 (INR) 는 수요일 오후 거래 시간 동안 약 92.80 에 미국 달러 (USD) 에 대해 거의 평평하게 거래됩니다. 미국 달러/인도 루피 (USD/INR) 쌍이 흔들리면서 투자자들이 연방 정부를 앞세워 주저앉고 있다."
+      "title": "GBP/USD: Recovery extends but upside limited – UOB",
+      "link": "https://www.fxstreet.com/news/gbp-usd-recovery-extends-but-upside-limited-uob-202603180939",
+      "summary": "According to UOB’s Quek Ser Leang, GBP/USD rebounded to 1.3364 and may edge higher toward 1.3410, though a clear break above that level is seen as unlikely given only modest momentum. Intraday, gains are expected to stay",
+      "title_ko": "GBP/USD: 회복은 연장되지만 거꾸로 제한됨 – UOB",
+      "summary_ko": "UOB의 Quek Ser Leang에 따르면 GBP/USD는 1.3364로 반등했으며 1.3410으로 더 높을 수 있지만 그 이상의 명확한 휴식은 약간의 추진력 만 주어진 것으로 보이지 않습니다. 일중, 이익은 유지될 것으로 예상됨"
     }
   ]
 }

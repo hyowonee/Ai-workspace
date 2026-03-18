@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-03-17 23:35:25 UTC",
+  "updated_at_utc": "2026-03-18 02:30:44 UTC",
   "items": [
     {
-      "title": "BHP names Brandon Craig as CEO, succeeding Mike Henry",
-      "link": "https://www.investing.com/news/stock-market-news/bhp-names-brandon-craig-as-ceo-succeeding-mike-henry-4567056",
+      "title": "Mitsui OSK shares surge after Elliott discloses ‘significant investment’",
+      "link": "https://www.investing.com/news/stock-market-news/mitsui-osk-shares-surge-after-elliott-discloses-significant-investment-4567379",
       "summary": "",
-      "title_ko": "BHP는 마이크 헨리 (Mike Henry) 의 뒤를 이어 브랜든 크레이그 (Brandon Craig) 를",
+      "title_ko": "엘리엇이 ‘상당한 투자‘ 를 공개한 후 미쓰이 OSK 주식 급증",
       "summary_ko": ""
     },
     {
-      "title": "FTC monitoring how drug companies react to patent cliff, official says",
-      "link": "https://www.investing.com/news/stock-market-news/ftc-monitoring-how-drug-companies-react-to-patent-cliff-official-says-4567121",
+      "title": "Chinese authorities approve Nvidia’s H200 AI chip sales, source says",
+      "link": "https://www.investing.com/news/stock-market-news/chinese-authorities-approve-nvidias-h200-ai-chip-sales-source-says-4567348",
       "summary": "",
-      "title_ko": "FTC는 제약 회사가 특허 절벽에 어떻게 반응하는지 모니터링한다고 관계자가 말합니다.",
+      "title_ko": "중국 당국이 엔비디아의 H200 AI 칩 판매를 승인했다고 소식통이 전했습니다.",
       "summary_ko": ""
     },
     {
-      "title": "Amazon to slash USPS volume in shift toward in-house logistics - WSJ",
-      "link": "https://www.investing.com/news/stock-market-news/amazon-to-slash-usps-volume-in-shift-toward-inhouse-logistics--wsj-4567119",
+      "title": "Elliott Management confirms stake in Japan shipper Mitsui OSK",
+      "link": "https://www.investing.com/news/stock-market-news/elliott-management-confirms-stake-in-japan-shipper-mitsui-osk-4567363",
       "summary": "",
-      "title_ko": "아마존, USPS 물동량을 사내 물류로 전환 - WSJ",
+      "title_ko": "Elliott Management, 일본 화주 Mitsui OSK 지분 확인",
       "summary_ko": ""
     },
     {
-      "title": "Australia’s Woodside names Liz Westcott as new CEO",
-      "link": "https://www.investing.com/news/stock-market-news/australias-woodside-names-liz-westcott-as-new-ceo-4567111",
+      "title": "Samsung sees AI driving strong chip demand in 2026, executive says",
+      "link": "https://www.investing.com/news/stock-market-news/samsung-sees-ai-driving-strong-chip-demand-in-2026-executive-says-4567330",
       "summary": "",
-      "title_ko": "호주의 우드사이드 (Woodside) 는 리즈 웨스트콧 (Liz Westcott) 을 새로운",
+      "title_ko": "삼성은 2026년 AI가 강력한 칩 수요를 주도하는 것으로 보고 있다고 경영진은 말합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Japan trade balance grows in Feb as exports rise more than expected",
+      "link": "https://www.investing.com/news/economic-indicators/japan-trade-balance-grows-in-feb-as-exports-rise-more-than-expected-4567257",
+      "summary": "",
+      "title_ko": "수출이 예상보다 증가함에 따라 2월에 일본 무역 수지가 증가합니다.",
       "summary_ko": ""
     },
     {
@@ -51,25 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Brazil to cut tariffs on capital, technology goods in April where there is no domestic output",
-      "link": "https://www.investing.com/news/economic-indicators/brazil-to-cut-tariffs-on-capital-technology-goods-in-april-where-there-is-no-domestic-output-4566208",
-      "summary": "",
-      "title_ko": "브라질, 국내 생산이 없는 4월에 자본, 기술 상품에 대한 관세 인하 예정",
-      "summary_ko": ""
+      "title": "US Dollar Index flat lines above 99.50 as traders brace for Fed rate decision",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-flat-lines-above-9950-as-traders-brace-for-fed-rate-decision-202603180217",
+      "summary": "The US Dollar Index (DXY), an index of the value of the US Dollar (USD) measured against a basket of six world currencies, currently trades near 99.60 during the Asian trading hours on Wednesday.",
+      "title_ko": "트레이더가 연방준비제도 (Fed) 금리 결정을 지지함에 따라 미국 달러 인덱스 (US Dollar Index) 가 99.50 을 상",
+      "summary_ko": "6개의 세계 통화 바스켓에 대해 측정된 미국 달러 (USD) 가치 지수인 미국 달러 지수 (DXY) 는 현재 수요일 아시아 거래 시간 동안 99.60 근처에서 거래되고 있습니다."
     },
     {
-      "title": "GBP/USD steadies ahead of back-to-back Fed and BoE decisions",
-      "link": "https://www.fxstreet.com/news/gbp-usd-steadies-ahead-of-back-to-back-fed-and-boe-decisions-202603172240",
-      "summary": "The Pound Sterling edged higher for a second session as traders brace for Wednesday's Fed hold and Thursday's BoE rate decision.",
-      "title_ko": "연이은 연준 및 BOE 결정에 앞서 GBP/USD 안정화",
-      "summary_ko": "파운드 스털링은 거래자들이 수요일의 연준 보류와 목요일의 BoE 금리 결정을 고수함에 따라 두 번째 세션에서 더 상승했습니다."
-    },
-    {
-      "title": "USD/JPY Edges lower for second day as traders brace for Fed and BoJ",
-      "link": "https://www.fxstreet.com/news/usd-jpy-edges-lower-for-second-day-as-traders-brace-for-fed-and-boj-202603172236",
-      "summary": "USD/JPY fell less than 0.1% on Tuesday, settling close to 158.90 in a narrow, directionless session.",
-      "title_ko": "트레이더들이 Fed와 BOJ를 지지함에 따라 USD/JPY 에지는 둘째 날 낮아졌습니다.",
-      "summary_ko": "USD/JPY는 화요일에 0.1% 미만으로 하락하여 좁고 방향이 없는 세션에서 158.90에 가깝게 정착했습니다."
+      "title": "Canadian Dollar holds steady ahead of Fed, BoC policy decisions",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-holds-steady-ahead-of-fed-boc-policy-decisions-202603180157",
+      "summary": "USD/CAD remains flat after posting little gains in the previous session, hovering around 1.3690 during the Asian hours on Wednesday. The pair holds steady as traders remain cautious ahead of policy decisions from both th",
+      "title_ko": "캐나다 달러는 연방 준비 제도 이사회 (Fed), BoC 정책 결정보다 꾸준히 앞서고 있습니다.",
+      "summary_ko": "USD/CAD는 이전 세션에서 약간의 이익을 올린 후에도 평평하게 유지되며 수요일 아시아 시간 동안 약 1.3690을 맴돌고 있습니다. 두 거래자의 정책 결정에 앞서 거래자들이 신중을 기하고 있기 때문에 쌍은 꾸준히 유지하고 있습니다."
     }
   ]
 }

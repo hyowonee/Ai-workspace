@@ -1,32 +1,53 @@
 {
-  "updated_at_utc": "2026-03-18 13:58:54 UTC",
+  "updated_at_utc": "2026-03-18 15:17:03 UTC",
   "items": [
     {
-      "title": "This is the most important catalyst for Tesla stock this year: Morgan Stanley",
-      "link": "https://www.investing.com/news/stock-market-news/this-is-the-most-important-catalyst-for-tesla-stock-this-year-morgan-stanley-4568600",
+      "title": "European stocks turn lower amid upcoming Fed decision, ongoing Iran conflict",
+      "link": "https://www.investing.com/news/stock-market-news/european-stocks-open-higher-amid-upcoming-fed-decision-ongoing-iran-conflict-4567694",
       "summary": "",
-      "title_ko": "이것은 올해 테슬라 주식의 가장 중요한 촉매제입니다: 모건 스탠리",
+      "title_ko": "유럽 증시는 다가오는 연방준비제도 (Fed) 결정에 따라 하락세로 돌아섰으며, 이란과의 분쟁이 진행 중",
       "summary_ko": ""
     },
     {
-      "title": "Lululemon founder Wilson backs director exit, presses for board overhaul",
-      "link": "https://www.investing.com/news/stock-market-news/lululemon-ceo-void-keeps-investors-on-edge-as-levis-veteran-tapped-for-board-4567890",
+      "title": "Top Republican calls out Trump’s Homeland nominee over inflammatory rhetoric",
+      "link": "https://www.investing.com/news/stock-market-news/trumps-homeland-nominee-testifies-before-senate-panel-with-immigration-under-spotlight-4567826",
       "summary": "",
-      "title_ko": "룰루레몬 창립자 윌슨 백스 디렉터 퇴사, 이사회 개편을 위한 프레스",
+      "title_ko": "최고 공화당 원은 염증성 수사에 대한 트럼프의 국토 지명자를 부른다.",
       "summary_ko": ""
     },
     {
-      "title": "US FDA approves J&amp;J’s oral psoriasis pill",
-      "link": "https://www.investing.com/news/stock-market-news/us-fda-approves-jjs-oral-psoriasis-pill-4568329",
+      "title": "Trade Desk downgraded as Publicis dispute raises client, growth concerns",
+      "link": "https://www.investing.com/news/stock-market-news/trade-desk-downgraded-as-publicis-dispute-raises-client-growth-concerns-4568758",
       "summary": "",
-      "title_ko": "미국 FDA, J&amp;J의 경구 건선 치료제 승인",
+      "title_ko": "Publicis 분쟁으로 인해 고객, 성장 우려가 제기됨에 따라 트레이드 데스크가 다운그레이드됨",
       "summary_ko": ""
     },
     {
-      "title": "General Mills reaffirms forecast after recent cut as weak demand persists",
-      "link": "https://www.investing.com/news/stock-market-news/general-mills-reaffirms-fullyear-sales-profit-forecasts-4568038",
+      "title": "Poche Technology files for 3.75M share IPO at $4-$5/sh",
+      "link": "https://www.investing.com/news/stock-market-news/poche-technology-files-for-375m-share-ipo-at-45sh-432SI-4568736",
       "summary": "",
-      "title_ko": "제너럴밀스, 미약한 수요 지속에 따라 최근 인하 후 전망 재확인",
+      "title_ko": "3.75 M에 대한 Poche Technology 파일은 $ 4- $ 5/sh로 IPO를 공유합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "US factory orders barely rise in January",
+      "link": "https://www.investing.com/news/economic-indicators/us-factory-orders-barely-rise-in-january-4568766",
+      "summary": "",
+      "title_ko": "1월에 미국 공장 주문이 거의 증가하지 않음",
+      "summary_ko": ""
+    },
+    {
+      "title": "Crude oil inventories rise unexpectedly, pressuring oil prices",
+      "link": "https://www.investing.com/news/economic-indicators/crude-oil-inventories-rise-unexpectedly-pressuring-oil-prices-93CH-4568722",
+      "summary": "",
+      "title_ko": "원유 재고는 예기치 않게 증가하여 유가를 압박합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "U.S. Factory Orders Meet Expectations, Reflecting Economic Stability",
+      "link": "https://www.investing.com/news/economic-indicators/us-factory-orders-meet-expectations-reflecting-economic-stability-93CH-4568631",
+      "summary": "",
+      "title_ko": "미국 공장 발주, 기대치 충족, 경제 안정성 반영",
       "summary_ko": ""
     },
     {
@@ -37,39 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "PPI Surges, Outpacing Forecasts and Previous Figures",
-      "link": "https://www.investing.com/news/economic-indicators/ppi-surges-outpacing-forecasts-and-previous-figures-93CH-4568286",
-      "summary": "",
-      "title_ko": "PPI 급증, 앞선 예측 및 이전 수치",
-      "summary_ko": ""
-    },
-    {
-      "title": "Chile’s economy grows 0.6% in fourth quarter, beating forecasts",
-      "link": "https://www.investing.com/news/economic-indicators/chiles-economy-grows-06-in-fourth-quarter-beating-forecasts-93CH-4568243",
-      "summary": "",
-      "title_ko": "칠레의 경제는 4분기에 0.6% 성장하여 예측을 능가합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "US drivers face long-term pain at pump, analysts say; Trump bets they are wrong",
-      "link": "https://www.investing.com/news/economic-indicators/us-drivers-face-longterm-pain-at-pump-analysts-say-trump-bets-they-are-wrong-4567825",
-      "summary": "",
-      "title_ko": "분석가들은 미국 드라이버 파트너가 PUMP에서 장기적인 고통에 직면하고 있다고 말합니다. 트럼프는 그들이 틀렸다고 내기합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Breaking: BoC matches consensus, leaves rates at 2.25%",
+      "title": "BoC Governor Macklem speaks on outlook after keeping rates unchanged",
       "link": "https://www.fxstreet.com/news/boc-set-to-hold-interest-rate-amid-soft-inflation-global-uncertainty-202603180900",
-      "summary": "As widely anticipated, the Bank of Canada (BoC) left its policy rate unchanged at 2.25% on Wednesday. The focus now turns to Governor Tiff Macklem’s press conference at 14:30 GMT, where markets will be looking for furthe",
-      "title_ko": "깨짐: BoC가 컨센서스와 일치하고 2.25% 의 비율을 남깁니다.",
-      "summary_ko": "예상대로 캐나다 은행 (BoC) 은 수요일에 2.25% 로 정책 금리를 변경하지 않았다. 이제 초점은 14:30 GMT에서 Tiff Macklem 주지사의 기자 회견으로 바뀝니다."
+      "summary": "Governor Tiff Macklem is set to take questions from reporters shortly, which should offer markets a clearer read on the central bank’s thinking. His remarks come after the widely anticipated decision to leave the policy ",
+      "title_ko": "BoC 총재 매클렘 (Macklem) 은 요금을 변경하지 않고 유지한 후 전망에 대해 말합니다.",
+      "summary_ko": "티프 매클렘 (Tiff Macklem) 주지사는 곧 기자들의 질문을 받을 예정이며, 이를 통해 시장은 중앙은행의 생각을 보다 명확하게 읽을 수 있을 것입니다. 그의 발언은 광범위하게 예상되는 정책 탈퇴 결정 이후에 나옵니다."
     },
     {
-      "title": "USD: Fed signal watched as inflation shock looms – BBH",
-      "link": "https://www.fxstreet.com/news/usd-fed-signal-watched-as-inflation-shock-looms-bbh-202603181345",
-      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad notes the Federal Reserve is widely expected to keep the funds rate at 3.50%-3.75%, with markets focused on the vote split, dot plot and Chair Powell’s tone.",
-      "title_ko": "USD: 인플레이션 충격 직기 – BBH로 Fed 신호 관찰",
-      "summary_ko": "Brown Brothers Harriman (BBH) 의 Elias Haddad는 연방준비제도가 자금 금리를 3.50% -3.75% 로 유지할 것으로 예상하며, 시장은 투표 분할, 도트 플롯 및 파월 의장의 어조에 중점을 두고 있다고 지적했다."
+      "title": "Canada: Spending data shows tentative resilience – RBC",
+      "link": "https://www.fxstreet.com/news/canada-spending-data-shows-tentative-resilience-rbc-202603181418",
+      "summary": "Royal Bank of Canada (RBC) economists Rachel Battaglia and Abbey Xu report that Canadian cardholder spending improved modestly in February, even as consumers continued to reduce discretionary goods purchases.",
+      "title_ko": "캐나다: 지출 데이터에 잠정적 복원력 표시 – RBC",
+      "summary_ko": "캐나다왕립은행 (Royal Bank of Canada, RBC) 의 경제학자 레이첼 바탈리아 (Rachel Battaglia) 와 애비 쑤 (Abbey Xu) 는 소비자들이 재량권 상품 구매를 계속 줄였음에도 불구하고 2월에 캐나다 카드 소지자 지출이 완만하게 개선되었다고 보고했다."
     }
   ]
 }

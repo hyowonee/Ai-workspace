@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-03-19 09:49:52 UTC",
+  "updated_at_utc": "2026-03-19 10:43:07 UTC",
   "indices": {
     "spx": {
       "Symbol": "^SPX",
@@ -36,38 +36,38 @@
     "es": {
       "Symbol": "ES.F",
       "Date": "2026-03-19",
-      "Time": "10:39:49",
+      "Time": "11:33:05",
       "Open": "6663.75",
       "High": "6694.25",
       "Low": "6646.75",
-      "Close": "6658.75",
+      "Close": "6674.25",
       "Volume": ""
     },
     "nq": {
       "Symbol": "NQ.F",
       "Date": "2026-03-19",
-      "Time": "10:39:51",
+      "Time": "11:33:03",
       "Open": "24594.25",
       "High": "24724",
       "Low": "24502.5",
-      "Close": "24547.5",
+      "Close": "24615.25",
       "Volume": ""
     },
     "ym": {
       "Symbol": "YM.F",
       "Date": "2026-03-19",
-      "Time": "10:39:48",
+      "Time": "11:33:04",
       "Open": "46425",
       "High": "46623",
       "Low": "46332",
-      "Close": "46423",
+      "Close": "46531",
       "Volume": ""
     }
   },
   "fx": {
     "usdkrw": {
-      "rate": 1497.959631,
-      "time_last_update_utc": "Thu, 19 Mar 2026 00:02:32 +0000"
+      "rate": 1499.114265,
+      "time_last_update_utc": "Thu, 19 Mar 2026 09:37:31 +0000"
     }
   }
 }

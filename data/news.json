@@ -1,6 +1,13 @@
 {
-  "updated_at_utc": "2026-03-19 17:53:50 UTC",
+  "updated_at_utc": "2026-03-19 19:02:20 UTC",
   "items": [
+    {
+      "title": "U.S. stocks slip amid renewed surge in oil prices, soft housing market data",
+      "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-inch-lower-with-fresh-oil-price-surge-in-focus-4570325",
+      "summary": "",
+      "title_ko": "유가 급등에 따른 미국 증시 급락, 소프트 하우징 시장 데이터",
+      "summary_ko": ""
+    },
     {
       "title": "Uber to invest up to $1.25 billion in Rivian as part of robotaxi deal",
       "link": "https://www.investing.com/news/stock-market-news/uber-to-invest-up-to-125-billion-in-rivian-as-part-of-robotaxi-deal-4570488",
@@ -9,24 +16,17 @@
       "summary_ko": ""
     },
     {
-      "title": "European shares slide to three-month low as ECB flags inflation risks from Middle East war",
-      "link": "https://www.investing.com/news/stock-market-news/european-shares-decline-as-mideast-war-worsens-focus-shifts-to-ecb-decision-4569919",
+      "title": "Broadcom hit with EU antitrust complaint and request for interim measure",
+      "link": "https://www.investing.com/news/stock-market-news/cloud-industry-group-calls-for-eu-interim-measure-against-broadcom-over-vmware-4571203",
       "summary": "",
-      "title_ko": "유럽 증시는 ECB가 중동 전쟁으로 인한 인플레이션 위험을 표시함에 따라 3개월 최저치로 하락",
+      "title_ko": "EU 반독점 불만 및 임시 조치 요청으로 Broadcom이 타격을 입었습니다.",
       "summary_ko": ""
     },
     {
-      "title": "Jefferies: Thai market investor interest swells amid political stability, rising oil prices, forum shows",
-      "link": "https://www.investing.com/news/stock-market-news/jefferies-thai-market-investor-interest-swells-amid-political-stability-rising-oil-prices-forum-shows-93CH-4571379",
+      "title": "NASA cuts Boeing’s role in moon mission, elevates SpaceX",
+      "link": "https://www.investing.com/news/stock-market-news/nasa-cuts-boeings-role-in-moon-mission-elevates-spacex-4571447",
       "summary": "",
-      "title_ko": "Jefferies: 정치적 안정, 유가 상승, 포럼 쇼 속에서 태국 시장 투자자의 관심이 부풀어 오르고 있습니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Qatar LNG disruption may revive bullish US natural gas outlook - BofA",
-      "link": "https://www.investing.com/news/stock-market-news/qatar-lng-disruption-may-revive-bullish-us-natural-gas-outlook--bofa-93CH-4571378",
-      "summary": "",
-      "title_ko": "카타르 LNG 중단은 강세장인 미국 천연가스 전망을 되살릴 수 있다 - BofA",
+      "title_ko": "NASA는 달 임무에서 보잉의 역할을 줄이고 SpaceX를 향상시킵니다.",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Europe: Growth resilience versus demographic drag – BNP Paribas",
-      "link": "https://www.fxstreet.com/news/europe-growth-resilience-versus-demographic-drag-bnp-paribas-202603191651",
-      "summary": "BNP Paribas highlights that Central European economies are holding up well despite a shrinking population and working-age cohort. The bank notes continued support from EU funds, strong productivity gains relative to wage",
-      "title_ko": "유럽: 인구 통계학적 견인력 대비 성장 탄력성 – BNP Paribas",
-      "summary_ko": "BNP Paribas는 중부 유럽 경제가 인구와 생산 연령 코호트 감소에도 불구하고 잘 버티고 있다고 강조합니다. 은행권은 EU 기금의 지속적인 지원, 임금 대비 강력한 생산성 향상"
+      "title": "AUD/USD Price Forecast: Bullish above the 50-day SMA, eyes on 0.7100",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-bullish-above-the-50-day-sma-eyes-on-07100-202603191819",
+      "summary": "AUD/USD advances some 0.47% on Thursday as the US Dollar weakens, despite traders delaying Fed rate cuts until 2027, while US Crude Oil prices are edging lower by 4.21%, a headwind for the buck. The pair hovers around 0.",
+      "title_ko": "AUD/USD 가격 예측: 50일 SMA 이상 강세, 0.7100 눈",
+      "summary_ko": "AUD/USD는 2027년까지 연준의 금리 인하를 미루고 있음에도 불구하고 미국 달러가 약세를 보임에 따라 목요일에 0.47% 상승했으며, 미국 원유 가격은 4.21% 하락하여 하락세에 역풍을 맞고 있습니다. 이 쌍은 약 0을 가리킵니다."
     },
     {
-      "title": "WTI Oil retreats from $100 peak as Venezuela sanctions ease, Middle East risks persist",
-      "link": "https://www.fxstreet.com/news/wti-oil-retreats-from-100-peak-as-venezuela-sanctions-ease-middle-east-risks-persist-202603191613",
-      "summary": "West Texas Intermediate (WTI) US Oil trades around $97.20 per barrel on Thursday, down 1.68% on the day after reaching an intraday high of $100.15, as markets balance improving supply conditions against escalating geopol",
-      "title_ko": "WTI 석유, 베네수엘라 제재 완화로 최고 $ 100 후퇴, 중동 위험 지속",
-      "summary_ko": "서부 텍사스 중급 (WTI) 미국 석유는 목요일에 배럴당 약 $ 97.20 에 거래되며, 시장 균형이 공급 조건을 개선함에 따라 일중 최고치인 $ 100.15 에 도달한 다음날 1.68% 하락합니다."
+      "title": "Gold crashes below $4,600 as US yields spike, Fed cut bets delayed until 2027",
+      "link": "https://www.fxstreet.com/news/gold-crashes-below-4-600-as-us-yields-spike-fed-cut-bets-delayed-until-2027-202603191802",
+      "summary": "Gold (XAU/USD) retreats more than 4.5% on Thursday as US Treasury yields rise amid investor concerns about high energy prices, while a solid US jobs report prompted traders to price out a rate cut in 2026, with expectati",
+      "title_ko": "금은 미국이 급등하면서 $ 4,600 아래로 추락하고, 연준의 베팅은 2027년까지 지연됩니다.",
+      "summary_ko": "금 (XAU/USD) 은 높은 에너지 가격에 대한 투자자의 우려로 미국 국채 수익률이 상승함에 따라 목요일 4.5% 이상 후퇴한 반면, 미국의 견고한 일자리 보고서에 따르면 거래자들은 2026년에 금리 인하의 가격을 책정했다."
     }
   ]
 }

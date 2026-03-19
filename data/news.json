@@ -1,32 +1,46 @@
 {
-  "updated_at_utc": "2026-03-19 06:01:41 UTC",
+  "updated_at_utc": "2026-03-19 07:30:58 UTC",
   "items": [
     {
-      "title": "Eight states sue to block Nexstar’s plan to acquire rival Tegna",
-      "link": "https://www.investing.com/news/stock-market-news/eight-states-sue-to-block-nexstars-plan-to-acquire-rival-tegna-4569753",
+      "title": "Lamborghini 2025 profit dented by US tariffs and EV U-turn",
+      "link": "https://www.investing.com/news/stock-market-news/lamborghini-2025-profit-dented-by-us-tariffs-and-ev-uturn-4569828",
       "summary": "",
-      "title_ko": "8개 주가 Nexstar의 라이벌 Tegna 인수 계획을 차단하기 위해 소송을 제기합니다",
+      "title_ko": "미국 관세와 전기차 유턴으로 찌그러진 람보르기니 2025 이익",
       "summary_ko": ""
     },
     {
-      "title": "Tencent shares slide as AI spending plans overshadow strong Q4 earnings",
-      "link": "https://www.investing.com/news/stock-market-news/tencent-shares-slide-as-ai-spending-plans-overshadow-strong-q4-earnings-4569751",
+      "title": "Japan stocks lower at close of trade; Nikkei 225 down 3.57%",
+      "link": "https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-357-4569824",
       "summary": "",
-      "title_ko": "인공지능 (AI) 지출 계획이 4분기 실적 강세를 가리는 가운데 텐센트가 미끄러지는 양상을 보이고 있다.",
+      "title_ko": "일본 주식은 거래 종료 시점에 하락, 닛케이 225는 3.57% 하락",
       "summary_ko": ""
     },
     {
-      "title": "Weibo shares plunge over 10% on weak Q4 earnings",
-      "link": "https://www.investing.com/news/stock-market-news/weibo-shares-plunge-over-10-on-weak-q4-earnings-4569750",
+      "title": "China’s youth unemployment dips to 16.1% in February",
+      "link": "https://www.investing.com/news/stock-market-news/chinas-youth-unemployment-dips-to-161-in-february-93CH-4569821",
       "summary": "",
-      "title_ko": "웨이보, 4분기 영업이익 약세로 10% 이상 급락",
+      "title_ko": "2월 중국 청년실업률 16.1% 로 하락",
       "summary_ko": ""
     },
     {
-      "title": "Australia stocks lower at close of trade; S&amp;P/ASX 200 down 1.65%",
-      "link": "https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-165-4569748",
+      "title": "Lenzing reports 2% revenue decline for 2025, misses forecasts",
+      "link": "https://www.investing.com/news/stock-market-news/lenzing-reports-2-revenue-decline-for-2025-misses-forecasts-93CH-4569820",
       "summary": "",
-      "title_ko": "호주 증시는 거래 종료 시점에 하락, S&amp;P/ASX 200은 1.65% 하락",
+      "title_ko": "렌징은 2025년 2% 의 매출 감소를 보고하고, 예측을 놓칩니다",
+      "summary_ko": ""
+    },
+    {
+      "title": "Swiss watch exports climb 9.2% in February on US, Japan demand",
+      "link": "https://www.investing.com/news/economic-indicators/swiss-watch-exports-climb-92-in-february-on-us-japan-demand-93CH-4569838",
+      "summary": "",
+      "title_ko": "스위스 시계 수출은 미국, 일본 수요에 따라 2월에 9.2% 증가",
+      "summary_ko": ""
+    },
+    {
+      "title": "UK wage growth slows to 3.8% in three months to January",
+      "link": "https://www.investing.com/news/economic-indicators/uk-wage-growth-slows-to-38-in-three-months-to-january-4569831",
+      "summary": "",
+      "title_ko": "영국 임금 상승률, 1월까지 3개월 만에 3.8% 로 둔화",
       "summary_ko": ""
     },
     {
@@ -44,32 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "War hits Tehran’s grand bazaar as prices surge and shops shut",
-      "link": "https://www.investing.com/news/economic-indicators/war-hits-tehrans-grand-bazaar-as-prices-surge-and-shops-shut-4569307",
-      "summary": "",
-      "title_ko": "가격이 급등하고 상점이 문을 닫으면서 테헤란의 그랜드 바자르를 강타하는 전쟁",
-      "summary_ko": ""
+      "title": "Ueda Speech: BoJ Governor speaks on policy outlook after the expected interest rate hold",
+      "link": "https://www.fxstreet.com/news/bank-of-japan-expected-to-hold-rates-as-high-oil-prices-temper-near-term-hikes-202603182300",
+      "summary": "Bank of Japan (BoJ) Governor Kazuo Ueda is addressing the press conference, explaining the reason behind leaving the key interest rate unchanged at 0.75% in the March policy meeting.",
+      "title_ko": "UEDA 연설: BOJ 총재, 예상 금리 보류 이후 정책 전망에 대해 말하다",
+      "summary_ko": "일본은행 (BOJ) 우에다 가즈오 총재가 3월 정책 회의에서 주요 금리를 0.75% 로 변경하지 않은 이유를 설명하며 기자회견을 하고 있다."
     },
     {
-      "title": "Instant View: Fed holds rates steady as expected, calls inflation somewhat elevated",
-      "link": "https://www.investing.com/news/economic-indicators/instant-view-fed-holds-rates-steady-as-expected-calls-inflation-somewhat-elevated-4569040",
-      "summary": "",
-      "title_ko": "즉시 보기: 연방준비제도 (Fed) 가 예상대로 금리를 안정적으로 유지하고 있으며, 인플레이션이 다소 상승했다고 부름",
-      "summary_ko": ""
-    },
-    {
-      "title": "Gold clings to recovery gains; lacks bullish conviction amid Fed's hawkish outlook",
-      "link": "https://www.fxstreet.com/news/gold-rebounds-from-one-month-low-as-geopolitical-tensions-and-softer-usd-offer-support-202603190403",
-      "summary": "Gold (XAU/USD) struggles to capitalize on its modest intraday recovery from the $4,800 neighborhood, or its lowest level since February 6, touched during the Asian session on Thursday.",
-      "title_ko": "금은 회복 이익에 매달린다. 연준의 매파적인 전망 속에서 강도 높은 신념이 결여되어 있다.",
-      "summary_ko": "금 (XAU/USD) 은 목요일 아시아 세션에서 $ 4,800 지역 또는 2월 6일 이후 가장 낮은 수준의 소폭의 일중 회복을 활용하기 위해 고군분투하고 있습니다."
-    },
-    {
-      "title": "Silver Price Forecast: XAG/USD struggles near $75.50 on firm hopes of Fed’s extended pause",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-struggles-near-7550-on-firm-hopes-of-feds-extended-pause-202603190515",
-      "summary": "Silver price (XAG/USD) struggles to gain ground even after sliding to a fresh monthly low of $75.50 during the late Asian trading session on Thursday.",
-      "title_ko": "실버 가격 예측: XAG/USD는 Fed의 연장 휴지에 대한 확고한 희망으로 $ 75.50 근처에서 어려움을 겪고 있습니다.",
-      "summary_ko": "실버 가격 (XAG/USD) 은 목요일 늦은 아시아 거래 세션에서 $ 75.50 의 신선한 월간 최저치로 하락한 후에도 상승하기 위해 고군분투합니다."
+      "title": "BoE set to keep interest rate steady as war-related energy shock clouds inflation outlook",
+      "link": "https://www.fxstreet.com/news/boe-set-to-keep-interest-rate-steady-as-war-related-energy-shock-clouds-inflation-outlook-202603190700",
+      "summary": "The Bank of England (BoE) is on track to leave the benchmark Bank Rate unchanged at 3.75% for the second meeting in a row on Thursday, as the macro context has completely shifted in the past three weeks.",
+      "title_ko": "BOE는 전쟁 관련 에너지 충격 구름 인플레이션 전망에 따라 금리를 안정적으로 유지하도록 설정",
+      "summary_ko": "지난 3주 동안 거시적 맥락이 완전히 바뀌었기 때문에 잉글랜드 은행 (BOE) 은 목요일에 열리는 두 번째 회의에서 벤치마크 은행 금리를 3.75% 로 변경하지 않을 계획입니다."
     }
   ]
 }

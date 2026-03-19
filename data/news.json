@@ -1,39 +1,53 @@
 {
-  "updated_at_utc": "2026-03-19 13:11:01 UTC",
+  "updated_at_utc": "2026-03-19 14:28:36 UTC",
   "items": [
     {
-      "title": "Energy prices surge as Iran targets Gulf energy facilities after Israel struck its key gas field",
-      "link": "https://www.investing.com/news/stock-market-news/iran-targets-energy-facilities-across-gulf-after-israel-struck-its-key-gas-installations-4570640",
+      "title": "Micron shares slip as hefty spending plans eclipse strong AI-fueled earnings",
+      "link": "https://www.investing.com/news/stock-market-news/micron-shares-slip-as-hefty-spending-plans-eclipse-strong-aifueled-earnings-4569945",
       "summary": "",
-      "title_ko": "이스라엘이 주요 가스전을 강타한 후 이란이 걸프 에너지 시설을 공략함에 따라 에너지 가격 급등",
+      "title_ko": "막대한 지출 계획이 강력한 AI 연료 수입을 일식화함에 따라 마이크론 주식이 미끄러짐",
       "summary_ko": ""
     },
     {
-      "title": "FTSE 100 today: UK stocks extend losses after BoE holds rates; pound edges up",
-      "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-uk-stocks-falls-ahead-of-boe-decision-brent-tops-114-4569937",
+      "title": "UBS sees Tesla Q1 deliveries missing estimates as demand softens",
+      "link": "https://www.investing.com/news/stock-market-news/ubs-sees-tesla-q1-deliveries-missing-estimates-as-demand-softens-4571030",
       "summary": "",
-      "title_ko": "FTSE 100 오늘: 영국 주식은 BOE가 금리를 보유한 후 손실을 연장합니다. 파운드 가장자리 상승",
+      "title_ko": "UBS는 수요가 완화됨에 따라 Tesla 1분기 납품 누락 예상치를 확인했습니다.",
       "summary_ko": ""
     },
     {
-      "title": "Saudi Arabia stocks higher at close of trade; Tadawul All Share up 0.55%",
-      "link": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-higher-at-close-of-trade-tadawul-all-share-up-055-4570645",
+      "title": "European stocks extend losses amid central bank decisions, oil prices surge",
+      "link": "https://www.investing.com/news/stock-market-news/european-stocks-open-lower-amid-central-bank-rate-decisions-oil-price-surge-4569830",
       "summary": "",
-      "title_ko": "사우디아라비아는 교역 마감 시점에서 더 높은 주식을 보유하고 있습니다. 타다울 전체 점유율 0.55% 증가",
+      "title_ko": "유럽 증시는 중앙은행의 결정에 따라 손실을 확대하고, 유가는 급등합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Exclusive-’No winners’ in Middle East crisis, airlines body chief says",
-      "link": "https://www.investing.com/news/stock-market-news/exclusiveno-winners-in-middle-east-crisis-airlines-body-chief-says-4570642",
+      "title": "US official warns small airports could soon shut down over TSA absences",
+      "link": "https://www.investing.com/news/stock-market-news/us-official-warns-small-airports-could-soon-shut-down-over-tsa-absences-4570799",
       "summary": "",
-      "title_ko": "독점 - 중동 위기에서 ’승자 없음', 항공사 본부장이 말합니다.",
+      "title_ko": "미국 당국, TSA 부재로 인해 소규모 공항이 곧 폐쇄될 수 있다고 경고",
       "summary_ko": ""
     },
     {
-      "title": "US weekly jobless claims unexpectedly fall amid low layoffs",
-      "link": "https://www.investing.com/news/economic-indicators/us-weekly-jobless-claims-unexpectedly-fall-amid-low-layoffs-4570643",
+      "title": "World trade growth set to slow to 1.9% this year, Iran war may weigh more, says WTO",
+      "link": "https://www.investing.com/news/economic-indicators/world-trade-growth-set-to-slow-to-19-this-year-iran-war-may-weigh-more-says-wto-4571044",
       "summary": "",
-      "title_ko": "낮은 정리 해고 기간 동안 미국 주간 실업 보험 청구가 예기치 않게 감소했습니다.",
+      "title_ko": "WTO는 세계 무역 성장률이 올해 1.9% 로 둔화될 것이며, 이란 전쟁의 무게가 더 커질 수 있다고 말합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Wholesale inventories decline unexpectedly, signaling potential shifts",
+      "link": "https://www.investing.com/news/economic-indicators/wholesale-inventories-decline-unexpectedly-signaling-potential-shifts-93CH-4571003",
+      "summary": "",
+      "title_ko": "도매 재고가 예기치 않게 감소하여 잠재적인 변화 신호",
+      "summary_ko": ""
+    },
+    {
+      "title": "New home sales drop significantly, missing forecasts",
+      "link": "https://www.investing.com/news/economic-indicators/new-home-sales-drop-significantly-missing-forecasts-93CH-4570992",
+      "summary": "",
+      "title_ko": "신규 주택 판매 크게 감소, 예측 누락",
       "summary_ko": ""
     },
     {
@@ -44,32 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Jobless Claims Fall to 205K, Beating Expectations",
-      "link": "https://www.investing.com/news/economic-indicators/jobless-claims-fall-to-205k-beating-expectations-93CH-4570600",
-      "summary": "",
-      "title_ko": "Jobless Claims 205K로 하락, 기대치 상회",
-      "summary_ko": ""
+      "title": "Breaking: ECB leaves key rates unchanged after March meeting as forecast",
+      "link": "https://www.fxstreet.com/news/european-central-bank-set-to-hold-interest-rate-amid-iran-war-driven-inflation-fears-202603190800",
+      "summary": "The European Central Bank (ECB) announced on Thursday that it left key rates unchanged following the March policy meeting, as expected.",
+      "title_ko": "깨짐: ECB는 3 월 회의 후 주요 금리를 예측대로 변경하지 않습니다.",
+      "summary_ko": "유럽중앙은행 (ECB) 은 예상대로 3월 정책 회의 이후 주요 금리를 변경하지 않았다고 목요일 발표했다."
     },
     {
-      "title": "Philadelphia Fed Manufacturing Index Surges, Exceeding Expectations",
-      "link": "https://www.investing.com/news/economic-indicators/philadelphia-fed-manufacturing-index-surges-exceeding-expectations-93CH-4570586",
-      "summary": "",
-      "title_ko": "필라델피아 Fed 제조업 지수 급등, 기대 이상",
-      "summary_ko": ""
-    },
-    {
-      "title": "BoE: Inflation fight focus raises hike risks – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/boe-inflation-fight-focus-raises-hike-risks-deutsche-bank-202603191255",
-      "summary": "Deutsche Bank’s Sanjay Raja notes the Bank of England (BoE) kept Bank Rate unchanged but clearly signalled a stronger focus on inflation risks. The Monetary Policy Committee (MPC) dropped its easing bias and stressed rea",
-      "title_ko": "BOE: 인플레이션 싸움 집중으로 하이킹 위험 증가 – Deutsche Bank",
-      "summary_ko": "도이체방크의 산제이 라자 (Sanjay Raja) 는 잉글랜드 은행 (BOE) 이 은행 금리를 변경하지 않았지만 인플레이션 위험에 더 집중하고 있음을 분명히 밝혔다. 통화정책위원회 (MPC) 는 완화 편향을 버리고 REA를 강조했습니다."
-    },
-    {
-      "title": "US weekly Initial Jobless Claims decline to 205K vs. 215K expected",
-      "link": "https://www.fxstreet.com/news/us-weekly-initial-jobless-claims-decline-to-205k-vs-215k-expected-202603191239",
-      "summary": "There were 205K Initial Jobless Claims in the week ending March 14, a decrease of 8K from the previous week's unrevised level, the US Department of Labor (DOL) reported on Thursday. This reading came in better than the m",
-      "title_ko": "미국 주간 실업 보험금 청구액이 205,000건으로 감소한 반면, 215,000건으로 예상",
-      "summary_ko": "미국 노동부 (DOL) 는 목요일에 보고한 바에 따르면 3월 14일로 끝나는 주에는 205,000건의 초기 실직 보험금 청구가 있었으며, 이는 이전 주의 수정되지 않은 수준보다 8K 감소한 것입니다. 이 수치는 m보다 더 잘 나왔습니다."
+      "title": "USD: Energy shock and hawkish Fed support – BBH",
+      "link": "https://www.fxstreet.com/news/usd-energy-shock-and-hawkish-fed-support-bbh-202603191321",
+      "summary": "Brown Brothers Harriman’s Elias Haddad highlights that an escalating Iran war-driven energy shock, combined with a restrictive Federal Reserve and tightening bias at other central banks, is pressuring risk assets and sup",
+      "title_ko": "USD: 에너지 충격 및 매파 연준 지원 – BBH",
+      "summary_ko": "브라운 브라더스 해리먼 (Brown Brothers Harriman) 의 엘리아스 하다드 (Elias Haddad) 는 이란의 전쟁 중심의 에너지 충격이 제한적인 연방 준비 제도 이사회 (Federal Reserve) 와 다른 중앙 은행의 편견 강화와 결합하여 위험 자산과 SUP를 압박하고 있음을 강조합니다."
     }
   ]
 }

@@ -1,32 +1,53 @@
 {
-  "updated_at_utc": "2026-03-19 14:28:36 UTC",
+  "updated_at_utc": "2026-03-19 15:26:09 UTC",
   "items": [
     {
-      "title": "Micron shares slip as hefty spending plans eclipse strong AI-fueled earnings",
-      "link": "https://www.investing.com/news/stock-market-news/micron-shares-slip-as-hefty-spending-plans-eclipse-strong-aifueled-earnings-4569945",
+      "title": "Explainer-How important is food to Unilever?",
+      "link": "https://www.investing.com/news/stock-market-news/explainerhow-important-is-food-to-unilever-4571177",
       "summary": "",
-      "title_ko": "막대한 지출 계획이 강력한 AI 연료 수입을 일식화함에 따라 마이크론 주식이 미끄러짐",
+      "title_ko": "설명자 - Unilever에게 음식은 얼마나 중요합니까?",
       "summary_ko": ""
     },
     {
-      "title": "UBS sees Tesla Q1 deliveries missing estimates as demand softens",
-      "link": "https://www.investing.com/news/stock-market-news/ubs-sees-tesla-q1-deliveries-missing-estimates-as-demand-softens-4571030",
+      "title": "Energy prices surge as Iran attack on Qatar LNG plant threatens long-term exports",
+      "link": "https://www.investing.com/news/stock-market-news/iran-targets-energy-facilities-across-gulf-after-israel-struck-its-key-gas-installations-4570640",
       "summary": "",
-      "title_ko": "UBS는 수요가 완화됨에 따라 Tesla 1분기 납품 누락 예상치를 확인했습니다.",
+      "title_ko": "이란의 카타르 LNG 발전소 공격이 장기 수출을 위협함에 따라 에너지 가격 급등",
       "summary_ko": ""
     },
     {
-      "title": "European stocks extend losses amid central bank decisions, oil prices surge",
-      "link": "https://www.investing.com/news/stock-market-news/european-stocks-open-lower-amid-central-bank-rate-decisions-oil-price-surge-4569830",
+      "title": "Exxon’s accelerating newest Guyana facility amid high oil prices",
+      "link": "https://www.investing.com/news/stock-market-news/exxons-accelerating-newest-guyana-facility-amid-high-oil-prices-93CH-4571176",
       "summary": "",
-      "title_ko": "유럽 증시는 중앙은행의 결정에 따라 손실을 확대하고, 유가는 급등합니다.",
+      "title_ko": "높은 유가 속에서 엑슨의 최신 가이아나 시설 가속화",
       "summary_ko": ""
     },
     {
-      "title": "US official warns small airports could soon shut down over TSA absences",
-      "link": "https://www.investing.com/news/stock-market-news/us-official-warns-small-airports-could-soon-shut-down-over-tsa-absences-4570799",
+      "title": "Long-only funds are buying non-US stocks, BofA says",
+      "link": "https://www.investing.com/news/stock-market-news/longonly-funds-are-buying-nonus-stocks-bofa-says-4571167",
       "summary": "",
-      "title_ko": "미국 당국, TSA 부재로 인해 소규모 공항이 곧 폐쇄될 수 있다고 경고",
+      "title_ko": "BofA는 장기 전용 펀드가 미국 이외의 주식을 매입하고 있다고 말합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "US new home sales drop to near 3-1/2-year low in January",
+      "link": "https://www.investing.com/news/economic-indicators/us-new-home-sales-drop-to-near-312year-low-in-january-4571136",
+      "summary": "",
+      "title_ko": "미국 신규 주택 판매는 1월에 3-1/2년 가까이 최저치로 떨어집니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "US wholesale inventories fall sharply in January",
+      "link": "https://www.investing.com/news/economic-indicators/us-wholesale-inventories-fall-sharply-in-january-4571133",
+      "summary": "",
+      "title_ko": "1월 미국 도매 재고 급격히 감소",
+      "summary_ko": ""
+    },
+    {
+      "title": "Natural gas storage report shows smaller-than-expected increase",
+      "link": "https://www.investing.com/news/economic-indicators/natural-gas-storage-report-shows-smallerthanexpected-increase-93CH-4571082",
+      "summary": "",
+      "title_ko": "천연 가스 저장 보고서에 따르면 예상보다 적은 증가",
       "summary_ko": ""
     },
     {
@@ -37,39 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Wholesale inventories decline unexpectedly, signaling potential shifts",
-      "link": "https://www.investing.com/news/economic-indicators/wholesale-inventories-decline-unexpectedly-signaling-potential-shifts-93CH-4571003",
-      "summary": "",
-      "title_ko": "도매 재고가 예기치 않게 감소하여 잠재적인 변화 신호",
-      "summary_ko": ""
+      "title": "ECB: Higher energy risks bring hikes closer – Nordea",
+      "link": "https://www.fxstreet.com/news/ecb-higher-energy-risks-bring-hikes-closer-nordea-202603191459",
+      "summary": "Nordea’s Chief Analyst Jan von Gerich says the European Central Bank (ECB) kept rates unchanged but signalled greater readiness to tighten if higher energy prices feed into broader inflation.",
+      "title_ko": "ECB: 높은 에너지 위험으로 인해 하이킹이 가까워짐 – Nordea",
+      "summary_ko": "Nordea의 수석 애널리스트 얀 폰 게리치 (Jan von Gerich) 는 유럽 중앙은행 (ECB) 이 금리를 변경하지 않았지만 더 높은 에너지 가격이 더 넓은 인플레이션으로 이어질 경우 조일 준비가 더 강화될 것이라고 말했다."
     },
     {
-      "title": "New home sales drop significantly, missing forecasts",
-      "link": "https://www.investing.com/news/economic-indicators/new-home-sales-drop-significantly-missing-forecasts-93CH-4570992",
-      "summary": "",
-      "title_ko": "신규 주택 판매 크게 감소, 예측 누락",
-      "summary_ko": ""
-    },
-    {
-      "title": "Bank of England holds rates as expected amid inflation concerns",
-      "link": "https://www.investing.com/news/economic-indicators/bank-of-england-holds-rates-as-expected-amid-inflation-concerns-4570485",
-      "summary": "",
-      "title_ko": "잉글랜드 은행은 인플레이션 우려 속에서 예상대로 금리를 보유하고 있습니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Breaking: ECB leaves key rates unchanged after March meeting as forecast",
-      "link": "https://www.fxstreet.com/news/european-central-bank-set-to-hold-interest-rate-amid-iran-war-driven-inflation-fears-202603190800",
-      "summary": "The European Central Bank (ECB) announced on Thursday that it left key rates unchanged following the March policy meeting, as expected.",
-      "title_ko": "깨짐: ECB는 3 월 회의 후 주요 금리를 예측대로 변경하지 않습니다.",
-      "summary_ko": "유럽중앙은행 (ECB) 은 예상대로 3월 정책 회의 이후 주요 금리를 변경하지 않았다고 목요일 발표했다."
-    },
-    {
-      "title": "USD: Energy shock and hawkish Fed support – BBH",
-      "link": "https://www.fxstreet.com/news/usd-energy-shock-and-hawkish-fed-support-bbh-202603191321",
-      "summary": "Brown Brothers Harriman’s Elias Haddad highlights that an escalating Iran war-driven energy shock, combined with a restrictive Federal Reserve and tightening bias at other central banks, is pressuring risk assets and sup",
-      "title_ko": "USD: 에너지 충격 및 매파 연준 지원 – BBH",
-      "summary_ko": "브라운 브라더스 해리먼 (Brown Brothers Harriman) 의 엘리아스 하다드 (Elias Haddad) 는 이란의 전쟁 중심의 에너지 충격이 제한적인 연방 준비 제도 이사회 (Federal Reserve) 와 다른 중앙 은행의 편견 강화와 결합하여 위험 자산과 SUP를 압박하고 있음을 강조합니다."
+      "title": "BoE: Hawkish hold under energy shock – Rabobank",
+      "link": "https://www.fxstreet.com/news/boe-hawkish-hold-under-energy-shock-rabobank-202603191450",
+      "summary": "Rabobank’s Senior Macro Strategist Stefan Koopman notes that the Bank of England (BoE) kept Bank Rate at 3.75% but adopted a distinctly hawkish tone as a renewed energy shock lifts inflation projections.",
+      "title_ko": "BOE: 에너지 충격을 받는 호키쉬 홀드 – Rabobank",
+      "summary_ko": "Rabobank의 수석 거시 전략가 Stefan Koopman은 잉글랜드 은행 (BOE) 이 은행 금리를 3.75% 로 유지했지만 재생 에너지 충격이 인플레이션 전망을 상향 조정함에 따라 뚜렷한 매파적 어조를 채택했다고 지적합니다."
     }
   ]
 }

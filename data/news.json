@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-03-19 04:56:29 UTC",
+  "updated_at_utc": "2026-03-19 06:01:41 UTC",
   "items": [
     {
-      "title": "HSBC weighs deep job cuts as AI overhaul unfolds, Bloomberg News reports",
-      "link": "https://www.investing.com/news/stock-market-news/hsbc-mulls-job-cuts-that-could-impact-around-20000-roles-bloomberg-news-reports-4569671",
+      "title": "Eight states sue to block Nexstar’s plan to acquire rival Tegna",
+      "link": "https://www.investing.com/news/stock-market-news/eight-states-sue-to-block-nexstars-plan-to-acquire-rival-tegna-4569753",
       "summary": "",
-      "title_ko": "블룸버그 뉴스의 보도에 따르면 HSBC는 AI 점검이 진행됨에 따라 깊은 일자리 삭감에 무게를 둡니다.",
+      "title_ko": "8개 주가 Nexstar의 라이벌 Tegna 인수 계획을 차단하기 위해 소송을 제기합니다",
       "summary_ko": ""
     },
     {
-      "title": "Asia stocks slip; BOJ holds rates, flags oil-driven inflation risks",
-      "link": "https://www.investing.com/news/stock-market-news/asia-stocks-slip-boj-holds-rates-flags-oildriven-inflation-risks-4569731",
+      "title": "Tencent shares slide as AI spending plans overshadow strong Q4 earnings",
+      "link": "https://www.investing.com/news/stock-market-news/tencent-shares-slide-as-ai-spending-plans-overshadow-strong-q4-earnings-4569751",
       "summary": "",
-      "title_ko": "아시아 증시 하락; BOJ는 금리 보유, 석유 중심의 인플레이션 위험 플래그",
+      "title_ko": "인공지능 (AI) 지출 계획이 4분기 실적 강세를 가리는 가운데 텐센트가 미끄러지는 양상을 보이고 있다.",
       "summary_ko": ""
     },
     {
-      "title": "Musk says SpaceX AI, Tesla will keep ordering Nvidia chips at scale",
-      "link": "https://www.investing.com/news/stock-market-news/musk-says-spacex-ai-tesla-will-keep-ordering-nvidia-chips-at-scale-4569708",
+      "title": "Weibo shares plunge over 10% on weak Q4 earnings",
+      "link": "https://www.investing.com/news/stock-market-news/weibo-shares-plunge-over-10-on-weak-q4-earnings-4569750",
       "summary": "",
-      "title_ko": "머스크는 스페이스X AI, 테슬라는 엔비디아 칩을 대규모로 계속 주문할 것이라고 말합니다.",
+      "title_ko": "웨이보, 4분기 영업이익 약세로 10% 이상 급락",
       "summary_ko": ""
     },
     {
-      "title": "Apple’s China smartphone sales jump 23% to start 2026, bucking industry trend",
-      "link": "https://www.investing.com/news/stock-market-news/apples-china-smartphone-sales-jump-23-to-start-2026-bucking-industry-trend-4569722",
+      "title": "Australia stocks lower at close of trade; S&amp;P/ASX 200 down 1.65%",
+      "link": "https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-165-4569748",
       "summary": "",
-      "title_ko": "애플의 중국 스마트폰 판매가 2026년 시작으로 23% 급증하며 업계 트렌드를 뒤흔들고 있습니다.",
+      "title_ko": "호주 증시는 거래 종료 시점에 하락, S&amp;P/ASX 200은 1.65% 하락",
+      "summary_ko": ""
+    },
+    {
+      "title": "Malaysia’s exports rise 10.8% in February on manufactured goods demand",
+      "link": "https://www.investing.com/news/economic-indicators/malaysias-exports-rise-108-in-february-on-manufactured-goods-demand-93CH-4569752",
+      "summary": "",
+      "title_ko": "말레이시아의 2월 수출은 제조 상품 수요에 따라 10.8% 증가합니다.",
       "summary_ko": ""
     },
     {
@@ -51,25 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Vance to meet with oil trade group, acknowledges ’rough road ahead’ on gas prices",
-      "link": "https://www.investing.com/news/economic-indicators/vance-to-meet-with-oil-trade-group-acknowledges-rough-road-ahead-on-gas-prices-4568970",
-      "summary": "",
-      "title_ko": "Vance, 석유 무역 그룹과 만나 가스 가격에 대한 ’험난한 길’ 인정",
-      "summary_ko": ""
-    },
-    {
-      "title": "AUD/USD Price Forecast: Sticks to gains around mid-0.7000s; 200-EMA on H4 holds the key",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-sticks-to-gains-around-mid-07000s-200-ema-on-h4-holds-the-key-202603190429",
-      "summary": "The AUD/USD pair attracts some dip-buyers near the 0.7020 area during the Asian session on Thursday and reverses a part of the previous day's retracement slide from the weekly high.",
-      "title_ko": "AUD/USD 가격 예측: 약 0.7000 중반의 이익을 고수합니다. H4의 200-EMA가 열쇠를 쥐고 있습니다.",
-      "summary_ko": "AUD/USD 쌍은 목요일 아시아 세션 동안 0.7020 지역 근처에 일부 딥 바이어를 유치하고 전날 회귀 슬라이드의 일부를 주간 최고치에서 반전시킵니다."
-    },
-    {
-      "title": "Gold rebounds from one-month low as geopolitical tensions and softer USD offer support",
+      "title": "Gold clings to recovery gains; lacks bullish conviction amid Fed's hawkish outlook",
       "link": "https://www.fxstreet.com/news/gold-rebounds-from-one-month-low-as-geopolitical-tensions-and-softer-usd-offer-support-202603190403",
-      "summary": "Gold (XAU/USD) stages a modest recovery from the $4,800 mark, or the lowest level since February 6, touched during the Asian session on Thursday, amid a modest downtick in the US Dollar (USD).",
-      "title_ko": "지정학적 긴장과 더 부드러운 미국 달러 지원을 제공함에 따라 금은 1개월 최저치에서 반등합니다.",
-      "summary_ko": "금 (XAU/USD) 은 미국 달러 (USD) 의 완만한 하락세 속에서 목요일 아시아 세션에서 건드린 4,800달러 ($) 또는 2월 6일 이후 가장 낮은 수준에서 완만한 회복세를 보이고 있습니다."
+      "summary": "Gold (XAU/USD) struggles to capitalize on its modest intraday recovery from the $4,800 neighborhood, or its lowest level since February 6, touched during the Asian session on Thursday.",
+      "title_ko": "금은 회복 이익에 매달린다. 연준의 매파적인 전망 속에서 강도 높은 신념이 결여되어 있다.",
+      "summary_ko": "금 (XAU/USD) 은 목요일 아시아 세션에서 $ 4,800 지역 또는 2월 6일 이후 가장 낮은 수준의 소폭의 일중 회복을 활용하기 위해 고군분투하고 있습니다."
+    },
+    {
+      "title": "Silver Price Forecast: XAG/USD struggles near $75.50 on firm hopes of Fed’s extended pause",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-struggles-near-7550-on-firm-hopes-of-feds-extended-pause-202603190515",
+      "summary": "Silver price (XAG/USD) struggles to gain ground even after sliding to a fresh monthly low of $75.50 during the late Asian trading session on Thursday.",
+      "title_ko": "실버 가격 예측: XAG/USD는 Fed의 연장 휴지에 대한 확고한 희망으로 $ 75.50 근처에서 어려움을 겪고 있습니다.",
+      "summary_ko": "실버 가격 (XAG/USD) 은 목요일 늦은 아시아 거래 세션에서 $ 75.50 의 신선한 월간 최저치로 하락한 후에도 상승하기 위해 고군분투합니다."
     }
   ]
 }

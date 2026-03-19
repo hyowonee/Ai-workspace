@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-03-18 23:35:58 UTC",
+  "updated_at_utc": "2026-03-19 02:31:41 UTC",
   "items": [
     {
-      "title": "Micron forecasts strong revenue on AI boom; higher spending plan knocks shares",
-      "link": "https://www.investing.com/news/stock-market-news/micron-beats-quarterly-revenue-estimates-4569136",
+      "title": "SpaceX, Tesla to continue ordering Nvidia chips at scale- Musk",
+      "link": "https://www.investing.com/news/stock-market-news/spacex-tesla-to-continue-ordering-nvidia-chips-at-scale-musk-4569717",
       "summary": "",
-      "title_ko": "마이크론은 AI 붐에 대한 강력한 수익을 예측; 높은 지출 계획은 주식을 노크",
+      "title_ko": "스페이스X, 테슬라, 엔비디아 칩 대규모 주문 계속 예정- 머스크",
       "summary_ko": ""
     },
     {
-      "title": "Disney’s new CEO Josh D’Amaro steps up for a wild ride",
-      "link": "https://www.investing.com/news/stock-market-news/disneys-new-ceo-josh-damaro-steps-up-for-a-wild-ride-4567846",
+      "title": "Elliott builds stake in Invisalign maker Align- Bloomberg",
+      "link": "https://www.investing.com/news/stock-market-news/elliott-builds-stake-in-invisalign-maker-align-bloomberg-4569715",
       "summary": "",
-      "title_ko": "디즈니의 새로운 CEO 조쉬 다마로 (Josh D'Amaro) 가 와일드 라이드를 위해 나섭니다",
+      "title_ko": "Elliott, Invisalign 메이커 Align- Bloomberg의 지분 구축",
       "summary_ko": ""
     },
     {
-      "title": "Exclusive-Bridgewater’s chief scientist Sekhon to join Google’s DeepMind AI unit",
-      "link": "https://www.investing.com/news/stock-market-news/exclusivebridgewaters-chief-scientist-sekhon-to-join-googles-deepmind-ai-unit-4569590",
+      "title": "Exclusive-DOJ antitrust head says Paramount–Warner Bros deal review is not political",
+      "link": "https://www.investing.com/news/stock-market-news/doj-antitrust-head-says-paramountwarner-bros-deal-review-is-not-political-4569091",
       "summary": "",
-      "title_ko": "독점 브리지워터의 수석 과학자 Sekhon, Google의 DeepMind AI 유닛에 합류",
+      "title_ko": "Exclusive-DOJ 반독점 책임자는 Paramount-Warner Bros 거래 검토가 정치적이지 않다고 말합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Alibaba’s AI strategy shift comes into focus with big bets on agents",
-      "link": "https://www.investing.com/news/stock-market-news/alibabas-ai-strategy-shift-comes-into-focus-with-big-bets-on-agents-4567651",
+      "title": "US agency asks companies to secure Microsoft tool after Stryker cyberattack",
+      "link": "https://www.investing.com/news/stock-market-news/us-agency-asks-companies-to-secure-microsoft-tool-after-stryker-cyberattack-4569710",
       "summary": "",
-      "title_ko": "알리바바의 AI 전략 전환은 상담원에게 큰 베팅을 하면서 초점이 맞춰집니다.",
+      "title_ko": "미국 기관은 Stryker 사이버 공격 이후 기업에 Microsoft 도구의 보안을 요청합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Australia unemployment rate rises to 4.3% in Feb as full-time jobs decline",
+      "link": "https://www.investing.com/news/economic-indicators/australia-unemployment-rate-rises-to-43-in-feb-as-fulltime-jobs-decline-4569691",
+      "summary": "",
+      "title_ko": "호주 실업률은 정규직 일자리가 감소함에 따라 2월에 4.3% 로 상승합니다.",
       "summary_ko": ""
     },
     {
@@ -51,25 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "US factory orders barely rise in January",
-      "link": "https://www.investing.com/news/economic-indicators/us-factory-orders-barely-rise-in-january-4568766",
-      "summary": "",
-      "title_ko": "1월에 미국 공장 주문이 거의 증가하지 않음",
-      "summary_ko": ""
+      "title": "NZD/USD strengthens to 0.5820 area as softer USD counter dismal NZ GDP",
+      "link": "https://www.fxstreet.com/news/nzd-usd-strengthens-to-05820-area-as-softer-usd-counter-dismal-nz-gdp-202603190142",
+      "summary": "The NZD/USD pair attracts some buyers near the 0.5785 region during the Asian session on Thursday and reverses a part of the previous day's rejection slide from a technically significant 200-day Simple Moving Average (SM",
+      "title_ko": "NZD/USD는 더 부드러운 USD 카운터로 0.5820 면적으로 강화됩니다. NZ GDP",
+      "summary_ko": "NZD/USD 쌍은 목요일 아시아 세션에서 0.5785 지역 근처의 일부 구매자를 끌어 들이고 전날 거절 슬라이드의 일부를 기술적으로 중요한 200 일 단순 이동 평균 (SM"
     },
     {
-      "title": "Bank of Japan expected to hold rates as high Oil prices temper near-term hikes",
-      "link": "https://www.fxstreet.com/news/bank-of-japan-expected-to-hold-rates-as-high-oil-prices-temper-near-term-hikes-202603182300",
-      "summary": "The Bank of Japan (BoJ) is expected to leave its benchmark interest rate unchanged at 0.75% at the end of its monetary policy meeting on Thursday, adopting a cautious stance as the Iran war-related spike in energy prices",
-      "title_ko": "일본은행은 높은 유가가 단기적인 인상을 촉진함에 따라 금리를 유지할 것으로 예상했다.",
-      "summary_ko": "일본 은행 (BOJ) 은 목요일 통화 정책 회의가 끝날 때 기준 금리를 0.75% 로 변경하지 않을 것으로 예상되며, 이란의 전쟁 관련 에너지 가격 급등에 대한 신중한 입장을 취할 것으로 예상됩니다."
-    },
-    {
-      "title": "New Zealand’s Gross Domestic Product grows 0.2% QoQ in Q4 vs. 0.4% expected",
-      "link": "https://www.fxstreet.com/news/new-zealands-gross-domestic-product-grows-02-qoq-in-q4-vs-04-expected-202603182253",
-      "summary": "New Zealand's Gross Domestic Product (GDP) grew by 0.2% QoQ in the fourth quarter (Q4), compared with a 0.9% expansion (revised from 1.1%) in the third quarter, Statistics New Zealand showed on Thursday. This reading cam",
-      "title_ko": "뉴질랜드 국내 총생산은 4분기 전분기 대비 0.2% 증가한 0.4% 를 기록할 것으로 예상됩니다.",
-      "summary_ko": "통계청에 따르면 뉴질랜드의 국내 총생산 (GDP) 은 4분기 (4분기) 에 전분기 대비 0.2% 성장했으며, 3분기에는 0.9% 증가 (1.1% 에서 수정) 했다."
+      "title": "Japanese Yen gathers strength ahead of BoJ rate decision",
+      "link": "https://www.fxstreet.com/news/japanese-yen-gathers-strength-ahead-of-boj-rate-decision-202603190141",
+      "summary": "The USD/JPY pair trades in negative territory around 159.70 during the Asian trading hours on Thursday. The Japanese Yen (JPY) edges higher against the Greenback amid intervention fears by Japanese authorities.",
+      "title_ko": "일본 엔화, BOJ 금리 결정 앞두고 강세",
+      "summary_ko": "USD/JPY 쌍은 목요일 아시아 거래 시간 동안 약 159.70의 마이너스 영토에서 거래합니다. 일본 엔화 (JPY) 는 일본 당국의 개입 우려 속에서 그린백에 대해 더 높게 책정되었습니다."
     }
   ]
 }

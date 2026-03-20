@@ -1,6 +1,13 @@
 {
-  "updated_at_utc": "2026-03-20 08:45:57 UTC",
+  "updated_at_utc": "2026-03-20 09:45:20 UTC",
   "items": [
+    {
+      "title": "Unilever confirms food unit sale talks with McCormick; shares jump",
+      "link": "https://www.investing.com/news/stock-market-news/unilever-in-talks-to-combine-food-arm-with-mccormick-wsj-reports-4572137",
+      "summary": "",
+      "title_ko": "유니레버, 맥코믹과 식품 단위 판매 협상 확정, JUMP 공유",
+      "summary_ko": ""
+    },
     {
       "title": "Novartis to buy experimental breast cancer drug in up to $3 billion deal",
       "link": "https://www.investing.com/news/stock-market-news/novartis-to-buy-experimental-breast-cancer-drug-in-up-to-3-billion-deal-4572396",
@@ -23,10 +30,10 @@
       "summary_ko": ""
     },
     {
-      "title": "Indonesia stocks higher at close of trade; IDX Composite Index up 1.20%",
-      "link": "https://www.investing.com/news/stock-market-news/indonesia-stocks-higher-at-close-of-trade-idx-composite-index-up-120-4572391",
+      "title": "Taiwan February export orders miss forecasts",
+      "link": "https://www.investing.com/news/economic-indicators/taiwan-february-export-orders-miss-forecasts-4572434",
       "summary": "",
-      "title_ko": "인도네시아는 거래 마감 시점에서 더 높은 주식을 보유하고 있으며, IDX 종합 지수는 1.20% 상승했습니다.",
+      "title_ko": "대만 2월 수출 주문 누락 예측",
       "summary_ko": ""
     },
     {
@@ -51,25 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "UK public finances deteriorate ahead of energy price shock",
-      "link": "https://www.investing.com/news/economic-indicators/uk-public-finances-deteriorate-ahead-of-energy-price-shock-4572363",
-      "summary": "",
-      "title_ko": "에너지 가격 쇼크를 앞두고 영국 공공 재정이 악화됨",
-      "summary_ko": ""
+      "title": "Scope for Dollar to extend gains further – MUFG",
+      "link": "https://www.fxstreet.com/news/scope-for-dollar-to-extend-gains-further-mufg-202603200859",
+      "summary": "MUFG’s Derek Halpenny notes that the recent retracement in Brent has eased immediate upward pressure on the Dollar, but he doubts the move will last given ongoing Middle East tensions and constrained supply.",
+      "title_ko": "달러가 이득을 더 연장할 수 있는 범위 – MUFG",
+      "summary_ko": "MUFG의 데릭 할페니 (Derek Halpenny) 는 최근 브렌트에서의 후퇴가 달러에 대한 즉각적인 상승 압력을 완화했지만, 지속적인 중동 긴장과 제한된 공급을 감안할 때 이번 움직임이 지속될지 의문이라고 지적했다."
     },
     {
-      "title": "ECB’s Muller: Inflation will probably be a bit higher",
-      "link": "https://www.fxstreet.com/news/ecbs-muller-inflation-will-probably-be-a-bit-higher-202603200803",
-      "summary": "During European trading hours, ECB officials: François Villeroy de Galhau and Madis Muller delivers remarks on inflation and geopolitical uncertainty.",
-      "title_ko": "ECB의 뮬러: 인플레이션은 아마도 좀 더 높을 것입니다.",
-      "summary_ko": "유럽중앙은행 (ECB) 관계자: 프랑수아 빌레로이 드 갈하우 (François Villeroy de Galhau) 와 마디스 뮬러 (Madis Muller) 는 인플레이션과 지정학적 불확실성에 대해 언급합니다."
-    },
-    {
-      "title": "Forex Today: Major pairs stabilize as markets assess central bank policy outlooks",
-      "link": "https://www.fxstreet.com/news/forex-today-major-pairs-stabilize-as-markets-assess-central-bank-policy-outlooks-202603200755",
-      "summary": "Here is what you need to know on Friday, March 20:",
-      "title_ko": "포렉스 투데이: 시장이 중앙 은행 정책 전망을 평가함에 따라 주요 쌍이 안정화됨",
-      "summary_ko": "3월 20일 금요일에 알아두어야 할 사항은 다음과 같습니다."
+      "title": "GBP/USD: BoE hawkish tilt underpins Pound – ING",
+      "link": "https://www.fxstreet.com/news/gbp-usd-boe-hawkish-tilt-underpins-pound-ing-202603200853",
+      "summary": "ING’s Francesco Pesole notes that the Bank of England surprised markets with a unanimous hold and strong guidance that it is ready to act against any inflation spike. Markets added substantial tightening by year-end, tho",
+      "title_ko": "GBP/USD: BOE 매파 틸트 언더핀 파운드 – 잉",
+      "summary_ko": "ING의 프란체스코 페솔레 (Francesco Pesole) 는 잉글랜드 은행이 만장일치로 보류하고 모든 인플레이션 급증에 대응할 준비가 되었다는 강력한 지침으로 시장을 놀라게 했다고 지적했다. 시장은 연말까지 상당한 타이트닝을 추가했습니다."
     }
   ]
 }

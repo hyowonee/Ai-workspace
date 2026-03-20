@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-03-20 02:24:09 UTC",
+  "updated_at_utc": "2026-03-20 04:25:47 UTC",
   "items": [
     {
-      "title": "US stock futures steady after Wall St slips on large oil swings, Fed rate concerns",
-      "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-st-slips-on-large-oil-swings-fed-rate-concerns-4572211",
+      "title": "US says it disrupted botnets that infected over 3 million devices worldwide",
+      "link": "https://www.investing.com/news/stock-market-news/us-says-it-disrupted-botnets-that-infected-over-3-million-devices-worldwide-4572243",
       "summary": "",
-      "title_ko": "월스트리트가 대규모 오일 스윙에서 미끄러진 후 미국 주식 선물은 안정적, 연준 금리 우려",
+      "title_ko": "미국, 전 세계 3백만 개 이상의 장치에 감염된 봇넷을 차단했다고 발표",
       "summary_ko": ""
     },
     {
-      "title": "US Health Department official signals progress on selecting new CDC head",
-      "link": "https://www.investing.com/news/stock-market-news/hhs-chief-counselor-says-encouraged-by-candidates-vying-to-lead-cdc-4572046",
+      "title": "Alibaba HK shares slide as dismal Q3 earnings overshadow AI, cloud growth",
+      "link": "https://www.investing.com/news/stock-market-news/alibaba-hk-shares-slide-as-dismal-q3-earnings-overshadow-ai-cloud-growth-4572241",
       "summary": "",
-      "title_ko": "미국 보건부 (US Health Department) 가 새로운 질병통제예방센터 (CDC) 책임자 선정에 대한",
+      "title_ko": "Alibaba HK는 3분기 실적이 AI, 클라우드 성장을 뒤덮으면서 슬라이드를 공유합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Panama rejects PPC claims on canceled port contracts",
-      "link": "https://www.investing.com/news/stock-market-news/panama-rejects-ppc-claims-on-canceled-port-contracts-4572184",
+      "title": "FCC approves $3.5 billion sale of Tegna to Nexstar despite state objections",
+      "link": "https://www.investing.com/news/stock-market-news/fcc-approvescombination-of-nexstar-and-tegna-tv-stations-4572118",
       "summary": "",
-      "title_ko": "파나마, 취소된 항만 계약에 대한 PPC 청구 거부",
+      "title_ko": "FCC, 주 정부 이의 제기에도 불구하고 Nexstar에 35억 $ 테그나 매각 승인",
       "summary_ko": ""
     },
     {
-      "title": "FedEx CEO says global demand holding amid Iran war, annual profit outlook up on record holiday profit",
-      "link": "https://www.investing.com/news/stock-market-news/fedex-raises-fullyear-forecast-after-solid-holiday-quarter-4571639",
+      "title": "Exclusive-Tesla in talks with Chinese firms to buy $2.9 billion worth of solar equipment, sources say",
+      "link": "https://www.investing.com/news/stock-market-news/exclusivetesla-in-talks-with-chinese-firms-to-buy-29-billion-worth-of-solar-equipment-sources-say-4572227",
       "summary": "",
-      "title_ko": "FedEx CEO, 이란 전쟁 중 글로벌 수요 보유, 연간 이익 전망 사상 최대 휴일 이익",
+      "title_ko": "소식통에 따르면 독점 테슬라가 중국 기업과 $ 29억 상당의 태양광 장비를 구매하기 위해 협상 중이라고 한다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Joint statement on Strait of Hormuz by European nations, Japan, Canada",
+      "link": "https://www.investing.com/news/economic-indicators/joint-statement-on-strait-of-hormuz-by-european-nations-japan-canada-4572242",
+      "summary": "",
+      "title_ko": "유럽 국가, 일본, 캐나다의 호르무즈 해협 공동 성명서",
       "summary_ko": ""
     },
     {
@@ -51,25 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "US wholesale inventories fall sharply in January",
-      "link": "https://www.investing.com/news/economic-indicators/us-wholesale-inventories-fall-sharply-in-january-4571133",
-      "summary": "",
-      "title_ko": "1월 미국 도매 재고 급격히 감소",
-      "summary_ko": ""
+      "title": "Gold rebounds as Middle East tensions boost safe-haven flows",
+      "link": "https://www.fxstreet.com/news/gold-tumbles-below-4-650-as-inflation-fears-and-liquidity-squeeze-weigh-202603192310",
+      "summary": "Gold price (XAU/USD) rebounds to near $4,735, snapping the seven-day losing streak during the Asian session on Friday. The precious metal edges higher as the ongoing US-Iran conflict spikes demand for safe-haven assets. ",
+      "title_ko": "금은 중동 긴장이 안전 피난처의 흐름을 촉진함에 따라 반등합니다.",
+      "summary_ko": "금 가격 (XAU/USD) 은 거의 $ 4,735로 반등하여 금요일 아시아 세션에서 7 일 연속 손실을 기록했습니다. 진행 중인 미국-이란 갈등으로 인해 안전 자산에 대한 수요가 급증함에 따라 귀금속 가장자리가 높아지고 있습니다."
     },
     {
-      "title": "PBOC leaves Loan Prime Rates unchanged in March",
-      "link": "https://www.fxstreet.com/news/pboc-leaves-loan-prime-rates-unchanged-in-march-202603200104",
-      "summary": "The People’s Bank of China (PBOC), China's central bank, announced to leave its Loan Prime Rates (LPRs) unchanged on Friday. The one-year and five-year LPRs were at 3.00% and 3.50%, respectively.",
-      "title_ko": "PBOC는 3월에 대출 프라임 금리를 변경하지 않습니다",
-      "summary_ko": "중국 중앙은행인 인민은행 (PBOC) 은 금요일에 대출 총금리 (LPR) 를 변경하지 않겠다고 발표했다. 1년 LPR과 5년 LPR은 각각 3.00% 와 3.50% 였다."
-    },
-    {
-      "title": "WTI drifts lower to near $93.50 as US and Israeli leaders seek to calm Middle East war concerns",
-      "link": "https://www.fxstreet.com/news/wti-drifts-lower-to-near-9350-as-us-and-israeli-leaders-seek-to-calm-middle-east-war-concerns-202603200047",
-      "summary": "West Texas Intermediate (WTI), the US crude oil benchmark, is trading around $93.50 during the early Asian trading hours on Friday. The WTI price declines as the leaders of the US and Israel sought to reassure traders ra",
-      "title_ko": "미국과 이스라엘 지도자들이 중동 전쟁 우려를 진정시키기 위해 노력함에 따라 WTI는 $ 93.50 근처로 낮아졌습니다.",
-      "summary_ko": "미국 원유 벤치마크인 West Texas Intermediate (WTI) 는 금요일 아시아 초기 거래 시간 동안 약 $ 93.50 에 거래되고 있습니다. 미국과 이스라엘의 지도자들이 거래자들을 안심시키기 위해 노력함에 따라 WTI 가격은 하락했다."
+      "title": "EUR/USD corrects to near 1.1560 as USD gains ground",
+      "link": "https://www.fxstreet.com/news/eur-usd-corrects-to-near-11560-as-usd-gains-ground-202603200315",
+      "summary": "The EUR/USD pair retraces from the weekly high of 1.1616 posted on Thursday, trades 0.2% lower at around 1.1560 during the Asian trading session on Friday. The major currency pair corrects as the US Dollar (USD) attempts",
+      "title_ko": "USD가 상승함에 따라 EUR/USD는 1.1560 근처로 조정됩니다.",
+      "summary_ko": "EUR/USD 쌍은 목요일에 게시된 1.1616의 주간 최고치에서 회귀하여 금요일 아시아 거래 세션 동안 약 1.1560에서 0.2% 낮게 거래됩니다. 주요 통화 쌍은 미국 달러 (USD) 의 시도에 따라 정정됩니다."
     }
   ]
 }

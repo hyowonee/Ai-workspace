@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-03-20 11:34:01 UTC",
+  "updated_at_utc": "2026-03-20 13:05:31 UTC",
   "items": [
     {
-      "title": "M&amp;A activity to accelerate this year despite war disruption, Goldman Sachs says",
-      "link": "https://www.investing.com/news/stock-market-news/ma-activity-to-accelerate-this-year-despite-war-disruption-goldman-sachs-says-4572750",
+      "title": "TSX futures point lower amid choppy oil prices, ongoing Iran war",
+      "link": "https://www.investing.com/news/stock-market-news/tsx-futures-point-lower-amid-choppy-oil-prices-ongoing-iran-war-4573003",
       "summary": "",
-      "title_ko": "골드만 삭스는 전쟁 중단에도 불구하고 올해 가속화될 M&amp;A 활동에 대해 이렇게 말합니다.",
+      "title_ko": "고르지 못한 유가 속에서 TSX 선물 포인트가 낮아지고, 이란 전쟁이 진행 중입니다.",
       "summary_ko": ""
     },
     {
-      "title": "Factbox-Airlines cancel more flights as Middle East conflict escalates",
-      "link": "https://www.investing.com/news/stock-market-news/factboxairlines-cancel-more-flights-as-middle-east-conflict-escalates-4562392",
+      "title": "Tesla in talks with Chinese firms to buy $2.9 billion worth of solar equipment, sources say",
+      "link": "https://www.investing.com/news/stock-market-news/exclusivetesla-in-talks-with-chinese-firms-to-buy-29-billion-worth-of-solar-equipment-sources-say-4572227",
       "summary": "",
-      "title_ko": "Factbox-Airlines는 중동 분쟁이 격화됨에 따라 더 많은 항공편을 취소합니다.",
+      "title_ko": "소식통에 따르면 테슬라는 중국 기업과 29억 달러 ($) 상당의 태양광 장비를 구매하기 위해 협상 중이라고 한다.",
       "summary_ko": ""
     },
     {
-      "title": "UBS remains confident in U.S. stocks, sees S&amp;P 500 hitting 7,700",
-      "link": "https://www.investing.com/news/stock-market-news/ubs-remains-confident-in-us-stocks-sees-sp-500-hitting-7700-4572739",
+      "title": "UBS downgrades UK equities to neutral, sees limited upside potential",
+      "link": "https://www.investing.com/news/stock-market-news/ubs-downgrades-uk-equities-to-neutral-sees-limited-upside-potential-4572992",
       "summary": "",
-      "title_ko": "UBS는 미국 주식에 대한 자신감을 유지하고 있으며, S&amp;P 500은 7,700을 기록하고 있습니다.",
+      "title_ko": "UBS는 영국 주식을 중립으로 하향 조정하고 상향 조정 가능성이 제한적임",
       "summary_ko": ""
     },
     {
-      "title": "China’s Xpeng to launch EVs for Latin American market",
-      "link": "https://www.investing.com/news/stock-market-news/chinas-xpeng-to-launch-evs-for-latin-american-market-4572736",
+      "title": "Arm Holdings gains after HSBC upgrades on AI server shift, new CPU push",
+      "link": "https://www.investing.com/news/stock-market-news/arm-holdings-gains-after-hsbc-upgrades-on-ai-server-shift-new-cpu-push-4572988",
       "summary": "",
-      "title_ko": "중국 Xpeng, 중남미 시장용 전기차 출시 예정",
+      "title_ko": "ARM Holdings는 AI 서버 교대, 새로운 CPU 푸시에서 HSBC 업그레이드 후 이익을 얻습니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "UK BoE hold draws hawkish read from analysts, hike risks move into view",
+      "link": "https://www.investing.com/news/economic-indicators/uk-boe-hold-draws-hawkish-read-from-analysts-hike-risks-move-into-view-4573000",
+      "summary": "",
+      "title_ko": "영국 BOE 보류는 분석가들로부터 매파적인 읽기를 끌어들이고, 하이킹 위험은 시야로 이동합니다.",
       "summary_ko": ""
     },
     {
@@ -51,25 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "UK borrowing jumped in February before Iran war risks to budget",
-      "link": "https://www.investing.com/news/economic-indicators/uk-budget-deficit-jumped-in-february-as-iran-war-darkens-fiscal-outlook-4572361",
-      "summary": "",
-      "title_ko": "영국 차입금은 이란 전쟁 위험이 예산을 책정하기 전인 2월에 급증했다.",
-      "summary_ko": ""
+      "title": "Oil: Supply response tempers geopolitical spike – OCBC",
+      "link": "https://www.fxstreet.com/news/oil-supply-response-tempers-geopolitical-spike-ocbc-202603201227",
+      "summary": "OCBC’s Sim Moh Siong highlights that crude briefly surged toward USD120/bbl on Iranian attacks before easing as US officials signalled supply support and Israel suggested faster de-escalation.",
+      "title_ko": "오일: 공급 반응 온도 지정학적 스파이크 – OCBC",
+      "summary_ko": "OCBC의 심 모 시옹 (Sim Moh Siong) 은 미국 관리들이 공급 지원 신호를 보내고 이스라엘이 더 빠른 완화를 제안함에 따라 완화되기 전에 이란 공격에 대해 미화 120달러/흑백으로 잠시 급증했다고 강조한다."
     },
     {
-      "title": "GBP/USD retreats as BoE hawkish shift meets resilient US Dollar",
-      "link": "https://www.fxstreet.com/news/gbp-usd-retreats-as-boe-hawkish-shift-meets-resilient-us-dollar-202603201053",
-      "summary": "GBP/USD retreats on Friday, trading around 1.3380 at the time of writing, down 0.39% on the day, after Thursday’s strong rally following the Bank of England (BoE) decision.",
-      "title_ko": "영국 파운드/미국 달러 (GBP/USD), BoE 매파 이동과 탄력적인 미국 달러의 만남으로 후퇴",
-      "summary_ko": "GBP/USD는 영란은행 (BOE) 결정 이후 목요일의 강력한 랠리 이후 당일 0.39% 하락한 약 1.3380에 거래되며 금요일에 후퇴합니다."
-    },
-    {
-      "title": "USD/INR surges above 94 as INR plummets amid consistent foreign outflows",
-      "link": "https://www.fxstreet.com/news/usd-inr-refreshes-all-time-highs-near-9370-as-indian-rupee-deteriorates-further-202603200505",
-      "summary": "The Indian Rupee (INR) extends its downfall against the US Dollar (USD) on Friday after a holiday the previous day.",
-      "title_ko": "일관된 해외 유출로 인해 INR이 급락하면서 USD/INR이 94를 상회합니다.",
-      "summary_ko": "인도 루피 (INR) 는 전날 공휴일 이후 금요일에 미국 달러 (USD) 대비 하락폭을 연장합니다."
+      "title": "Gold: Near-term pressure versus structural support – OCBC",
+      "link": "https://www.fxstreet.com/news/gold-near-term-pressure-versus-structural-support-ocbc-202603201225",
+      "summary": "OCBC’s Christopher Wong reports that Gold has come under pressure as rising global yields and renewed inflation risks reduce expectations for near-term rate cuts, prompting ETF outflows and stress-driven liquidation.",
+      "title_ko": "금: 단기 압력 대 구조적 지원 – OCBC",
+      "summary_ko": "OCBC의 크리스토퍼 웡 (Christopher Wong) 은 글로벌 수익률 상승과 인플레이션 위험이 단기 금리 인하에 대한 기대치를 낮추고 ETF 유출과 스트레스 중심의 청산으로 이어짐에 따라 금이 압박을 받고 있다고 보고합니다."
     }
   ]
 }

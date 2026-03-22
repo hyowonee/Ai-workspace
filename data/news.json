@@ -1,6 +1,13 @@
 {
-  "updated_at_utc": "2026-03-22 22:55:23 UTC",
+  "updated_at_utc": "2026-03-22 23:32:19 UTC",
   "items": [
+    {
+      "title": "Elliott builds major stake in chip design software firm Synopsys- WSJ",
+      "link": "https://www.investing.com/news/stock-market-news/elliott-builds-major-stake-in-chip-design-software-firm-synopsys-wsj-4574157",
+      "summary": "",
+      "title_ko": "Elliott는 칩 설계 소프트웨어 회사인 Synopsys- WSJ의 주요 지분을 구축합니다.",
+      "summary_ko": ""
+    },
     {
       "title": "Musk says SpaceX and Tesla to build advanced chip factories in Austin",
       "link": "https://www.investing.com/news/stock-market-news/musk-says-spacex-and-tesla-to-build-advanced-chip-factories-in-austin-4574149",
@@ -20,13 +27,6 @@
       "link": "https://www.investing.com/news/stock-market-news/nzs-fonterra-ups-annual-earnings-outlook-flags-potential-middle-east-disruptions-4574145",
       "summary": "",
       "title_ko": "뉴질랜드의 Fonterra는 연간 수입 전망을 높이고 잠재적인 중동 중단을 표시합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-      "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4574144",
-      "summary": "",
-      "title_ko": "러시아 주식은 교역 마감 시점보다 낮습니다. MOEX 러시아 지수는 변동이 없습니다.",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
+      "title": "EUR/USD declines to near 1.550 amid Middle East crisis",
+      "link": "https://www.fxstreet.com/news/eur-usd-declines-to-near-1550-amid-middle-east-crisis-202603222241",
+      "summary": "The EUR/USD pair loses ground to around 1.1560 during the early Asian trading hours on Monday. The Euro (EUR) weakens against the US Dollar (USD) as heightened geopolitical tensions in the Middle East have spurred volati",
+      "title_ko": "중동 위기 속에서 EUR/USD는 1.550 근처까지 하락",
+      "summary_ko": "EUR/USD 쌍은 월요일 아시아 초기 거래 시간 동안 약 1.1560으로 하락합니다. 중동의 지정학적 긴장이 고조되면서 유로 (EUR) 는 미국 달러 (USD) 대비 약세를 보이고 있다."
+    },
+    {
       "title": "Iran threatens to target financial entities that finance US military budget",
       "link": "https://www.fxstreet.com/news/iran-threatens-to-target-financial-entities-that-finance-us-military-budget-202603222237",
       "summary": "In a social media post on Sunday, Mohammad Bagher Qalibaf, Iran’s parliament speaker, threatened financial entities that fund the US military.",
       "title_ko": "이란은 미군 예산에 자금을 지원하는 금융 기관을 표적으로 삼겠다고 위협하고 있다.",
       "summary_ko": "이란의 의회 대변인인 모하마드 바거 칼리바프 (Mohammad Bagher Qalibaf) 는 일요일 소셜 미디어 게시물에서 미군에 자금을 지원하는 금융 기관을 위협했다."
-    },
-    {
-      "title": "US Treasury Secretary Bessent: Sometimes you have to 'escalate to de-escalate'",
-      "link": "https://www.fxstreet.com/news/us-treasury-secretary-bessent-sometimes-you-have-to-escalate-to-de-escalate-202603222229",
-      "summary": "When asked in an NBS News interview on Sunday if President Donald Trump was “winding down” the war or “escalating” it, US Treasury Secretary Scott Bessent said, they are not mutually exclusive. Sometimes you have to esca",
-      "title_ko": "베슨트 미국 재무장관: 때로는 '에스컬레이션을 완화하기 위해 에스컬레이션' 해야 할 때도 있습니다.",
-      "summary_ko": "스콧 베슨트 (Scott Bessent) 미국 재무장관은 일요일 NBS 뉴스 인터뷰에서 도널드 트럼프 (Donald Trump) 대통령이 전쟁을 \"완화\" 하거나 \"확대\" 하고 있는지 물었을 때, 그들은 상호 배타적이지 않다고 말했다. 때로는 에스카를 해야 할 때도 있습니다."
     }
   ]
 }

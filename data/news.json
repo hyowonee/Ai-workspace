@@ -1,11 +1,25 @@
 {
-  "updated_at_utc": "2026-03-23 17:25:51 UTC",
+  "updated_at_utc": "2026-03-23 18:10:23 UTC",
   "items": [
     {
-      "title": "Gilead nearing up to $2 billion buyout of biotech Ouro Medicines, FT reports",
-      "link": "https://www.investing.com/news/stock-market-news/gilead-nearing-up-to-2-billion-buyout-of-biotech-ouro-medicines-ft-reports-4575796",
+      "title": "One battle after another: Iran war deals new blow to Europe’s industrial heartland",
+      "link": "https://www.investing.com/news/stock-market-news/one-battle-after-another-iran-war-deals-new-blow-to-europes-industrial-heartland-4574228",
       "summary": "",
-      "title_ko": "FT는 Gilead가 바이오테크 Ouro 의약품의 $ 20억 매입에 근접했다고 보고했습니다.",
+      "title_ko": "한 차례의 전투: 이란 전쟁은 유럽의 산업 중심지에 새로운 타격을 가합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Wall Street comes off highs, but solidly up on Middle East de-escalation hopes",
+      "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-fall-after-trump-issues-48hr-deadline-on-iran-4574168",
+      "summary": "",
+      "title_ko": "월스트리트는 최고치를 경신했지만 중동의 감정 완화 희망에 견고하게 도달했습니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "GE Vernova target bumped on stronger turbine pricing amid electrification demand",
+      "link": "https://www.investing.com/news/stock-market-news/ge-vernova-target-bumped-on-stronger-turbine-pricing-amid-electrification-demand-4575819",
+      "summary": "",
+      "title_ko": "전기화 수요 속에서 더 강력한 터빈 가격 책정에 부딪힌 GE Vernova 목표",
       "summary_ko": ""
     },
     {
@@ -13,13 +27,6 @@
       "link": "https://www.investing.com/news/stock-market-news/madison-dearbornbacked-defense-contractor-aevex-files-for-us-ipo-4575795",
       "summary": "",
       "title_ko": "미국 기업공개 (IPO) 를 위한 매디슨 디어본 (Madison Dearborn) 지원 방위산업체 AEVEX 파일",
-      "summary_ko": ""
-    },
-    {
-      "title": "U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 0.07%",
-      "link": "https://www.investing.com/news/stock-market-news/uk-stocks-lower-at-close-of-trade-investingcom-united-kingdom-100-down-007-4575792",
-      "summary": "",
-      "title_ko": "영국 주식은 거래 마감 시점에 하락; Investing.com 영국 100 0.07% 하락",
       "summary_ko": ""
     },
     {
@@ -51,25 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Gold rebounds from year-to-date lows as Trump delays Iran energy strikes",
-      "link": "https://www.fxstreet.com/news/gold-rebounds-from-year-to-date-lows-as-trump-delays-iran-energy-strikes-202603231223",
-      "summary": "Gold (XAU/USD) rebounds from year-to-date lows on Monday as bargain hunting emerges after a steep sell-off, with the metal finding support after news that US President Donald Trump postponed planned strikes against Iran'",
-      "title_ko": "금은 트럼프가 이란의 에너지 타격을 지연시킴에 따라 연저점에서 반등",
-      "summary_ko": "금 (XAU/USD) 은 도널드 트럼프 미국 대통령이 이란에 대한 계획된 타격을 연기했다는 소식 이후 금속을 찾는 지원과 함께 가파른 매도 이후 거래 사냥이 나타나면서 월요일에 전년 대비 최저치에서 반등했다."
+      "title": "WTI plunges back below $100 as Trump postpones energy infrastructure strikes on Iran",
+      "link": "https://www.fxstreet.com/news/wti-plunges-back-below-100-as-trump-postpones-energy-infrastructure-strikes-on-iran-202603231716",
+      "summary": "West Texas Intermediate (WTI) Crude Oil fell roughly 9% on Monday, falling back below $100/barrel and testing $90.00 after tracing one of the widest intraday ranges in modern oil market history.",
+      "title_ko": "트럼프가 이란에 대한 에너지 인프라 파업을 연기함에 따라 WTI는 $ 100 아래로 하락했다.",
+      "summary_ko": "서부 텍사스 중급 (WTI) 원유는 월요일에 약 9% 하락하여 현대 석유 시장 역사상 가장 넓은 거래 범위 중 하나를 추적한 후 $ 100/배럴 아래로 하락하고 $ 90.00 를 테스트했습니다."
     },
     {
-      "title": "Silver rebounds from year-to-date lows but bearish outlook remains intact",
-      "link": "https://www.fxstreet.com/news/silver-rebounds-from-year-to-date-lows-but-bearish-outlook-remains-intact-202603231628",
-      "summary": "Silver (XAG/USD) stages a rebound on Monday after briefly slipping to year-to-date lows earlier in the Asian trading session, as traders digest conflicting headlines surrounding geopolitical tensions linked to the US-Isr",
-      "title_ko": "실버는 전년 대비 최저치에서 반등했지만 견고한 전망은 그대로 유지됩니다.",
-      "summary_ko": "실버 (XAG/USD) 는 아시아 거래 세션 초반에 전년 대비 최저치로 잠깐 하락한 후 월요일에 반등을 단행합니다. 거래자들은 미국과 연결된 지정학적 긴장을 둘러싼 상반된 헤드라인을 소화합니다."
-    },
-    {
-      "title": "Dow Jones Industrial Average surges as Trump halts Iran strikes, Oil plunges",
-      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-surges-as-trump-halts-iran-strikes-oil-plunges-202603231621",
-      "summary": "The Dow Jones Industrial Average surged more than 600 points on Monday, climbing roughly 1.5% to recapture the 46,000 handle as investors bet that the worst of the Iran crisis may be nearing an end.",
-      "title_ko": "다우 존스 산업 평균지수는 트럼프가 이란의 공격을 중단하고 석유가 급락함에 따라 급증합니다.",
-      "summary_ko": "다우 존스 산업 평균 지수는 월요일 600 포인트 이상 급등하여 투자자들이 최악의 이란 위기가 끝날 수 있다고 내기함에 따라 약 1.5% 상승하여 46,000 핸들을 탈환했습니다."
+      "title": "EUR/JPY holds as Yen firms on BoJ outlook and intervention risks",
+      "link": "https://www.fxstreet.com/news/eur-jpy-holds-as-yen-firms-on-boj-outlook-and-intervention-risks-202603231711",
+      "summary": "The EUR/JPY cross trades in a tight range around the 184.00 price region, even retracing some of its intraday gains, though risk appetite remains high. The Japanese Yen (JPY) is gaining ground against the Euro (EUR).",
+      "title_ko": "EUR/JPY는 BOJ 전망 및 개입 위험에 대해 엔화 기업으로 유지합니다.",
+      "summary_ko": "EUR/JPY 교차 거래는 184.00 가격 지역을 중심으로 엄격한 범위에서 거래되며, 위험 선호도는 여전히 높지만 일간 이익의 일부를 되짚어 볼 수도 있습니다. 일본 엔화 (JPY) 가 유로화 (EUR) 를 상대로 상승세를 타고 있습니다."
     }
   ]
 }

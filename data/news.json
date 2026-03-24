@@ -1,11 +1,18 @@
 {
-  "updated_at_utc": "2026-03-24 22:01:16 UTC",
+  "updated_at_utc": "2026-03-24 22:59:06 UTC",
   "items": [
     {
-      "title": "Baltimore sues Elon Musk’s xAI over Grok sexual ’deepfakes’",
-      "link": "https://www.investing.com/news/stock-market-news/baltimore-sues-elon-musks-xai-over-grok-sexual-deepfakes-4578734",
+      "title": "Trump cites progress with Iran, US proposes plan to end war",
+      "link": "https://www.investing.com/news/stock-market-news/iran-sends-waves-of-missiles-into-israel-dismisses-trumps-talk-of-negotiations-as-fake-news-4576581",
       "summary": "",
-      "title_ko": "볼티모어는 그록의 성적 '딥페이크’ 에 대해 일론 머스크의 xAI를 고소합니다",
+      "title_ko": "트럼프는 이란과의 진전을 인용하고, 미국은 전쟁 종식 계획을 제안한다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Meta ordered to pay $375 million in New Mexico trial over child exploitation, user safety claims",
+      "link": "https://www.investing.com/news/stock-market-news/jury-orders-meta-to-pay-375-million-in-new-mexico-lawsuit-over-child-sexual-exploitation-user-safety-4578658",
+      "summary": "",
+      "title_ko": "Meta는 아동 착취, 사용자 안전 청구에 대해 뉴멕시코 재판에서 3억 7,500만 달러 ($) 를 지불하도록 명령했습니다.",
       "summary_ko": ""
     },
     {
@@ -16,17 +23,10 @@
       "summary_ko": ""
     },
     {
-      "title": "Mexico stocks higher at close of trade; S&amp;P/BMV IPC up 2.18%",
-      "link": "https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-218-4578727",
+      "title": "Baltimore sues Elon Musk’s xAI over Grok sexual ’deepfakes’",
+      "link": "https://www.investing.com/news/stock-market-news/baltimore-sues-elon-musks-xai-over-grok-sexual-deepfakes-4578734",
       "summary": "",
-      "title_ko": "멕시코는 거래 마감 시점에서 더 높은 주식을 보유하고 있으며, S&amp;P/BMV IPC는 2.18% 상승",
-      "summary_ko": ""
-    },
-    {
-      "title": "OpenAI discontinues Sora video platform to sharpen focus on enterprise products",
-      "link": "https://www.investing.com/news/stock-market-news/openai-set-to-discontinue-sora-video-platform-app-wsj-reports-4578391",
-      "summary": "",
-      "title_ko": "OpenAI는 엔터프라이즈 제품에 대한 집중력을 높이기 위해 SORA 비디오 플랫폼을 중단합니다.",
+      "title_ko": "볼티모어는 그록의 성적 '딥페이크’ 에 대해 일론 머스크의 xAI를 고소합니다",
       "summary_ko": ""
     },
     {
@@ -58,17 +58,17 @@
       "summary_ko": ""
     },
     {
-      "title": "NZD/USD neutral as firm US Dollar caps upside",
-      "link": "https://www.fxstreet.com/news/nzd-usd-neutral-as-firm-us-dollar-caps-upside-202603242136",
-      "summary": "The NZD/USD pair is trading near 0.5840 with a neutral bias, edging slightly higher on the day but failing to gain strong bullish traction as the US Dollar (USD) remains relatively firm.",
-      "title_ko": "NZD/USD 중립 회사 미국 달러 상한선 상향 조정",
-      "summary_ko": "NZD/USD 쌍은 중립 편향으로 0.5840 근처에서 거래되고 있으며, 당일에는 약간 상승했지만 미국 달러 (USD) 가 상대적으로 확고하기 때문에 강한 강세 견인력을 얻지 못했습니다."
+      "title": "AUD/USD treads water near 0.7000 ahead of make-or-break CPI",
+      "link": "https://www.fxstreet.com/news/aud-usd-treads-water-near-07000-ahead-of-make-or-break-cpi-202603242232",
+      "summary": "AUD/USD is essentially flat for the trading week, hovering close to 0.7000 after a volatile few sessions that saw the pair swing from above 0.7120 to about 0.6910 and back again.",
+      "title_ko": "AUD/USD는 Make-or-Break CPI보다 앞서 0.7000 근처의 물을 밟습니다.",
+      "summary_ko": "AUD/USD는 기본적으로 거래 주간에 평평하며, 0.7120 이상에서 약 0.6910으로 변동이 심한 몇 번의 세션 후에 0.7000에 가깝게 맴돌고 다시 돌아옵니다."
     },
     {
-      "title": "Australia CPI set to highlight persistent inflation as Iran war fuels inflation concerns",
+      "title": "Australia CPI likely to confirm stubborn inflation in February, backing hawkish RBA path",
       "link": "https://www.fxstreet.com/news/australia-cpi-set-to-show-sticky-inflation-in-february-reinforcing-hawkish-rba-outlook-202603242000",
       "summary": "The Australian Bureau of Statistics (ABS) will release the Consumer Price Index (CPI) for February on Wednesday at 00:30 GMT, with inflation expected to hold steady at 3.8% YoY and come in flat on a monthly basis.",
-      "title_ko": "호주 CPI는 이란 전쟁이 인플레이션 우려를 부추기면서 지속적인 인플레이션을 강조하도록 설정했습니다.",
+      "title_ko": "호주 CPI는 2월에 고질적인 인플레이션을 확인하여 매파적인 RBA 경로를 뒷받침할 것으로 보입니다.",
       "summary_ko": "호주 통계국 (ABS) 은 2월 소비자 물가 지수 (CPI) 를 수요일 00:30 GMT에 발표할 예정이며, 인플레이션은 전년 동기 대비 3.8% 를 유지하고 매월 고정적으로 발생할 것으로 예상됩니다."
     }
   ]

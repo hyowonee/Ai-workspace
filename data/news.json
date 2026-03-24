@@ -1,32 +1,53 @@
 {
-  "updated_at_utc": "2026-03-23 23:35:44 UTC",
+  "updated_at_utc": "2026-03-24 02:24:50 UTC",
   "items": [
     {
-      "title": "Gilead boosts immunology pipeline with over $2 billion buyout of Ouro Medicines",
-      "link": "https://www.investing.com/news/stock-market-news/gilead-nearing-up-to-2-billion-buyout-of-biotech-ouro-medicines-ft-reports-4575796",
+      "title": "Valero oil refinery in Port Arthur hit by fire after massive explosion- reports",
+      "link": "https://www.investing.com/news/stock-market-news/valero-oil-refinery-in-port-arthur-hit-by-fire-after-massive-explosion-reports-4576554",
       "summary": "",
-      "title_ko": "Gilead는 Ouro Medicines를 $ 20억 이상 인수하여 면역학 파이프라인을 향상시킵니다.",
+      "title_ko": "대규모 폭발 후 화재가 발생한 포트 아서 (Port Arthur) 의 발레로 (Valero) 정유소- 보고서",
       "summary_ko": ""
     },
     {
-      "title": "California sues US Dept of Energy over Sable oil pipeline restart",
-      "link": "https://www.investing.com/news/stock-market-news/california-sues-us-dept-of-energy-over-sable-oil-pipeline-restart-4576490",
+      "title": "US stock futures fall as Iran denies talks over ending war with Washington",
+      "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-fall-as-iran-denies-talks-over-ending-war-with-washington-4576548",
       "summary": "",
-      "title_ko": "캘리포니아, 세이블 오일 파이프라인 재가동에 대한 미국 에너지부 소송",
+      "title_ko": "이란이 워싱턴과의 전쟁 종식에 관한 대화를 거부함에 따라 미국 주식 선물이 하락합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Wall Street indexes rally after Trump postpones strikes on Iran’s power plants",
-      "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-fall-as-escalating-iran-conflict-dims-ratecut-hopes-4574355",
+      "title": "OpenAI lists Microsoft reliance as a risk in pre-IPO document- CNBC",
+      "link": "https://www.investing.com/news/stock-market-news/openai-lists-microsoft-reliance-as-a-risk-in-preipo-document-cnbc-4576527",
       "summary": "",
-      "title_ko": "트럼프, 이란 발전소 파업 연기 후 월스트리트 지수 집결",
+      "title_ko": "OpenAI, 상장 전 문서에서 Microsoft 의존도를 위험으로 나열- CNBC",
       "summary_ko": ""
     },
     {
-      "title": "Gilead to buy biotech firm Ouro Medicines in over $2 billion deal",
-      "link": "https://www.investing.com/news/stock-market-news/gilead-to-buy-biotech-firm-ouro-medicines-in-over-2-billion-deal-4576449",
+      "title": "NTSB probes controller as part of broader investigation into LaGuardia airport collision",
+      "link": "https://www.investing.com/news/stock-market-news/ntsb-probes-controller-as-part-of-broader-investigation-into-laguardia-airport-collision-4576512",
       "summary": "",
-      "title_ko": "Gilead, 생명공학 회사 Ouro Medicines를 20억 달러 ($) 이상의 거래로 인수",
+      "title_ko": "라과디아 공항 충돌에 대한 광범위한 조사의 일환으로 NTSB 프로브 컨트롤러",
+      "summary_ko": ""
+    },
+    {
+      "title": "Japan factory activity slows in March amid Middle East-driven cost surge",
+      "link": "https://www.investing.com/news/economic-indicators/japan-factory-activity-slows-in-march-amid-middle-eastdriven-cost-surge-4576550",
+      "summary": "",
+      "title_ko": "중동 중심의 비용 급증으로 3월 일본 공장 활동 둔화",
+      "summary_ko": ""
+    },
+    {
+      "title": "Japan CPI cools to near 4-year low in Feb, core inflation falls below BOJ target",
+      "link": "https://www.investing.com/news/economic-indicators/japan-cpi-cools-to-near-4year-low-in-feb-core-inflation-falls-below-boj-target-4576509",
+      "summary": "",
+      "title_ko": "일본 CPI, 2월 4년래 최저치로 냉각, 핵심 인플레이션은 BOJ 목표치 아래로 하락",
+      "summary_ko": ""
+    },
+    {
+      "title": "Japan Feb core CPI rises 1.6% yr/yr",
+      "link": "https://www.investing.com/news/economic-indicators/japan-feb-core-cpi-rises-16-yryr-4576506",
+      "summary": "",
+      "title_ko": "일본 2월 핵심 CPI, 전년 대비 1.6% 상승",
       "summary_ko": ""
     },
     {
@@ -37,39 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Italy’s U.S. exports rose last year despite tariffs, report shows",
-      "link": "https://www.investing.com/news/economic-indicators/italys-us-exports-rose-last-year-despite-tariffs-report-shows-4574357",
-      "summary": "",
-      "title_ko": "보고서에 따르면 지난해 이탈리아의 미국 수출은 관세에도 불구하고 증가했다.",
-      "summary_ko": ""
+      "title": "EUR/USD slips below 1.1600 as Middle East tensions escalate",
+      "link": "https://www.fxstreet.com/news/eur-usd-slips-below-11600-as-middle-east-tensions-escalate-202603240129",
+      "summary": "EUR/USD loses ground after registering modest gains in the previous session, trading around 1.1590 during the Asian hours on Tuesday. The pair depreciates as the US Dollar (USD) gains on increased risk aversion amid esca",
+      "title_ko": "중동 긴장이 고조됨에 따라 EUR/USD가 1.1600 아래로 하락",
+      "summary_ko": "EUR/USD는 화요일 아시아 시간 동안 1.1590 주위 거래, 이전 세션에서 약간의 이익을 등록 한 후 그라운드를 잃게됩니다. ESCA 중 위험 회피율 증가로 미국 달러 (USD) 가 상승함에 따라 이 쌍은 감가 상각됩니다."
     },
     {
-      "title": "Singapore core inflation at 1.4% y/y in February, slightly higher than expected",
-      "link": "https://www.investing.com/news/economic-indicators/singapore-core-inflation-at-14-yy-in-february-slightly-higher-than-expected-4574191",
-      "summary": "",
-      "title_ko": "2월 싱가포르 코어 인플레이션은 전년 대비 1.4% 로 예상보다 약간 높았습니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "ING sees incoming Bank of Korea governor accelerating rate hike timeline beyond expectations",
-      "link": "https://www.investing.com/news/economic-indicators/ing-sees-incoming-bank-of-korea-governor-accelerating-rate-hike-timeline-beyond-expectations-93CH-4574189",
-      "summary": "",
-      "title_ko": "ING는 차기 한국은행 총재가 기대 이상의 금리 인상 시기를 가속화할 것으로 보고 있다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "US Dollar Index reverses sharply on Iran de-escalation hopes",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-reverses-sharply-on-iran-de-escalation-hopes-202603232244",
-      "summary": "The US Dollar Index (DXY) swung wildly on Monday, briefly pushing above the 100.00 level to a session high near 100.15 on early safe-haven demand before reversing sharply to settle around 99.12, down roughly 0.5% on the ",
-      "title_ko": "미국 달러 인덱스, 이란의 감정 완화 희망에 급격히 반전",
-      "summary_ko": "미국 달러 지수 (DXY) 는 월요일에 급격히 상승하여 초기 안전 수요에 대해 100.00 수준 이상으로 100.15 근처의 높은 세션으로 잠시 밀어 넣은 후 급격히 반전하여 99.12 주위에 정착하여 약 0.5% 하락했습니다."
-    },
-    {
-      "title": "EUR/USD rebounds as Trump's Iran truce push tumbles the US Dollar",
-      "link": "https://www.fxstreet.com/news/eur-usd-rebounds-as-trumps-iran-truce-push-tumbles-the-us-dollar-202603232141",
-      "summary": "The Euro recovers some ground versus the US Dollar on Monday, up by 0.37%, after US President Donald Trump announced a five-day truce following productive talks between Tehran and Washington, as revealed on his social ne",
-      "title_ko": "트럼프의 이란 정전 압박이 미국 달러를 넘어뜨리면서 EUR/USD가 반등",
-      "summary_ko": "월요일 도널드 트럼프 미국 대통령이 테헤란과 워싱턴 간의 생산적인 회담에 이어 5일간의 휴전을 발표한 후 유로화는 0.37% 상승한 미국 달러 대비 일부 회복세를 보이고 있다."
+      "title": "Japan's Takaichi says to start releasing national oil reserves from Thursday",
+      "link": "https://www.fxstreet.com/news/japans-takaichi-says-to-start-releasing-national-oil-reserves-from-thursday-202603240127",
+      "summary": "Japanese Prime Minister Sanae Takaichi said on X post on Tuesday that the country will start releasing national oil reserves from Thursday.",
+      "title_ko": "일본의 다카이치 (Takaichi) 는 목요일부터 국가 석유 매장량을 방출하기 시작한다고 말합니다.",
+      "summary_ko": "사나에 다카이치 (Sanae Takaichi) 일본 총리는 화요일 X 포스트에서 목요일부터 국가 석유 매장량을 공개하기 시작할 것이라고 말했다."
     }
   ]
 }

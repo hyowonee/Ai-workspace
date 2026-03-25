@@ -1,39 +1,53 @@
 {
-  "updated_at_utc": "2026-03-25 09:57:50 UTC",
+  "updated_at_utc": "2026-03-25 10:58:09 UTC",
   "items": [
     {
-      "title": "UBS positive on Swiss stocks amid attractive valuations and dividend yield",
-      "link": "https://www.investing.com/news/stock-market-news/ubs-positive-on-swiss-stocks-amid-attractive-valuations-and-dividend-yield-93CH-4579200",
+      "title": "Merck to buy oncology firm Terns Pharmaceuticals in $6.7 billion deal",
+      "link": "https://www.investing.com/news/stock-market-news/merck-to-buy-oncology-firm-terns-pharmaceuticals-in-67-billion-deal-4579427",
       "summary": "",
-      "title_ko": "매력적인 밸류에이션과 배당 수익률 속에서 스위스 주식에 대한 UBS의 긍정적 반응",
+      "title_ko": "Merck, $ 67억 규모의 종양학 회사 Terns Pharmaceuticals 매입",
       "summary_ko": ""
     },
     {
-      "title": "Grifols shares rise as board approves U.S. Biopharma IPO to cut debt",
-      "link": "https://www.investing.com/news/stock-market-news/grifols-shares-rise-as-board-approves-us-biopharma-ipo-to-cut-debt-4579195",
+      "title": "Meta’s Ray-Ban Display glasses face European launch delays due to regulations",
+      "link": "https://www.investing.com/news/stock-market-news/metas-rayban-display-glasses-face-european-launch-delays-due-to-regulations-93CH-4579388",
       "summary": "",
-      "title_ko": "Grifols 주식은 이사회가 부채를 줄이기 위해 미국 바이오 제약 IPO를 승인함에 따라 상승합니다.",
+      "title_ko": "Meta의 Ray-Ban 디스플레이 안경은 규정으로 인해 유럽 출시 지연에 직면해 있습니다.",
       "summary_ko": ""
     },
     {
-      "title": "UK Oil &amp; Gas unit signs MOU with Wales &amp; West Utilities for hydrogen project",
-      "link": "https://www.investing.com/news/stock-market-news/uk-oil--gas-unit-signs-mou-with-wales--west-utilities-for-hydrogen-project-93CH-4579186",
+      "title": "SpaceX aims to file for IPO as soon as this week, The Information reports",
+      "link": "https://www.investing.com/news/stock-market-news/spacex-aims-to-file-for-ipo-as-soon-as-this-week-the-information-reports-4578948",
       "summary": "",
-      "title_ko": "영국 석유 및 가스 사업부, 웨일즈 및 웨스트 유틸리티와 수소 프로젝트 MOU 체결",
+      "title_ko": "SpaceX는 이번 주에 IPO를 신청하는 것을 목표로 합니다.",
       "summary_ko": ""
     },
     {
-      "title": "China food-delivery stocks jump as regulators move to curb price wars",
-      "link": "https://www.investing.com/news/stock-market-news/china-fooddelivery-stocks-jump-as-regulators-move-to-curb-price-wars-4579147",
+      "title": "US Senators reach deal on capping insulin costs at $35 per month, Semafor reports",
+      "link": "https://www.investing.com/news/stock-market-news/us-senators-reach-deal-on-capping-insulin-costs-at-35-per-month-semafor-reports-4579380",
       "summary": "",
-      "title_ko": "규제 당국이 가격 전쟁을 억제하기 위해 움직이면서 중국 음식 배달 재고가 급증했습니다.",
+      "title_ko": "Semafor는 미국 상원의원들이 한 달에 $ 35의 인슐린 비용 상한선에 대한 거래에 도달했다고 보고합니다.",
       "summary_ko": ""
     },
     {
-      "title": "German business sentiment fell noticeably in March, Ifo finds",
+      "title": "Analysts warn UK inflation calm won’t last as energy prices surge",
+      "link": "https://www.investing.com/news/economic-indicators/analysts-warn-uk-inflation-calm-wont-last-as-energy-prices-surge-4579312",
+      "summary": "",
+      "title_ko": "분석가들은 에너지 가격이 급등함에 따라 영국 인플레이션 침착성이 지속되지 않을 것이라고 경고합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "German business sentiment falls, Iran war hits upswing hopes",
       "link": "https://www.investing.com/news/economic-indicators/german-business-sentiment-fell-less-than-expected-in-march-ifo-finds-4579163",
       "summary": "",
-      "title_ko": "Ifo가 찾은 3월에 독일 기업 감정이 눈에 띄게 하락했습니다.",
+      "title_ko": "독일 기업 정서 추락, 이란 전쟁, 상승 희망에 부딪힘",
+      "summary_ko": ""
+    },
+    {
+      "title": "Italy’s growth outlook darkens due to Iran conflict, business lobby says",
+      "link": "https://www.investing.com/news/economic-indicators/italys-growth-outlook-darkens-due-to-iran-conflict-business-lobby-says-4579285",
+      "summary": "",
+      "title_ko": "비즈니스 로비는 이란 분쟁으로 인해 이탈리아의 성장 전망이 어두워지고 있다고 말합니다.",
       "summary_ko": ""
     },
     {
@@ -44,32 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Sweden’s producer prices fall 1.7% year-over-year in February",
-      "link": "https://www.investing.com/news/economic-indicators/swedens-producer-prices-fall-17-yearoveryear-in-february-93CH-4579068",
-      "summary": "",
-      "title_ko": "스웨덴의 생산자 가격은 2월에 전년 대비 1.7% 하락했습니다.",
-      "summary_ko": ""
+      "title": "Pakistan delivered US proposal to Tehran – Reuters",
+      "link": "https://www.fxstreet.com/news/pakistan-delivered-us-proposal-to-tehran-reuters-202603251022",
+      "summary": "Citing a source, who asked not to be named, Reuters reported on Wednesday that Pakistan has delivered the United States' proposal to Iran.",
+      "title_ko": "파키스탄, 테헤란에 미국 제안 전달 – 로이터",
+      "summary_ko": "로이터는 수요일에 파키스탄이 미국의 제안을 이란에 전달했다고 보도했다."
     },
     {
-      "title": "Japan’s cherry blossom picnics feel the pinch of global inflation",
-      "link": "https://www.investing.com/news/economic-indicators/japans-cherry-blossom-picnics-feel-the-pinch-of-global-inflation-4576702",
-      "summary": "",
-      "title_ko": "일본의 벚꽃 피크닉은 세계적인 인플레이션의 꼬집음을 느낍니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Silver price today: Silver rises, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202603250930",
-      "summary": "Silver prices (XAG/USD) rose on Wednesday, according to FXStreet data. Silver trades at $73.26 per troy ounce, up 2.76% from the $71.30 it cost on Tuesday.",
-      "title_ko": "오늘의 실버 가격: FXStreet 데이터에 따르면 실버 가격 상승",
-      "summary_ko": "FXStreet 데이터에 따르면 수요일에 은 가격 (XAG/USD) 이 상승했습니다. 실버는 트로이 온스당 $ 73.26 에 거래되며, 화요일 비용은 $ 71.30 보다 2.76% 상승했습니다."
-    },
-    {
-      "title": "USD/JPY: Range breakout risk grows – Societe Generale",
-      "link": "https://www.fxstreet.com/news/usd-jpy-range-breakout-risk-grows-societe-generale-202603250926",
-      "summary": "Societe Generale analysts highlight USD/JPY pressing the upper end of its multi-year range, with resistance at 159.90 and key support at the 50-day moving average near 156.50.",
-      "title_ko": "USD/JPY: 범위 브레이크아웃 위험 증가 – Societe Generale",
-      "summary_ko": "Societe Generale 분석가들은 USD/JPY가 159.90의 저항과 156.50 근처의 50일 이동 평균에서 주요 지원으로 다년도 범위의 상단을 누르고 있음을 강조합니다."
+      "title": "ECB: Wait-and-see for second-round effects from energy shock – TD Securities",
+      "link": "https://www.fxstreet.com/news/ecb-wait-and-see-for-second-round-effects-from-energy-shock-td-securities-202603251009",
+      "summary": "TD Securities notes that President Lagarde used the ECB and Its Watchers conference to outline how the Governing Council is assessing the Middle East conflict shock. The bank says the ECB is effectively playing for time,",
+      "title_ko": "ECB: 에너지 충격으로 인한 2차 영향에 대한 대기 – TD Securities",
+      "summary_ko": "TD 증권은 라가르드 대통령이 ECB와 그 주시자 회의를 사용하여 중동 분쟁 충격을 어떻게 평가하고 있는지 설명했다고 지적합니다. 은행은 ECB가 효과적으로 시간 경기를하고 있다고 말합니다."
     }
   ]
 }

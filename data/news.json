@@ -1,32 +1,53 @@
 {
-  "updated_at_utc": "2026-03-25 14:42:23 UTC",
+  "updated_at_utc": "2026-03-25 16:12:33 UTC",
   "items": [
     {
-      "title": "U.S. space stocks soar on accelerated SpaceX IPO",
-      "link": "https://www.investing.com/news/stock-market-news/us-space-stocks-soar-in-premarket-trading-93CH-4580277",
+      "title": "Fincantieri eyes M&amp;A deals to boost underwater business expansion",
+      "link": "https://www.investing.com/news/stock-market-news/fincantieri-eyes-ma-deals-to-boost-underwater-business-expansion-93CH-4580449",
       "summary": "",
-      "title_ko": "가속화된 SpaceX IPO에 대한 미국의 우주 재고 급증",
+      "title_ko": "핀칸티에리, 수중 사업 확장 촉진을 위한 M&amp;A 계약 체결",
       "summary_ko": ""
     },
     {
-      "title": "US Supreme Court backs Cox in fight over pirated music",
-      "link": "https://www.investing.com/news/stock-market-news/us-supreme-court-backs-cox-in-fight-over-pirated-music-4580273",
+      "title": "Norway stocks higher at close of trade; Oslo OBX up 1.29%",
+      "link": "https://www.investing.com/news/stock-market-news/norway-stocks-higher-at-close-of-trade-oslo-obx-up-129-4580448",
       "summary": "",
-      "title_ko": "미국 대법원, 해적판 음악에 맞서 싸우는 콕스 지지",
+      "title_ko": "노르웨이는 교역 마감 시점에서 더 높은 주식을 보유하고 있으며, 오슬로 OBX는 1.29% 상승했습니다.",
       "summary_ko": ""
     },
     {
-      "title": "Meta to lay off hundreds of employees, The Information reports",
-      "link": "https://www.investing.com/news/stock-market-news/meta-to-lay-off-hundreds-of-employees-the-information-reports-4580262",
+      "title": "Israel stocks higher at close of trade; TA 35 up 0.97%",
+      "link": "https://www.investing.com/news/stock-market-news/israel-stocks-higher-at-close-of-trade-ta-35-up-097-4580447",
       "summary": "",
-      "title_ko": "수백 명의 직원을 해고하는 메타 정보 보고서",
+      "title_ko": "이스라엘은 교역 마감 시점에서 더 높은 주식을 보유하고 있습니다. TA 35는 0.97% 상승했습니다.",
       "summary_ko": ""
     },
     {
-      "title": "SIX Group CEO sees better year for European IPOs despite Iran war",
-      "link": "https://www.investing.com/news/stock-market-news/six-group-ceo-sees-better-year-for-european-ipos-despite-iran-war-93CH-4580246",
+      "title": "Lyft rolls out driver-relief program as US fuel prices climb",
+      "link": "https://www.investing.com/news/stock-market-news/lyft-rolls-out-driverrelief-program-as-us-fuel-prices-climb-4580445",
       "summary": "",
-      "title_ko": "SIX 그룹 CEO는 이란 전쟁에도 불구하고 유럽 IPO의 연도가 더 좋다고 생각합니다.",
+      "title_ko": "Lyft, 미국 연료 가격 상승에 따라 드라이버 파트너 구호 프로그램 실시",
+      "summary_ko": ""
+    },
+    {
+      "title": "US import prices post largest gain in four years as energy costs soar",
+      "link": "https://www.investing.com/news/economic-indicators/us-import-prices-post-largest-gain-in-nearly-four-years-in-february-4579913",
+      "summary": "",
+      "title_ko": "미국 수입 가격, 에너지 비용 급등으로 4년 만에 최대 상승",
+      "summary_ko": ""
+    },
+    {
+      "title": "Crude Oil Inventories Surge, Exceeding Forecasts and Previous Levels",
+      "link": "https://www.investing.com/news/economic-indicators/crude-oil-inventories-surge-exceeding-forecasts-and-previous-levels-93CH-4580300",
+      "summary": "",
+      "title_ko": "원유 재고 급증, 예측치 초과 및 이전 수준",
+      "summary_ko": ""
+    },
+    {
+      "title": "German finance minister sets out sweeping reform plans to boost growth",
+      "link": "https://www.investing.com/news/economic-indicators/german-finance-minister-sets-out-sweeping-reform-plans-to-boost-growth-4580296",
+      "summary": "",
+      "title_ko": "독일 재무장관, 성장 촉진을 위한 전면적인 개혁 계획 수립",
       "summary_ko": ""
     },
     {
@@ -37,39 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "US import prices post largest gain in nearly four years in February",
-      "link": "https://www.investing.com/news/economic-indicators/us-import-prices-post-largest-gain-in-nearly-four-years-in-february-4579913",
-      "summary": "",
-      "title_ko": "미국 수입 가격은 2월에 거의 4년 만에 가장 큰 상승을 기록했습니다.",
-      "summary_ko": ""
+      "title": "Oil stabilizes after losses as US-Iran talks ease supply fears, inventories rise",
+      "link": "https://www.fxstreet.com/news/oil-stabilizes-after-losses-as-us-iran-talks-ease-supply-fears-inventories-rise-202603251510",
+      "summary": "West Texas Intermediate (WTI) trades around $88.20 on Wednesday at the time of writing, up 0.40% on the day, attempting to stabilize after a recent pullback.",
+      "title_ko": "미국-이란 회담이 공급에 대한 두려움을 완화하고 재고가 증가함에 따라 손실 후 석유가 안정화됩니다.",
+      "summary_ko": "서부 텍사스 중급 (WTI) 은 서면 작성 당시 수요일에 약 $ 88.20 에 거래되며, 당일 0.40% 상승하여 최근 철수 후 안정화를 시도합니다."
     },
     {
-      "title": "Analysts warn UK inflation calm won’t last as energy prices surge",
-      "link": "https://www.investing.com/news/economic-indicators/analysts-warn-uk-inflation-calm-wont-last-as-energy-prices-surge-4579312",
-      "summary": "",
-      "title_ko": "분석가들은 에너지 가격이 급등함에 따라 영국 인플레이션 침착성이 지속되지 않을 것이라고 경고합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "German business sentiment falls, Iran war hits upswing hopes",
-      "link": "https://www.investing.com/news/economic-indicators/german-business-sentiment-fell-less-than-expected-in-march-ifo-finds-4579163",
-      "summary": "",
-      "title_ko": "독일 기업 정서 추락, 이란 전쟁, 상승 희망에 부딪힘",
-      "summary_ko": ""
-    },
-    {
-      "title": "GBP/JPY stuck in a tight range as traders weigh UK CPI and BoJ minutes",
-      "link": "https://www.fxstreet.com/news/gbp-jpy-stuck-in-a-tight-range-as-traders-weigh-uk-cpi-and-boj-minutes-202603251342",
-      "summary": "GBP/JPY trades within a tight range on Wednesday, with choppy price action as ongoing developments in the US-Israel war with Iran continue to drive volatility across the FX space, while traders show limited reaction to r",
-      "title_ko": "GBP/JPY는 거래자가 영국 CPI 및 BOJ 분의 무게를 측정함에 따라 타이트한 범위에 갇혀 있습니다.",
-      "summary_ko": "GBP/JPY는 수요일에 타이트한 범위 내에서 거래되며, 이란과의 미국-이스라엘 전쟁의 진행중인 발전으로 고르지 않은 가격 조치가 FX 영역에서 변동성을 계속 유도하는 반면, 거래자들은 R에 제한된 반응을 보입니다."
-    },
-    {
-      "title": "USD/JPY climbs as US Dollar strength outweighs hawkish BoJ, geopolitical risks",
-      "link": "https://www.fxstreet.com/news/usd-jpy-climbs-as-us-dollar-strength-outweighs-hawkish-boj-geopolitical-risks-202603251342",
-      "summary": "USD/JPY trades around 159.00 on Wednesday at the time of writing, up 0.18% on the day. The pair continues to draw support from sustained demand for the US Dollar (USD) in an environment marked by persistent geopolitical ",
-      "title_ko": "미국 달러 강세가 매파적인 BOJ를 능가함에 따라 USD/JPY가 상승, 지정학적 위험",
-      "summary_ko": "USD/JPY는 서면 작성 당시 수요일 약 159.00에 거래되며, 당일 0.18% 상승했습니다. 쌍은 지속적인 지정학으로 표시된 환경에서 미국 달러 (USD) 에 대한 지속적인 수요로부터 계속 지지를 얻습니다."
+      "title": "Gold recovers as Oil prices cool and Iran resists US ceasefire plan",
+      "link": "https://www.fxstreet.com/news/gold-extends-recovery-as-oil-prices-pull-back-on-us-iran-ceasefire-hopes-202603251232",
+      "summary": "Gold (XAU/USD) extends its recovery on Wednesday after falling to four-month lows earlier this week, as early buyers step in following a sharp selloff.",
+      "title_ko": "금은 유가가 냉각되고 이란이 미국 휴전 계획에 저항하면서 회복됩니다.",
+      "summary_ko": "금 (XAU/USD) 은 이번 주 초 4개월 최저치로 하락한 후 수요일에 회복세를 연장합니다. 초기 구매자들이 급격한 매도세에 나서기 때문입니다."
     }
   ]
 }

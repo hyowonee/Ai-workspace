@@ -1,39 +1,46 @@
 {
-  "updated_at_utc": "2026-03-25 07:35:19 UTC",
+  "updated_at_utc": "2026-03-25 08:55:31 UTC",
   "items": [
     {
-      "title": "Luceco reports 11.9% revenue growth driven by EV charger demand",
-      "link": "https://www.investing.com/news/stock-market-news/luceco-reports-119-revenue-growth-driven-by-ev-charger-demand-93CH-4579064",
+      "title": "Europe’s STOXX 600 gains 1% on prospect of Middle East ceasefire",
+      "link": "https://www.investing.com/news/stock-market-news/europes-stoxx-600-gains-1-on-prospect-of-middle-east-ceasefire-4579119",
       "summary": "",
-      "title_ko": "Luceco, EV 충전기 수요에 따른 매출 성장 11.9% 보고",
+      "title_ko": "유럽의 STOXX 600, 중동 휴전 전망으로 1% 증가",
       "summary_ko": ""
     },
     {
-      "title": "Norman Broadbent swings to profit as net fee income climbs 32%",
-      "link": "https://www.investing.com/news/stock-market-news/norman-broadbent-swings-to-profit-as-net-fee-income-climbs-32-93CH-4579062",
+      "title": "FTSE 100 today: UK stocks, pound rise amid U.S.-Iran talks hopes; inflation steady",
+      "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-uk-stocks-rise-on-usiran-talks-hopes-inflation-steady-4579116",
       "summary": "",
-      "title_ko": "Norman Broadbent는 순수수료 수입이 32% 상승함에 따라 수익으로 전환합니다.",
+      "title_ko": "오늘 FTSE 100: 영국 증시, 미국-이란 회담 희망 가운데 파운드화 상승, 인플레이션 안정",
       "summary_ko": ""
     },
     {
-      "title": "Headlam Group reports revenue decline as it exits low-margin business",
-      "link": "https://www.investing.com/news/stock-market-news/headlam-group-reports-revenue-decline-as-it-exits-lowmargin-business-93CH-4579058",
+      "title": "Indonesia stocks higher at close of trade; IDX Composite Index up 2.17%",
+      "link": "https://www.investing.com/news/stock-market-news/indonesia-stocks-higher-at-close-of-trade-idx-composite-index-up-217-4579114",
       "summary": "",
-      "title_ko": "Headlam Group은 저마진 비즈니스를 종료함에 따라 수익이 감소했다고 보고합니다.",
+      "title_ko": "인도네시아는 교역 마감 시점에서 더 높은 주식을 보유하고 있으며, IDX 종합 지수는 2.17% 상승했습니다.",
       "summary_ko": ""
     },
     {
-      "title": "Japan stocks higher at close of trade; Nikkei 225 up 2.82%",
-      "link": "https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-282-4579046",
+      "title": "European stocks advance amid reports of mediators pushing for U.S.-Iranian talks",
+      "link": "https://www.investing.com/news/stock-market-news/european-stocks-advance-amid-reports-of-mediators-pushing-for-usiranian-talks-4579108",
       "summary": "",
-      "title_ko": "일본은 교역 마감 시점에서 더 높은 주식을 보유하고 있으며, Nikkei 225는 2.82% 상승했습니다.",
+      "title_ko": "미국-이란 회담을 추진하는 중재자들의 보고서에 따라 유럽 증시가 선전하고 있다.",
       "summary_ko": ""
     },
     {
-      "title": "UK inflation holds steady in February",
+      "title": "UK inflation holds in February ahead of energy price shock",
       "link": "https://www.investing.com/news/economic-indicators/uk-inflation-holds-steady-in-february-4579051",
       "summary": "",
-      "title_ko": "2월 영국 인플레이션 안정세 유지",
+      "title_ko": "에너지 가격 쇼크를 앞둔 2월 영국 인플레이션 보류",
+      "summary_ko": ""
+    },
+    {
+      "title": "Sweden’s producer prices fall 1.7% year-over-year in February",
+      "link": "https://www.investing.com/news/economic-indicators/swedens-producer-prices-fall-17-yearoveryear-in-february-93CH-4579068",
+      "summary": "",
+      "title_ko": "스웨덴의 생산자 가격은 2월에 전년 대비 1.7% 하락했습니다.",
       "summary_ko": ""
     },
     {
@@ -51,25 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "UK consumer sentiment falls as Iran war rages, KPMG says",
-      "link": "https://www.investing.com/news/economic-indicators/uk-consumer-sentiment-falls-as-iran-war-rages-kpmg-says-4578944",
-      "summary": "",
-      "title_ko": "KPMG는 이란 전쟁이 격렬해지면서 영국 소비심리가 떨어졌다고 말합니다.",
-      "summary_ko": ""
+      "title": "EUR/USD: Recovery faces fundamental doubts – Commerzbank",
+      "link": "https://www.fxstreet.com/news/eur-usd-recovery-faces-fundamental-doubts-commerzbank-202603250844",
+      "summary": "Commerzbank’s Thu Lan Nguyen notes that EUR/USD has rebounded about two cents from its recent low near 1.14, driven mainly by Euro strength while the Dollar trades sideways.",
+      "title_ko": "EUR/USD: 회복은 근본적인 의문에 직면 – Commerzbank",
+      "summary_ko": "코메르츠방크 (Commerzbank) 의 투란응우옌 (Thu Lan Nguyen) 은 달러가 옆으로 거래되는 동안 유로 강세에 힘입어 EUR/USD가 최근 최저치인 1.14 에서 약 2센트 반등했다고 지적했다."
     },
     {
-      "title": "Breaking: UK CPI inflation arrives at 3.0% YoY in February, as expected",
-      "link": "https://www.fxstreet.com/news/uk-cpi-set-to-show-sticky-inflation-in-february-as-markets-price-a-boe-rate-hike-202603250215",
-      "summary": "The United Kingdom (UK) headline Consumer Price Index (CPI) rose 3.0% over the year in February, compared to a rise of 3.0% in January, the data released by the Office for National Statistics (ONS) showed on Wednesday.",
-      "title_ko": "깨짐: 영국 CPI 인플레이션은 예상대로 2월에 전년 동기 대비 3.0% 에 도달합니다.",
-      "summary_ko": "영국 국가통계국 (ONS) 이 발표한 자료에 따르면 2월 소비자물가지수 (CPI) 는 전년 동기 대비 3.0% 상승했다. 1월 소비자물가지수 (CPI) 는 3.0% 상승한 것에 비해 2월 소비자물가지수 (CPI) 는 3.0% 상승했다."
-    },
-    {
-      "title": "EUR/CHF: SNB threat seen as limited deterrent – Commerzbank",
-      "link": "https://www.fxstreet.com/news/eur-chf-snb-threat-seen-as-limited-deterrent-commerzbank-202603250702",
-      "summary": "Commerzbank’s Thu Lan Nguyen highlights that the Swiss Franc (CHF) has weakened since the Iran war began, helped by ultra-low Swiss inflation and the Swiss National Bank’s (SNB) persistent intervention threats.",
-      "title_ko": "EUR/CHF: 제한된 억제력으로 간주되는 SNB 위협 – Commerzbank",
-      "summary_ko": "코메르츠방크 (Commerzbank) 의 투란응우옌 (Thu Lan Nguyen) 은 이란 전쟁이 시작된 이후 스위스 프랑 (CHF) 이 약해졌으며, 이는 매우 낮은 스위스 인플레이션과 스위스 국립은행 (SNB) 의 지속적인 개입 위협의 도움을 받았다고 강조한다."
+      "title": "USD/JPY: Oil shock keeps pressure on Yen – OCBC",
+      "link": "https://www.fxstreet.com/news/usd-jpy-oil-shock-keeps-pressure-on-yen-ocbc-202603250834",
+      "summary": "OCBC strategists Sim Moh Siong and Christopher Wong highlight that rising Oil prices are worsening Japan’s terms of trade, fiscal risks and policy uncertainty, keeping the Japanese Yen (JPY) under pressure.",
+      "title_ko": "USD/JPY: 오일 쇼크로 엔화 압박 유지 – OCBC",
+      "summary_ko": "OCBC 전략가 심 모 시옹 (Sim Moh Siong) 과 크리스토퍼 웡 (Christopher Wong) 은 유가 상승이 일본의 무역 조건, 재정 위험 및 정책 불확실성을 악화시켜 일본 엔화를 압박하고 있다고 강조합니다."
     }
   ]
 }

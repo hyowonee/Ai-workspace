@@ -1,20 +1,6 @@
 {
-  "updated_at_utc": "2026-03-24 23:40:43 UTC",
+  "updated_at_utc": "2026-03-25 02:29:54 UTC",
   "items": [
-    {
-      "title": "US judge will not toss Charlie Javice conviction for defrauding JPMorgan based on clerks’ alleged conflicts",
-      "link": "https://www.investing.com/news/stock-market-news/us-judge-will-not-toss-charlie-javice-conviction-for-defrauding-jpmorgan-based-on-clerks-alleged-conflicts-4578908",
-      "summary": "",
-      "title_ko": "미국 판사는 서기들의 주장된 갈등에 근거하여 JPMorgan을 기만했다는 이유로 Charlie Javice에게 유죄 판결을 내리지 않을 것입니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "SK Hynix files confidentiality for 2026 US listing",
-      "link": "https://www.investing.com/news/stock-market-news/sk-hynix-files-confidentiality-for-2026-us-listing-4578901",
-      "summary": "",
-      "title_ko": "SK하이닉스, 2026년 미국 상장사 기밀유지 신청",
-      "summary_ko": ""
-    },
     {
       "title": "Trump cites progress with Iran, US proposes plan to end war",
       "link": "https://www.investing.com/news/stock-market-news/iran-sends-waves-of-missiles-into-israel-dismisses-trumps-talk-of-negotiations-as-fake-news-4576581",
@@ -23,10 +9,38 @@
       "summary_ko": ""
     },
     {
-      "title": "Meta ordered to pay $375 million in New Mexico trial over child exploitation, user safety claims",
-      "link": "https://www.investing.com/news/stock-market-news/jury-orders-meta-to-pay-375-million-in-new-mexico-lawsuit-over-child-sexual-exploitation-user-safety-4578658",
+      "title": "Meta grants senior executives stock awards to retain talent",
+      "link": "https://www.investing.com/news/stock-market-news/meta-grants-senior-executives-stock-awards-to-retain-talent-4578980",
       "summary": "",
-      "title_ko": "Meta는 아동 착취, 사용자 안전 청구에 대해 뉴멕시코 재판에서 3억 7,500만 달러 ($) 를 지불하도록 명령했습니다.",
+      "title_ko": "Meta는 인재를 유지하기 위해 고위 경영진에게 주식 상을 수여합니다",
+      "summary_ko": ""
+    },
+    {
+      "title": "Merck nears $6 billion acquisition of Terns Pharma to boost cancer portfolio, FT reports",
+      "link": "https://www.investing.com/news/stock-market-news/merck-nears-6-billion-allcash-deal-to-buy-terns-pharma-ft-reports-4578962",
+      "summary": "",
+      "title_ko": "FT는 머크가 암 포트폴리오를 강화하기 위해 60억 $ 규모의 Terns Pharma 인수에 근접했다고 보도했습니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "SpaceX aims to file for IPO as soon as this week, The Information reports",
+      "link": "https://www.investing.com/news/stock-market-news/spacex-aims-to-file-for-ipo-as-soon-as-this-week-the-information-reports-4578948",
+      "summary": "",
+      "title_ko": "SpaceX는 이번 주에 IPO를 신청하는 것을 목표로 합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Australia CPI cools slightly in Feb; underlying pressures persist",
+      "link": "https://www.investing.com/news/economic-indicators/australia-cpi-cools-slightly-in-feb-underlying-pressures-persist-4578960",
+      "summary": "",
+      "title_ko": "호주 CPI는 2월에 약간 냉각됩니다. 근본적인 압력은 지속됩니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "UK consumer sentiment falls as Iran war rages, KPMG says",
+      "link": "https://www.investing.com/news/economic-indicators/uk-consumer-sentiment-falls-as-iran-war-rages-kpmg-says-4578944",
+      "summary": "",
+      "title_ko": "KPMG는 이란 전쟁이 격렬해지면서 영국 소비심리가 떨어졌다고 말합니다.",
       "summary_ko": ""
     },
     {
@@ -44,32 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "French stats agency trims growth outlook as Iran war lifts inflation",
-      "link": "https://www.investing.com/news/economic-indicators/french-stats-agency-trims-growth-outlook-as-iran-war-lifts-inflation-4578095",
-      "summary": "",
-      "title_ko": "프랑스 통계청, 이란 전쟁으로 인플레이션 해소로 성장 전망 다듬어",
-      "summary_ko": ""
+      "title": "Silver Price Forecast: XAG/USD flirts with 200-hour EMA/38.2% Fibo. confluence near $74.00",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-flirts-with-200-hour-ema-382-fibo-confluence-near-7400-202603250134",
+      "summary": "Silver (XAG/USD) builds on this week's goodish recovery from the $61.00 mark, or its lowest level since December 12, and gains positive traction for the fourth straight day on Wednesday.",
+      "title_ko": "실버 가격 예측: XAG/USD, 200시간 EMA/38.2% Fibo. confluence near $ 74.00",
+      "summary_ko": "실버 (XAG/USD) 는 이번 주 61.00 달러 ($) 또는 12월 12일 이후 가장 낮은 수준에서 회복세를 보이며 수요일 4연승을 기록하며 긍정적인 견인력을 얻고 있습니다."
     },
     {
-      "title": "US fourth-quarter productivity growth revised down, but trend remains solid",
-      "link": "https://www.investing.com/news/economic-indicators/us-fourthquarter-productivity-growth-revised-sharply-lower-4577575",
-      "summary": "",
-      "title_ko": "미국 4분기 생산성 성장률은 하락했지만, 추세는 여전히 견조합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "AUD/USD treads water near 0.7000 ahead of make-or-break CPI",
-      "link": "https://www.fxstreet.com/news/aud-usd-treads-water-near-07000-ahead-of-make-or-break-cpi-202603242232",
-      "summary": "AUD/USD is essentially flat for the trading week, hovering close to 0.7000 after a volatile few sessions that saw the pair swing from above 0.7120 to about 0.6910 and back again.",
-      "title_ko": "AUD/USD는 Make-or-Break CPI보다 앞서 0.7000 근처의 물을 밟습니다.",
-      "summary_ko": "AUD/USD는 기본적으로 거래 주간에 평평하며, 0.7120 이상에서 약 0.6910으로 변동이 심한 몇 번의 세션 후에 0.7000에 가깝게 맴돌고 다시 돌아옵니다."
-    },
-    {
-      "title": "Australia CPI likely to confirm stubborn inflation in February, backing hawkish RBA path",
-      "link": "https://www.fxstreet.com/news/australia-cpi-set-to-show-sticky-inflation-in-february-reinforcing-hawkish-rba-outlook-202603242000",
-      "summary": "The Australian Bureau of Statistics (ABS) will release the Consumer Price Index (CPI) for February on Wednesday at 00:30 GMT, with inflation expected to hold steady at 3.8% YoY and come in flat on a monthly basis.",
-      "title_ko": "호주 CPI는 2월에 고질적인 인플레이션을 확인하여 매파적인 RBA 경로를 뒷받침할 것으로 보입니다.",
-      "summary_ko": "호주 통계국 (ABS) 은 2월 소비자 물가 지수 (CPI) 를 수요일 00:30 GMT에 발표할 예정이며, 인플레이션은 전년 동기 대비 3.8% 를 유지하고 매월 고정적으로 발생할 것으로 예상됩니다."
+      "title": "Japanese Yen receives support following BoJ Meeting Minutes",
+      "link": "https://www.fxstreet.com/news/japanese-yen-receives-support-following-boj-meeting-minutes-202603250125",
+      "summary": "USD/JPY edges lower after registering gains in the previous day, trading around 158.70 during the Asian hours on Wednesday. The pair weakens as the Japanese Yen (JPY) gains support following the release of the Bank of Ja",
+      "title_ko": "일본 엔화는 BOJ 회의록에 따라 지원을 받습니다.",
+      "summary_ko": "USD/JPY 에지는 수요일 아시아 시간 동안 약 158.70에 거래되며 전일의 이익을 등록한 후 낮아집니다. 일본 엔화 (JPY) 가 Ja 은행의 출시에 따라 지지를 얻음에 따라 이 쌍은 약해진다."
     }
   ]
 }

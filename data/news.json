@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-03-25 13:17:11 UTC",
+  "updated_at_utc": "2026-03-25 14:42:23 UTC",
   "items": [
     {
-      "title": "Tuesday’s insider activity: Janus Living insiders buy $3.6 million",
-      "link": "https://www.investing.com/news/stock-market-news/tuesdays-insider-activity-janus-living-insiders-buy-36-million-93CH-4579961",
+      "title": "U.S. space stocks soar on accelerated SpaceX IPO",
+      "link": "https://www.investing.com/news/stock-market-news/us-space-stocks-soar-in-premarket-trading-93CH-4580277",
       "summary": "",
-      "title_ko": "화요일의 인사이더 활동: 야누스 리빙 인사이더, 360만 달러 ($) 구매",
+      "title_ko": "가속화된 SpaceX IPO에 대한 미국의 우주 재고 급증",
       "summary_ko": ""
     },
     {
-      "title": "U.S. stock futures rise on hopes of a ceasefire in Iran",
-      "link": "https://www.investing.com/news/stock-market-news/us-futures-tick-higher-amid-hopes-for-potential-iran-war-resolution-4579623",
+      "title": "US Supreme Court backs Cox in fight over pirated music",
+      "link": "https://www.investing.com/news/stock-market-news/us-supreme-court-backs-cox-in-fight-over-pirated-music-4580273",
       "summary": "",
-      "title_ko": "미국 주식 선물은 이란의 휴전에 대한 희망으로 상승합니다.",
+      "title_ko": "미국 대법원, 해적판 음악에 맞서 싸우는 콕스 지지",
       "summary_ko": ""
     },
     {
-      "title": "BlackRock CEO Fink warns of ’global recession’ if oil goes to $150, BBC reports",
-      "link": "https://www.investing.com/news/stock-market-news/blackrock-ceo-fink-warns-of-global-recession-if-oil-goes-to-150-bbc-reports-4579910",
+      "title": "Meta to lay off hundreds of employees, The Information reports",
+      "link": "https://www.investing.com/news/stock-market-news/meta-to-lay-off-hundreds-of-employees-the-information-reports-4580262",
       "summary": "",
-      "title_ko": "BBC 보도에 따르면 블랙록의 CEO 핀크 (Fink) 는 석유가 $ 150로 갈 경우 ’글로벌 경기 침체’ 를 경고한다.",
+      "title_ko": "수백 명의 직원을 해고하는 메타 정보 보고서",
       "summary_ko": ""
     },
     {
-      "title": "Six Flags appoints new chair amid call for sale",
-      "link": "https://www.investing.com/news/stock-market-news/six-flags-appoints-new-chair-amid-call-for-sale-4579934",
+      "title": "SIX Group CEO sees better year for European IPOs despite Iran war",
+      "link": "https://www.investing.com/news/stock-market-news/six-group-ceo-sees-better-year-for-european-ipos-despite-iran-war-93CH-4580246",
       "summary": "",
-      "title_ko": "식스 플래그는 판매를 요청하는 가운데 새로운 의자를 임명합니다",
+      "title_ko": "SIX 그룹 CEO는 이란 전쟁에도 불구하고 유럽 IPO의 연도가 더 좋다고 생각합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "US current account deficit contracts sharply in the fourth quarter",
+      "link": "https://www.investing.com/news/economic-indicators/us-current-account-deficit-contracts-sharply-in-the-fourth-quarter-4580156",
+      "summary": "",
+      "title_ko": "4분기 미국 경상수지 적자 계약 급격히 증가",
       "summary_ko": ""
     },
     {
@@ -51,25 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Italy’s growth outlook darkens due to Iran conflict, business lobby says",
-      "link": "https://www.investing.com/news/economic-indicators/italys-growth-outlook-darkens-due-to-iran-conflict-business-lobby-says-4579285",
-      "summary": "",
-      "title_ko": "비즈니스 로비는 이란 분쟁으로 인해 이탈리아의 성장 전망이 어두워지고 있다고 말합니다.",
-      "summary_ko": ""
+      "title": "GBP/JPY stuck in a tight range as traders weigh UK CPI and BoJ minutes",
+      "link": "https://www.fxstreet.com/news/gbp-jpy-stuck-in-a-tight-range-as-traders-weigh-uk-cpi-and-boj-minutes-202603251342",
+      "summary": "GBP/JPY trades within a tight range on Wednesday, with choppy price action as ongoing developments in the US-Israel war with Iran continue to drive volatility across the FX space, while traders show limited reaction to r",
+      "title_ko": "GBP/JPY는 거래자가 영국 CPI 및 BOJ 분의 무게를 측정함에 따라 타이트한 범위에 갇혀 있습니다.",
+      "summary_ko": "GBP/JPY는 수요일에 타이트한 범위 내에서 거래되며, 이란과의 미국-이스라엘 전쟁의 진행중인 발전으로 고르지 않은 가격 조치가 FX 영역에서 변동성을 계속 유도하는 반면, 거래자들은 R에 제한된 반응을 보입니다."
     },
     {
-      "title": "UK: Energy scenarios shape BoE outlook – ING",
-      "link": "https://www.fxstreet.com/news/uk-energy-scenarios-shape-boe-outlook-ing-202603251255",
-      "summary": "ING’s James Smith outlines scenarios for UK inflation, with current energy prices implying a brief 4% peak in autumn and ING’s base case of easing disruption pointing to a 3.5% peak in September.",
-      "title_ko": "영국: 에너지 시나리오는 BOE 전망을 형성합니다 – ING",
-      "summary_ko": "ING의 제임스 스미스 (James Smith) 는 영국 인플레이션에 대한 시나리오를 설명하며, 현재 에너지 가격은 가을에 4% 의 짧은 피크를 의미하고 ING의 붕괴 완화 기본 사례는 9월에 3.5% 의 피크를 가리킨다."
-    },
-    {
-      "title": "Germany: War risks darken Ifo outlook – Commerzbank",
-      "link": "https://www.fxstreet.com/news/germany-war-risks-darken-ifo-outlook-commerzbank-202603251246",
-      "summary": "Commerzbank’s Chief Economist Dr. Jörg Krämer warns that the sharp March drop in the German Ifo Business Climate Index reflects rising war-related risks rather than current damage.",
-      "title_ko": "독일: 전쟁 위험 이포 전망 어둡게 – Commerzbank",
-      "summary_ko": "코메르츠방크의 수석 이코노미스트 요르그 크래머 (Jörg Krämer) 박사는 독일 Ifo Business Climate Index의 급격한 3월 하락은 현재의 피해보다는 전쟁 관련 위험 증가를 반영한다고 경고합니다."
+      "title": "USD/JPY climbs as US Dollar strength outweighs hawkish BoJ, geopolitical risks",
+      "link": "https://www.fxstreet.com/news/usd-jpy-climbs-as-us-dollar-strength-outweighs-hawkish-boj-geopolitical-risks-202603251342",
+      "summary": "USD/JPY trades around 159.00 on Wednesday at the time of writing, up 0.18% on the day. The pair continues to draw support from sustained demand for the US Dollar (USD) in an environment marked by persistent geopolitical ",
+      "title_ko": "미국 달러 강세가 매파적인 BOJ를 능가함에 따라 USD/JPY가 상승, 지정학적 위험",
+      "summary_ko": "USD/JPY는 서면 작성 당시 수요일 약 159.00에 거래되며, 당일 0.18% 상승했습니다. 쌍은 지속적인 지정학으로 표시된 환경에서 미국 달러 (USD) 에 대한 지속적인 수요로부터 계속 지지를 얻습니다."
     }
   ]
 }

@@ -1,13 +1,6 @@
 {
-  "updated_at_utc": "2026-03-25 22:39:41 UTC",
+  "updated_at_utc": "2026-03-25 23:38:24 UTC",
   "items": [
-    {
-      "title": "Super Micro sued by shareholders over China-related criminal case against co-founder, others",
-      "link": "https://www.investing.com/news/stock-market-news/super-micro-sued-by-shareholders-over-chinarelated-criminal-case-against-cofounder-others-4581222",
-      "summary": "",
-      "title_ko": "공동 창업자 등을 상대로 중국 관련 형사 사건에 대해 주주들이 소송을 제기한 슈퍼 마이크로",
-      "summary_ko": ""
-    },
     {
       "title": "Meta, Google lose US case over social media harm to kids",
       "link": "https://www.investing.com/news/stock-market-news/jury-reaches-verdict-in-meta-google-trial-on-social-media-addiction-4580528",
@@ -16,17 +9,24 @@
       "summary_ko": ""
     },
     {
+      "title": "JBS posts flat quarterly profit as US cattle costs pressure margins",
+      "link": "https://www.investing.com/news/stock-market-news/jbs-posts-stable-profit-in-q4-despite-record-revenue-4581121",
+      "summary": "",
+      "title_ko": "JBS는 미국 소의 압력 마진에 따른 고정 분기 이익을 게시합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Super Micro sued by shareholders over China-related criminal case against co-founder, others",
+      "link": "https://www.investing.com/news/stock-market-news/super-micro-sued-by-shareholders-over-chinarelated-criminal-case-against-cofounder-others-4581222",
+      "summary": "",
+      "title_ko": "공동 창업자 등을 상대로 중국 관련 형사 사건에 대해 주주들이 소송을 제기한 슈퍼 마이크로",
+      "summary_ko": ""
+    },
+    {
       "title": "Travel tech firm Navan sees strong 2027 revenue on demand from new customers",
       "link": "https://www.investing.com/news/stock-market-news/travel-tech-firm-navan-sees-strong-2027-revenue-on-demand-from-new-customers-4580812",
       "summary": "",
       "title_ko": "여행 기술 회사 Navan은 신규 고객의 수요에 따라 강력한 2027 수익을 창출합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Factbox-What did jury decide in social media case against Meta and Google?",
-      "link": "https://www.investing.com/news/stock-market-news/factboxwhat-did-jury-decide-in-social-media-case-against-meta-and-google-4580645",
-      "summary": "",
-      "title_ko": "Factbox - 배심원은 Meta 및 Google에 대한 소셜 미디어 사례에서 무엇을 결정 했습니까?",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
+      "title": "China: Growth seen improving in 1Q – DBS",
+      "link": "https://www.fxstreet.com/news/china-growth-seen-improving-in-1q-dbs-202603252201",
+      "summary": "DBS Group Research economists Byron Lam and Daisy Sharma present a China GDP Nowcast indicating real GDP growth likely improved to 4.7% in 1Q 2026 from 4.5% in Q4 2025.",
+      "title_ko": "중국: 1분기 성장률 개선 – DBS",
+      "summary_ko": "DBS 그룹 리서치 경제학자 바이런 램 (Byron Lam) 과 데이지 샤르마 (Daisy Sharma) 는 2026년 1분기 실질 GDP 성장률이 2025년 4분기 4.5% 에서 4.7% 로 개선되었을 가능성이 있음을 시사하는 중국 GDP 나우캐스트 (Nowcast) 를 발표했습니다."
+    },
+    {
       "title": "NZD/USD hovers near 0.5800 as firm USD and geopolitical tensions cap upside",
       "link": "https://www.fxstreet.com/news/nzd-usd-hovers-near-05800-as-firm-usd-and-geopolitical-tensions-cap-upside-202603252130",
       "summary": "The NZD/USD pair fell to the 0.5800 region, remaining under pressure as the US Dollar (USD) stays firm amid geopolitical uncertainty and elevated yields.",
       "title_ko": "NZD/USD는 확고한 USD와 지정학적 긴장이 상향 조정됨에 따라 0.5800 근처를 맴돌고 있습니다.",
       "summary_ko": "NZD/USD 쌍은 지정학적 불확실성과 수익률 상승 속에서 미국 달러 (USD) 가 견고하게 유지됨에 따라 0.5800 지역으로 하락했다."
-    },
-    {
-      "title": "APAC FX: Balance-of-payments strains shape flows – BNY",
-      "link": "https://www.fxstreet.com/news/apac-fx-balance-of-payments-strains-shape-flows-bny-202603252052",
-      "summary": "BNY’s Geoff Yu highlights that APAC balance-of-payments pressures from the Iran conflict and energy by-products are increasingly driving currency flows, with MYR, THB, AUD and PHP in focus.",
-      "title_ko": "APAC FX: 지불 잔액으로 인한 형상 흐름 – BNY",
-      "summary_ko": "BNY의 제프 유 (Geoff Yu) 는 MYR, THB, AUD 및 PHP가 초점을 맞추면서 이란 분쟁과 에너지 부산물로 인한 APAC 지불 잔액 압력이 점점 더 통화 흐름을 주도하고 있다고 강조합니다."
     }
   ]
 }

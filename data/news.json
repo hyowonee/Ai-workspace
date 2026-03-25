@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-03-25 06:02:49 UTC",
+  "updated_at_utc": "2026-03-25 07:35:19 UTC",
   "items": [
     {
-      "title": "Australia stocks higher at close of trade; S&amp;P/ASX 200 up 1.85%",
-      "link": "https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-185-4579000",
+      "title": "Luceco reports 11.9% revenue growth driven by EV charger demand",
+      "link": "https://www.investing.com/news/stock-market-news/luceco-reports-119-revenue-growth-driven-by-ev-charger-demand-93CH-4579064",
       "summary": "",
-      "title_ko": "호주 증시, S&amp;P/ASX 200 1.85% 상승",
+      "title_ko": "Luceco, EV 충전기 수요에 따른 매출 성장 11.9% 보고",
       "summary_ko": ""
     },
     {
-      "title": "Colombia military plane crash kills 66, four still missing",
-      "link": "https://www.investing.com/news/stock-market-news/colombia-military-plane-crash-kills-66-four-still-missing-4578999",
+      "title": "Norman Broadbent swings to profit as net fee income climbs 32%",
+      "link": "https://www.investing.com/news/stock-market-news/norman-broadbent-swings-to-profit-as-net-fee-income-climbs-32-93CH-4579062",
       "summary": "",
-      "title_ko": "콜롬비아 군용기 추락, 66명 사망, 4명 여전히 실종",
+      "title_ko": "Norman Broadbent는 순수수료 수입이 32% 상승함에 따라 수익으로 전환합니다.",
       "summary_ko": ""
     },
     {
-      "title": "China bars Manus co-founders from leaving country as it reviews sale to Meta, FT reports",
-      "link": "https://www.investing.com/news/stock-market-news/china-bars-manus-cofounders-from-leaving-country-as-it-reviews-sale-to-meta-ft-reports-4578993",
+      "title": "Headlam Group reports revenue decline as it exits low-margin business",
+      "link": "https://www.investing.com/news/stock-market-news/headlam-group-reports-revenue-decline-as-it-exits-lowmargin-business-93CH-4579058",
       "summary": "",
-      "title_ko": "중국은 메타, FT 보고서에 대한 판매를 검토하면서 Manus 공동 창업자가 출국하지 못하도록 막습니다.",
+      "title_ko": "Headlam Group은 저마진 비즈니스를 종료함에 따라 수익이 감소했다고 보고합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Meta boosts top executives’ pay with stock options as AI race heats up",
-      "link": "https://www.investing.com/news/stock-market-news/meta-grants-senior-executives-stock-awards-to-retain-talent-4578980",
+      "title": "Japan stocks higher at close of trade; Nikkei 225 up 2.82%",
+      "link": "https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-282-4579046",
       "summary": "",
-      "title_ko": "Meta는 AI 경쟁이 가열됨에 따라 스톡 옵션으로 최고 경영진의 급여를 증대시킵니다",
+      "title_ko": "일본은 교역 마감 시점에서 더 높은 주식을 보유하고 있으며, Nikkei 225는 2.82% 상승했습니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "UK inflation holds steady in February",
+      "link": "https://www.investing.com/news/economic-indicators/uk-inflation-holds-steady-in-february-4579051",
+      "summary": "",
+      "title_ko": "2월 영국 인플레이션 안정세 유지",
       "summary_ko": ""
     },
     {
@@ -51,25 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Crude Inventory Rises, Defying Forecasts and Prior Decline",
-      "link": "https://www.investing.com/news/economic-indicators/crude-inventory-rises-defying-forecasts-and-prior-decline-93CH-4578630",
-      "summary": "",
-      "title_ko": "원유 재고 상승, 예측 불이행 및 선행 하락",
-      "summary_ko": ""
-    },
-    {
-      "title": "UK CPI set to show sticky inflation in February as markets price a BoE rate hike",
+      "title": "Breaking: UK CPI inflation arrives at 3.0% YoY in February, as expected",
       "link": "https://www.fxstreet.com/news/uk-cpi-set-to-show-sticky-inflation-in-february-as-markets-price-a-boe-rate-hike-202603250215",
-      "summary": "The UK Office for National Statistics (ONS) will release the February Consumer Price Index (CPI) figures on Wednesday at 07:00 GMT, a print that will matter for markets. Consensus expectations point to inflation pressure",
-      "title_ko": "영국 CPI는 시장 가격이 BOE 금리 인상에 따라 2월에 고정 인플레이션을 표시하도록 설정했습니다.",
-      "summary_ko": "영국 국가 통계국 (ONS) 은 2월 소비자 물가 지수 (CPI) 수치를 수요일 07:00 GMT에 발표할 예정입니다. 이 수치는 시장에 중요한 인쇄물입니다. 합의 기대는 인플레이션 압력을 가리킨다"
+      "summary": "The United Kingdom (UK) headline Consumer Price Index (CPI) rose 3.0% over the year in February, compared to a rise of 3.0% in January, the data released by the Office for National Statistics (ONS) showed on Wednesday.",
+      "title_ko": "깨짐: 영국 CPI 인플레이션은 예상대로 2월에 전년 동기 대비 3.0% 에 도달합니다.",
+      "summary_ko": "영국 국가통계국 (ONS) 이 발표한 자료에 따르면 2월 소비자물가지수 (CPI) 는 전년 동기 대비 3.0% 상승했다. 1월 소비자물가지수 (CPI) 는 3.0% 상승한 것에 비해 2월 소비자물가지수 (CPI) 는 3.0% 상승했다."
     },
     {
-      "title": "Gold retreats from $4,600 as geopolitical risks and hawkish Fed outlook underpin USD",
-      "link": "https://www.fxstreet.com/news/gold-rallies-to-4-600-as-us-iran-ceasefire-hopes-ease-rate-hike-fears-202603250415",
-      "summary": "Gold (XAU/USD) trims a part of its strong intraday gains to the $4,600 mark, or the weekly high touched during the Asian session on Wednesday.",
-      "title_ko": "금은 지정학적 위험으로 $ 4,600에서 후퇴하고 매 연준 전망은 USD를 뒷받침합니다.",
-      "summary_ko": "금 (XAU/USD) 은 강한 일중 이익의 일부를 $ 4,600 또는 수요일 아시아 세션에서 주간 최고치로 다듬습니다."
+      "title": "EUR/CHF: SNB threat seen as limited deterrent – Commerzbank",
+      "link": "https://www.fxstreet.com/news/eur-chf-snb-threat-seen-as-limited-deterrent-commerzbank-202603250702",
+      "summary": "Commerzbank’s Thu Lan Nguyen highlights that the Swiss Franc (CHF) has weakened since the Iran war began, helped by ultra-low Swiss inflation and the Swiss National Bank’s (SNB) persistent intervention threats.",
+      "title_ko": "EUR/CHF: 제한된 억제력으로 간주되는 SNB 위협 – Commerzbank",
+      "summary_ko": "코메르츠방크 (Commerzbank) 의 투란응우옌 (Thu Lan Nguyen) 은 이란 전쟁이 시작된 이후 스위스 프랑 (CHF) 이 약해졌으며, 이는 매우 낮은 스위스 인플레이션과 스위스 국립은행 (SNB) 의 지속적인 개입 위협의 도움을 받았다고 강조한다."
     }
   ]
 }

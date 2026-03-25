@@ -1,39 +1,25 @@
 {
-  "updated_at_utc": "2026-03-25 16:12:33 UTC",
+  "updated_at_utc": "2026-03-25 17:35:26 UTC",
   "items": [
     {
-      "title": "Fincantieri eyes M&amp;A deals to boost underwater business expansion",
-      "link": "https://www.investing.com/news/stock-market-news/fincantieri-eyes-ma-deals-to-boost-underwater-business-expansion-93CH-4580449",
+      "title": "U.K. stocks higher at close of trade; Investing.com United Kingdom 100 up 1.58%",
+      "link": "https://www.investing.com/news/stock-market-news/uk-stocks-higher-at-close-of-trade-investingcom-united-kingdom-100-up-158-4580553",
       "summary": "",
-      "title_ko": "핀칸티에리, 수중 사업 확장 촉진을 위한 M&amp;A 계약 체결",
+      "title_ko": "영국 주식은 거래 마감 시점에서 더 높습니다; Investing.com 영국 100 1.58% 상승",
       "summary_ko": ""
     },
     {
-      "title": "Norway stocks higher at close of trade; Oslo OBX up 1.29%",
-      "link": "https://www.investing.com/news/stock-market-news/norway-stocks-higher-at-close-of-trade-oslo-obx-up-129-4580448",
+      "title": "Sweden stocks higher at close of trade; OMX Stockholm 30 up 1.20%",
+      "link": "https://www.investing.com/news/stock-market-news/sweden-stocks-higher-at-close-of-trade-omx-stockholm-30-up-120-4580551",
       "summary": "",
-      "title_ko": "노르웨이는 교역 마감 시점에서 더 높은 주식을 보유하고 있으며, 오슬로 OBX는 1.29% 상승했습니다.",
+      "title_ko": "스웨덴은 종가에서 더 높은 주식을 보유하고 있습니다. OMX 스톡홀름 30은 1.20% 상승했습니다.",
       "summary_ko": ""
     },
     {
-      "title": "Israel stocks higher at close of trade; TA 35 up 0.97%",
-      "link": "https://www.investing.com/news/stock-market-news/israel-stocks-higher-at-close-of-trade-ta-35-up-097-4580447",
-      "summary": "",
-      "title_ko": "이스라엘은 교역 마감 시점에서 더 높은 주식을 보유하고 있습니다. TA 35는 0.97% 상승했습니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Lyft rolls out driver-relief program as US fuel prices climb",
-      "link": "https://www.investing.com/news/stock-market-news/lyft-rolls-out-driverrelief-program-as-us-fuel-prices-climb-4580445",
-      "summary": "",
-      "title_ko": "Lyft, 미국 연료 가격 상승에 따라 드라이버 파트너 구호 프로그램 실시",
-      "summary_ko": ""
-    },
-    {
-      "title": "US import prices post largest gain in four years as energy costs soar",
+      "title": "US import prices post biggest increase in four years amid broad rise in goods",
       "link": "https://www.investing.com/news/economic-indicators/us-import-prices-post-largest-gain-in-nearly-four-years-in-february-4579913",
       "summary": "",
-      "title_ko": "미국 수입 가격, 에너지 비용 급등으로 4년 만에 최대 상승",
+      "title_ko": "미국 수입 가격은 상품의 광범위한 상승 속에서 4 년 만에 가장 큰 상승을 기록했습니다.",
       "summary_ko": ""
     },
     {
@@ -58,18 +44,32 @@
       "summary_ko": ""
     },
     {
-      "title": "Oil stabilizes after losses as US-Iran talks ease supply fears, inventories rise",
-      "link": "https://www.fxstreet.com/news/oil-stabilizes-after-losses-as-us-iran-talks-ease-supply-fears-inventories-rise-202603251510",
-      "summary": "West Texas Intermediate (WTI) trades around $88.20 on Wednesday at the time of writing, up 0.40% on the day, attempting to stabilize after a recent pullback.",
-      "title_ko": "미국-이란 회담이 공급에 대한 두려움을 완화하고 재고가 증가함에 따라 손실 후 석유가 안정화됩니다.",
-      "summary_ko": "서부 텍사스 중급 (WTI) 은 서면 작성 당시 수요일에 약 $ 88.20 에 거래되며, 당일 0.40% 상승하여 최근 철수 후 안정화를 시도합니다."
+      "title": "Silver pauses recovery as US-Iran ceasefire optimism fades",
+      "link": "https://www.fxstreet.com/news/silver-pauses-recovery-as-us-iran-ceasefire-optimism-fades-202603251634",
+      "summary": "Silver (XAG/USD) pauses its intraday advance on Wednesday, consolidating below the daily high as initial optimism around US-Iran ceasefire efforts fades following Iran’s response.",
+      "title_ko": "실버는 미국-이란 휴전 낙관론이 희미해짐에 따라 회복을 일시 중지합니다.",
+      "summary_ko": "실버 (XAG/USD) 는 이란의 대응에 따라 미국과 이란의 휴전 노력에 대한 초기 낙관론이 희미해짐에 따라 수요일에 일간 최고치 아래로 통합되어 일간 선전을 일시 중단한다."
     },
     {
-      "title": "Gold recovers as Oil prices cool and Iran resists US ceasefire plan",
-      "link": "https://www.fxstreet.com/news/gold-extends-recovery-as-oil-prices-pull-back-on-us-iran-ceasefire-hopes-202603251232",
-      "summary": "Gold (XAU/USD) extends its recovery on Wednesday after falling to four-month lows earlier this week, as early buyers step in following a sharp selloff.",
-      "title_ko": "금은 유가가 냉각되고 이란이 미국 휴전 계획에 저항하면서 회복됩니다.",
-      "summary_ko": "금 (XAU/USD) 은 이번 주 초 4개월 최저치로 하락한 후 수요일에 회복세를 연장합니다. 초기 구매자들이 급격한 매도세에 나서기 때문입니다."
+      "title": "AUD/USD struggles as inflation data, Oil volatility, and RBA outlook clash",
+      "link": "https://www.fxstreet.com/news/aud-usd-struggles-as-inflation-data-oil-volatility-and-rba-outlook-clash-202603251627",
+      "summary": "The AUD/USD pair fell to near the 0.6960 price zone amid mixed Australian inflation data and shifting global risk sentiment, keeping traders cautious.",
+      "title_ko": "AUD/USD는 인플레이션 데이터, 석유 변동성 및 RBA 전망 충돌로 어려움을 겪고 있습니다.",
+      "summary_ko": "호주 달러/달러 (AUD/USD) 쌍은 호주의 인플레이션 데이터가 혼합되고 글로벌 리스크 심리가 전환되는 가운데 0.6960 가격대 근처로 하락하여 거래자들은 신중을 기해야 합니다."
+    },
+    {
+      "title": "GBP/USD slips as risk aversion, sticky UK inflation lift US Dollar",
+      "link": "https://www.fxstreet.com/news/gbp-usd-slips-as-risk-aversion-sticky-uk-inflation-lifts-usd-202603251611",
+      "summary": "The Pound Sterling (GBP) reverses course on Wednesday as the Greenback edges higher on the day, as risk appetite deteriorates following news reports that Iran's nuclear Bushehr power plant was hit.",
+      "title_ko": "위험 회피로 GBP/USD 하락, 끈끈한 영국 인플레이션 상승 미국 달러",
+      "summary_ko": "파운드 스털링 (GBP) 은 수요일에 이란의 원자력 발전소가 타격을 입었다는 뉴스 보도에 따라 위험 식욕이 악화됨에 따라 수요일에 그린백이 더 높아짐에 따라 코스를 뒤집습니다."
+    },
+    {
+      "title": "Denmark: Government formation faces prolonged negotiations – Nordea",
+      "link": "https://www.fxstreet.com/news/denmark-government-formation-faces-prolonged-negotiations-nordea-202603251552",
+      "summary": "Nordea’s Group Chief Economist Helge J. Pedersen notes that the Danish parliamentary election has produced a highly fragmented Folketing, with 12 parties entering parliament and no majority for either the red or blue blo",
+      "title_ko": "덴마크: 장기간의 협상에 직면한 정부 구성 – Nordea",
+      "summary_ko": "Nordea의 그룹 수석 이코노미스트 Helge J. Pedersen은 덴마크 의회 선거가 12개의 정당이 의회에 진출하고 빨간색 또는 파란색 BLO에 대한 과반수가없는 매우 분열 된 Folketing을 만들어 냈다고 지적합니다."
     }
   ]
 }

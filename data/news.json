@@ -1,6 +1,13 @@
 {
-  "updated_at_utc": "2026-03-26 22:33:52 UTC",
+  "updated_at_utc": "2026-03-26 23:34:53 UTC",
   "items": [
+    {
+      "title": "From beer to cosmetics, Asia feels full force of war-fuelled energy crisis",
+      "link": "https://www.investing.com/news/stock-market-news/from-beer-to-cosmetics-asia-feels-full-force-of-warfuelled-energy-crisis-4581690",
+      "summary": "",
+      "title_ko": "맥주에서 화장품에 이르기까지, 아시아는 전쟁으로 인한 에너지 위기의 완전한 힘을 느낍니다.",
+      "summary_ko": ""
+    },
     {
       "title": "US FAA probes close call between United jet, Army helicopter in California",
       "link": "https://www.investing.com/news/stock-market-news/us-faa-probes-close-call-between-united-jet-army-helicopter-in-california-4583837",
@@ -9,24 +16,17 @@
       "summary_ko": ""
     },
     {
-      "title": "Mexico stocks lower at close of trade; S&amp;P/BMV IPC down 1.65%",
-      "link": "https://www.investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-165-4583824",
+      "title": "OpenAI’s US ad pilot exceeds $100 million in annualized revenue in six weeks",
+      "link": "https://www.investing.com/news/stock-market-news/openais-us-ad-pilot-exceeds-100-million-in-annualized-revenue-in-six-weeks-4583934",
       "summary": "",
-      "title_ko": "멕시코 주식은 거래 종료 시점에 하락, S&amp;P/BMV IPC는 1.65% 하락",
+      "title_ko": "OpenAI의 미국 광고 파일럿, 6주 만에 연간 매출 1억 달러 ($) 돌파",
       "summary_ko": ""
     },
     {
-      "title": "Colombia stocks lower at close of trade; COLCAP down 1.77%",
-      "link": "https://www.investing.com/news/stock-market-news/colombia-stocks-lower-at-close-of-trade-colcap-down-177-4583818",
+      "title": "T-Rex files for leveraged SpaceX, Anthropic ETFs ahead of anticipated IPOs",
+      "link": "https://www.investing.com/news/stock-market-news/trex-files-for-leveraged-spacex-anthropic-etfs-ahead-of-anticipated-ipos-4583931",
       "summary": "",
-      "title_ko": "콜롬비아 주식 거래 마감 시점 낮아짐, COLCAP 1.77% 하락",
-      "summary_ko": ""
-    },
-    {
-      "title": "Northrop Grumman wins $127 million Navy contract for supersonic targets",
-      "link": "https://www.investing.com/news/stock-market-news/northrop-grumman-wins-127-million-navy-contract-for-supersonic-targets-93CH-4583815",
-      "summary": "",
-      "title_ko": "Northrop Grumman, 초음속 타겟으로 1억 2천 7백만 $ 해군 계약 수주",
+      "title_ko": "예상 IPO를 앞두고 레버리지 SpaceX, Anthropic ETF를 위한 T-Rex 파일",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "NZD/USD slips as US Dollar strengthens and geopolitical tensions weigh",
-      "link": "https://www.fxstreet.com/news/nzd-usd-slips-as-us-dollar-strengthens-and-geopolitical-tensions-weigh-202603262125",
-      "summary": "The NZD/USD pair slipped to the 0.5760 region, remaining under pressure as the US Dollar (USD) stays firm amid elevated United States (US) yields and a cautious market mood.",
-      "title_ko": "미국 달러화 강세와 지정학적 긴장 고조로 NZD/USD 하락",
-      "summary_ko": "NZD/USD 쌍은 0.5760 지역으로 하락했으며, 미국 달러 (USD) 가 미국 (US) 수익률 상승과 신중한 시장 분위기 속에서 굳건히 유지됨에 따라 압박을 받고 있습니다."
+      "title": "Singapore: Growth risks tilt lower – UOB",
+      "link": "https://www.fxstreet.com/news/singapore-growth-risks-tilt-lower-uob-202603262217",
+      "summary": "UOB’s Senior Economist Alvin Liew reviews Singapore’s latest industrial production data and maintains the 2026 GDP growth forecast at 3.6%, with 2027 at 2.0%. The bank highlights broad-based weakness in February IP, desp",
+      "title_ko": "싱가포르: 성장 위험 감소 – UOB",
+      "summary_ko": "UOB의 수석 이코노미스트 Alvin Liew는 싱가포르의 최신 산업 생산 데이터를 검토하고 2026년 GDP 성장률 전망치를 3.6% 로 유지하며 2027년은 2.0% 로 유지합니다. 이 은행은 2 월 IP, DESP에서 광범위한 약점을 강조합니다."
     },
     {
-      "title": "USD/THB: Energy shock pressures Baht – Commerzbank",
-      "link": "https://www.fxstreet.com/news/usd-thb-energy-shock-pressures-baht-commerzbank-202603262112",
-      "summary": "Commerzbank economists Dr. Henry Hao and Moses Lim highlight that USD/THB climbed to 32.65 as Thailand’s trade balance stayed in deficit and global energy prices rose.",
-      "title_ko": "USD/THB: 에너지 충격 압력 바트 – Commerzbank",
-      "summary_ko": "코메르츠방크 경제학자 헨리 하오 (Henry Hao) 박사와 모세 림 (Moses Lim) 은 태국의 무역 수지가 적자를 유지하고 전 세계 에너지 가격이 상승함에 따라 USD/THB가 32.65 로 상승했다고 강조한다."
+      "title": "APAC FX: Inflation channel and valuation gaps – BNY",
+      "link": "https://www.fxstreet.com/news/apac-fx-inflation-channel-and-valuation-gaps-bny-202603262153",
+      "summary": "Geoff Yu at BNY notes that North Asian economies face supply-related risks to their balance of payments despite ample energy reserves.",
+      "title_ko": "APAC FX: 인플레이션 채널 및 평가 격차 – BNY",
+      "summary_ko": "BNY의 제프 유 (Geoff Yu) 는 충분한 에너지 보유량에도 불구하고 북아시아 경제는 지불 잔액에 대한 공급 관련 위험에 직면해 있다고 지적했다."
     }
   ]
 }

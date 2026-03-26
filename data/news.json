@@ -1,32 +1,25 @@
 {
-  "updated_at_utc": "2026-03-26 16:13:16 UTC",
+  "updated_at_utc": "2026-03-26 17:35:26 UTC",
   "items": [
     {
-      "title": "Judge dismisses lawsuit by Musk’s X Corp accusing advertisers of illegal boycott",
-      "link": "https://www.investing.com/news/stock-market-news/judge-dismisses-lawsuit-by-musks-x-corp-accusing-advertisers-of-illegal-boycott-4582993",
+      "title": "United Airlines reaches tentative labor deal with flight attendants",
+      "link": "https://www.investing.com/news/stock-market-news/united-airlines-reaches-tentative-labor-deal-with-flight-attendants-4583163",
       "summary": "",
-      "title_ko": "머스크 엑스 코퍼레이션 (Musk's X Corp) 이 광고주들을 불법 보이콧 혐의로 고소한 소송을 기각한 판사",
+      "title_ko": "유나이티드 항공, 승무원과 잠정 노동 협상 타결",
       "summary_ko": ""
     },
     {
-      "title": "Intuitive Surgical stock moat lies in training, former exec says",
-      "link": "https://www.investing.com/news/stock-market-news/intuitive-surgical-stock-moat-lies-in-training-former-exec-says-93CH-4583041",
+      "title": "U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 1.29%",
+      "link": "https://www.investing.com/news/stock-market-news/uk-stocks-lower-at-close-of-trade-investingcom-united-kingdom-100-down-129-4583158",
       "summary": "",
-      "title_ko": "인튜이티브 써지컬 스톡 해자는 트레이닝에 있다고 전임 임원은 말합니다.",
+      "title_ko": "영국 주식 거래 마감 시점 낮아짐; Investing.com 영국 100 1.29% 하락",
       "summary_ko": ""
     },
     {
-      "title": "Norway stocks higher at close of trade; Oslo OBX up 0.44%",
-      "link": "https://www.investing.com/news/stock-market-news/norway-stocks-higher-at-close-of-trade-oslo-obx-up-044-4583040",
+      "title": "Spain stocks lower at close of trade; IBEX 35 down 1.21%",
+      "link": "https://www.investing.com/news/stock-market-news/spain-stocks-lower-at-close-of-trade-ibex-35-down-121-4583155",
       "summary": "",
-      "title_ko": "노르웨이는 교역 마감 시점에서 더 높은 주식을 보유하고 있으며, 오슬로 OBX는 0.44% 상승했습니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Novo Nordisk appoints Mars CEO as board observer",
-      "link": "https://www.investing.com/news/stock-market-news/novo-nordisk-appoints-mars-ceo-as-board-observer-4582970",
-      "summary": "",
-      "title_ko": "Novo Nordisk, Mars CEO를 이사회 옵저버로 임명",
+      "title_ko": "스페인 주식은 거래 마감 시점에 하락, IBEX 35는 1.21% 하락",
       "summary_ko": ""
     },
     {
@@ -58,18 +51,25 @@
       "summary_ko": ""
     },
     {
+      "title": "USD/CHF Price Forecast: Bullish momentum builds as the pair challenges the 200-day SMA",
+      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-bullish-momentum-builds-as-the-pair-challenges-the-200-day-sma-202603261627",
+      "summary": "USD/CHF extends gains on Thursday as broad-based US Dollar (USD) strength persists amid rising Middle East tensions, while the Swiss Franc (CHF) struggles to gain traction as traders remain cautious about potential inter",
+      "title_ko": "USD/CHF 가격 예측: 쌍이 200일 SMA에 도전함에 따라 강세 모멘텀이 형성됩니다.",
+      "summary_ko": "USD/CHF는 중동의 긴장이 고조되는 가운데 광범위한 미국 달러 (USD) 강세가 지속됨에 따라 목요일에 이익을 확대하는 반면, 스위스 프랑 (CHF) 은 거래자들이 잠재적 인 상호 작용에 대해 신중을 기하면서 견인력을 확보하기 위해 애 쓰고 있습니다."
+    },
+    {
+      "title": "Silver price slides as safe-haven Dollar, higher yields outweigh geopolitical support",
+      "link": "https://www.fxstreet.com/news/silver-price-slides-as-safe-haven-dollar-higher-yields-outweigh-geopolitical-support-202603261624",
+      "summary": "Silver (XAG/USD) trades lower on Thursday, hovering around $68.50 at the time of writing, down 3.85% on the day, extending its pullback after earlier gains this week.",
+      "title_ko": "은 가격 슬라이드 안전한 천국 달러, 더 높은 수익률은 지정학적 지원보다 큽니다",
+      "summary_ko": "실버 (XAG/USD) 거래는 목요일에 낮아지고, 서면 작성 당시 약 $ 68.50 를 맴돌며, 당일 3.85% 하락했으며, 이번 주 초 이익 이후 풀백을 연장했습니다."
+    },
+    {
       "title": "USD/JPY rises as Trump comments support USD",
       "link": "https://www.fxstreet.com/news/usd-jpy-rises-as-trump-comments-support-usd-202603261550",
       "summary": "The USD/JPY trades higher near the 159.70 level on Thursday, March 26, maintaining an overall bullish bias as the US Dollar (USD) remains supported while the Japanese Yen (JPY) stays under pressure.",
       "title_ko": "트럼프 댓글이 USD를 지원함에 따라 USD/JPY가 상승합니다.",
       "summary_ko": "USD/JPY는 3월 26일 목요일에 159.70 수준 근처에서 더 높게 거래되며, 일본 엔화 (JPY) 가 압박을 받는 동안 미국 달러 (USD) 가 계속 지원되기 때문에 전반적인 강세 편향을 유지합니다."
-    },
-    {
-      "title": "NOK: Norges Bank hawkish shift supports currency – ING",
-      "link": "https://www.fxstreet.com/news/nok-norges-bank-hawkish-shift-supports-currency-ing-202603261549",
-      "summary": "ING’s Francesco Pesole notes that Norges Bank delivered a hawkish shift, signalling upcoming rate hikes as inflation concerns extend beyond the energy shock. The bank now fully prices at least one hike in its projections",
-      "title_ko": "NOK: Norges Bank hawkish shift는 통화를 지원합니다 – ING",
-      "summary_ko": "ING의 프란체스코 페솔레 (Francesco Pesole) 는 노르게스 은행이 매파적인 변화를 가져왔으며, 인플레이션 우려가 에너지 충격 이상으로 확대됨에 따라 다가오는 금리 인상 신호를 보냈다고 지적했다. 이제 은행은 예상치에서 최소 한 번의 인상을 완전히 책정합니다."
     }
   ]
 }

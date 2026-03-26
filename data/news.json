@@ -1,25 +1,32 @@
 {
-  "updated_at_utc": "2026-03-26 17:35:26 UTC",
+  "updated_at_utc": "2026-03-26 19:10:54 UTC",
   "items": [
     {
-      "title": "United Airlines reaches tentative labor deal with flight attendants",
-      "link": "https://www.investing.com/news/stock-market-news/united-airlines-reaches-tentative-labor-deal-with-flight-attendants-4583163",
+      "title": "Pernod Ricard has held merger talks with Jack Daniel’s maker, source says",
+      "link": "https://www.investing.com/news/stock-market-news/pernod-ricard-has-held-merger-talks-with-jack-daniels-maker-source-says-4583318",
       "summary": "",
-      "title_ko": "유나이티드 항공, 승무원과 잠정 노동 협상 타결",
+      "title_ko": "Pernod Ricard는 Jack Daniel의 메이커와 합병 회담을 가졌다고 소식통은 말합니다.",
       "summary_ko": ""
     },
     {
-      "title": "U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 1.29%",
-      "link": "https://www.investing.com/news/stock-market-news/uk-stocks-lower-at-close-of-trade-investingcom-united-kingdom-100-down-129-4583158",
+      "title": "Occidental stock rises on CEO succession report",
+      "link": "https://www.investing.com/news/stock-market-news/occidental-stock-rises-on-ceo-succession-report-93CH-4583311",
       "summary": "",
-      "title_ko": "영국 주식 거래 마감 시점 낮아짐; Investing.com 영국 100 1.29% 하락",
+      "title_ko": "CEO 승계 보고서에 대한 옥시덴탈 주가 상승",
       "summary_ko": ""
     },
     {
-      "title": "Spain stocks lower at close of trade; IBEX 35 down 1.21%",
-      "link": "https://www.investing.com/news/stock-market-news/spain-stocks-lower-at-close-of-trade-ibex-35-down-121-4583155",
+      "title": "Food safety nonprofit’s lawsuit claims Panera Bread misled consumers, citing Reuters",
+      "link": "https://www.investing.com/news/stock-market-news/food-safety-nonprofits-lawsuit-claims-panera-bread-misled-consumers-citing-reuters-4583310",
       "summary": "",
-      "title_ko": "스페인 주식은 거래 마감 시점에 하락, IBEX 35는 1.21% 하락",
+      "title_ko": "식품 안전 비영리 단체의 소송 주장 Panera Bread는 Reuters를 인용하여 소비자를 현혹했습니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Apple plans to open Siri to rival AI services, Bloomberg News reports",
+      "link": "https://www.investing.com/news/stock-market-news/apple-plans-to-open-siri-to-rival-ai-services-bloomberg-news-reports-4583296",
+      "summary": "",
+      "title_ko": "블룸버그 뉴스는 애플이 AI 서비스와 경쟁하기 위해 시리 (Siri) 를 오픈할 계획이라고 보도했다.",
       "summary_ko": ""
     },
     {
@@ -51,25 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "USD/CHF Price Forecast: Bullish momentum builds as the pair challenges the 200-day SMA",
-      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-bullish-momentum-builds-as-the-pair-challenges-the-200-day-sma-202603261627",
-      "summary": "USD/CHF extends gains on Thursday as broad-based US Dollar (USD) strength persists amid rising Middle East tensions, while the Swiss Franc (CHF) struggles to gain traction as traders remain cautious about potential inter",
-      "title_ko": "USD/CHF 가격 예측: 쌍이 200일 SMA에 도전함에 따라 강세 모멘텀이 형성됩니다.",
-      "summary_ko": "USD/CHF는 중동의 긴장이 고조되는 가운데 광범위한 미국 달러 (USD) 강세가 지속됨에 따라 목요일에 이익을 확대하는 반면, 스위스 프랑 (CHF) 은 거래자들이 잠재적 인 상호 작용에 대해 신중을 기하면서 견인력을 확보하기 위해 애 쓰고 있습니다."
+      "title": "Forex Today: US Dollar surges as Iran tensions keep markets cautious",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-surges-as-iran-tensions-keep-markets-cautious-202603261849",
+      "summary": "The US Dollar Index (DXY) surged to near 99.90, holding steady as safe-haven demand amid Middle East tensions and rate differentials underpinned the Greenback amid a cautious market mood.",
+      "title_ko": "포렉스 투데이: 이란의 긴장이 시장을 조심스럽게 만들면서 미국 달러가 급등",
+      "summary_ko": "미국 달러 지수 (DXY) 는 99.90 근처까지 급등했으며, 중동 긴장과 금리 차 속에서 안전한 수요로 꾸준히 유지되어 시장 분위기가 조심스러운 가운데 그린백을 뒷받침했다."
     },
     {
-      "title": "Silver price slides as safe-haven Dollar, higher yields outweigh geopolitical support",
-      "link": "https://www.fxstreet.com/news/silver-price-slides-as-safe-haven-dollar-higher-yields-outweigh-geopolitical-support-202603261624",
-      "summary": "Silver (XAG/USD) trades lower on Thursday, hovering around $68.50 at the time of writing, down 3.85% on the day, extending its pullback after earlier gains this week.",
-      "title_ko": "은 가격 슬라이드 안전한 천국 달러, 더 높은 수익률은 지정학적 지원보다 큽니다",
-      "summary_ko": "실버 (XAG/USD) 거래는 목요일에 낮아지고, 서면 작성 당시 약 $ 68.50 를 맴돌며, 당일 3.85% 하락했으며, 이번 주 초 이익 이후 풀백을 연장했습니다."
-    },
-    {
-      "title": "USD/JPY rises as Trump comments support USD",
-      "link": "https://www.fxstreet.com/news/usd-jpy-rises-as-trump-comments-support-usd-202603261550",
-      "summary": "The USD/JPY trades higher near the 159.70 level on Thursday, March 26, maintaining an overall bullish bias as the US Dollar (USD) remains supported while the Japanese Yen (JPY) stays under pressure.",
-      "title_ko": "트럼프 댓글이 USD를 지원함에 따라 USD/JPY가 상승합니다.",
-      "summary_ko": "USD/JPY는 3월 26일 목요일에 159.70 수준 근처에서 더 높게 거래되며, 일본 엔화 (JPY) 가 압박을 받는 동안 미국 달러 (USD) 가 계속 지원되기 때문에 전반적인 강세 편향을 유지합니다."
+      "title": "EUR/USD extends losses as geopolitical risks keep USD firmly bid",
+      "link": "https://www.fxstreet.com/news/eur-usd-extends-losses-as-geopolitical-risks-keep-usd-firmly-bid-202603261830",
+      "summary": "The Euro (EUR) edges lower against the US Dollar (USD) on Thursday, with EUR/USD extending losses for a third consecutive day as ongoing geopolitical tensions surrounding the US-Israel war with Iran keep the Greenback fi",
+      "title_ko": "지정학적 위험이 USD를 확고하게 입찰하기 때문에 EUR/USD는 손실을 확대합니다",
+      "summary_ko": "이란과의 미국-이스라엘 전쟁을 둘러싼 지정학적 긴장이 지속됨에 따라 유로 (EUR) 가장자리가 목요일 미국 달러 (USD) 대비 낮아졌으며, EUR/USD는 3일 연속 손실을 연장했습니다."
     }
   ]
 }

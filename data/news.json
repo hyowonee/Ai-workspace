@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-03-26 09:34:29 UTC",
+  "updated_at_utc": "2026-03-26 10:54:40 UTC",
   "items": [
     {
-      "title": "Porsche SE profit dips 9% in fiscal 2025, smaller investments help offset pressure",
-      "link": "https://www.investing.com/news/stock-market-news/porsche-se-profit-dips-9-in-fiscal-2025-smaller-investments-help-offset-pressure-4581555",
+      "title": "Barclays favors U.S. equities as energy shock meets AI-driven earnings",
+      "link": "https://www.investing.com/news/stock-market-news/barclays-favors-us-equities-as-energy-shock-meets-aidriven-earnings-4581907",
       "summary": "",
-      "title_ko": "2025 회계연도에 포르쉐 SE 이익 9% 감소, 소규모 투자는 압력을 상쇄하는 데 도움이 됨",
+      "title_ko": "Barclays는 에너지 쇼크가 AI 기반 수익을 충족하기 때문에 미국 주식을 선호합니다.",
       "summary_ko": ""
     },
     {
-      "title": "European stocks edge lower as investors gauge prospects of Iran war ceasefire",
-      "link": "https://www.investing.com/news/stock-market-news/european-stocks-edge-lower-as-investors-gauge-prospects-of-iran-war-ceasefire-4581575",
+      "title": "China vows to regulate destructive price wars",
+      "link": "https://www.investing.com/news/stock-market-news/china-vows-to-regulate-destructive-price-wars-93CH-4581903",
       "summary": "",
-      "title_ko": "투자자들이 이란 전쟁 휴전의 전망을 측정함에 따라 유럽 증시는 더 낮아졌다.",
+      "title_ko": "중국은 파괴적인 가격 전쟁을 규제하겠다고 서약했다.",
       "summary_ko": ""
     },
     {
-      "title": "U.S. stock valuations point to near-term upside, Citadel strategist says",
-      "link": "https://www.investing.com/news/stock-market-news/us-stock-valuations-point-to-nearterm-upside-citadel-strategist-says-4580490",
+      "title": "Cathay Pacific raises fuel surcharges 34% amid oil price swings",
+      "link": "https://www.investing.com/news/stock-market-news/cathay-pacific-raises-fuel-surcharges-34-amid-oil-price-swings-93CH-4581886",
       "summary": "",
-      "title_ko": "시타델 전략가는 미국 주식 밸류에이션이 단기적인 상승을 가리킨다고 말합니다.",
+      "title_ko": "캐세이패시픽, 유가 변동에 따라 유류할증료 34% 인상",
       "summary_ko": ""
     },
     {
-      "title": "From beer to cosmetics, Asia feels full force of war-fuelled energy crisis",
-      "link": "https://www.investing.com/news/stock-market-news/from-beer-to-cosmetics-asia-feels-full-force-of-warfuelled-energy-crisis-4581690",
+      "title": "Korean Air to buy 103 Boeing planes for $36.2 billion by 2039",
+      "link": "https://www.investing.com/news/stock-market-news/korean-air-to-buy-103-boeing-planes-for-362-billion-by-2039-93CH-4581878",
       "summary": "",
-      "title_ko": "맥주에서 화장품에 이르기까지, 아시아는 전쟁으로 인한 에너지 위기의 완전한 힘을 느낍니다.",
+      "title_ko": "대한항공, 2039년까지 보잉 103대 $ 362억에 매입",
+      "summary_ko": ""
+    },
+    {
+      "title": "Italy consumer morale plunges to two-and-a-half year low",
+      "link": "https://www.investing.com/news/economic-indicators/italy-consumer-morale-plunges-to-twoandahalf-year-low-4581819",
+      "summary": "",
+      "title_ko": "이탈리아 소비자의 사기가 2년 반 만에 최저치로 떨어짐",
       "summary_ko": ""
     },
     {
@@ -51,25 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Trump’s tariffs had little impact on GDP in 2025, but raised revenue, academic paper finds",
-      "link": "https://www.investing.com/news/economic-indicators/trumps-tariffs-had-little-impact-on-gdp-in-2025-but-raised-revenue-academic-paper-finds-4581342",
-      "summary": "",
-      "title_ko": "트럼프의 관세는 2025년 GDP에 거의 영향을 미치지 않았지만 수익을 올렸다.",
-      "summary_ko": ""
+      "title": "USD/JPY extends gains above 159.50 in risk-off markets",
+      "link": "https://www.fxstreet.com/news/usd-jpy-extends-gains-above-15950-in-risk-off-markets-202603261049",
+      "summary": "The US Dollar (USD) maintains an immediate bullish tone against the Japanese Yen (JPY) on Thursday, extending its rebound from Monday’s lows at 158.00 to levels above 159.50 so far.",
+      "title_ko": "USD/JPY, 리스크 오프 시장에서 159.50 이상의 이익 확대",
+      "summary_ko": "미국 달러 (USD) 는 목요일 일본 엔화 (JPY) 에 대해 즉각적인 강세를 유지하여 월요일 최저치인 158.00에서 지금까지 159.50을 상회하는 수준으로 반등을 연장했습니다."
     },
     {
-      "title": "EUR/USD: Rally vulnerable without Gulf de-escalation – ING",
-      "link": "https://www.fxstreet.com/news/eur-usd-rally-vulnerable-without-gulf-de-escalation-ing-202603260857",
-      "summary": "ING’s Francesco Pesole highlights that EUR/USD has slipped back below 1.16 despite firm risk sentiment, as earlier gains on the European Central Bank’s (ECB) surprise hawkishness are partly unwound. Markets have reduced ",
-      "title_ko": "EUR/USD: Gulf de-escalation 없이 취약한 집회 – ING",
-      "summary_ko": "ING의 프란체스코 페솔레 (Francesco Pesole) 는 유럽 중앙 은행 (ECB) 의 놀라움에 대한 이전의 이익이 부분적으로 풀렸기 때문에 확고한 위험 감정에도 불구하고 EUR/USD가 1.16 아래로 떨어졌다고 강조합니다. 시장은 감소했습니다."
-    },
-    {
-      "title": "USD: Real rate support capped by Europe – BNY",
-      "link": "https://www.fxstreet.com/news/usd-real-rate-support-capped-by-europe-bny-202603260846",
-      "summary": "BNY strategist Geoff Yu argues that rising European real yields are increasingly offsetting traditional support for the Dollar from higher US real rates. He notes that the spread between US and European real rates has st",
-      "title_ko": "USD: 유럽 기준 실질 요율 지원 – BNY",
-      "summary_ko": "BNY 전략가 제프 유 (Geoff Yu) 는 유럽의 실질 수익률 상승이 미국의 실질 금리 상승으로 달러에 대한 전통적인 지지를 점점 상쇄하고 있다고 주장한다. 그는 미국과 유럽의 실질 금리 사이의 스프레드가"
+      "title": "Gold Price Forecast: XAU/USD declines sharply to near $4,400 as Middle East fears revive",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-declines-sharply-to-near-4-400-as-middle-east-fears-revive-202603261015",
+      "summary": "Gold price (XAU/USD) is down 2% to near $4,410 during the European trading session on Thursday.",
+      "title_ko": "금 가격 예측: 중동의 우려가 되살아나면서 XAU/USD는 $ 4,400 근처까지 급격히 하락",
+      "summary_ko": "금 가격 (XAU/USD) 은 목요일 유럽 거래 세션에서 거의 $ 4,410로 2% 하락했습니다."
     }
   ]
 }

@@ -1,32 +1,32 @@
 {
-  "updated_at_utc": "2026-03-27 02:38:28 UTC",
+  "updated_at_utc": "2026-03-27 05:09:42 UTC",
   "items": [
+    {
+      "title": "KOSPI slides further; memory chip stocks battered by Google AI breakthrough",
+      "link": "https://www.investing.com/news/stock-market-news/kospi-slides-further-memory-chip-stocks-battered-by-google-ai-breakthrough-4584088",
+      "summary": "",
+      "title_ko": "코스피는 더 나아갔습니다. 구글 인공지능 (AI) 혁신으로 타격을 입은 메모리 칩 주식",
+      "summary_ko": ""
+    },
+    {
+      "title": "Asia stocks fall as Iran uncertainty persists; S.Korea battered by chip losses",
+      "link": "https://www.investing.com/news/stock-market-news/asia-stocks-fall-as-iran-uncertainty-persists-skorea-battered-by-chip-losses-4584086",
+      "summary": "",
+      "title_ko": "이란의 불확실성이 지속되면서 아시아 증시가 하락하고, 한국은 칩 손실로 타격을 입는다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "US judge temporarily blocks Pentagon bid to blacklist Anthropic",
+      "link": "https://www.investing.com/news/stock-market-news/us-judge-temporarily-blocks-pentagon-bid-to-blacklist-anthropic-4584084",
+      "summary": "",
+      "title_ko": "미국 판사가 Anthropic 블랙리스트에 대한 펜타곤 입찰을 일시적으로 차단합니다",
+      "summary_ko": ""
+    },
     {
       "title": "Pernod Ricard in merger talks with Jack Daniel’s maker Brown-Forman",
       "link": "https://www.investing.com/news/stock-market-news/pernod-ricard-has-held-merger-talks-with-jack-daniels-maker-source-says-4583318",
       "summary": "",
       "title_ko": "잭 다니엘의 메이커 브라운-포먼 (Brown-Forman) 과 합병 논의 중인 페르노 리카드 (Pernod Ricard)",
-      "summary_ko": ""
-    },
-    {
-      "title": "China detaining Panama-flagged ships amid battle over port control, FMC says",
-      "link": "https://www.investing.com/news/stock-market-news/china-detaining-panamaflagged-ships-amid-battle-over-port-control-fmc-says-4584077",
-      "summary": "",
-      "title_ko": "FMC는 중국이 항구 장악을 둘러싼 전투 중 파나마 국적의 선박을 억류하고 있다고 밝혔습니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "US stock futures rise as Trump postpones deadline for Iran energy strikes",
-      "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-as-trump-postpones-deadline-for-iran-energy-strikes-4584062",
-      "summary": "",
-      "title_ko": "트럼프가 이란의 에너지 파업 시한을 연기함에 따라 미국 주식 선물이 상승",
-      "summary_ko": ""
-    },
-    {
-      "title": "White House AI czar Sacks to step down, moves to advisory role",
-      "link": "https://www.investing.com/news/stock-market-news/white-house-ai-czar-sacks-to-step-down-moves-to-advisory-role-4584060",
-      "summary": "",
-      "title_ko": "백악관 AI 차르 포대 물러나고 자문 역할로 이동",
       "summary_ko": ""
     },
     {
@@ -56,20 +56,6 @@
       "summary": "",
       "title_ko": "브라질 인플레이션은 3.9% 로 하락하지만 에너지 가격은 추세를 반전시킬 수 있습니다.",
       "summary_ko": ""
-    },
-    {
-      "title": "Silver Price Forecast: XAG/USD consolidates above $68.00; 100-SMA breakdown remains in play",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-consolidates-above-6800-100-sma-breakdown-remains-in-play-202603270143",
-      "summary": "Silver (XAG/USD) struggles to gain any meaningful traction on Friday and oscillates in a narrow trading band just above the $68.00 mark during the Asian session.",
-      "title_ko": "실버 가격 예측: XAG/USD는 $ 68.00 이상으로 통합됩니다. 100-SMA 고장은 여전히 유효합니다.",
-      "summary_ko": "실버 (XAG/USD) 는 금요일에 의미 있는 견인력을 얻기 위해 고군분투하며 아시아 세션 동안 $ 68.00 마크 바로 위의 좁은 거래 대역에서 진동합니다."
-    },
-    {
-      "title": "PBOC sets USD/CNY reference rate at 6.9141 vs. 6.9056 previous",
-      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-69141-vs-69056-previous-202603270115",
-      "summary": "On Friday, the People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead at 6.9141 compared to the previous day's fix of 6.9056 and 6.9089 Reuters estimate.",
-      "title_ko": "PBOC는 USD/CNY 기준 금리를 6.9141 대 6.9056 이전으로 설정합니다.",
-      "summary_ko": "금요일, 중국 인민은행 (PBOC) 은 전일 6.9056 및 6.9089 로이터 추정치와 비교하여 거래 세션의 USD/CNY 중앙 환율을 6.9141로 설정합니다."
     }
   ]
 }

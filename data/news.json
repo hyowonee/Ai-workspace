@@ -1,25 +1,18 @@
 {
-  "updated_at_utc": "2026-03-27 15:56:03 UTC",
+  "updated_at_utc": "2026-03-27 17:00:24 UTC",
   "items": [
     {
-      "title": "Exclusive-US sends subpoenas in Warner-Paramount antitrust review as probe picks up steam",
-      "link": "https://www.investing.com/news/stock-market-news/exclusiveus-sends-subpoenas-in-warnerparamount-antitrust-review-as-probe-picks-up-steam-4585522",
+      "title": "Anthropic’s Claude Mythos model release pressures cybersecurity stocks, Evercore comments",
+      "link": "https://www.investing.com/news/stock-market-news/anthropics-claude-mythos-model-release-pressures-cybersecurity-stocks-evercore-comments-93CH-4585589",
       "summary": "",
-      "title_ko": "Exclusive-US는 프로브가 스팀을 픽업함에 따라 Warner-Paramount 반독점 검토에서 소환장을 보냅니다.",
+      "title_ko": "Anthropic의 Claude Mythos 모델 출시로 사이버 보안 주식 압박, Evercore 의견",
       "summary_ko": ""
     },
     {
-      "title": "Turkey stocks lower at close of trade; BIST 100 down 0.23%",
-      "link": "https://www.investing.com/news/stock-market-news/turkey-stocks-lower-at-close-of-trade-bist-100-down-023-4585508",
+      "title": "Poland stocks lower at close of trade; WIG30 down 1.00%",
+      "link": "https://www.investing.com/news/stock-market-news/poland-stocks-lower-at-close-of-trade-wig30-down-100-4585582",
       "summary": "",
-      "title_ko": "터키 주식은 거래 마감 시점에 하락, BIST 100 0.23% 하락",
-      "summary_ko": ""
-    },
-    {
-      "title": "CVC Capital Partners eyes potential asset sales if Recordati takeover succeeds",
-      "link": "https://www.investing.com/news/stock-market-news/cvc-capital-partners-eyes-potential-asset-sales-if-recordati-takeover-succeeds-93CH-4585506",
-      "summary": "",
-      "title_ko": "CVC Capital Partners, Recordati 인수 성공 시 잠재적 자산 매각 눈길",
+      "title_ko": "폴란드 주식은 거래 마감 시점에 하락, WIG30은 1.00% 하락",
       "summary_ko": ""
     },
     {
@@ -30,17 +23,24 @@
       "summary_ko": ""
     },
     {
+      "title": "Denmark stocks lower at close of trade; OMX Copenhagen 20 down 2.12%",
+      "link": "https://www.investing.com/news/stock-market-news/denmark-stocks-lower-at-close-of-trade-omx-copenhagen-20-down-212-4585579",
+      "summary": "",
+      "title_ko": "덴마크 주식은 거래 종료 시점에 하락, OMX 코펜하겐 20은 2.12% 하락",
+      "summary_ko": ""
+    },
+    {
+      "title": "US consumer sentiment hits three-month low as war stokes inflation fears",
+      "link": "https://www.investing.com/news/economic-indicators/us-consumer-sentiment-slips-to-a-threemonth-low-in-march-4585424",
+      "summary": "",
+      "title_ko": "전쟁이 인플레이션 공포를 불러일으키면서 미국 소비심리가 3개월 만에 최저치를 기록했습니다.",
+      "summary_ko": ""
+    },
+    {
       "title": "U.S. consumer sentiment slides in March amid economic fallout from Iran war",
       "link": "https://www.investing.com/news/economic-indicators/us-consumer-sentiment-slides-in-march-amid-economic-fallout-from-iran-war-4585452",
       "summary": "",
       "title_ko": "이란 전쟁으로 인한 경제적 낙진 속에서 3월 미국 소비심리 슬라이드",
-      "summary_ko": ""
-    },
-    {
-      "title": "US consumer sentiment slips to a three-month low in March",
-      "link": "https://www.investing.com/news/economic-indicators/us-consumer-sentiment-slips-to-a-threemonth-low-in-march-4585424",
-      "summary": "",
-      "title_ko": "3월 미국 소비심리 3개월 최저치로 하락",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Fed's Barkin: Prudent to keep rates on hold as AI and geopolitical risks cloud outlook",
-      "link": "https://www.fxstreet.com/news/feds-barkin-prudent-to-keep-rates-on-hold-as-ai-and-geopolitical-risks-cloud-outlook-202603271549",
-      "summary": "Federal Reserve (Fed) Richmond President Thomas Barkin said on Friday that it is prudent to keep interest rates steady for now, as policymakers await greater clarity on the economic outlook.",
-      "title_ko": "Fed의 Barkin: AI 및 지정학적 위험 클라우드 전망에 따라 요금을 보류하는 것이 현명함",
-      "summary_ko": "토마스 바킨 연방준비제도 (Fed · 연준) 리치먼드 대통령은 금요일, 정책 입안자들이 경제 전망에 대한 명확성을 기대하고 있기 때문에 현재로서는 금리를 안정적으로 유지하는 것이 신중하다고 말했다."
+      "title": "WTI Oil surges on Middle East escalation fears, Strait of Hormuz disruption risks",
+      "link": "https://www.fxstreet.com/news/wti-oil-surges-on-middle-east-escalation-fears-strait-of-hormuz-disruption-risks-202603271557",
+      "summary": "West Texas Intermediate (WTI) US Oil rises sharply and trades around $96.00 at the time of writing on Friday, up 3.55% on the day.",
+      "title_ko": "WTI 중동 에스컬레이션 우려에 석유 급증, 호르무즈 해협 교란 위험",
+      "summary_ko": "서부 텍사스 중급 (WTI) 미국 석유는 금요일 서면 작성 시 급격히 상승하고 약 $ 96.00 에 거래되며, 이는 당일 3.55% 상승한 수치입니다."
     },
     {
-      "title": "GBP/USD holds above 1.3300 as haven bids lift the US Dollar",
-      "link": "https://www.fxstreet.com/news/gbp-usd-holds-above-13300-as-haven-bids-lift-the-us-dollar-202603271536",
-      "summary": "The British Pound holds firm during the North American session, clings above the 1.3300 figure, yet seems poised to finish the week with 0.20% losses against the US Dollar.",
-      "title_ko": "GBP/USD는 1.3300을 상회하며 HAVEN 입찰은 미국 달러를 인상합니다.",
-      "summary_ko": "영국 파운드는 북미 세션에서 1.3300을 상회하면서도 미국 달러 대비 0.20% 의 손실로 이번 주를 마무리할 태세로 보인다."
+      "title": "Gold reclaims $4,500 as softer US Dollar offers support amid Iran tensions",
+      "link": "https://www.fxstreet.com/news/gold-lacks-momentum-amid-rising-yields-and-strong-us-dollar-202603271314",
+      "summary": "Gold (XAU/USD) edges higher on Friday, rebounding after falling nearly 2.75% the previous day, as evolving geopolitical headlines around the US-Israel war with Iran continue to drive volatility across global markets. At ",
+      "title_ko": "금은 이란의 긴장 속에서 더 부드러운 미국 달러가 지원을 제공하므로 $ 4,500를 회수합니다.",
+      "summary_ko": "금 (XAU/USD) 은 금요일에 상승하여 전날 거의 2.75% 하락한 후 반등했습니다. 이란과의 미국-이스라엘 전쟁을 둘러싼 지정학적 헤드라인이 진화하면서 글로벌 시장에서 변동성이 계속 증가하고 있기 때문입니다. At"
     }
   ]
 }

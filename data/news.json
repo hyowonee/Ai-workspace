@@ -1,6 +1,13 @@
 {
-  "updated_at_utc": "2026-03-27 19:22:54 UTC",
+  "updated_at_utc": "2026-03-27 19:58:57 UTC",
   "items": [
+    {
+      "title": "Stocks crater as Iran war slams sentiment; Nasdaq down 12% from record close",
+      "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-as-trump-postpones-deadline-for-iran-energy-strikes-4584062",
+      "summary": "",
+      "title_ko": "이란이 전쟁으로 정서를 무너뜨리면서 크레이터를 보유, 나스닥이 사상 최고치인 12% 하락",
+      "summary_ko": ""
+    },
     {
       "title": "Elon Musk joins Trump-Modi call amid wartime crisis",
       "link": "https://www.investing.com/news/stock-market-news/elon-musk-joins-trumpmodi-call-amid-wartime-crisis-93CH-4585794",
@@ -20,13 +27,6 @@
       "link": "https://www.investing.com/news/stock-market-news/expansion-of-disneyland-paris-will-create-1000-new-jobs-4585779",
       "summary": "",
       "title_ko": "파리 디즈니랜드 확장으로 1,000개의 신규 일자리 창출",
-      "summary_ko": ""
-    },
-    {
-      "title": "US House transportation panel chair will not seek reelection",
-      "link": "https://www.investing.com/news/stock-market-news/us-house-transportation-committee-chair-will-not-seek-reelection-sources-say-4585145",
-      "summary": "",
-      "title_ko": "미국 하원 교통 패널 위원장은 재선을 추구하지 않습니다",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
+      "title": "Indonesia: Inflation pressures from Oil and festivals – DBS",
+      "link": "https://www.fxstreet.com/news/indonesia-inflation-pressures-from-oil-and-festivals-dbs-202603271917",
+      "summary": "DBS Group Research expects Indonesia’s March CPI inflation to stay firm at 4% year-on-year, slightly below February’s 4.8%, but with a faster monthly pace. Analysts highlight the impact of higher energy prices and festiv",
+      "title_ko": "인도네시아: 석유 및 축제의 인플레이션 압력 – DBS",
+      "summary_ko": "DBS 그룹 리서치는 인도네시아의 3월 CPI 인플레이션이 전년 대비 4% 로, 2월의 4.8% 에 약간 못 미치지만, 월간 속도는 더 빨라질 것으로 예상합니다. 분석가들은 높은 에너지 가격과 축제의 영향을 강조합니다"
+    },
+    {
       "title": "Gold jumps above $4,500 as war fears revive haven buying spree",
       "link": "https://www.fxstreet.com/news/gold-jumps-above-4-500-as-war-fears-revive-haven-buying-spree-202603271851",
       "summary": "Gold (XAU/USD) price rallies over 3% on Friday as dip buyers emerge, amid the conflict entering its fifth week of hostilities, with no signs of de-escalation, and as inflation pressures rise. At the time of writing, XAU/",
       "title_ko": "전쟁 공포가 되살아나면서 금은 $ 4,500를 뛰어 넘습니다.",
       "summary_ko": "금 (XAU/USD) 가격은 금요일에 DIP 구매자가 등장함에 따라 3% 이상 상승하며, 갈등이 완화의 징후와 인플레이션 압력이 높아짐에 따라 적대 행위의 다섯 번째 주에 접어들고 있습니다. 서면 작성 시 XAU/"
-    },
-    {
-      "title": "India: Energy shock risks and policy playbook – Societe Generale",
-      "link": "https://www.fxstreet.com/news/india-energy-shock-risks-and-policy-playbook-societe-generale-202603271837",
-      "summary": "Societe Generale’s Kunal Kundu analyses how the Iran conflict exposes India’s macro vulnerabilities through imported energy dependence and trade route risks. Kundu highlights broad spillovers from higher Oil and gas pric",
-      "title_ko": "인도: 에너지 충격 위험 및 정책 플레이북 – Societe Generale",
-      "summary_ko": "소시에테 제네랄 (Societe Generale) 의 쿠날 쿤두 (Kunal Kundu) 는 이란 분쟁이 수입된 에너지 의존도와 교역로 위험을 통해 인도의 거시적 취약점을 어떻게 노출시키는지 분석한다. Kundu는 더 높은 석유 및 가스 가격에서 발생하는 광범위한 유출을 강조합니다."
     }
   ]
 }

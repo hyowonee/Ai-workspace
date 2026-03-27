@@ -1,32 +1,46 @@
 {
-  "updated_at_utc": "2026-03-27 08:00:40 UTC",
+  "updated_at_utc": "2026-03-27 09:27:20 UTC",
   "items": [
     {
-      "title": "Morgan Stanley outlines top 4 Japanese construction stocks ahead of FY earnings",
-      "link": "https://www.investing.com/news/stock-market-news/morgan-stanley-outlines-top-4-japanese-construction-stocks-ahead-of-fy-earnings-93CH-4584163",
+      "title": "Pernod-Ricard shares pare losses as market digests merger talks",
+      "link": "https://www.investing.com/news/stock-market-news/pernod-ricard-shares-rise-after-merger-talks-confirmed-4584254",
       "summary": "",
-      "title_ko": "모건 스탠리 (Morgan Stanley) 가 FY 수익을 앞세운 일본 4대 건설 주식을 소개합니다.",
+      "title_ko": "Pernod-Ricard는 시장이 합병 협상을 소화함에 따라 손실을 공유합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Future Plc downgraded to “hold” as AI risks, outlook cuts weigh",
-      "link": "https://www.investing.com/news/stock-market-news/future-plc-downgraded-to-hold-as-ai-risks-outlook-cuts-weigh-4584153",
+      "title": "JPM sees ‘significant upside’ in European defense stocks, flags its top pick",
+      "link": "https://www.investing.com/news/stock-market-news/jpm-sees-significant-upside-in-european-defense-stocks-flags-its-top-pick-4584218",
       "summary": "",
-      "title_ko": "향후 Plc는 AI 위험에 따라 \"보류\" 로 하향 조정되었으며, 전망 삭감의 무게는",
+      "title_ko": "JPM은 유럽 방위 산업에서 ‘상당한 우위’ 를 보고 있으며, 최고의 선택에 플래그를 달고 있습니다.",
       "summary_ko": ""
     },
     {
-      "title": "Huawei’s new AI chip find favour with ByteDance, Alibaba which plan to place orders, sources say",
-      "link": "https://www.investing.com/news/stock-market-news/exclusivehuaweis-new-ai-chip-find-favour-with-bytedance-alibaba-which-plan-to-place-orders-sources-say-4584136",
+      "title": "Should you buy the dip in memory stocks? Tech specialist weighs in",
+      "link": "https://www.investing.com/news/stock-market-news/should-you-buy-the-dip-in-memory-stocks-tech-specialist-weighs-in-4582863",
       "summary": "",
-      "title_ko": "소식통에 따르면 화웨이의 새로운 AI 칩은 바이테댄스 (ByteDance), 알리바바 (Alibaba) 와 함께 주문할 계획이라고 한다.",
+      "title_ko": "딥 인 메모리 주식을 사야 할까요? Tech specialist weighs in",
       "summary_ko": ""
     },
     {
-      "title": "China boycotts top AI conference after ban on papers from US-sanctioned entities",
-      "link": "https://www.investing.com/news/stock-market-news/china-boycotts-top-ai-conference-after-ban-on-papers-from-ussanctioned-entities-4584145",
+      "title": "European stocks subdued after Trump extends deadline for Iran power plant attacks",
+      "link": "https://www.investing.com/news/stock-market-news/european-stocks-subdued-after-trump-extends-deadline-for-iran-power-plant-attacks-4584253",
       "summary": "",
-      "title_ko": "중국, 미국 제재 기관의 논문 금지 후 최고 인공지능 컨퍼런스 보이콧",
+      "title_ko": "트럼프, 이란 발전소 공격 기한 연장 후 유럽 증시 제압",
+      "summary_ko": ""
+    },
+    {
+      "title": "Spain’s inflation rate jumps to 3.3% in March amid energy shock",
+      "link": "https://www.investing.com/news/economic-indicators/spains-inflation-rate-jumps-to-33-in-march-amid-energy-shock-93CH-4584301",
+      "summary": "",
+      "title_ko": "에너지 충격으로 스페인의 3월 물가상승률이 3.3% 로 급등",
+      "summary_ko": ""
+    },
+    {
+      "title": "Exclusive-Trump’s Iran war pushes India to rekindle old friendship with Russia",
+      "link": "https://www.investing.com/news/economic-indicators/exclusivetrumps-iran-war-pushes-india-to-rekindle-old-friendship-with-russia-4584190",
+      "summary": "",
+      "title_ko": "독점적인-트럼프의 이란 전쟁은 인도가 러시아와의 오래된 우정을 되살리도록 밀어붙인다.",
       "summary_ko": ""
     },
     {
@@ -44,32 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "UK GfK consumer sentiment drops to 11-month low on Iran war worries",
-      "link": "https://www.investing.com/news/economic-indicators/uk-gfk-consumer-sentiment-drops-to-11month-low-on-iran-war-worries-4584034",
-      "summary": "",
-      "title_ko": "영국 GfK 소비심리, 이란전 우려에 11개월 최저치로 하락",
-      "summary_ko": ""
+      "title": "USD/INR breaks above 95.00 on easing Middle East de-escalation hopes",
+      "link": "https://www.fxstreet.com/news/usd-inr-gains-as-us-iran-divide-over-middle-east-talks-keeps-investors-on-edge-202603270537",
+      "summary": "The Indian Rupee (INR) extends opening losses against the US Dollar (USD) in afternoon trading hours in India on Friday .",
+      "title_ko": "미국 달러/인도 루피 (USD/INR), 중동 지역 완화 기대치 95.00 이상 돌파",
+      "summary_ko": "인도 루피 (INR) 는 금요일 오후 인도에서 미국 달러 (USD) 에 대한 개장 손실을 연장합니다."
     },
     {
-      "title": "Natural gas storage falls more than expected, signaling increased demand",
-      "link": "https://www.investing.com/news/economic-indicators/natural-gas-storage-falls-more-than-expected-signaling-increased-demand-93CH-4582900",
-      "summary": "",
-      "title_ko": "천연 가스 저장량이 예상보다 많이 감소하여 수요가 증가했음을 나타냅니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "USD/JPY: Policy clarity and intervention risks – Rabobank",
-      "link": "https://www.fxstreet.com/news/usd-jpy-policy-clarity-and-intervention-risks-rabobank-202603270703",
-      "summary": "Rabobank’s Senior FX Strategist Jane Foley notes that Bank of Japan policy expectations have changed little versus other G10 central banks, with markets already pricing a gradual tightening path.",
-      "title_ko": "USD/JPY: 정책 명확성 및 개입 위험 – Rabobank",
-      "summary_ko": "라보뱅크의 수석 FX 전략가 제인 폴리 (Jane Foley) 는 일본 은행의 정책 기대치가 다른 G10 중앙은행과 비교하여 거의 변하지 않았으며, 시장은 이미 점진적으로 긴축하는 길을 걷고 있다고 지적했다."
-    },
-    {
-      "title": "UK Retail Sales contract 0.4% MoM in February vs. 2% growth prior",
-      "link": "https://www.fxstreet.com/news/when-are-the-uk-retail-sales-and-how-could-they-affect-gbp-usd-202603270528",
-      "summary": "The United Kingdom (UK) Retail Sales declines by 0.4% month-over-month (MoM) in February after rising 2% in January, revised higher from 1.8%, according to the latest data published by the Office for National Statistics ",
-      "title_ko": "영국 소매 판매 계약 2월 0.4% 전월 대비 2% 성장",
-      "summary_ko": "영국 통계청 (Office for National Statistics) 이 발표한 최신 데이터에 따르면 영국 소매 판매는 1월에 2% 상승한 후 2월에 월간 0.4% (MoM) 감소하여 1.8% 에서 더 높게 수정되었습니다."
+      "title": "Iran's Araghchi: US soldiers using local residents as shields",
+      "link": "https://www.fxstreet.com/news/irans-araghchi-us-soldiers-using-local-residents-as-shields-202603270837",
+      "summary": "Iran’s Foreign Minister Abbas Araghchi said in a post on X, formerly known as Twitter, that United States (US) soldiers are using local people to shield themselves.",
+      "title_ko": "이란의 아라그치: 현지 주민을 방패로 사용하는 미군",
+      "summary_ko": "이란 외무장관 아바스 아라기 (Abbas Araghchi) 는 과거 트위터로 알려진 X에 올린 글에서 미국 군인들이 현지 사람들을 사용하여 자신을 방어하고 있다고 말했다."
     }
   ]
 }

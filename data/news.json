@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-03-27 14:53:25 UTC",
+  "updated_at_utc": "2026-03-27 15:56:03 UTC",
   "items": [
     {
-      "title": "Cruise operator Carnival cuts annual profit forecast on higher fuel costs",
-      "link": "https://www.investing.com/news/stock-market-news/cruise-operator-carnival-cuts-annual-profit-forecast-on-higher-fuel-costs-4585233",
+      "title": "Exclusive-US sends subpoenas in Warner-Paramount antitrust review as probe picks up steam",
+      "link": "https://www.investing.com/news/stock-market-news/exclusiveus-sends-subpoenas-in-warnerparamount-antitrust-review-as-probe-picks-up-steam-4585522",
       "summary": "",
-      "title_ko": "크루즈 운영사 카니발, 더 높은 연료 비용에 대한 연간 이익 예측 삭감",
+      "title_ko": "Exclusive-US는 프로브가 스팀을 픽업함에 따라 Warner-Paramount 반독점 검토에서 소환장을 보냅니다.",
       "summary_ko": ""
     },
     {
-      "title": "Chile’s Codelco reports $4.85 billion pre-tax profit in 2025",
-      "link": "https://www.investing.com/news/stock-market-news/chiles-codelco-reports-485-billion-pretax-profit-in-2025-4585423",
+      "title": "Turkey stocks lower at close of trade; BIST 100 down 0.23%",
+      "link": "https://www.investing.com/news/stock-market-news/turkey-stocks-lower-at-close-of-trade-bist-100-down-023-4585508",
       "summary": "",
-      "title_ko": "칠레의 코델코 (Codelco) 는 2025년 세전 이익 ($ 4.85 billion pre-tax profit) 을 보고합니다.",
+      "title_ko": "터키 주식은 거래 마감 시점에 하락, BIST 100 0.23% 하락",
       "summary_ko": ""
     },
     {
-      "title": "Europe’s aviation agency touts improving ties with FAA, Boeing",
-      "link": "https://www.investing.com/news/stock-market-news/europes-aviation-agency-touts-improving-ties-with-faa-boeing-4585416",
+      "title": "CVC Capital Partners eyes potential asset sales if Recordati takeover succeeds",
+      "link": "https://www.investing.com/news/stock-market-news/cvc-capital-partners-eyes-potential-asset-sales-if-recordati-takeover-succeeds-93CH-4585506",
       "summary": "",
-      "title_ko": "유럽 항공청, FAA, 보잉과의 관계 개선",
+      "title_ko": "CVC Capital Partners, Recordati 인수 성공 시 잠재적 자산 매각 눈길",
       "summary_ko": ""
     },
     {
-      "title": "Goldman Sachs cuts EU GDP forecast as Iran conflict hits growth",
-      "link": "https://www.investing.com/news/stock-market-news/goldman-sachs-cuts-eu-gdp-forecast-as-iran-conflict-hits-growth-93CH-4585413",
+      "title": "Stocks slump as Iran war hammers sentiment; Nasdaq slides deeper into correction",
+      "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-as-trump-postpones-deadline-for-iran-energy-strikes-4584062",
       "summary": "",
-      "title_ko": "골드만삭스, 이란 갈등이 성장에 부딪히면서 EU GDP 전망치 인하",
+      "title_ko": "이란 전쟁이 정서를 망치면서 주식이 부진하고, 나스닥은 교정 속으로 더 깊이 빠져든다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "U.S. consumer sentiment slides in March amid economic fallout from Iran war",
+      "link": "https://www.investing.com/news/economic-indicators/us-consumer-sentiment-slides-in-march-amid-economic-fallout-from-iran-war-4585452",
+      "summary": "",
+      "title_ko": "이란 전쟁으로 인한 경제적 낙진 속에서 3월 미국 소비심리 슬라이드",
       "summary_ko": ""
     },
     {
@@ -51,25 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "China’s industrial profits jump as Middle East war casts long shadow",
-      "link": "https://www.investing.com/news/economic-indicators/chinas-industrial-profits-jump-as-middle-east-war-casts-long-shadow-4585204",
-      "summary": "",
-      "title_ko": "중동 전쟁이 긴 그림자를 드리우면서 중국의 산업 이익이 급증합니다.",
-      "summary_ko": ""
+      "title": "Fed's Barkin: Prudent to keep rates on hold as AI and geopolitical risks cloud outlook",
+      "link": "https://www.fxstreet.com/news/feds-barkin-prudent-to-keep-rates-on-hold-as-ai-and-geopolitical-risks-cloud-outlook-202603271549",
+      "summary": "Federal Reserve (Fed) Richmond President Thomas Barkin said on Friday that it is prudent to keep interest rates steady for now, as policymakers await greater clarity on the economic outlook.",
+      "title_ko": "Fed의 Barkin: AI 및 지정학적 위험 클라우드 전망에 따라 요금을 보류하는 것이 현명함",
+      "summary_ko": "토마스 바킨 연방준비제도 (Fed · 연준) 리치먼드 대통령은 금요일, 정책 입안자들이 경제 전망에 대한 명확성을 기대하고 있기 때문에 현재로서는 금리를 안정적으로 유지하는 것이 신중하다고 말했다."
     },
     {
-      "title": "Canada: Growth outlook steady with partial rebound – RBC",
-      "link": "https://www.fxstreet.com/news/canada-growth-outlook-steady-with-partial-rebound-rbc-202603271431",
-      "summary": "Royal Bank of Canada (RBC) economists Claire Fan and Abbey Xu expect Canadian GDP to be essentially flat in January after December’s 0.2% gain, with weakness concentrated in autos and housing but offset by energy and ret",
-      "title_ko": "캐나다: 부분적인 반등으로 꾸준한 성장 전망 – RBC",
-      "summary_ko": "캐나다왕립은행 (RBC) 의 경제학자 클레어 팬 (Claire Fan) 과 애비 쑤 (Abbey Xu) 는 12월의 0.2% 증가 이후 1월에 캐나다 GDP가 본질적으로 평평할 것으로 예상하며, 약점은 자동차와 주택에 집중되어 있지만 에너지와 RET에 의해 상쇄될 것으로 예상한다."
-    },
-    {
-      "title": "Gold edges higher as softer US Dollar offers support amid Iran tensions",
-      "link": "https://www.fxstreet.com/news/gold-lacks-momentum-amid-rising-yields-and-strong-us-dollar-202603271314",
-      "summary": "Gold (XAU/USD) edges higher on Friday, stabilizing after falling nearly 2.75% the previous day, as evolving geopolitical headlines around the US-Israel war with Iran continue to drive volatility across global markets.",
-      "title_ko": "이란의 긴장 속에서 더 부드러운 미국 달러가 지원을 제공하므로 금 가장자리가 더 높습니다.",
-      "summary_ko": "금 (XAU/USD) 은 금요일에 상승세를 나타내며, 이란과의 미국-이스라엘 전쟁을 둘러싼 지정학적 헤드라인이 진화하면서 전날 거의 2.75% 하락한 후 안정세를 보이고 있다."
+      "title": "GBP/USD holds above 1.3300 as haven bids lift the US Dollar",
+      "link": "https://www.fxstreet.com/news/gbp-usd-holds-above-13300-as-haven-bids-lift-the-us-dollar-202603271536",
+      "summary": "The British Pound holds firm during the North American session, clings above the 1.3300 figure, yet seems poised to finish the week with 0.20% losses against the US Dollar.",
+      "title_ko": "GBP/USD는 1.3300을 상회하며 HAVEN 입찰은 미국 달러를 인상합니다.",
+      "summary_ko": "영국 파운드는 북미 세션에서 1.3300을 상회하면서도 미국 달러 대비 0.20% 의 손실로 이번 주를 마무리할 태세로 보인다."
     }
   ]
 }

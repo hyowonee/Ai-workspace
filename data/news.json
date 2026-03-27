@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-03-27 13:49:31 UTC",
+  "updated_at_utc": "2026-03-27 14:53:25 UTC",
   "items": [
     {
-      "title": "Wall St opens lower as Iran strike delays offers limited calm",
-      "link": "https://www.investing.com/news/stock-market-news/wall-st-opens-lower-as-iran-strike-delays-offers-limited-calm-4585207",
+      "title": "Cruise operator Carnival cuts annual profit forecast on higher fuel costs",
+      "link": "https://www.investing.com/news/stock-market-news/cruise-operator-carnival-cuts-annual-profit-forecast-on-higher-fuel-costs-4585233",
       "summary": "",
-      "title_ko": "이란의 타격 지연이 제한적으로 평온을 제공함에 따라 Wall St가 더 낮게 열립니다.",
+      "title_ko": "크루즈 운영사 카니발, 더 높은 연료 비용에 대한 연간 이익 예측 삭감",
       "summary_ko": ""
     },
     {
-      "title": "Factbox-Airlines cancel more flights as Middle East conflict escalates",
-      "link": "https://www.investing.com/news/stock-market-news/factboxairlines-cancel-more-flights-as-middle-east-conflict-escalates-4585201",
+      "title": "Chile’s Codelco reports $4.85 billion pre-tax profit in 2025",
+      "link": "https://www.investing.com/news/stock-market-news/chiles-codelco-reports-485-billion-pretax-profit-in-2025-4585423",
       "summary": "",
-      "title_ko": "Factbox-Airlines는 중동 분쟁이 격화됨에 따라 더 많은 항공편을 취소합니다.",
+      "title_ko": "칠레의 코델코 (Codelco) 는 2025년 세전 이익 ($ 4.85 billion pre-tax profit) 을 보고합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Mizuho analyst warns of market paralysis as geopolitical tensions persist",
-      "link": "https://www.investing.com/news/stock-market-news/mizuho-analyst-warns-of-market-paralysis-as-geopolitical-tensions-persist-93CH-4585200",
+      "title": "Europe’s aviation agency touts improving ties with FAA, Boeing",
+      "link": "https://www.investing.com/news/stock-market-news/europes-aviation-agency-touts-improving-ties-with-faa-boeing-4585416",
       "summary": "",
-      "title_ko": "미즈호 분석가는 지정학적 긴장이 지속됨에 따라 시장 마비에 대해 경고합니다.",
+      "title_ko": "유럽 항공청, FAA, 보잉과의 관계 개선",
       "summary_ko": ""
     },
     {
-      "title": "U.S. stocks open lower as markets remain jittery about developments in Iran",
-      "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-as-trump-postpones-deadline-for-iran-energy-strikes-4584062",
+      "title": "Goldman Sachs cuts EU GDP forecast as Iran conflict hits growth",
+      "link": "https://www.investing.com/news/stock-market-news/goldman-sachs-cuts-eu-gdp-forecast-as-iran-conflict-hits-growth-93CH-4585413",
       "summary": "",
-      "title_ko": "이란의 발전에 대해 시장이 여전히 불안하기 때문에 미국 주식은 낮게 열립니다.",
+      "title_ko": "골드만삭스, 이란 갈등이 성장에 부딪히면서 EU GDP 전망치 인하",
+      "summary_ko": ""
+    },
+    {
+      "title": "US consumer sentiment slips to a three-month low in March",
+      "link": "https://www.investing.com/news/economic-indicators/us-consumer-sentiment-slips-to-a-threemonth-low-in-march-4585424",
+      "summary": "",
+      "title_ko": "3월 미국 소비심리 3개월 최저치로 하락",
       "summary_ko": ""
     },
     {
@@ -37,39 +44,32 @@
       "summary_ko": ""
     },
     {
-      "title": "Canada February wholesale trade most likely up 2.3% - Statscan flash estimate",
-      "link": "https://www.investing.com/news/economic-indicators/canada-february-wholesale-trade-most-likely-up-23--statscan-flash-estimate-4584970",
+      "title": "Consumer sentiment dips as Michigan index falls below expectations",
+      "link": "https://www.investing.com/news/economic-indicators/consumer-sentiment-dips-as-michigan-index-falls-below-expectations-93CH-4585291",
       "summary": "",
-      "title_ko": "캐나다 2월 도매 거래 2.3% 증가 가능성 높음 - Statscan Flash 추정치",
+      "title_ko": "미시간 지수가 기대치를 밑돌면서 소비심리 하락",
       "summary_ko": ""
     },
     {
-      "title": "Euro area inflation expectations softened ahead of Iran war: ECB poll",
-      "link": "https://www.investing.com/news/economic-indicators/euro-area-inflation-expectations-softened-ahead-of-iran-war-ecb-poll-4584373",
+      "title": "China’s industrial profits jump as Middle East war casts long shadow",
+      "link": "https://www.investing.com/news/economic-indicators/chinas-industrial-profits-jump-as-middle-east-war-casts-long-shadow-4585204",
       "summary": "",
-      "title_ko": "이란 전쟁을 앞두고 부드러워진 유로 지역 인플레이션 기대: ECB 여론조사",
+      "title_ko": "중동 전쟁이 긴 그림자를 드리우면서 중국의 산업 이익이 급증합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Spain’s inflation rate jumps to 3.3% in March amid energy shock",
-      "link": "https://www.investing.com/news/economic-indicators/spains-inflation-rate-jumps-to-33-in-march-amid-energy-shock-93CH-4584301",
-      "summary": "",
-      "title_ko": "에너지 충격으로 스페인의 3월 물가상승률이 3.3% 로 급등",
-      "summary_ko": ""
+      "title": "Canada: Growth outlook steady with partial rebound – RBC",
+      "link": "https://www.fxstreet.com/news/canada-growth-outlook-steady-with-partial-rebound-rbc-202603271431",
+      "summary": "Royal Bank of Canada (RBC) economists Claire Fan and Abbey Xu expect Canadian GDP to be essentially flat in January after December’s 0.2% gain, with weakness concentrated in autos and housing but offset by energy and ret",
+      "title_ko": "캐나다: 부분적인 반등으로 꾸준한 성장 전망 – RBC",
+      "summary_ko": "캐나다왕립은행 (RBC) 의 경제학자 클레어 팬 (Claire Fan) 과 애비 쑤 (Abbey Xu) 는 12월의 0.2% 증가 이후 1월에 캐나다 GDP가 본질적으로 평평할 것으로 예상하며, 약점은 자동차와 주택에 집중되어 있지만 에너지와 RET에 의해 상쇄될 것으로 예상한다."
     },
     {
-      "title": "USD/CAD holds gains above 1.3850 amid fears of a protracted war in Iran",
-      "link": "https://www.fxstreet.com/news/usd-cad-holds-gains-above-13850-amid-fears-of-a-protracted-war-in-iran-202603271251",
-      "summary": "The US Dollar (USD) keeps marching higher against the Canadian Dollar (CAD) on Friday.",
-      "title_ko": "USD/CAD는 이란에서 장기화된 전쟁의 두려움 속에서 1.3850 이상의 이익을 보유하고 있습니다.",
-      "summary_ko": "미국 달러 (USD) 는 금요일에 캐나다 달러 (CAD) 에 대해 계속 상승하고 있습니다."
-    },
-    {
-      "title": "EUR/USD: Vulnerable as risks tighten – ING",
-      "link": "https://www.fxstreet.com/news/eur-usd-vulnerable-as-risks-tighten-ing-202603271245",
-      "summary": "ING’s Chris Turner argues that EUR/USD remains under pressure as investors position for further Middle East escalation and tighter global financial conditions. He notes that Sovereign Wealth Fund retrenchment and hawkish",
-      "title_ko": "EUR/USD: 위험이 완화됨에 따라 취약 – ING",
-      "summary_ko": "ING의 크리스 터너 (Chris Turner) 는 중동 에스컬레이션과 더 엄격한 글로벌 금융 조건에 대한 투자자의 입장에 따라 EUR/USD가 여전히 압박을 받고 있다고 주장합니다. 그는 국부펀드 재도전과 매파적"
+      "title": "Gold edges higher as softer US Dollar offers support amid Iran tensions",
+      "link": "https://www.fxstreet.com/news/gold-lacks-momentum-amid-rising-yields-and-strong-us-dollar-202603271314",
+      "summary": "Gold (XAU/USD) edges higher on Friday, stabilizing after falling nearly 2.75% the previous day, as evolving geopolitical headlines around the US-Israel war with Iran continue to drive volatility across global markets.",
+      "title_ko": "이란의 긴장 속에서 더 부드러운 미국 달러가 지원을 제공하므로 금 가장자리가 더 높습니다.",
+      "summary_ko": "금 (XAU/USD) 은 금요일에 상승세를 나타내며, 이란과의 미국-이스라엘 전쟁을 둘러싼 지정학적 헤드라인이 진화하면서 전날 거의 2.75% 하락한 후 안정세를 보이고 있다."
     }
   ]
 }

@@ -1,32 +1,46 @@
 {
-  "updated_at_utc": "2026-04-01 14:50:07 UTC",
+  "updated_at_utc": "2026-04-01 16:07:13 UTC",
   "items": [
     {
-      "title": "Kia to sell lower-priced electric vehicle in US",
-      "link": "https://www.investing.com/news/stock-market-news/kia-to-sell-lowerpriced-electric-vehicle-in-us-4593349",
+      "title": "Factbox-Mega IPOs loom on Wall Street as Elon Musk’s SpaceX confidentially files paperwork",
+      "link": "https://www.investing.com/news/stock-market-news/factboxmega-ipos-loom-on-wall-street-as-elon-musks-spacex-confidentially-files-paperwork-4593643",
       "summary": "",
-      "title_ko": "기아차, 미국서 더 저렴한 전기차 판매 예정",
+      "title_ko": "Factbox-Mega IPO는 Elon Musk의 SpaceX가 기밀로 서류를 제출함에 따라 월스트리트에 나타납니다.",
       "summary_ko": ""
     },
     {
-      "title": "Huawei posts 2.2% growth in annual revenue",
-      "link": "https://www.investing.com/news/stock-market-news/huawei-posts-22-growth-in-annual-revenue-4593508",
+      "title": "Germany stocks higher at close of trade; DAX up 2.62%",
+      "link": "https://www.investing.com/news/stock-market-news/germany-stocks-higher-at-close-of-trade-dax-up-262-4593692",
       "summary": "",
-      "title_ko": "화웨이, 연간 매출 2.2% 성장",
+      "title_ko": "독일은 교역 마감 시점에서 더 높은 주식을 보유하고 있으며, DAX는 2.62% 증가했습니다.",
       "summary_ko": ""
     },
     {
-      "title": "This is the most important S&amp;P 500 sector for earnings growth",
-      "link": "https://www.investing.com/news/stock-market-news/this-is-the-most-important-sp-500-sector-for-earnings-growth-4593496",
+      "title": "Explainer-From filing to first trade: Inside the US IPO process",
+      "link": "https://www.investing.com/news/stock-market-news/explainerfrom-filing-to-first-trade-inside-the-us-ipo-process-4593640",
       "summary": "",
-      "title_ko": "이는 수익 성장을 위한 가장 중요한 S&amp;P 500 부문입니다.",
+      "title_ko": "설명자-제출에서 첫 거래까지: 미국 IPO 절차 내부",
       "summary_ko": ""
     },
     {
-      "title": "HMH Holding indicating open at $19, below IPO at $20",
-      "link": "https://www.investing.com/news/stock-market-news/hmh-holding-indicating-open-at-19-below-ipo-at-20-432SI-4593484",
+      "title": "France stocks higher at close of trade; CAC 40 up 2.10%",
+      "link": "https://www.investing.com/news/stock-market-news/france-stocks-higher-at-close-of-trade-cac-40-up-210-4593691",
       "summary": "",
-      "title_ko": "HMH Holding indicating open at $ 19, below IPO at $ 20",
+      "title_ko": "프랑스는 거래 마감 시점에서 더 높은 주식을 보유하고 있으며, CAC 40은 2.10% 상승했습니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "US business inventories unexpectedly fall in January",
+      "link": "https://www.investing.com/news/economic-indicators/us-business-inventories-unexpectedly-fall-in-january-4593519",
+      "summary": "",
+      "title_ko": "1월에 미국 비즈니스 재고가 예기치 않게 하락합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Crude Oil Inventories Rise Less Than Previous Week, Exceed Forecast",
+      "link": "https://www.investing.com/news/economic-indicators/crude-oil-inventories-rise-less-than-previous-week-exceed-forecast-93CH-4593515",
+      "summary": "",
+      "title_ko": "원유 재고는 이전 주보다 적게 증가, 예측을 초과",
       "summary_ko": ""
     },
     {
@@ -44,32 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "US retail sales strong in February; Iran war expected to hurt spending",
-      "link": "https://www.investing.com/news/economic-indicators/us-retail-sales-increase-solidly-in-february-4593126",
-      "summary": "",
-      "title_ko": "2월 미국 소매 판매 강세, 이란 전쟁으로 지출 감소 예상",
-      "summary_ko": ""
+      "title": "GBP/USD climbs above 1.3300 as Trump remarks boost sentiment anew",
+      "link": "https://www.fxstreet.com/news/gbp-usd-climbs-above-13300-as-trump-remarks-boost-sentiment-anew-202604011601",
+      "summary": "The Pound Sterling advances over 0.70% on Wednesday as risk appetite improved amid speculation of an end to the Middle East conflict, following US President Trump's statement, \"We're going to be out of Iran pretty quickl",
+      "title_ko": "트럼프 발언으로 감정이 새롭게 고조되면서 GBP/USD가 1.3300을 상회합니다.",
+      "summary_ko": "파운드 스털링은 수요일에 중동 분쟁의 종결이 추측되는 가운데 위험의 욕구가 개선됨에 따라 0.70% 이상 발전했으며, 트럼프 미국 대통령의 성명서에서 \"우리는 이란에서 꽤 빨리 벗어날 것이다."
     },
     {
-      "title": "Manufacturing PMI dips slightly below expectations, signals steady growth",
-      "link": "https://www.investing.com/news/economic-indicators/manufacturing-pmi-dips-slightly-below-expectations-signals-steady-growth-93CH-4593409",
-      "summary": "",
-      "title_ko": "제조업 PMI가 기대치를 약간 밑돌아 꾸준한 성장세를 나타냄",
-      "summary_ko": ""
-    },
-    {
-      "title": "Breaking: ISM Manufacturing PMI rose to 52.7 in March",
-      "link": "https://www.fxstreet.com/news/ism-manufacturing-pmi-expected-to-remain-stable-in-march-202604010900",
-      "summary": "The Institute for Supply Management’s (ISM) data showed the Manufacturing PMI edging higher to 52.7 in March, up from 52.4 in February and above analysts’ expectations of 52.5.",
-      "title_ko": "Breaking: 3월 ISM Manufacturing PMI가 52.7로 상승",
-      "summary_ko": "ISM (Institute for Supply Management) 의 데이터에 따르면 제조업 PMI는 지난 3월 52.7로 2월 52.4에서 52.5로 상승했다."
-    },
-    {
-      "title": "NOK: Energy support and hawkish shift – Rabobank",
-      "link": "https://www.fxstreet.com/news/nok-energy-support-and-hawkish-shift-rabobank-202604011354",
-      "summary": "Rabobank’s Senior FX Strategist Jane Foley argues that higher energy prices and a more hawkish Norges Bank stance are supportive for the Norwegian Krone (NOK). Norway’s strong Oil and gas export position and limited dome",
-      "title_ko": "NOK: 에너지 지원 및 매 교대 근무 – Rabobank",
-      "summary_ko": "Rabobank의 수석 FX 전략가 Jane Foley는 더 높은 에너지 가격과 더 매파적인 Norges Bank의 입장이 노르웨이 크로네 (NOK) 를 지지한다고 주장합니다. 노르웨이의 강력한 석유 및 가스 수출 지위와 제한된 돔"
+      "title": "USD/CAD drifts lower as improving risk sentiment pressures US Dollar",
+      "link": "https://www.fxstreet.com/news/usd-cad-drifts-lower-as-improving-risk-sentiment-pressures-us-dollar-202604011520",
+      "summary": "USD/CAD trades with a softer tone on Wednesday, as a pullback in the US Dollar (USD) lends support to the Canadian Dollar (CAD). The pair is trading around 1.3891 at the time of writing, retreating after touching its hig",
+      "title_ko": "USD/CAD는 미국 달러를 압박하는 위험 감정 개선에 따라 낮아집니다.",
+      "summary_ko": "USD/CAD는 수요일에 더 부드러운 톤으로 거래됩니다. 미국 달러 (USD) 의 철수는 캐나다 달러 (CAD) 에 대한 지원을 제공합니다. 두 사람은 작성 시점인 약 1.3891에 거래 중이며, HIG를 터치한 후 후퇴합니다."
     }
   ]
 }

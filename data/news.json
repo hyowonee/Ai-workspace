@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-04-01 02:50:28 UTC",
+  "updated_at_utc": "2026-04-01 05:26:54 UTC",
   "items": [
     {
-      "title": "Asia markets rally on optimism Iran war could end soon",
-      "link": "https://www.investing.com/news/stock-market-news/asia-markets-rally-on-optimism-iran-war-could-end-soon-4591967",
+      "title": "Zhipu AI shares surge 35% as annual revenue more than doubles",
+      "link": "https://www.investing.com/news/stock-market-news/zhipu-ai-shares-surge-35-as-annual-revenue-more-than-doubles-4592043",
       "summary": "",
-      "title_ko": "아시아 시장, 이란 전쟁이 곧 끝날 수 있다는 낙관론에 집결",
+      "title_ko": "Zhipu AI 주식은 연간 매출이 두 배 이상 증가함에 따라 35% 급증합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Sequoia Capital names veteran Doug Leone as chairman",
-      "link": "https://www.investing.com/news/stock-market-news/sequoia-capital-names-veteran-doug-leone-as-chairman-4591965",
+      "title": "Qantas, American Airlines get interim Australia nod for trans-Pacific tie-up",
+      "link": "https://www.investing.com/news/stock-market-news/qantas-american-airlines-get-interim-australia-nod-for-transpacific-tieup-4592035",
       "summary": "",
-      "title_ko": "세쿼이아 캐피털 (Sequoia Capital), 베테랑 더그 리온 (Doug Leone",
+      "title_ko": "콴타스, 아메리칸 항공, 태평양 횡단 제휴를 위해 임시 호주 고개를 끄덕이다",
       "summary_ko": ""
     },
     {
-      "title": "US stock futures rise after Trump says Iran war to end soon",
-      "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-after-trump-says-iran-war-to-end-soon-4591963",
+      "title": "WeRide, Grab launch Singapore’s first residential robotaxi service",
+      "link": "https://www.investing.com/news/stock-market-news/weride-grab-launch-singapores-first-residential-robotaxi-service-4592039",
       "summary": "",
-      "title_ko": "트럼프가 이란 전쟁이 곧 끝날 것이라고 말한 후 미국 주식 선물이 상승합니다.",
+      "title_ko": "위라이드 (WeRide), 그랩 (Grab) 이 싱가포르 최초의 주거용 로보택시 서비스 출시",
       "summary_ko": ""
     },
     {
-      "title": "Apple’s 50-year journey from garage to tech titan",
-      "link": "https://www.investing.com/news/stock-market-news/apples-50year-journey-from-garage-to-tech-titan-4591945",
+      "title": "TSMC plans to produce 3-nm chips in Japan from 2028- filing",
+      "link": "https://www.investing.com/news/stock-market-news/tsmc-plans-to-produce-3nm-chips-in-japan-from-2028-filing-4592036",
       "summary": "",
-      "title_ko": "차고에서 기술 타이탄까지, Apple의 50년 여정",
+      "title_ko": "TSMC는 2028년부터 일본에서 3nm 칩을 생산할 계획입니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Japan business mood, inflation expectations rise but Iran war clouds outlook",
+      "link": "https://www.investing.com/news/economic-indicators/sentiment-improves-among-japans-big-firms-but-iran-war-clouds-outlook-4591940",
+      "summary": "",
+      "title_ko": "일본 비즈니스 분위기, 인플레이션 기대치가 상승하지만 이란 전쟁 구름 전망",
       "summary_ko": ""
     },
     {
@@ -51,25 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Japan’s factory growth slows in March as Iran war weighs, PMI shows",
-      "link": "https://www.investing.com/news/economic-indicators/japans-factory-growth-slows-in-march-as-iran-war-weighs-pmi-shows-4591944",
-      "summary": "",
-      "title_ko": "이란 전쟁의 무게가 무거워짐에 따라 3월에 일본의 공장 성장이 둔화됨에 따라 PMI는",
-      "summary_ko": ""
+      "title": "India Gold price today: Gold rises, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202604010450",
+      "summary": "Gold prices rose in India on Wednesday, according to data compiled by FXStreet.",
+      "title_ko": "오늘의 인도 골드 가격: FXStreet 데이터에 따르면 금 상승",
+      "summary_ko": "FXStreet가 집계한 데이터에 따르면 수요일 인도의 금 가격은 상승했습니다."
     },
     {
-      "title": "US President Trump: War will end in two or three weeks",
-      "link": "https://www.fxstreet.com/news/us-president-trump-war-will-end-in-two-or-three-weeks-202604010155",
-      "summary": "In a telephonic interview with NBC News late Tuesday, US President Donald Trump said that he believes the war on Iran is “coming to an end”.",
-      "title_ko": "트럼프 미국 대통령: 전쟁은 2 ~ 3주 안에 끝날 것입니다.",
-      "summary_ko": "도널드 트럼프 미국 대통령은 화요일 늦게 NBC 뉴스와의 전화 인터뷰에서 이란과의 전쟁이 \"끝나고 있다\" 고 믿는다 고 말했다."
-    },
-    {
-      "title": "WTI rises to near $98.50 as UAE seeks UN-backed action to reopen Hormuz",
-      "link": "https://www.fxstreet.com/news/wti-rises-to-near-9850-as-uae-seeks-un-backed-action-to-reopen-hormuz-202604010155",
-      "summary": "West Texas Intermediate (WTI) oil price edges higher after registering over 4% losses in the previous day, trading around $98.60 per barrel during the Asian hours on Wednesday.",
-      "title_ko": "UAE가 Hormuz를 재개하기 위해 UN의 지원을 받는 조치를 모색함에 따라 WTI는 $ 98.50 근처까지 상승합니다.",
-      "summary_ko": "서부 텍사스 중급 (WTI) 유가는 전날 4% 이상의 손실을 기록한 후 수요일 아시아 시간 동안 배럴당 약 $ 98.60 에 거래되며 상승세를 기록했다."
+      "title": "EUR/JPY Price Forecast: Remains above 183.50 to test nine-day EMA barrier",
+      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-remains-above-18350-to-test-nine-day-ema-barrier-202604010449",
+      "summary": "EUR/JPY extends its gains for the second consecutive day, trading around 183.60 during the Asian hours on Wednesday. The technical analysis of the daily chart suggests the currency cross moves sideways within the ascendi",
+      "title_ko": "EUR/JPY 가격 예측: 9 일간의 EMA 장벽 테스트를 위해 183.50 이상 유지",
+      "summary_ko": "EUR/JPY는 수요일 아시아 시간 동안 약 183.60에 거래되며 이틀 연속 이익을 연장합니다. 일간 차트의 기술적 분석에 따르면 통화 교차는 오름차순 내에서 옆으로 움직입니다."
     }
   ]
 }

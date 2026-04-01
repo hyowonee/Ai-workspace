@@ -1,32 +1,46 @@
 {
-  "updated_at_utc": "2026-04-01 11:30:11 UTC",
+  "updated_at_utc": "2026-04-01 13:27:28 UTC",
   "items": [
     {
-      "title": "Former German finance minister Joerg Kukies to join Morgan Stanley",
-      "link": "https://www.investing.com/news/stock-market-news/former-german-finance-minister-joerg-kukies-to-join-morgan-stanley-4592696",
+      "title": "TD Cowen sees software stock rebound after worst quarter since 2008",
+      "link": "https://www.investing.com/news/stock-market-news/td-cowen-sees-software-stock-rebound-after-worst-quarter-since-2008-93CH-4593300",
       "summary": "",
-      "title_ko": "조에르 쿠키스 전 독일 재무장관, 모건스탠리에 합류",
+      "title_ko": "TD Cowen, 2008년 이후 최악의 분기 이후 소프트웨어 주가 반등",
       "summary_ko": ""
     },
     {
-      "title": "Nike draws downgrades as recovery timeline extends",
-      "link": "https://www.investing.com/news/stock-market-news/nike-draws-downgrades-as-recovery-timeline-extends-4592694",
+      "title": "Morgan Stanley says aluminum market tightening on Middle East strikes, prices up 18% YTD",
+      "link": "https://www.investing.com/news/stock-market-news/morgan-stanley-says-aluminum-market-tightening-on-middle-east-strikes-prices-up-18-ytd-93CH-4593290",
       "summary": "",
-      "title_ko": "나이키는 회복 기간이 연장됨에 따라 다운그레이드를 실시합니다.",
+      "title_ko": "모건 스탠리 (Morgan Stanley) 는 중동 파업으로 알루미늄 시장이 강화되고 있으며 가격은 전년 동기 대비 18% 상승했다고 말합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Morgan Stanley critiques North American restaurant stocks amid rising costs",
-      "link": "https://www.investing.com/news/stock-market-news/morgan-stanley-critiques-north-american-restaurant-stocks-amid-rising-costs-93CH-4592637",
+      "title": "Intel to buy back Apollo stake in Ireland factory for $14.2 billion",
+      "link": "https://www.investing.com/news/stock-market-news/intel-to-buy-back-apollo-stake-in-ireland-factory-for-142-billion-4593246",
       "summary": "",
-      "title_ko": "모건 스탠리 (Morgan Stanley) 는 비용 상승 속에서 북미 레스토랑 주식을 비판합니다.",
+      "title_ko": "인텔, 아일랜드 공장의 아폴로 지분 142억 $ 에 매입",
       "summary_ko": ""
     },
     {
-      "title": "Mega IPOs set to test US market depth despite volatility",
-      "link": "https://www.investing.com/news/stock-market-news/mega-ipos-set-to-test-us-market-depth-despite-volatility-4592598",
+      "title": "Tuesday’s insider activity: CEO doubles down on biotech stock",
+      "link": "https://www.investing.com/news/stock-market-news/tuesdays-insider-activity-ceo-doubles-down-on-biotech-stock-93CH-4593209",
       "summary": "",
-      "title_ko": "변동성에도 불구하고 미국 시장 깊이를 테스트하도록 설정된 메가 IPO",
+      "title_ko": "화요일의 내부자 활동: CEO, 바이오테크 재고 2배 감소",
+      "summary_ko": ""
+    },
+    {
+      "title": "US retail sales increase solidly in February",
+      "link": "https://www.investing.com/news/economic-indicators/us-retail-sales-increase-solidly-in-february-4593126",
+      "summary": "",
+      "title_ko": "미국 소매 판매는 2월에 견조하게 증가합니다",
+      "summary_ko": ""
+    },
+    {
+      "title": "Retail sales beat expectations with a 0.6% increase",
+      "link": "https://www.investing.com/news/economic-indicators/retail-sales-beat-expectations-with-a-06-increase-93CH-4593063",
+      "summary": "",
+      "title_ko": "소매 판매가 0.6% 증가하며 기대를 뛰어넘었습니다.",
       "summary_ko": ""
     },
     {
@@ -37,39 +51,25 @@
       "summary_ko": ""
     },
     {
-      "title": "UK manufacturing output contracts as Middle East war drives costs to 41-month high",
-      "link": "https://www.investing.com/news/economic-indicators/uk-manufacturing-output-contracts-as-middle-east-war-drives-costs-to-41month-high-4592410",
+      "title": "ADP nonfarm employment change shows modest decline from forecast",
+      "link": "https://www.investing.com/news/economic-indicators/adp-nonfarm-employment-change-shows-modest-decline-from-forecast-93CH-4593015",
       "summary": "",
-      "title_ko": "중동 전쟁으로 영국 제조업 생산 계약이 41개월 높은 비용으로 증가",
+      "title_ko": "ADP 비농업 고용 변화는 예측보다 완만한 감소를 보여줍니다.",
       "summary_ko": ""
     },
     {
-      "title": "German factories see cost surge as Middle East war disrupts supply chains",
-      "link": "https://www.investing.com/news/economic-indicators/german-factories-see-cost-surge-as-middle-east-war-disrupts-supply-chains-93CH-4592399",
-      "summary": "",
-      "title_ko": "독일 공장은 중동 전쟁이 공급망을 혼란에 빠뜨리면서 비용 급등을 보고 있습니다.",
-      "summary_ko": ""
+      "title": "ISM Manufacturing PMI expected to hold steady as sector shows resilience",
+      "link": "https://www.fxstreet.com/news/ism-manufacturing-pmi-expected-to-remain-stable-in-march-202604010900",
+      "summary": "The Institute for Supply Management (ISM) is scheduled to release the March Manufacturing Purchasing Managers’ Index (PMI) on  Wednesday. Market participants anticipate it would ease modestly to 52.3 from the 52.4 posted",
+      "title_ko": "ISM Manufacturing PMI는 부문이 탄력성을 보여줌에 따라 안정적으로 유지될 것으로 예상됩니다.",
+      "summary_ko": "공급 관리 연구소 (ISM) 는 3월 제조 구매 관리자 지수 (PMI) 를 수요일에 발표할 예정입니다. 시장 참가자들은 게시된 52.4에서 52.3으로 완화될 것으로 예상합니다."
     },
     {
-      "title": "Russia manufacturing output falls at fastest rate in three months",
-      "link": "https://www.investing.com/news/economic-indicators/russia-manufacturing-output-falls-at-fastest-rate-in-three-months-93CH-4592394",
-      "summary": "",
-      "title_ko": "러시아 제조업 생산량이 3개월 만에 가장 빠른 속도로 하락",
-      "summary_ko": ""
-    },
-    {
-      "title": "USD: Conflict endgame risks point to renewed weakness – MUFG",
-      "link": "https://www.fxstreet.com/news/usd-conflict-endgame-risks-point-to-renewed-weakness-mufg-202604011109",
-      "summary": "MUFG’s Head of Research Derek Halpenny argues that while risk sentiment has improved on hopes the US will soon end its conflict with Iran, the recovery looks fragile and the US Dollar is likely to weaken again.",
-      "title_ko": "미국 달러: 분쟁 최종 게임 위험이 약점 재발생을 가리킴 – MUFG",
-      "summary_ko": "MUFG의 데릭 핼페니 (Derek Halpenny) 연구 책임자는 미국이 이란과의 갈등을 조만간 끝낼 것이라는 희망에 따라 위험 심리가 개선되었지만 회복세가 취약해 보이고 미국 달러가 다시 약화될 가능성이 있다고 주장한다."
-    },
-    {
-      "title": "ECB’s Makhlouf: Ready to act when data clarifies war effects",
-      "link": "https://www.fxstreet.com/news/ecbs-makhlouf-ready-to-act-when-data-clarifies-war-effects-202604011106",
-      "summary": "European Central Bank Governing Council member Gabriel Makhlouf said during the European trading session on Wednesday that the central bank will make any monetary policy adjustment when officials have sufficient data reg",
-      "title_ko": "ECB의 Makhlouf: 데이터가 전쟁 효과를 명확히 할 때 행동할 준비가 되어 있음",
-      "summary_ko": "가브리엘 마클루프 (Gabriel Makhlouf) 유럽 중앙은행 총재는 수요일 유럽 무역 세션에서 중앙은행이 관계자들이 충분한 데이터 규제를 할 때 통화 정책 조정을 할 것이라고 말했다."
+      "title": "Gold extends gains near two-week highs amid optimism over US-Iran war",
+      "link": "https://www.fxstreet.com/news/gold-extends-gains-near-two-week-highs-amid-optimism-over-us-iran-war-202604011136",
+      "summary": "Gold (XAU/USD) trades with a mild upside bias on Wednesday, building on the previous day's solid gains as optimism grows that the US-Israel war with Iran could end soon.",
+      "title_ko": "금은 미국-이란 전쟁에 대한 낙관 속에서 2주 가까이 최고치 상승",
+      "summary_ko": "금 (XAU/USD) 은 이란과의 미국-이스라엘 전쟁이 곧 끝날 수 있다는 낙관론이 커지면서 전날의 견조한 이익을 바탕으로 수요일에 가벼운 상승 편향으로 거래된다."
     }
   ]
 }

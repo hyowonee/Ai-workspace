@@ -1,11 +1,18 @@
 {
-  "updated_at_utc": "2026-04-02 17:24:16 UTC",
+  "updated_at_utc": "2026-04-02 18:08:54 UTC",
   "items": [
     {
-      "title": "Thai Hospitals Face Pressure from Ongoing War, Says Tisco",
-      "link": "https://www.investing.com/news/stock-market-news/thai-hospitals-face-pressure-from-ongoing-war-says-tisco-93CH-4596132",
+      "title": "Hedge funds sell global stocks at fastest pace in 13 years",
+      "link": "https://www.investing.com/news/stock-market-news/hedge-funds-sell-global-stocks-at-fastest-pace-in-13-years-4596162",
       "summary": "",
-      "title_ko": "티스코는 계속되는 전쟁으로 인한 태국 병원의 안면 압력에 대해 이렇게 말합니다.",
+      "title_ko": "헤지 펀드는 13년 만에 가장 빠른 속도로 글로벌 주식을 판매합니다",
+      "summary_ko": ""
+    },
+    {
+      "title": "Top U.S. Gas Stocks According to UBS",
+      "link": "https://www.investing.com/news/stock-market-news/top-us-gas-stocks-according-to-ubs-93CH-4596160",
+      "summary": "",
+      "title_ko": "UBS에 따르면 미국 최고의 가스 재고",
       "summary_ko": ""
     },
     {
@@ -16,17 +23,10 @@
       "summary_ko": ""
     },
     {
-      "title": "Inovio Pharmaceuticals stock tumbles on dilutive offering",
-      "link": "https://www.investing.com/news/stock-market-news/inovio-pharmaceuticals-stock-tumbles-on-dilutive-offering-93CH-4596124",
+      "title": "Hedge funds hammered by market turbulence triggered by Iran conflict",
+      "link": "https://www.investing.com/news/stock-market-news/hedge-funds-face-worst-monthly-drawdown-in-over-four-years-goldman-sachs-tells-clients-4594474",
       "summary": "",
-      "title_ko": "이노비오제약, 희석제 오퍼링에 주가 하락",
-      "summary_ko": ""
-    },
-    {
-      "title": "Celldex Therapeutics stock falls on equity offering",
-      "link": "https://www.investing.com/news/stock-market-news/celldex-therapeutics-stock-falls-on-equity-offering-93CH-4596122",
-      "summary": "",
-      "title_ko": "Celldex Therapeutics 지분 제공에 대한 주식 하락",
+      "title_ko": "이란 분쟁으로 촉발된 시장 격변으로 인한 헤지펀드",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "WTI rallies as Trump signals continued military action against Iran",
-      "link": "https://www.fxstreet.com/news/wti-rallies-as-trump-signals-continued-military-action-against-iran-202604021622",
-      "summary": "West Texas Intermediate (WTI) Crude Oil rebounds sharply on Thursday, rising more than 8% on the day, as ongoing tensions in the Middle East continue to keep a geopolitical risk premium embedded in prices amid supply dis",
-      "title_ko": "트럼프가 이란에 대한 군사 행동이 계속되고 있다는 신호를 보내면서 WTI가 결집하고 있다.",
-      "summary_ko": "서부 텍사스 중급 (WTI) 원유는 목요일에 급격히 반등하여 당일 8% 이상 상승했습니다. 중동에서의 지속적인 긴장은 공급 붕괴 속에서 가격에 내재된 지정학적 위험 프리미엄을 계속 유지하고 있기 때문입니다."
+      "title": "TRY: Lira seen on steady depreciation despite CPI – Commerzbank",
+      "link": "https://www.fxstreet.com/news/try-lira-seen-on-steady-depreciation-despite-cpi-commerzbank-202604021727",
+      "summary": "Commerzbank’s Tatha Ghose argues that upcoming Turkish CPI data are largely obsolete given the looming impact of higher energy prices. He expects a strong March monthly print but stresses that external-shock inflation ma",
+      "title_ko": "시도: CPI에도 불구하고 지속적인 감가 상각이 발생한 리라 – Commerzbank",
+      "summary_ko": "코메르츠방크 (Commerzbank) 의 타타 고세 (Tatha Ghose) 는 에너지 가격 상승의 영향을 고려할 때 다가오는 터키 CPI 데이터는 대부분 쓸모가 없다고 주장한다. 그는 강력한 월간 인쇄를 기대하지만 외부 충격 인플레이션을 강조합니다."
     },
     {
-      "title": "Canada: Growth tailwind but lingering output gap – TD Securities",
-      "link": "https://www.fxstreet.com/news/canada-growth-tailwind-but-lingering-output-gap-td-securities-202604021620",
-      "summary": "TD Securities’ Robert Both argues that higher Oil prices will support Canada’s 2026 GDP, but export bottlenecks limit the upside.",
-      "title_ko": "캐나다: 성장 순풍이지만 생산량 격차는 오래 지속됨 – TD 증권",
-      "summary_ko": "TD Securities의 Robert Both는 더 높은 유가가 캐나다의 2026년 GDP를 지원할 것이라고 주장하지만 수출 병목 현상은 상향을 제한합니다."
+      "title": "US President Trump presses Iran to make a deal after bridge strike video",
+      "link": "https://www.fxstreet.com/news/us-president-trump-presses-iran-to-make-a-deal-after-bridge-strike-video-202604021722",
+      "summary": "On Thursday, the US President Donald Trump posted on his Truth Social network a video of a bridge falling in Iran, pressuring Tehran to make a deal.",
+      "title_ko": "트럼프 미국 대통령이 브릿지 스트라이크 영상을 찍은 후 이란에 거래를 하라고 압박하고 있다.",
+      "summary_ko": "목요일, 도널드 트럼프 미국 대통령은 자신의 진실 소셜 네트워크에 이란에 다리가 떨어지는 영상을 게시하여 테헤란이 거래를 하도록 압력을 가했다."
     }
   ]
 }

@@ -1,6 +1,13 @@
 {
-  "updated_at_utc": "2026-04-02 19:29:25 UTC",
+  "updated_at_utc": "2026-04-02 20:03:48 UTC",
   "items": [
+    {
+      "title": "Tesla first-quarter deliveries miss expectations as sales slump deepens",
+      "link": "https://www.investing.com/news/stock-market-news/tesla-firstquarter-deliveries-miss-expectations-as-sales-slump-deepens-4595756",
+      "summary": "",
+      "title_ko": "테슬라 1분기 납품은 매출 부진이 심화되면서 기대에 미치지 못함",
+      "summary_ko": ""
+    },
     {
       "title": "Stocks significantly off session lows but sentiment remains muted",
       "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-with-trump-address-iran-ceasefire-in-focus-4594529",
@@ -20,13 +27,6 @@
       "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-slide-as-trump-signals-tougher-iran-strikes-oil-jumps-6-4594732",
       "summary": "",
       "title_ko": "투자자들이 중동 개발을 평가할 때 월스트리트는 인치 낮아집니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Automakers unveil new EVs for US market despite sales downturn",
-      "link": "https://www.investing.com/news/stock-market-news/automakers-unveil-new-evs-for-us-market-despite-sales-downturn-4596230",
-      "summary": "",
-      "title_ko": "자동차 제조업체들이 판매 침체에도 불구하고 미국 시장을 위한 새로운 전기차 공개",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "EUR/USD slips as Trump comments on Iran dampen de-escalation hopes, boost USD",
-      "link": "https://www.fxstreet.com/news/eur-usd-slips-as-trump-comments-on-iran-dampen-de-escalation-hopes-boost-usd-202604021818",
-      "summary": "EUR/USD trades under pressure on Thursday as ongoing Middle East tensions keep the US Dollar (USD) broadly supported, weighing on the Euro (EUR).",
-      "title_ko": "이란에 대한 트럼프의 발언으로 EUR/USD가 하락하면서 탈 (脫) 에스컬레이션 희망이 완화되고 USD가 부스트됩니다.",
-      "summary_ko": "중동 긴장이 계속됨에 따라 목요일에 EUR/USD 거래가 압박을 받고 미국 달러 (USD) 가 광범위하게 지지되어 유로 (EUR) 에 무게를 두고 있습니다."
+      "title": "Global PMIs: Manufacturers look through inflation – Standard Chartered",
+      "link": "https://www.fxstreet.com/news/global-pmis-manufacturers-look-through-inflation-standard-chartered-202604021928",
+      "summary": "Standard Chartered’s Ethan Lester notes that global manufacturing PMIs stayed in expansionary territory in March for an eighth straight month, even as the pace of growth eased from February’s 44‑month high.",
+      "title_ko": "글로벌 PMI: 제조업체는 인플레이션을 검토합니다 – Standard Chartered",
+      "summary_ko": "스탠다드 차타드 (Standard Chartered) 의 이단 레스터 (Ethan Lester) 는 글로벌 제조업 PMI가 2월의 44개월 최고치에서 성장 속도가 완화되었음에도 불구하고 3월에 8개월 연속 확장 영역에 머물렀다고 지적했다."
     },
     {
-      "title": "USD/THB: Energy-led risk off favours Dollar – MUFG",
-      "link": "https://www.fxstreet.com/news/usd-thb-energy-led-risk-off-favours-dollar-mufg-202604021754",
-      "summary": "MUFG's Senior Currency Analyst Lloyd Chan highlights the Thai Baht (THB) as one of the more vulnerable Asian currencies under sustained high energy prices.",
-      "title_ko": "USD/THB: 에너지 주도 리스크 오프 호의 달러 – MUFG",
-      "summary_ko": "MUFG의 수석 통화 분석가 로이드 챈 (Lloyd Chan) 은 태국 바트 (THB) 를 지속적인 높은 에너지 가격 하에서 더 취약한 아시아 통화 중 하나로 강조합니다."
+      "title": "Silver Price Forecast: Bearish bias holds as XAG/USD struggles below $75",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-bearish-bias-holds-as-xag-usd-struggles-below-75-202604021904",
+      "summary": "Silver (XAG/USD) trades with a downside bias on Thursday, coming under pressure as macro headwinds stemming from the ongoing US–Israel war with Iran weigh on sentiment.",
+      "title_ko": "실버 가격 예측: XAG/USD가 $ 75 미만으로 어려움을 겪고 있기 때문에 비어리쉬 편향이 유지됩니다.",
+      "summary_ko": "실버 (XAG/USD) 는 이란과의 미국-이스라엘 전쟁에서 비롯된 거시적인 역풍이 정서에 무게를 두고 있기 때문에 목요일에 하방 편향을 가지고 거래합니다."
     }
   ]
 }

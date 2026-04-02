@@ -1,11 +1,18 @@
 {
-  "updated_at_utc": "2026-04-02 05:05:23 UTC",
+  "updated_at_utc": "2026-04-02 06:48:44 UTC",
   "items": [
     {
-      "title": "Australia’s regulator says ASX favoured shareholder returns over system resilience",
-      "link": "https://www.investing.com/news/stock-market-news/australias-regulator-flags-governance-risk-failures-at-asx-in-final-report-4594399",
+      "title": "Redeia upgraded to “buy”by Jefferies on valuation, post-2029 growth outlook",
+      "link": "https://www.investing.com/news/stock-market-news/redeia-upgraded-to-buyby-jefferies-on-valuation-post2029-growth-outlook-4594668",
       "summary": "",
-      "title_ko": "호주 규제 당국은 ASX 선호 주주가 시스템 탄력성보다 수익률이 높다고 말합니다.",
+      "title_ko": "Jefferies가 평가, 2029년 이후의 성장 전망에 대해 “매수” 로 업그레이드한 Redeia",
+      "summary_ko": ""
+    },
+    {
+      "title": "Goldman Sachs cuts Akzo Nobel to “neutral,” slashes PT on input cost shock",
+      "link": "https://www.investing.com/news/stock-market-news/goldman-sachs-cuts-akzo-nobel-to-neutral-slashes-pt-on-input-cost-shock-4594611",
+      "summary": "",
+      "title_ko": "골드만 삭스는 Akzo 노벨을 \"중립\" 으로 자르고, 입력 비용 충격에 대해 PT를 베어냅니다.",
       "summary_ko": ""
     },
     {
@@ -16,17 +23,10 @@
       "summary_ko": ""
     },
     {
-      "title": "Mitsubishi Heavy shares rise as Artemis moon mission takes off successfully",
-      "link": "https://www.investing.com/news/stock-market-news/mitsubishi-heavy-shares-rise-as-artemis-moon-mission-takes-off-successfully-4594594",
+      "title": "Taiwan stocks lower at close of trade; Taiwan Weighted down 2.45%",
+      "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-245-4594604",
       "summary": "",
-      "title_ko": "미쓰비시 헤비 주식은 아르테미스 문 미션이 성공적으로 이륙하면서 상승합니다",
-      "summary_ko": ""
-    },
-    {
-      "title": "Asia stocks dip as Trump flags Iran war escalation; S.Korea leads losses",
-      "link": "https://www.investing.com/news/stock-market-news/asia-stocks-dip-as-trump-flags-iran-war-escalation-skorea-leads-losses-4594585",
-      "summary": "",
-      "title_ko": "아시아 증시는 트럼프가 이란 전쟁 확대에 깃발을 꽂음에 따라 하락했다. 한국은 손실을 주도하고 있다.",
+      "title_ko": "대만 주식 거래 마감 시점 낮아짐, 대만 가중치 2.45% 감소",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "EUR/USD Price Forecast: Declines below 1.1550 as Trump’s Iran war update boosts USD",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-declines-below-11550-as-trumps-iran-war-update-boosts-usd-202604020409",
-      "summary": "The EUR/USD pair struggles to capitalize on its gains registered over the past two days, reaching the weekly top the previous day, and attracts heavy selling during the Asian session on Thursday.",
-      "title_ko": "EUR/USD 가격 예측: 트럼프의 이란 전쟁 업데이트로 USD가 상승함에 따라 1.1550 아래로 하락",
-      "summary_ko": "EUR/USD 쌍은 전날 주간 상단에 도달, 지난 이틀 동안 등록 된 이익을 활용하기 위해 노력하고, 목요일 아시아 세션에서 과도한 판매를 유치한다."
+      "title": "Gulf countries consider new pipelines to avoid Strait of Hormuz — FT",
+      "link": "https://www.fxstreet.com/news/gulf-countries-consider-new-pipelines-to-avoid-strait-of-hormuz-ft-202604020548",
+      "summary": "Gulf nations are considering pipeline projects to bypass the Strait of Hormuz amid concerns over Iran's potential control of the strategic waterway, the Financial Times reported on Thursday.",
+      "title_ko": "걸프 국가들은 호르무즈 해협을 피하기 위해 새로운 파이프라인을 고려합니다 — FT",
+      "summary_ko": "파이낸셜 타임스는 이란의 전략적 수로 통제 가능성에 대한 우려 속에서 걸프 국가들이 호르무즈 해협을 우회하기 위한 파이프라인 프로젝트를 고려하고 있다고 목요일 보도했다."
     },
     {
-      "title": "Gold retreats sharply from two-week top/$4,800 as Trump’s Iran comments boost USD",
-      "link": "https://www.fxstreet.com/news/gold-retreats-sharply-from-two-week-top-4-800-as-trumps-iran-comments-boost-usd-202604020357",
-      "summary": "Gold (XAU/USD) witnessed an intraday turnaround from the $4,800 mark, or a fresh two-week high set earlier this Thursday, and for now, seems to have snapped a four-day winning streak amid resurgent US Dollar (USD) demand",
-      "title_ko": "트럼프의 이란 발언이 미국 달러화를 부양함에 따라 금은 2주간 최고/$ 4,800에서 급격히 후퇴했다.",
-      "summary_ko": "금 (XAU/USD) 은 이번 목요일 초에 $ 4,800에서 일중 턴어라운드 또는 신선한 2 주 최고치를 보였으며 현재는 미국 달러 (USD) 수요가 회복되는 가운데 4 일 연속 우승을 차지한 것으로 보입니다."
+      "title": "USD/INR recovers as risks of prolong Middle East war revives",
+      "link": "https://www.fxstreet.com/news/usd-inr-recovers-as-risks-of-prolong-middle-east-war-revives-202604020543",
+      "summary": "The Indian Rupee (INR) fails to hold opening strength and falls lower against the US Dollar (USD) on Thursday.",
+      "title_ko": "USD/INR은 중동 전쟁의 장기화 위험이 되살아남에 따라 회복됩니다.",
+      "summary_ko": "인도 루피 (INR) 는 개장 강도를 유지하지 못하고 목요일 미국 달러 (USD) 대비 하락합니다."
     }
   ]
 }

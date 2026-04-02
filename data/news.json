@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-04-02 13:20:10 UTC",
+  "updated_at_utc": "2026-04-02 14:39:15 UTC",
   "items": [
     {
-      "title": "Rivian stock falls on broader tech weakness, as delivery figures match estimates",
-      "link": "https://www.investing.com/news/stock-market-news/rivian-stock-falls-on-broader-tech-weakness-as-delivery-figures-match-estimates-93CH-4595679",
+      "title": "Wall St drops over 1% after Trump’s comments dent Iran resolution hopes",
+      "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-slide-as-trump-signals-tougher-iran-strikes-oil-jumps-6-4594732",
       "summary": "",
-      "title_ko": "납품 수치가 추정치와 일치하기 때문에 Rivian 주식은 더 넓은 기술 약점에 떨어집니다.",
+      "title_ko": "월스트리트는 트럼프의 발언이 이란 결의안의 희망을 무너뜨린 후 1% 이상 하락했다.",
       "summary_ko": ""
     },
     {
-      "title": "Tesla’s first-quarter deliveries miss estimates as tax credit expiry weighs",
-      "link": "https://www.investing.com/news/stock-market-news/teslas-firstquarter-deliveries-miss-estimates-as-tax-credit-expiry-weighs-4595678",
+      "title": "Starbucks expands weekly pay, adds more tips and bonuses for US baristas",
+      "link": "https://www.investing.com/news/stock-market-news/starbucks-expands-weekly-pay-adds-more-tips-and-bonuses-for-us-baristas-4595880",
       "summary": "",
-      "title_ko": "세금 공제 만료에 따른 Tesla의 1분기 납품 누락 추정치",
+      "title_ko": "스타벅스는 주간 급여를 확대하고 미국 바리스타를 위한 더 많은 팁과 보너스를 추가합니다",
       "summary_ko": ""
     },
     {
-      "title": "Verbio CEO says soaring fuel prices boost biofuel demand",
-      "link": "https://www.investing.com/news/stock-market-news/verbio-ceo-says-soaring-fuel-prices-boost-biofuel-demand-93CH-4595677",
+      "title": "Wall Street sees multi-billion dollar debut for Lilly’s obesity pill despite Novo lead",
+      "link": "https://www.investing.com/news/stock-market-news/wall-street-sees-multibillion-dollar-debut-for-lillys-obesity-pill-despite-novo-lead-4595223",
       "summary": "",
-      "title_ko": "Verbio CEO는 급등하는 연료 가격이 바이오 연료 수요를 증가시킨다고 말합니다.",
+      "title_ko": "월스트리트는 Novo 리드에도 불구하고 Lilly의 비만 알약으로 수십억 달러의 데뷔를 보았습니다.",
       "summary_ko": ""
     },
     {
-      "title": "Wednesday’s insider buys and sells: Fermi, Tesla and more",
-      "link": "https://www.investing.com/news/stock-market-news/wednesdays-insider-buys-and-sells-fermi-tesla-and-more-93CH-4595661",
+      "title": "Is now the time to buy European defence? Morgan Stanley weighs in",
+      "link": "https://www.investing.com/news/stock-market-news/is-now-the-time-to-buy-european-defence-morgan-stanley-weighs-in-4595869",
       "summary": "",
-      "title_ko": "수요일의 인사이더 구매 및 판매: 페르미, 테슬라 등",
+      "title_ko": "이제 유럽 방어를 구매할 때가 되었습니까? 모건 스탠리는",
+      "summary_ko": ""
+    },
+    {
+      "title": "US trade deficit widens in February as imports offset record exports",
+      "link": "https://www.investing.com/news/economic-indicators/us-trade-deficit-widens-in-february-as-imports-offset-record-exports-4595810",
+      "summary": "",
+      "title_ko": "수입 상쇄 사상 최대 수출로 2월 미국 무역적자 확대",
       "summary_ko": ""
     },
     {
@@ -51,25 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Swiss inflation climbs to highest level in a year",
-      "link": "https://www.investing.com/news/economic-indicators/swiss-inflation-climbs-to-highest-level-in-a-year-93CH-4594783",
-      "summary": "",
-      "title_ko": "스위스 인플레이션, 1년 만에 최고 수준으로 상승",
-      "summary_ko": ""
+      "title": "CAD: Trade, tariffs and growth backdrop – RBC",
+      "link": "https://www.fxstreet.com/news/cad-trade-tariffs-and-growth-backdrop-rbc-202604021427",
+      "summary": "Royal Bank of Canada (RBC) analysts point out that recent and prospective tariff changes, higher energy prices and CUSMA renewal talks will shape Canada’s macro backdrop, relevant for the Canadian Dollar (CAD).",
+      "title_ko": "CAD: 무역, 관세 및 성장 배경 – RBC",
+      "summary_ko": "캐나다왕립은행 (RBC) 분석가들은 캐나다 달러 (CAD) 와 관련된 캐나다의 거시적 배경을 형성할 최근 및 향후 관세 변화, 더 높은 에너지 가격 및 CUSMA 갱신 회담이 형성될 것이라고 지적한다."
     },
     {
-      "title": "BoC: Dovish patience with geopolitical risks – TD Securities",
-      "link": "https://www.fxstreet.com/news/boc-dovish-patience-with-geopolitical-risks-td-securities-202604021227",
-      "summary": "TD Securities analysts characterize the Bank of Canada’s (BoC) March Summary of Deliberations as slightly dovish, consistent with the March 18 decision. They stress patience, citing inflation near target, weaker GDP, hou",
-      "title_ko": "BoC: 지정학적 위험에 대한 인내심 고취 – TD Securities",
-      "summary_ko": "TD 증권 분석가들은 캐나다 은행 (BoC) 의 3 월 심의 요약을 3 월 18 일 결정과 일치하는 약간 비열한 것으로 규정합니다. 그들은 인내심을 강조하며 목표 근처의 인플레이션, 약한 GDP, hou를 인용합니다."
-    },
-    {
-      "title": "Gold retreats from two-week highs amid USD, yields rebound after Trump remarks",
-      "link": "https://www.fxstreet.com/news/gold-retreats-from-two-week-highs-amid-usd-yields-rebound-after-trump-remarks-202604021221",
-      "summary": "Gold (XAU/USD) trades on the back foot on Thursday, snapping a four-day rally as initial optimism that the US-Israel war with Iran could end soon faded after US President Donald Trump signaled continued military action i",
-      "title_ko": "금은 미화 가운데 2주 최고치에서 후퇴, 트럼프 발언 후 반등",
-      "summary_ko": "금 (XAU/USD) 은 목요일에 뒷발로 거래되며, 도널드 트럼프 미국 대통령이 군사 행동을 계속하라는 신호를 보낸 후 이란과의 미국-이스라엘 전쟁이 곧 끝날 수 있다는 초기 낙관론으로 4 일간의 집회를 시작했습니다."
+      "title": "AUD/USD slides as Trump escalates Iran conflict, boosting USD and oil",
+      "link": "https://www.fxstreet.com/news/aud-usd-slides-as-trump-escalates-iran-conflict-boosting-usd-and-oil-202604021420",
+      "summary": "The AUD/USD fell to near the 0.6890 price region on Thursday, as markets turned sour amid escalating Middle East fighting and a surge in the safe-haven US Dollar (USD).",
+      "title_ko": "AUD/USD는 트럼프가 이란 분쟁을 격화시키고 미화와 석유를 증강함에 따라 미끄러집니다.",
+      "summary_ko": "AUD/USD는 목요일에 0.6890 가격 지역 근처로 떨어졌는데, 중동의 격화와 안전 피난처 미국 달러 (USD) 의 급등으로 시장이 시큼해졌기 때문입니다."
     }
   ]
 }

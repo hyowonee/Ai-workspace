@@ -1,6 +1,13 @@
 {
-  "updated_at_utc": "2026-04-03 05:07:21 UTC",
+  "updated_at_utc": "2026-04-03 06:46:04 UTC",
   "items": [
+    {
+      "title": "Tesla eyes Japan’s top imported-car spot as it expands store, service network",
+      "link": "https://www.investing.com/news/stock-market-news/tesla-eyes-japans-top-importedcar-spot-as-it-expands-store-service-network-4596864",
+      "summary": "",
+      "title_ko": "TESLA EYES 일본 최고의 수입차 매장, 서비스 네트워크 확장",
+      "summary_ko": ""
+    },
     {
       "title": "Asia stocks: S.Korea, Japan stocks rise on tech gains; US jobs data awaited",
       "link": "https://www.investing.com/news/stock-market-news/asia-stocks-skorea-japan-stocks-rise-on-tech-gains-us-jobs-data-awaited-4596862",
@@ -23,10 +30,10 @@
       "summary_ko": ""
     },
     {
-      "title": "Wall St futures steady ahead of Good Friday break; focus on jobs data",
-      "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-steady-ahead-of-good-friday-break-focus-on-jobs-data-4596734",
+      "title": "Russia’s services sector contracts for first time in six months, PMI shows",
+      "link": "https://www.investing.com/news/economic-indicators/russias-services-sector-contracts-for-first-time-in-six-months-pmi-shows-4596867",
       "summary": "",
-      "title_ko": "Wall St 선물은 성금요일 휴가를 앞두고 안정적입니다. 일자리 데이터에 중점을 둡니다.",
+      "title_ko": "PMI에 따르면 러시아의 서비스 부문 계약이 6개월 만에 처음으로",
       "summary_ko": ""
     },
     {
@@ -51,25 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "US fixed 30-year mortgage rate rises to 6.46% amid Iran war",
-      "link": "https://www.investing.com/news/economic-indicators/us-fixed-30year-mortgage-rate-rises-to-646-amid-iran-war-4596053",
-      "summary": "",
-      "title_ko": "미국 30년 고정 모기지 금리가 이란 전쟁 중 6.46% 로 상승",
-      "summary_ko": ""
+      "title": "USD/CAD holds gains above 1.3900 with all eyes on US jobs data",
+      "link": "https://www.fxstreet.com/news/usd-cad-holds-gains-above-13900-with-all-eyes-on-us-jobs-data-202604030626",
+      "summary": "The US Dollar (USD) keeps the upper hand against its Canadian counterpart on Friday, trading near 1.3925 at the moment of writing, with the 1.3966 year-to-date high at a relatively short distance.",
+      "title_ko": "USD/CAD는 미국 일자리 데이터에 대한 모든 시선으로 1.3900 이상의 이익을 보유하고 있습니다.",
+      "summary_ko": "미국 달러 (USD) 는 금요일에 캐나다 달러 대비 우위를 유지하고 있으며, 서면 작성 당시 1.3925 근처에 거래되고 있으며, 1.3966은 비교적 짧은 거리에서 연대 최고치를 기록하고 있습니다."
     },
     {
-      "title": "Silver Price Forecast: XAG/USD falls to near $73.00 on central banks' hawkish policy odds",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-falls-to-near-7300-on-central-banks-hawkish-policy-odds-202604030420",
-      "summary": "Silver price (XAG/USD) remains in the negative territory after experiencing volatility, trading around $73.10 during the Asian hours on Friday.",
-      "title_ko": "실버 가격 예측: XAG/USD는 중앙 은행의 매파적 정책 확률에서 거의 $ 73.00 로 하락합니다.",
-      "summary_ko": "실버 가격 (XAG/USD) 은 변동성을 경험한 후 마이너스 영역에 남아 있으며 금요일 아시아 시간 동안 약 $ 73.10 에 거래됩니다."
-    },
-    {
-      "title": "US Nonfarm Payrolls expected to rise by 60K in March",
-      "link": "https://www.fxstreet.com/news/us-nonfarm-payrolls-expected-to-rise-by-60k-in-march-202604030400",
-      "summary": "The United States (US) Bureau of Labor Statistics (BLS) will release the Nonfarm Payrolls (NFP) data for March on Friday at 12:30 GMT.",
-      "title_ko": "3월에 미국 비농장 급여가 6만 명 증가할 것으로 예상됨",
-      "summary_ko": "미국 노동 통계국 (BLS) 은 3월의 비농장 급여 (NFP) 데이터를 금요일 12:30 GMT에 발표할 예정입니다."
+      "title": "Forex Today: Markets turn cautious, all eyes on US NFP data",
+      "link": "https://www.fxstreet.com/news/forex-today-markets-turn-cautious-all-eyes-on-us-nfp-data-202604030624",
+      "summary": "Here is what you need to know on Friday, April 4:",
+      "title_ko": "포렉스 투데이: 시장은 신중해지고, 모든 사람들은 미국 NFP 데이터에 주목합니다",
+      "summary_ko": "4월 4일 금요일에 알아두어야 할 사항은 다음과 같습니다."
     }
   ]
 }

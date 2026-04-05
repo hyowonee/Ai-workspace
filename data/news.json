@@ -1,6 +1,13 @@
 {
-  "updated_at_utc": "2026-04-05 21:35:43 UTC",
+  "updated_at_utc": "2026-04-05 22:34:52 UTC",
   "items": [
+    {
+      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4597664",
+      "summary": "",
+      "title_ko": "러시아 주식은 교역 마감 시점보다 낮습니다. MOEX 러시아 지수는 변동이 없습니다.",
+      "summary_ko": ""
+    },
     {
       "title": "Factbox-How many people have been killed in the Iran war?",
       "link": "https://www.investing.com/news/stock-market-news/factboxhow-many-people-have-been-killed-in-the-iran-war-4597662",
@@ -20,13 +27,6 @@
       "link": "https://www.investing.com/news/stock-market-news/buy-these-us-steel-stocks-benefiting-from-rising-tariffs-goldman-93CH-4595793",
       "summary": "",
       "title_ko": "관세 상승으로 이득을 보는 미국 철강 주식 구매: 골드만",
-      "summary_ko": ""
-    },
-    {
-      "title": "Foxconn first-quarter revenue jumps, company cautions on geopolitics",
-      "link": "https://www.investing.com/news/stock-market-news/foxconn-firstquarter-revenue-jumps-30-yy-4597591",
-      "summary": "",
-      "title_ko": "폭스콘 1분기 매출 급증, 지정학에 대한 회사 주의",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
+      "title": "US President Donald Trump: Open the Strait of you’ll be living in hell",
+      "link": "https://www.fxstreet.com/news/us-president-donald-trump-open-the-strait-of-youll-be-living-in-hell-202604052056",
+      "summary": "United States President Donald Trump has threatened to destroy Iran if they do not reopen the Strait of Hormuz before the deadline, in a post shared on Truth Social.",
+      "title_ko": "도널드 트럼프 미국 대통령: 지옥에서 살게 될 해협을 여십시오.",
+      "summary_ko": "도널드 트럼프 미국 대통령은 트루스 소셜 (Truth Social) 에 공유된 게시물에서 마감일 전에 호르무즈 해협을 재개하지 않으면 이란을 파괴하겠다고 위협했다."
+    },
+    {
       "title": "GBP/USD slips after blockbuster NFP revives Fed hold outlook",
       "link": "https://www.fxstreet.com/news/gbp-usd-slips-after-blockbuster-nfp-revives-fed-hold-outlook-bets-202604031530",
       "summary": "The GBP/USD extended its losses for the second straight day, down 0.12% after a stellar US Nonfarm Payrolls report, which could refocus the Federal Reserve on battling higher inflation that has remained above target for ",
       "title_ko": "블록버스터 NFP가 연준 보류 전망을 부활시킨 후 GBP/USD 하락",
       "summary_ko": "GBP/USD는 미국 비농장 급여 보고서 이후 0.12% 하락한 2 일 연속으로 손실을 연장했으며, 이는 연방 준비 제도 이사회가 목표치보다 높은 인플레이션에 맞서 싸우는 데 초점을 맞출 수 있습니다."
-    },
-    {
-      "title": "USD/JPY weakens despite strong US NFP as intervention risks cap gains",
-      "link": "https://www.fxstreet.com/news/usd-jpy-weakens-despite-strong-us-nfp-as-intervention-risks-cap-gains-202604031507",
-      "summary": "USD/JPY trades with a mild downside bias on Friday as lingering intervention fears support the Japanese Yen (JPY), even as the US Dollar (USD) remains firm against its major peers following the upside surprise in US Nonf",
-      "title_ko": "개입 위험 상한 이익으로 미국 NFP 강세에도 불구하고 USD/JPY 약세",
-      "summary_ko": "USD/JPY는 금요일에 미국 NONF의 업사이드 서프라이즈 이후 미국 달러 (USD) 가 주요 동종 업체에 대해 확고하게 유지되고 있음에도 불구하고 일본 엔화 (JPY) 를 지지하는 미온적인 개입 우려가 있어 가벼운 하방 편향으로 거래합니다."
     }
   ]
 }

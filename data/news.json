@@ -1,32 +1,32 @@
 {
-  "updated_at_utc": "2026-04-06 21:59:59 UTC",
+  "updated_at_utc": "2026-04-06 22:50:51 UTC",
   "items": [
+    {
+      "title": "Phillips 66 faces $900 million loss as Iran crisis lifts oil prices",
+      "link": "https://www.investing.com/news/stock-market-news/phillips-66-says-q1-results-hit-by-900-million-marktomarket-losses-4599311",
+      "summary": "",
+      "title_ko": "이란 사태로 유가가 상승하면서 필립스 66은 9억 달러 ($) 의 손실을 입었습니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "US to raise Medicare Advantage payments to insurers by 2.48% in 2027, insurance stocks surge",
+      "link": "https://www.investing.com/news/stock-market-news/us-finalizes-248-medicare-advantage-payment-hike-above-nearflat-january-proposal-4599313",
+      "summary": "",
+      "title_ko": "미국, 2027년 보험사에 메디케어 어드밴티지 지급 2.48% 인상, 보험주 급등",
+      "summary_ko": ""
+    },
+    {
+      "title": "OpenAI urges California, Delaware to investigate Musk’s ’anti-competitive behavior’",
+      "link": "https://www.investing.com/news/stock-market-news/openai-urges-california-delaware-to-investigate-musks-anticompetitive-behavior-4599482",
+      "summary": "",
+      "title_ko": "OpenAI는 델라웨어주 캘리포니아에서 머스크의 ’반경쟁 행동’ 을 조사할 것을 촉구합니다.",
+      "summary_ko": ""
+    },
     {
       "title": "Broadcom shares jump on long-term AI chip and networking deals with Google",
       "link": "https://www.investing.com/news/stock-market-news/broadcom-shares-jump-on-longterm-ai-chip-and-networking-deals-with-google-4599461",
       "summary": "",
       "title_ko": "Broadcom, Google과의 장기 AI 칩 및 네트워킹 거래에 뛰어들다",
-      "summary_ko": ""
-    },
-    {
-      "title": "Under global spotlight, Australia plays hardball on social media ban",
-      "link": "https://www.investing.com/news/stock-market-news/under-global-spotlight-australia-plays-hardball-on-social-media-ban-4599068",
-      "summary": "",
-      "title_ko": "글로벌 스포트라이트 하에서 호주는 소셜 미디어 금지에 대해 강경한 플레이를 펼칩니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Mexico stocks lower at close of trade; S&amp;P/BMV IPC down 1.03%",
-      "link": "https://www.investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-103-4599420",
-      "summary": "",
-      "title_ko": "멕시코 주식은 거래 종료 시점에 하락, S&amp;P/BMV IPC는 1.03% 하락",
-      "summary_ko": ""
-    },
-    {
-      "title": "Colombia stocks higher at close of trade; COLCAP up 0.86%",
-      "link": "https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-086-4599415",
-      "summary": "",
-      "title_ko": "콜롬비아는 거래 마감 시점에서 더 높은 주식을 보유하고 있으며 COLCAP는 0.86% 상승했습니다.",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
+      "title": "USD/JPY steady near 160.00 as weak ISM data offsets geopolitical bid",
+      "link": "https://www.fxstreet.com/news/usd-jpy-steady-near-16000-as-weak-ism-data-offsets-geopolitical-bid-202604062225",
+      "summary": "USD/JPY traded flat on Monday, edging up less than 0.1% to settle around 159.60 in a quiet session ahead of the US data release.",
+      "title_ko": "약한 ISM 데이터가 지정학적 입찰을 상쇄하기 때문에 USD/JPY는 160.00 근처에서 안정적입니다.",
+      "summary_ko": "USD/JPY는 월요일에 미국 데이터 공개를 앞두고 조용한 세션에서 약 159.60을 정산하기 위해 0.1% 미만으로 상승하여 평평하게 거래되었습니다."
+    },
+    {
       "title": "AUD/USD rises toward 0.6920 as sentiment improves, Iran wary",
       "link": "https://www.fxstreet.com/news/aud-usd-rises-toward-06920-as-sentiment-improves-iran-wary-202604062143",
       "summary": "The Australian Dollar rallied by over 0.50% amid an improvement in risk appetite, though gains were capped by Iran’s rejection of a ceasefire deal, pushing traders to trim long positions in the AUD/USD pair. At the time ",
       "title_ko": "AUD/USD는 감정이 개선됨에 따라 0.6920을 향해 상승합니다. 이란은 경계합니다.",
       "summary_ko": "호주 달러는 이란이 휴전 협정을 거부함으로써 거래자들이 AUD/USD 쌍에서 긴 포지션을 다듬도록 강요하면서 이익이 제한되었지만 위험의 식욕이 향상되면서 0.50% 이상 상승했습니다. 당시"
-    },
-    {
-      "title": "NZD/USD rises as ceasefire hopes weigh on US Dollar ahead of RBNZ decision",
-      "link": "https://www.fxstreet.com/news/nzd-usd-rises-as-ceasefire-hopes-weigh-on-us-dollar-ahead-of-rbnz-decision-202604062124",
-      "summary": "The NZD/USD pair trades with a bullish tone near the 0.5710 region on Tuesday, as the US Dollar (USD) softens amid improving risk sentiment driven by ceasefire hopes in the Middle East.",
-      "title_ko": "RBNZ 결정에 앞서 휴전 희망이 미국 달러에 가중됨에 따라 NZD/USD가 상승",
-      "summary_ko": "NZD/USD 쌍은 미국 달러 (USD) 가 중동의 휴전 희망으로 인한 위험 심리가 개선되는 가운데 부드러워짐에 따라 화요일 0.5710 지역 근처에서 강세 어조로 거래됩니다."
     }
   ]
 }

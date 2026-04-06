@@ -1,6 +1,20 @@
 {
-  "updated_at_utc": "2026-04-06 16:53:10 UTC",
+  "updated_at_utc": "2026-04-06 17:49:26 UTC",
   "items": [
+    {
+      "title": "Investors press Amazon, Microsoft and Google on water, power use in US data centers",
+      "link": "https://www.investing.com/news/stock-market-news/analysisinvestors-press-amazon-microsoft-and-google-on-water-power-use-in-us-data-centers-4598459",
+      "summary": "",
+      "title_ko": "투자자들이 물 위에서 아마존, 마이크로소프트, 구글을 압박하고, 미국 데이터 센터에서 전력 사용",
+      "summary_ko": ""
+    },
+    {
+      "title": "Stocks hit session lows as Trump says Iran can be ’taken out’ on Tuesday night",
+      "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-dip-after-trump-gives-iran-tue-deadline-to-open-hormuz-4597675",
+      "summary": "",
+      "title_ko": "트럼프가 화요일 밤에 이란을 ’반출’ 할 수 있다고 말하면서 주식은 세션 로우를 기록했습니다.",
+      "summary_ko": ""
+    },
     {
       "title": "Oracle hires Schneider Electric’s Maxson as CFO amid AI spending boom",
       "link": "https://www.investing.com/news/stock-market-news/oracle-appoints-hilary-maxson-as-cfo-4598265",
@@ -9,31 +23,17 @@
       "summary_ko": ""
     },
     {
-      "title": "Morgan Stanley not expecting fresh lows in S&amp;P 500",
-      "link": "https://www.investing.com/news/stock-market-news/morgan-stanley-not-expecting-fresh-lows-in-sp-500-4597822",
+      "title": "WW International stock tumbles on management transition",
+      "link": "https://www.investing.com/news/stock-market-news/ww-international-stock-tumbles-on-management-transition-93CH-4598911",
       "summary": "",
-      "title_ko": "S&amp;P 500에서 신선한 저점을 기대하지 않는 모건 스탠리",
+      "title_ko": "WW 인터내셔널, 경영 전환으로 주가 하락",
       "summary_ko": ""
     },
     {
-      "title": "TSLA selloff deepens: Why analysts are slashing Tesla targets after delivery miss",
-      "link": "https://www.investing.com/news/stock-market-news/tsla-selloff-deepens-why-analysts-are-slashing-tesla-targets-after-delivery-miss-4598891",
-      "summary": "",
-      "title_ko": "TSLA 매도 심화: 분석가들이 배달 실패 후 테슬라 목표를 줄이는 이유",
-      "summary_ko": ""
-    },
-    {
-      "title": "Morgan Stanley cuts U.S. airline estimates across the board on jet fuel costs",
-      "link": "https://www.investing.com/news/stock-market-news/morgan-stanley-cuts-us-airline-estimates-across-the-board-on-jet-fuel-costs-4598839",
-      "summary": "",
-      "title_ko": "Morgan Stanley, 미국 항공사 제트 연료 비용 절감",
-      "summary_ko": ""
-    },
-    {
-      "title": "US service sector cools in March; price paid measure highest in 3-1/2 years",
+      "title": "US service sector cools in March, inflation heating up amid Iran war",
       "link": "https://www.investing.com/news/economic-indicators/us-service-sector-cools-in-march-price-paid-measure-highest-in-312-years-4598792",
       "summary": "",
-      "title_ko": "미국 서비스 부문, 3월에 냉각, 3-1/2 년 동안 가장 높은 가격 지불 측정",
+      "title_ko": "미국 서비스 부문은 3월에 냉각되고, 인플레이션은 이란 전쟁으로 인해 가열됩니다.",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "US President Trump: Hopefully it will be over with quickly",
-      "link": "https://www.fxstreet.com/news/us-president-trump-hopefully-it-will-be-over-with-quickly-202604061540",
-      "summary": "Donald Trump, United States (US) President, said that he is very upset that guns were supposed to go to protesters, but were kept by a certain group. He added that they’re going to pay a big price for that at a speech in",
-      "title_ko": "트럼프 미국 대통령: 빨리 끝났으면 좋겠습니다.",
-      "summary_ko": "미국 대통령 도널드 트럼프는 총기가 시위자들에게 가야 했지만 특정 집단에 의해 유지되었다는 사실에 매우 화가 났다고 말했다. 그는 다음 연설에서 큰 대가를 치를 것이라고 덧붙였다."
+      "title": "US Dollar Index recovers to 100 as Iran rejects ceasefire, inflation-heavy week looms",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-recovers-to-100-as-iran-rejects-ceasefire-inflation-heavy-week-looms-202604061717",
+      "summary": "The US Dollar Index (DXY) struggled to crimp downside momentum near the 100.00 handle on Monday after a volatile day that saw the index slide from overnight highs near 100.30 down to a session low near 99.75 before stagi",
+      "title_ko": "이란이 휴전을 거부함에 따라 미국 달러 지수는 100으로 회복, 인플레이션이 심한 주간 직기",
+      "summary_ko": "미국 달러 지수 (DXY) 는 100.30 근처의 하룻밤 최고치에서 99.75 근처의 세션으로 낮아진 지수를 보았던 변동성이 큰 날 이후 월요일에 100.00 핸들 근처에서 하락 모멘텀을 압착하는 데 어려움을 겪었다."
     },
     {
-      "title": "EUR/USD gains as ceasefire hopes undermine US Dollar",
-      "link": "https://www.fxstreet.com/news/eur-usd-gains-as-ceasefire-hopes-undermine-us-dollar-202604061513",
-      "summary": "The EUR/USD pair is trading near the 1.1570 price zone on Monday as the US Dollar (USD) loses momentum amid relative easing concerns about the Iran war.",
-      "title_ko": "휴전 희망이 미국 달러를 약화시키면서 EUR/USD 이익",
-      "summary_ko": "EUR/USD 쌍은 이란 전쟁에 대한 상대적 완화 우려 속에서 미국 달러 (USD) 가 모멘텀을 상실함에 따라 월요일 1.1570 가격대 근처에서 거래되고 있다."
+      "title": "GBP/USD climbs above 1.3240 as Iran hopes dent US Dollar",
+      "link": "https://www.fxstreet.com/news/gbp-usd-climbs-above-13240-as-iran-hopes-dent-us-dollar-202604061625",
+      "summary": "The British Pound (GBP) advances by over 0.40% on Monday as US President Donald Trump said the Tuesday deadline he has set for Iran to make a deal is final, while rumors of a possible de-escalation weighed on the US Doll",
+      "title_ko": "이란이 미국 달러화의 하락을 희망함에 따라 GBP/USD는 1.3240을 상회합니다.",
+      "summary_ko": "영국 파운드화 (GBP) 는 월요일에 0.40% 이상 상승했습니다. 도널드 트럼프 미국 대통령이 이란이 거래를 성사시키기 위해 정한 화요일 마감일은 최종적이며, 탈퇴 가능성에 대한 소문은 미국 인형에 무게를 두었습니다."
     }
   ]
 }

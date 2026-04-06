@@ -1,18 +1,25 @@
 {
-  "updated_at_utc": "2026-04-06 19:04:52 UTC",
+  "updated_at_utc": "2026-04-06 20:05:05 UTC",
   "items": [
     {
-      "title": "Venezuela’s government, opposition may cooperate to safeguard US assets",
-      "link": "https://www.investing.com/news/stock-market-news/venezuelas-government-opposition-may-cooperate-to-safeguardus-assets-4599018",
+      "title": "CBS to sell late-night hours to Byron Allen as Colbert show ends",
+      "link": "https://www.investing.com/news/stock-market-news/cbs-to-sell-latenight-hours-to-byron-allen-as-colbert-show-ends-4599062",
       "summary": "",
-      "title_ko": "베네수엘라 정부, 미국 자산 보호를 위해 야당이 협력할 수 있음",
+      "title_ko": "CBS는 콜버트 쇼가 끝나면 바이런 앨런에게 심야 시간을 판매합니다",
       "summary_ko": ""
     },
     {
-      "title": "Invesco stock falls as BlackRock files for Nasdaq-100 ETF",
-      "link": "https://www.investing.com/news/stock-market-news/invesco-stock-falls-as-blackrock-files-for-nasdaq100-etf-93CH-4599017",
+      "title": "AppLovin stock gains as Wells Fargo lifts target on checks",
+      "link": "https://www.investing.com/news/stock-market-news/applovin-stock-gains-as-wells-fargo-lifts-target-on-checks-93CH-4599053",
       "summary": "",
-      "title_ko": "Invesco 주식은 Nasdaq-100 ETF용 BlackRock 파일로 하락합니다",
+      "title_ko": "Wells Fargo가 수표에서 대상을 들어 올리면서 AppLovin 주식 이익",
+      "summary_ko": ""
+    },
+    {
+      "title": "Nvidia acquisition of SchedMD sparks worry among AI specialists about software access",
+      "link": "https://www.investing.com/news/stock-market-news/nvidia-acquisition-of-schedmd-sparks-worry-among-ai-specialists-about-software-access-4599052",
+      "summary": "",
+      "title_ko": "Nvidia의 SchedMD 인수로 AI 전문가들 사이에서 소프트웨어 액세스에 대한 우려가 커짐",
       "summary_ko": ""
     },
     {
@@ -20,13 +27,6 @@
       "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-dip-after-trump-gives-iran-tue-deadline-to-open-hormuz-4597675",
       "summary": "",
       "title_ko": "트럼프가 이란에 대한 화요일 마감일을 거듭 강조하면서 이익을 고수하는 주식",
-      "summary_ko": ""
-    },
-    {
-      "title": "Boot Barn stock jumps 8% on Jefferies upgrade to buy",
-      "link": "https://www.investing.com/news/stock-market-news/boot-barn-stock-jumps-8-on-jefferies-upgrade-to-buy-93CH-4598990",
-      "summary": "",
-      "title_ko": "Jefferies 업그레이드 구매 시 Boot Barn 재고 점프율 8%",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Gold Price Forecast: XAU/USD around $4,660, bears sharpening their claws",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-around-4-660-bears-sharpening-their-claws-202604061726",
-      "summary": "Spot Gold consolidates at around $4,660 on Monday, little changed on a daily basis, yet lower compared to Friday’s close. Financial markets are all about sentiment at the beginning of the week, with the mood swinging at ",
-      "title_ko": "금 가격 예측: XAU/USD 약 $ 4,660, 발톱을 깎는 곰",
-      "summary_ko": "Spot Gold는 월요일에 약 $ 4,660로 통합되며, 매일 거의 변경되지 않았지만 금요일 마감에 비해 낮습니다. 금융 시장은 주 초반의 정서와 분위기가"
+      "title": "USD/CHF Price Forecast: Rejected at 0.8000 as double top looms",
+      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-rejected-at-08000-as-double-top-looms-202604061920",
+      "summary": "USD/CHF failed to clear key resistance at 0.8000 on Monday, recoiling to the 0.7900 handle as a double-top chart pattern looms. At the time of writing, the pair trades at 0.7979, down 0.18%.",
+      "title_ko": "USD/CHF 가격 예측: 이중 상단 직기로 0.8000에서 거부됨",
+      "summary_ko": "USD/CHF는 월요일 0.8000에서 키 저항을 지우지 못했고, 0.7900 핸들로 반동하여 더블 탑 차트 패턴이 나타났습니다. 서면 작성 시, 이 쌍은 0.18% 하락한 0.7979에 거래됩니다."
     },
     {
-      "title": "US Dollar Index recovers to 100 as Iran rejects ceasefire, inflation-heavy week looms",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-recovers-to-100-as-iran-rejects-ceasefire-inflation-heavy-week-looms-202604061717",
-      "summary": "The US Dollar Index (DXY) struggled to crimp downside momentum near the 100.00 handle on Monday after a volatile day that saw the index slide from overnight highs near 100.30 down to a session low near 99.75 before stagi",
-      "title_ko": "이란이 휴전을 거부함에 따라 미국 달러 지수는 100으로 회복, 인플레이션이 심한 주간 직기",
-      "summary_ko": "미국 달러 지수 (DXY) 는 100.30 근처의 하룻밤 최고치에서 99.75 근처의 세션으로 낮아진 지수를 보았던 변동성이 큰 날 이후 월요일에 100.00 핸들 근처에서 하락 모멘텀을 압착하는 데 어려움을 겪었다."
+      "title": "Dow Jones Industrial Average rises as ceasefire talks lift sentiment",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-rises-as-ceasefire-talks-lift-sentiment-202604061909",
+      "summary": "The Dow Jones Industrial Average (DJIA) gained a scant 120 points, or 0.3%, on Monday in the first session following the Good Friday market closure. The index pushed toward 46,700 in early trading before fading through t",
+      "title_ko": "다우존스 산업평균지수는 휴전협정으로 감정이 고조됨에 따라 상승",
+      "summary_ko": "다우존스 산업평균지수 (DJIA) 는 성금요일 시장 마감 후 첫 번째 세션에서 월요일에 0.3% 인 120포인트를 획득했습니다. 지수는 초기 거래에서 46,700을 향해 밀린 후 하락했다."
     }
   ]
 }

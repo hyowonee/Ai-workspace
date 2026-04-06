@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-04-06 12:07:18 UTC",
+  "updated_at_utc": "2026-04-06 13:52:06 UTC",
   "items": [
     {
-      "title": "Avis Budget stock falls after Deutsche Bank downgrade",
-      "link": "https://www.investing.com/news/stock-market-news/avis-budget-stock-falls-after-deutsche-bank-downgrade-93CH-4598183",
+      "title": "AST SpaceMobile stock gains after Meta executive visit",
+      "link": "https://www.investing.com/news/stock-market-news/ast-spacemobile-stock-gains-after-meta-executive-visit-93CH-4598753",
       "summary": "",
-      "title_ko": "Avis 도이체방크 다운그레이드 후 예산 재고 하락",
+      "title_ko": "메타 임원 방문 후 AST SpaceMobile 주식 이익",
       "summary_ko": ""
     },
     {
-      "title": "Larry Gies’ Madison Air targets $13.2 billion valuation in US IPO",
-      "link": "https://www.investing.com/news/stock-market-news/madison-air-targets-132-billion-valuation-in-us-ipo-4598108",
+      "title": "New Jersey cannot regulate Kalshi’s prediction market, US appeals court rules",
+      "link": "https://www.investing.com/news/stock-market-news/new-jersey-cannot-regulate-kalshis-prediction-market-us-appeals-court-rules-4598733",
       "summary": "",
-      "title_ko": "Larry Gies의 Madison Air, 미국 IPO에서 $ 132억 가치 평가 목표",
+      "title_ko": "뉴저지는 칼시의 예측 시장, 미국 항소 법원 규칙을 규제 할 수 없습니다.",
       "summary_ko": ""
     },
     {
-      "title": "US equity funds see a second successive weekly inflow",
-      "link": "https://www.investing.com/news/stock-market-news/us-equity-funds-see-a-second-successive-weekly-inflow-4598179",
+      "title": "S&amp;P 500, Nasdaq open higher as investors weigh Mideast resolution hopes",
+      "link": "https://www.investing.com/news/stock-market-news/sp-500-nasdaq-open-higher-as-investors-weigh-mideast-resolution-hopes-4598732",
       "summary": "",
-      "title_ko": "미국 주식형 펀드 주간 두 번째 연속 유입",
+      "title_ko": "S&amp;P 500, 투자자들이 Mideast Resolution의 희망에 무게를 두면서 Nasdaq 오픈 증가",
       "summary_ko": ""
     },
     {
-      "title": "Is crude &amp; diesel the next gold? Strategist answers",
-      "link": "https://www.investing.com/news/stock-market-news/is-crude--diesel-the-next-gold-strategist-answers-4598161",
+      "title": "Stocks open slightly higher amid reports of U.S.-Iran ceasefire proposal",
+      "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-dip-after-trump-gives-iran-tue-deadline-to-open-hormuz-4597675",
       "summary": "",
-      "title_ko": "원유 및 디젤이 다음 금입니까? 전략가 답변",
+      "title_ko": "미국-이란 휴전 제안이 보고된 가운데 주식이 약간 더 높게 열림",
+      "summary_ko": ""
+    },
+    {
+      "title": "Canada’s services economy shrinks as war delays client decision-making",
+      "link": "https://www.investing.com/news/economic-indicators/canadas-services-economy-shrinks-as-war-delays-client-decisionmaking-4598739",
+      "summary": "",
+      "title_ko": "캐나다의 서비스 경제는 전쟁으로 인해 고객의 의사 결정이 지연됨에 따라 축소됩니다.",
       "summary_ko": ""
     },
     {
@@ -51,25 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "U.S. Services PMI Dips Below Expectations, Signals Sector Contraction",
-      "link": "https://www.investing.com/news/economic-indicators/us-services-pmi-dips-below-expectations-signals-sector-contraction-93CH-4597098",
-      "summary": "",
-      "title_ko": "미국 서비스 PMI 기대치 이하로 하락, 징후 부문 수축",
-      "summary_ko": ""
+      "title": "EUR/GBP Price Forecast: Supported by converging SMAs but capped below 0.8750",
+      "link": "https://www.fxstreet.com/news/eur-gbp-price-forecast-supported-by-converging-smas-but-capped-below-08750-202604061312",
+      "summary": "EUR/GBP trades with a negative bias on Monday as diplomatic efforts to end the US-Iran war lift market sentiment and support risk-sensitive currencies, with the British Pound (GBP) relatively outperforming the Euro (EUR)",
+      "title_ko": "EUR/GBP 가격 예측: 융합 SMA에 의해 지원되지만 0.8750 미만으로 제한됨",
+      "summary_ko": "EUR/GBP는 월요일에 미국-이란 전쟁 리프트 시장 심리를 종식시키고 위험에 민감한 통화를 지원하기 위한 외교적 노력으로 부정적인 편향을 가지고 거래하며, 영국 파운드 (GBP) 는 유로 (EUR) 를 상대적으로 능가합니다."
     },
     {
-      "title": "GBP/JPY Price Analysis: Pound recovery hits resistance at 211.45",
-      "link": "https://www.fxstreet.com/news/gbp-jpy-price-analysis-pound-recovery-hits-resistance-at-21145-202604061142",
-      "summary": "The Pound (GBP) is trading higher against the Japanese Yen (JPY) on Monday, favoured by a moderate optimism amid news of a peace plan to end the war in Iran.",
-      "title_ko": "GBP/JPY 가격 분석: 211.45에서 파운드 회수 히트 저항",
-      "summary_ko": "파운드화 (GBP) 는 월요일에 일본 엔화 (JPY) 에 대해 더 높은 거래를 하고 있으며, 이란 전쟁을 끝내기 위한 평화 계획에 대한 소식 속에서 온건한 낙관론에 의해 선호되고 있다."
-    },
-    {
-      "title": "USD/JPY: Yen slide and BoJ risks – BNY",
-      "link": "https://www.fxstreet.com/news/usd-jpy-yen-slide-and-boj-risks-bny-202604061130",
-      "summary": "BNY’s Head of Markets Macro Strategy Bob Savage notes the Japanese Yen continues to weaken with USD/JPY near 160 as JGB yields hit multi‑decade highs and the Bank of Japan (BoJ) maintains a hiking bias.",
-      "title_ko": "USD/JPY: 엔화 슬라이드 및 BOJ 위험 – BNY",
-      "summary_ko": "BNY의 매크로 전략 책임자 Bob Savage는 JGB가 다년간의 최고치를 기록하고 일본 은행 (BOJ) 이 하이킹 편향을 유지함에 따라 일본 엔화가 160 USD/JPY 근처에서 약세를 지속하고 있다고 지적합니다."
+      "title": "US: Services growth seen easing on Iran uncertainty – TD Securities",
+      "link": "https://www.fxstreet.com/news/us-services-growth-seen-easing-on-iran-uncertainty-td-securities-202604061308",
+      "summary": "TD Securities analysts expect US ISM Services to soften in March as geopolitical uncertainty from Iran weighs on sentiment. They forecast the index to fall to 54.2, reversing February’s gain, with most components slowing",
+      "title_ko": "미국: 이란 불확실성 완화로 인한 서비스 성장 – TD Securities",
+      "summary_ko": "TD 증권 분석가들은 이란의 지정학적 불확실성이 정서에 무게를 두고 있기 때문에 3월에 미국 ISM 서비스가 완화될 것으로 예상합니다. 그들은 지수가 54.2로 하락하여 2 월의 이득을 반전시키고 대부분의 구성 요소가 느려질 것이라고 예측했습니다."
     }
   ]
 }

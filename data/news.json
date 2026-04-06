@@ -1,6 +1,13 @@
 {
-  "updated_at_utc": "2026-04-06 05:27:38 UTC",
+  "updated_at_utc": "2026-04-06 07:09:33 UTC",
   "items": [
+    {
+      "title": "Japan stocks higher at close of trade; Nikkei 225 up 0.49%",
+      "link": "https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-049-4597766",
+      "summary": "",
+      "title_ko": "일본은 교역 마감 시점에서 더 높은 주식을 보유하고 있으며, Nikkei 225는 0.49% 상승했습니다.",
+      "summary_ko": ""
+    },
     {
       "title": "Asia stocks: Nikkei, KOSPI rise over 1% on report of  Iran ceasefire talks",
       "link": "https://www.investing.com/news/stock-market-news/asia-stocks-nikkei-kospi-rise-over-1-on-report-of--iran-ceasefire-talks-4597696",
@@ -20,13 +27,6 @@
       "link": "https://www.investing.com/news/stock-market-news/ups-teamsters-reach-settlement-that-caps-driver-severance-offers-4597681",
       "summary": "",
       "title_ko": "UPS, Teamsters가 드라이버 파트너 퇴직금을 제한하는 합의에 도달",
-      "summary_ko": ""
-    },
-    {
-      "title": "Asia markets brace for Trump’s promised assault on Iranian infrastructure",
-      "link": "https://www.investing.com/news/stock-market-news/asia-markets-brace-for-trumps-promised-assault-on-iranian-infrastructure-4597680",
-      "summary": "",
-      "title_ko": "아시아 시장은 이란 인프라에 대한 트럼프의 약속된 공격을 보완한다.",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "USD/CHF holds gains above 0.8000 despite reports of US-Iran ceasefire talks",
-      "link": "https://www.fxstreet.com/news/usd-chf-holds-gains-above-08000-despite-reports-of-us-iran-ceasefire-talks-202604060436",
-      "summary": "USD/CHF extends its winning streak for the third consecutive day, trading around 0.8010 during the Asian hours on Monday. The pair appreciated as the US Dollar (USD) gained ground amid increased safe-haven demand on heig",
-      "title_ko": "미국과 이란의 휴전 협상 보고에도 불구하고 USD/CHF는 0.8000 이상의 이익을 보유하고 있습니다.",
-      "summary_ko": "USD/CHF는 월요일 아시아 시간 동안 약 0.8010에 거래되며 3일 연속으로 연승 행진을 연장합니다. 이 쌍은 HEIG에 대한 안전 피난처 수요가 증가함에 따라 미국 달러 (USD) 가 상승함에 따라 평가되었습니다."
+      "title": "Gold struggles to build on intraday bounce, holds steady around $4,650 amid mixed cues",
+      "link": "https://www.fxstreet.com/news/gold-sticks-to-negative-bias-amid-rising-rate-hike-bets-firmer-us-dollar-202604060318",
+      "summary": "Gold (XAU/USD) struggles to capitalize on its modest intraday bounce from the $4,600 mark and remains on the defensive, for the second straight day, heading into the European session on Monday.",
+      "title_ko": "금은 인트레이데이 바운스를 구축하기 위해 고군분투하며, 혼합된 신호 속에서 약 $ 4,650를 견고하게 유지합니다.",
+      "summary_ko": "금 (XAU/USD) 은 $ 4,600 마르크에서 완만한 일중 반등을 활용하기 위해 고군분투하며 월요일에 유럽 세션으로 향하는 두 번째 연속 일 동안 방어에 머물러 있습니다."
     },
     {
-      "title": "India Gold price today: Gold falls, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202604060435",
-      "summary": "Gold prices fell in India on Monday, according to data compiled by FXStreet.",
-      "title_ko": "오늘의 인도 금 가격: FXStreet 데이터에 따르면 금 가격 하락",
-      "summary_ko": "FXStreet가 집계한 데이터에 따르면 월요일 인도의 금 가격은 하락했습니다."
+      "title": "Eurozone: Inflation and fiscal shifts shape rates – BNY",
+      "link": "https://www.fxstreet.com/news/eurozone-inflation-and-fiscal-shifts-shape-rates-bny-202604060635",
+      "summary": "BNY’s Bob Savage flags unpleasant preliminary March inflation in Europe, driven by energy and refined products, with diesel prices above 2022 levels. Governments are capping fuel costs via tax and margin measures, raisin",
+      "title_ko": "유로존: 인플레이션 및 재정 변화 형태 비율 – BNY",
+      "summary_ko": "BNY의 밥 새비지 (Bob Savage) 는 2022년 수준을 상회하는 디젤 가격으로 에너지와 정제된 제품에 의해 추진되는 유럽의 불쾌한 예비 3월 인플레이션을 표시합니다. 정부는 세금 및 마진 조치를 통해 연료 비용을 제한하고 있습니다."
     }
   ]
 }

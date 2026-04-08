@@ -1,6 +1,27 @@
 {
-  "updated_at_utc": "2026-04-08 22:07:39 UTC",
+  "updated_at_utc": "2026-04-08 23:08:37 UTC",
   "items": [
+    {
+      "title": "US FAA proposes fining American, Southwest over alleged drug, alcohol violations",
+      "link": "https://www.investing.com/news/stock-market-news/faa-proposes-to-fine-american-airlines-for-alleged-drug-alcohol-violations-4604113",
+      "summary": "",
+      "title_ko": "미국 연방항공청 (FAA) 은 마약, 주류 위반 혐의에 대해 미국 남서부에서 벌금을 부과할 것을 제안합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "OpenAI will reserve portion of IPO shares for retail investors, CFO tells CNBC",
+      "link": "https://www.investing.com/news/stock-market-news/openai-will-reserve-portion-of-ipo-shares-for-retail-investors-cfo-tells-cnbc-4604318",
+      "summary": "",
+      "title_ko": "CFO는 OpenAI가 소매 투자자를 위해 IPO 주식의 일부를 보유할 것이라고 CNBC에 말했습니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Missed out on the rally today? Up 17%+, these AI-picked stocks didn’t",
+      "link": "https://www.investing.com/news/stock-market-news/missed-out-on-the-rally-today-up-17-these-aipicked-stocks-didnt-4604112",
+      "summary": "",
+      "title_ko": "오늘 집회를 놓치셨나요? 17% 이상 증가한 이 AI가 선별한 주식은",
+      "summary_ko": ""
+    },
     {
       "title": "Mexico stocks higher at close of trade; S&amp;P/BMV IPC up 2.47%",
       "link": "https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-247-4604234",
@@ -9,24 +30,10 @@
       "summary_ko": ""
     },
     {
-      "title": "Apogee Acquisition closes $172.5 million IPO on NASDAQ",
-      "link": "https://www.investing.com/news/stock-market-news/apogee-acquisition-closes-1725-million-ipo-on-nasdaq-432SI-4604232",
+      "title": "World Bank trims Latin America growth estimate for 2026",
+      "link": "https://www.investing.com/news/economic-indicators/world-bank-trims-latin-america-growth-estimate-for-2026-4604317",
       "summary": "",
-      "title_ko": "Apogee Acquisition, NASDAQ에서 $ 172.5 백만 IPO 마감",
-      "summary_ko": ""
-    },
-    {
-      "title": "Colombia stocks higher at close of trade; COLCAP up 0.43%",
-      "link": "https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-043-4604229",
-      "summary": "",
-      "title_ko": "콜롬비아는 거래 종료 시점에 더 높은 주식을 보유하고 있으며, COLCAP는 0.43% 상승",
-      "summary_ko": ""
-    },
-    {
-      "title": "Russia stocks lower at close of trade; MOEX Russia Index down 1.13%",
-      "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-113-4604222",
-      "summary": "",
-      "title_ko": "러시아는 교역 마감 시점에 낮은 주식을 보유하고 있습니다. MOEX 러시아 지수는 1.13% 하락했습니다.",
+      "title_ko": "세계은행, 2026년 라틴아메리카 성장률 추정치 산정",
       "summary_ko": ""
     },
     {
@@ -51,25 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Iran’s shattered economy means any success in war may be fleeting",
-      "link": "https://www.investing.com/news/economic-indicators/irans-shattered-economy-means-any-success-in-war-may-be-fleeting-4603352",
-      "summary": "",
-      "title_ko": "이란의 산산조각난 경제는 전쟁에서의 모든 성공이 순식간에 이루어질 수 있음을 의미한다.",
-      "summary_ko": ""
+      "title": "USD/JPY tests 158.00 as ceasefire saps safe-haven demand",
+      "link": "https://www.fxstreet.com/news/usd-jpy-tests-15800-as-ceasefire-saps-safe-haven-demand-202604082245",
+      "summary": "USD/JPY fell around 0.66% on Wednesday, retreating from the session high near 160.00 to settle close to 158.50.",
+      "title_ko": "휴전이 안전한 수요를 수축함에 따라 USD/JPY 테스트 158.00",
+      "summary_ko": "USD/JPY는 수요일에 약 0.66% 하락하여 160.00 근처에서 세션에서 후퇴하여 158.50 가까이 정착했습니다."
     },
     {
-      "title": "AUD/JPY Price Forecast: Forms shooting-star, drops below 112.00 as bears lurk",
-      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-forms-shooting-star-drops-below-11200-as-bears-lurk-202604082142",
-      "summary": "The Australian Dollar extended its gains versus the Japanese Yen, driven by an improvement in risk appetite amid the two-week pause in the Middle East conflict between the US and Iran.",
-      "title_ko": "AUD/JPY 가격 예측: 곰이 숨어있을 때 슈팅 스타를 형성하고 112.00 이하로 떨어집니다.",
-      "summary_ko": "호주 달러는 미국과 이란 간의 중동 분쟁이 2주간 중단된 가운데 위험 식욕의 개선에 힘입어 일본 엔화 대비 이익을 연장했다."
-    },
-    {
-      "title": "NZD/USD Price Forecast: Rallies above 0.5800, eyes on 200-day SMA",
-      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-rallies-above-05800-eyes-on-200-day-sma-202604081952",
-      "summary": "The NZD/USD pair rallies sharply on Wednesday, boosted by a double whammy: The de-escalation of the Middle East conflict and hawkish remarks by the Reserve Bank of New Zealand (RBNZ) Governor, Anna Breman, following the ",
-      "title_ko": "NZD/USD 가격 예측: 0.5800을 초과하는 랠리, 200일 SMA에 대한 시선",
-      "summary_ko": "NZD/USD 쌍은 수요일에 급격히 상승하여 두 배의 찬사를 받았습니다: 중동 분쟁의 완화와 뉴질랜드 준비 은행 (RBNZ) 총재 인 안나 브레만 (Anna Breman) 의 매파적인 발언"
+      "title": "AUD/USD stalls below 0.7100 as ceasefire euphoria fades",
+      "link": "https://www.fxstreet.com/news/aud-usd-stalls-below-07100-as-ceasefire-euphoria-fades-202604082201",
+      "summary": "AUD/USD gave back a portion of Wednesday's sharp rally, settling around 0.7050 after surging over 1% earlier in the session.",
+      "title_ko": "휴전의 행복감이 사라지면서 AUD/USD가 0.7100 아래로 떨어집니다.",
+      "summary_ko": "AUD/USD는 수요일 급격한 랠리의 일부를 되돌려주었으며, 세션 초반 1% 이상 급등한 후 0.7050 정도에 정착했습니다."
     }
   ]
 }

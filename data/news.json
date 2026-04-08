@@ -1,32 +1,46 @@
 {
-  "updated_at_utc": "2026-04-08 05:48:19 UTC",
+  "updated_at_utc": "2026-04-08 07:25:12 UTC",
   "items": [
     {
-      "title": "Chiyoda shares surge as US-Iran ceasefire drives Qatar LNG resumption hopes",
-      "link": "https://www.investing.com/news/stock-market-news/chiyoda-shares-surge-as-usiran-ceasefire-drives-qatar-lng-resumption-hopes-4601926",
+      "title": "Japan stocks higher at close of trade; Nikkei 225 up 5.42%",
+      "link": "https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-542-4601999",
       "summary": "",
-      "title_ko": "치요다는 미국-이란 휴전으로 카타르 LNG 재개 희망이 높아지면서 급등세를 보이고 있다.",
+      "title_ko": "일본은 교역 마감 시점에서 더 높은 주식을 보유하고 있으며, Nikkei 225는 5.42% 상승했습니다.",
       "summary_ko": ""
     },
     {
-      "title": "Perplexity revenue jumps 50% in pivot to AI agents- FT",
-      "link": "https://www.investing.com/news/stock-market-news/perplexity-revenue-jumps-50-in-pivot-to-ai-agents-ft-93CH-4601924",
+      "title": "Renishaw names John Shipsey as CFO, Grant becomes permanent chair",
+      "link": "https://www.investing.com/news/stock-market-news/renishaw-names-john-shipsey-as-cfo-grant-becomes-permanent-chair-93CH-4601934",
       "summary": "",
-      "title_ko": "Perplexity 매출이 AI 상담원 중심으로 50% 증가- FT",
+      "title_ko": "Renishaw는 John Shipsey를 CFO로 지명하고, Grant는 영구 의장이 됩니다.",
       "summary_ko": ""
     },
     {
-      "title": "China Vanke offers 40% upfront bond repayment in return for extension- Reuters",
-      "link": "https://www.investing.com/news/stock-market-news/china-vanke-offers-40-upfront-bond-repayment-in-return-for-extension-reuters-4601918",
+      "title": "Maersk welcomes ceasefire but keeps cautious stance on Hormuz transit",
+      "link": "https://www.investing.com/news/stock-market-news/maersk-welcomes-ceasefire-but-keeps-cautious-stance-on-hormuz-transit-93CH-4601997",
       "summary": "",
-      "title_ko": "중국 Vanke는 연장 대가로 40% 선불 채권 상환을 제공합니다. - Reuters",
+      "title_ko": "Maersk는 휴전을 환영하지만 Hormuz 운송에 대한 신중한 입장을 유지합니다.",
       "summary_ko": ""
     },
     {
-      "title": "US carmakers accuse EU of blocking supersized pick-up trucks from roads, FT reports",
-      "link": "https://www.investing.com/news/stock-market-news/us-carmakers-accuse-eu-of-blocking-supersized-pickup-trucks-from-roads-ft-reports-4601914",
+      "title": "Jefferies sees limited downside for Deere after 15% pullback, upgrades to Hold",
+      "link": "https://www.investing.com/news/stock-market-news/jefferies-sees-limited-downside-for-deere-after-15-pullback-upgrades-to-hold-4601974",
       "summary": "",
-      "title_ko": "미국 자동차 제조업체들은 EU가 도로에서 대형 픽업 트럭을 차단하고 있다고 비난, FT 보고서",
+      "title_ko": "Jefferies는 15% 풀백 후 Deere에 대한 제한된 단점을 보고 Hold로 업그레이드합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "UK house prices fall in March amid Middle East uncertainty",
+      "link": "https://www.investing.com/news/economic-indicators/uk-house-prices-fall-in-march-amid-middle-east-uncertainty-4601938",
+      "summary": "",
+      "title_ko": "중동의 불확실성 속에서 3월 영국 집값 하락",
+      "summary_ko": ""
+    },
+    {
+      "title": "German industrial orders rise 0.9% in February",
+      "link": "https://www.investing.com/news/economic-indicators/german-industrial-orders-rise-09-in-february-4601937",
+      "summary": "",
+      "title_ko": "2월 독일 산업 주문 0.9% 증가",
       "summary_ko": ""
     },
     {
@@ -44,32 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "US business spending on equipment on solid ground before Iran war",
-      "link": "https://www.investing.com/news/economic-indicators/us-core-capital-goods-orders-increase-in-february-4600508",
-      "summary": "",
-      "title_ko": "이란 전쟁 전에 견고한 지상의 장비에 대한 미국 사업 지출",
-      "summary_ko": ""
+      "title": "EUR/USD: Dollar slips on Gulf ceasefire – Commerzbank",
+      "link": "https://www.fxstreet.com/news/eur-usd-dollar-slips-on-gulf-ceasefire-commerzbank-202604080628",
+      "summary": "Commerzbank’s Michael Pfister notes that the tentative ceasefire between the US and Iran and the reopening of the Strait of Hormuz triggered a sharp textbook reaction, with Oil falling and the US Dollar weakening, pushin",
+      "title_ko": "EUR/USD: 걸프만 휴전으로 달러화 하락 – 코메르츠방크",
+      "summary_ko": "코메르츠방크 (Commerzbank) 의 마이클 피스터 (Michael Pfister) 는 미국과 이란 간의 잠정적인 휴전과 호르무즈 해협의 재개는 석유 하락과 미국 달러 약세로 급격한 교과서 반응을 촉발했다고 지적했다."
     },
     {
-      "title": "Canada’s Ivey PMI shows activity shrinking for first time in four months",
-      "link": "https://www.investing.com/news/economic-indicators/canadas-ivey-pmi-shows-activity-shrinking-for-first-time-in-four-months-4600847",
-      "summary": "",
-      "title_ko": "캐나다의 Ivey PMI는 4개월 만에 처음으로 활동이 줄어드는 것을 보여줍니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "USD/INR tumbles on US-Iran two-week ceasefire, RBI leaves Repo Rate unchanged at 5.25%",
-      "link": "https://www.fxstreet.com/news/usd-inr-tumbles-on-us-iran-two-week-ceasefire-rbi-leaves-repo-rate-unchanged-at-525-202604080524",
-      "summary": "The Indian Rupee (INR) jumps to a fresh an almost three-week high against the US Dollar (USD) in the opening trade on Wednesday. The USD/INR pair slides to near 92.30 as the US Dollar weakens and global oil prices nosedi",
-      "title_ko": "미국-이란 2주 휴전 시 USD/INR 하락, RBI는 Repo Rate를 5.25% 로 변경하지 않음",
-      "summary_ko": "인도 루피 (INR) 는 수요일 개장 거래에서 미국 달러 (USD) 에 대해 거의 3 주 최고치로 뛰어 올랐습니다. USD/INR 쌍은 미국 달러 약세와 글로벌 유가 상승에 따라 92.30 근처로 미끄러집니다."
-    },
-    {
-      "title": "EUR/GBP edges lower to near 0.8700, ECB hawkish stance cushions downside",
-      "link": "https://www.fxstreet.com/news/eur-gbp-edges-lower-to-near-08700-ecb-hawkish-stance-cushions-downside-202604080514",
-      "summary": "The EUR/GBP cross declines to near 0.8700 during the early European session on Wednesday. A two-week ceasefire agreement between the United States (US) and Iran has improved global risk sentiment, which typically favors ",
-      "title_ko": "EUR/GBP 가장자리가 0.8700 근처로 낮아짐, ECB 매파 스탠스 쿠션 단점",
-      "summary_ko": "EUR/GBP 교차는 수요일의 초기 유럽 세션에서 0.8700 근처로 감소합니다. 미국 (US) 과 이란 간의 2 주간의 휴전 협정은 일반적으로 유리한 글로벌 위험 정서를 개선했습니다."
+      "title": "EUR/USD nears 1.1700 as markets welcome the ceasefire in Iran",
+      "link": "https://www.fxstreet.com/news/eur-usd-nears-11700-as-markets-welcome-the-ceasefire-in-iran-202604080620",
+      "summary": "The announcement of a two-week ceasefire in Iran triggered a relief rally during Wednesday’s Asian trading session that sent the safe-haven US Dollar (USD) tumbling against its main peers.",
+      "title_ko": "시장이 이란에서 휴전을 환영함에 따라 EUR/USD는 1.1700에 근접했습니다.",
+      "summary_ko": "이란에서 2주간의 휴전 발표는 수요일 아시아 무역 세션에서 주요 동종 업체에 대해 안전 피난처 미국 달러 (USD) 를 보내는 구호 집회를 촉발했다."
     }
   ]
 }

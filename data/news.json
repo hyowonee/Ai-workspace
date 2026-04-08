@@ -1,6 +1,20 @@
 {
-  "updated_at_utc": "2026-04-08 23:08:37 UTC",
+  "updated_at_utc": "2026-04-08 23:59:45 UTC",
   "items": [
+    {
+      "title": "ACP Holdings completes $200 million IPO on Nasdaq",
+      "link": "https://www.investing.com/news/stock-market-news/acp-holdings-completes-200-million-ipo-on-nasdaq-432SI-4604371",
+      "summary": "",
+      "title_ko": "ACP Holdings, 나스닥에서 2억 달러 규모의 IPO 완료 ($ 200 million IPO)",
+      "summary_ko": ""
+    },
+    {
+      "title": "UK investment industry calls for clearer risk rules to encourage everyday investors",
+      "link": "https://www.investing.com/news/stock-market-news/uk-investment-industry-calls-for-clearer-risk-rules-to-encourage-everyday-investors-4604356",
+      "summary": "",
+      "title_ko": "영국 투자 업계는 일상적인 투자자를 장려하기 위해보다 명확한 위험 규칙을 요구합니다.",
+      "summary_ko": ""
+    },
     {
       "title": "US FAA proposes fining American, Southwest over alleged drug, alcohol violations",
       "link": "https://www.investing.com/news/stock-market-news/faa-proposes-to-fine-american-airlines-for-alleged-drug-alcohol-violations-4604113",
@@ -13,20 +27,6 @@
       "link": "https://www.investing.com/news/stock-market-news/openai-will-reserve-portion-of-ipo-shares-for-retail-investors-cfo-tells-cnbc-4604318",
       "summary": "",
       "title_ko": "CFO는 OpenAI가 소매 투자자를 위해 IPO 주식의 일부를 보유할 것이라고 CNBC에 말했습니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Missed out on the rally today? Up 17%+, these AI-picked stocks didn’t",
-      "link": "https://www.investing.com/news/stock-market-news/missed-out-on-the-rally-today-up-17-these-aipicked-stocks-didnt-4604112",
-      "summary": "",
-      "title_ko": "오늘 집회를 놓치셨나요? 17% 이상 증가한 이 AI가 선별한 주식은",
-      "summary_ko": ""
-    },
-    {
-      "title": "Mexico stocks higher at close of trade; S&amp;P/BMV IPC up 2.47%",
-      "link": "https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-247-4604234",
-      "summary": "",
-      "title_ko": "멕시코는 거래 마감 시점에서 더 높은 주식을 보유하고 있으며, S&amp;P/BMV IPC는 2.47% 상승",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "USD/JPY tests 158.00 as ceasefire saps safe-haven demand",
-      "link": "https://www.fxstreet.com/news/usd-jpy-tests-15800-as-ceasefire-saps-safe-haven-demand-202604082245",
-      "summary": "USD/JPY fell around 0.66% on Wednesday, retreating from the session high near 160.00 to settle close to 158.50.",
-      "title_ko": "휴전이 안전한 수요를 수축함에 따라 USD/JPY 테스트 158.00",
-      "summary_ko": "USD/JPY는 수요일에 약 0.66% 하락하여 160.00 근처에서 세션에서 후퇴하여 158.50 가까이 정착했습니다."
+      "title": "Iran says peace talks would be 'unreasonable' as Israel expands Lebanon strikes — Reuters",
+      "link": "https://www.fxstreet.com/news/iran-says-peace-talks-would-be-unreasonable-as-israel-expands-lebanon-strikes-reuters-202604082330",
+      "summary": "Sporadic fighting continued in the Middle East, including in Lebanon, killing hundreds of people and drawing a threat of retaliation from Iran, Reuters reported on Thursday.",
+      "title_ko": "이란은 이스라엘이 레바논 파업을 확대함에 따라 평화 회담이 '비합리적' 일 것이라고 말한다. — 로이터",
+      "summary_ko": "목요일 로이터는 레바논을 포함한 중동에서 산발적인 전투가 계속돼 수백 명이 사망하고 이란의 보복 위협이 이어졌다고 보도했다."
     },
     {
-      "title": "AUD/USD stalls below 0.7100 as ceasefire euphoria fades",
-      "link": "https://www.fxstreet.com/news/aud-usd-stalls-below-07100-as-ceasefire-euphoria-fades-202604082201",
-      "summary": "AUD/USD gave back a portion of Wednesday's sharp rally, settling around 0.7050 after surging over 1% earlier in the session.",
-      "title_ko": "휴전의 행복감이 사라지면서 AUD/USD가 0.7100 아래로 떨어집니다.",
-      "summary_ko": "AUD/USD는 수요일 급격한 랠리의 일부를 되돌려주었으며, 세션 초반 1% 이상 급등한 후 0.7050 정도에 정착했습니다."
+      "title": "Gold edges lower below $4,750 amid fragile Middle East ceasefire",
+      "link": "https://www.fxstreet.com/news/gold-edges-lower-below-4-750-amid-fragile-middle-east-ceasefire-202604082315",
+      "summary": "Gold price (XAU/USD) trades in negative territory around $4,705 during the early Asian session on Thursday. The precious metal edges lower amid a temporary two-week ceasefire between the US and Iran.",
+      "title_ko": "취약한 중동 휴전 속에서 금 가장자리가 $ 4,750 아래로 내려감",
+      "summary_ko": "금 가격 (XAU/USD) 은 목요일 초기 아시아 세션에서 약 $ 4,705의 마이너스 영토에서 거래됩니다. 미국과 이란 사이의 일시적인 2주간의 휴전 속에서 귀금속 가장자리가 낮아졌습니다."
     }
   ]
 }

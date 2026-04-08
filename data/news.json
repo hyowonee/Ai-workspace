@@ -1,27 +1,6 @@
 {
-  "updated_at_utc": "2026-04-08 13:24:54 UTC",
+  "updated_at_utc": "2026-04-08 14:53:19 UTC",
   "items": [
-    {
-      "title": "FedEx Freight targets up to 12% operating profit growth ahead of spinoff",
-      "link": "https://www.investing.com/news/stock-market-news/fedex-freight-targets-up-to-12-operating-profit-growth-ahead-of-spinoff-4603105",
-      "summary": "",
-      "title_ko": "FedEx Freight는 스핀오프에 앞서 최대 12% 의 영업 이익 성장을 목표로 합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Delta scraps capacity growth plans as fuel price surge drives up costs",
-      "link": "https://www.investing.com/news/stock-market-news/delta-pulls-growth-plans-as-fuel-spike-drives-up-costs-dents-q2-profit-4602564",
-      "summary": "",
-      "title_ko": "연료 가격 급등으로 비용이 증가함에 따라 델타 스크랩 용량 증가 계획",
-      "summary_ko": ""
-    },
-    {
-      "title": "Aerospace parts maker Arxis targets $11.2 billion valuation in US IPO",
-      "link": "https://www.investing.com/news/stock-market-news/aerospace-parts-maker-arxis-targets-112-billion-valuation-in-us-ipo-4603238",
-      "summary": "",
-      "title_ko": "항공우주 부품 메이커 Arxis, 미국 IPO에서 $ 112억 가치 평가 목표",
-      "summary_ko": ""
-    },
     {
       "title": "Goldman Sachs flags 3 chip stocks to buy and 3 to avoid into Q1 earnings",
       "link": "https://www.investing.com/news/stock-market-news/goldman-sachs-flags-3-chip-stocks-to-buy-and-3-to-avoid-into-q1-earnings-4603182",
@@ -30,46 +9,67 @@
       "summary_ko": ""
     },
     {
-      "title": "Brazil’s IGP-DI inflation rises 1.14% in March",
-      "link": "https://www.investing.com/news/economic-indicators/brazils-igpdi-inflation-rises-114-in-march-93CH-4602647",
+      "title": "Automakers did not strongly seek aluminium tariff relief, White House official says",
+      "link": "https://www.investing.com/news/stock-market-news/us-rebuffs-aluminum-tariff-relief-request-from-ford-wsj-reports-4601897",
       "summary": "",
-      "title_ko": "3월 브라질의 IGP-DI 인플레이션 1.14% 상승",
+      "title_ko": "백악관 관계자는 자동차 제조업체들이 알루미늄 관세 완화를 강력히 추구하지 않았다고 말한다.",
       "summary_ko": ""
     },
     {
-      "title": "Hungary’s March inflation rises to 1.8%, below forecasts",
-      "link": "https://www.investing.com/news/economic-indicators/hungarys-march-inflation-rises-to-18-below-forecasts-93CH-4602308",
+      "title": "FedEx trucking spinoff targets 2026 operating margin of 12%",
+      "link": "https://www.investing.com/news/stock-market-news/fedex-freight-targets-up-to-12-operating-profit-growth-ahead-of-spinoff-4603105",
       "summary": "",
-      "title_ko": "헝가리의 3월 물가상승률은 1.8% 로 전망치를 밑돌았다.",
+      "title_ko": "FedEx 트럭 스핀오프 목표 2026년 영업이익률 12%",
       "summary_ko": ""
     },
     {
-      "title": "Germany’s February industrial orders up, albeit far below forecasts",
-      "link": "https://www.investing.com/news/economic-indicators/german-industrial-orders-rise-09-in-february-4601937",
+      "title": "Chinese electric truck maker Windrose makes first US delivery",
+      "link": "https://www.investing.com/news/stock-market-news/chinese-electric-truck-maker-windrose-makes-first-us-delivery-4603444",
       "summary": "",
-      "title_ko": "독일의 2월 산업 주문은 증가했지만, 예측치에 훨씬 못 미쳤습니다.",
+      "title_ko": "중국 전기 트럭 메이커 윈드로즈, 미국 첫 납품",
       "summary_ko": ""
     },
     {
-      "title": "UK construction activity falls for 15th straight month amid housing slump",
-      "link": "https://www.investing.com/news/economic-indicators/uk-construction-activity-falls-for-15th-straight-month-amid-housing-slump-4602213",
+      "title": "Crude Oil Inventories Show Unexpected Rise, Defying Forecasts",
+      "link": "https://www.investing.com/news/economic-indicators/crude-oil-inventories-show-unexpected-rise-defying-forecasts-93CH-4603456",
       "summary": "",
-      "title_ko": "영국 건설 활동, 주택 부진 속에서 15개월 연속 하락",
+      "title_ko": "원유 재고는 예기치 않은 상승을 보여주고 예측을 무시합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Fed Minutes to offer insights into March hold decision amid hawkish outlook",
+      "title": "Iran’s shattered economy means any success in war may be fleeting",
+      "link": "https://www.investing.com/news/economic-indicators/irans-shattered-economy-means-any-success-in-war-may-be-fleeting-4603352",
+      "summary": "",
+      "title_ko": "이란의 산산조각난 경제는 전쟁에서의 모든 성공이 순식간에 이루어질 수 있음을 의미한다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Developing countries in Europe, Central Asia face slowdown, World Bank says",
+      "link": "https://www.investing.com/news/economic-indicators/developing-countries-in-europe-central-asia-face-slowdown-world-bank-says-4603298",
+      "summary": "",
+      "title_ko": "세계은행에 따르면 유럽과 중앙아시아의 개발도상국들은 경기 둔화에 직면해 있다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "World Bank expects stronger exports to lift Western Balkans growth to average 3.1% in 2026-27",
+      "link": "https://www.investing.com/news/economic-indicators/world-bank-expects-stronger-exports-to-lift-western-balkans-growth-to-average-31-in-202627-4603283",
+      "summary": "",
+      "title_ko": "세계은행은 강력한 수출이 2026 ~ 27년 서부 발칸반도의 성장률을 평균 3.1% 로 끌어올릴 것으로 예상하고 있다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Fed Minutes to provide clues on March hold as war-related inflation fears mount",
       "link": "https://www.fxstreet.com/news/fed-minutes-to-offer-insights-into-march-hold-decision-amid-hawkish-outlook-202604081315",
       "summary": "The Federal Reserve (Fed) will publish its Minutes from the March 18 meeting on Wednesday. The release should be less about the decision itself and more about the officials’ “no rush to cut” narrative.",
-      "title_ko": "Fed Minutes, 매파적인 전망 속에서 3월 보류 결정에 대한 통찰력 제공",
+      "title_ko": "전쟁 관련 인플레이션 우려가 커짐에 따라 3월 보류에 대한 단서를 제공하는 연준 회의록",
       "summary_ko": "연방준비제도 (Fed) 는 3월 18일 수요일 회의록을 발표할 예정입니다. 석방은 결정 자체에 관한 것이 아니라 관리들의 \"서두르지 않는\" 이야기에 관한 것이어야 합니다."
     },
     {
-      "title": "Copper: From laggard to potential outperformer – Commerzbank",
-      "link": "https://www.fxstreet.com/news/copper-from-laggard-to-potential-outperformer-commerzbank-202604081306",
-      "summary": "Commerzbank’s Thu Lan Nguyen notes Copper has turned into a top performer after being one of the weakest metals, pressured by rising LME stocks and mixed supply news.",
-      "title_ko": "구리: 지체에서 잠재적 우위로 – Commerzbank",
-      "summary_ko": "코메르츠방크의 투 란 응우옌 (Thu Lan Nguyen) 은 구리가 LME 재고 증가와 혼합 공급 소식에 압력을 받아 가장 약한 금속 중 하나가 된 후 최고 실적을 기록했다고 지적합니다."
+      "title": "Canada: Tariff shock lessons shape policy – RBC",
+      "link": "https://www.fxstreet.com/news/canada-tariff-shock-lessons-shape-policy-rbc-202604081403",
+      "summary": "Royal Bank of Canada (RBC) analysts review how Canada has weathered one year of U.S. tariff shocks. They note that Canada’s Gross Domestic Product (GDP) and unemployment held up, but sectoral and regional damage was sign",
+      "title_ko": "캐나다: 관세 충격 교훈 정책 형성 – RBC",
+      "summary_ko": "캐나다왕립은행 (RBC) 분석가들은 캐나다가 1년간의 미국 관세 충격을 어떻게 극복했는지 검토한다. 그들은 캐나다의 국내 총생산 (GDP) 과 실업률이 상승했지만, 부문별 및 지역별 피해는 징후였다고 지적했다."
     }
   ]
 }

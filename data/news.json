@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-04-09 21:10:32 UTC",
+  "updated_at_utc": "2026-04-09 22:05:29 UTC",
   "items": [
     {
-      "title": "CarMax settles with activist Starboard with two new board appointments",
-      "link": "https://www.investing.com/news/stock-market-news/carmax-settles-with-activist-starboard-with-two-new-board-appointments-4606750",
+      "title": "USA Rare Earth considers building French magnet plant",
+      "link": "https://www.investing.com/news/stock-market-news/usa-rare-earth-considers-building-french-magnet-plant-4606084",
       "summary": "",
-      "title_ko": "CarMax는 두 가지 새로운 이사회 약속을 통해 활동가 우현과 함께 정착합니다.",
+      "title_ko": "미국 희토류, 프랑스 자석 공장 건설 고려",
       "summary_ko": ""
     },
     {
-      "title": "US considers new crackdown on Chinese telecom companies, FCC says",
-      "link": "https://www.investing.com/news/stock-market-news/us-considers-new-crackdown-on-chinese-telecom-companies-fcc-says-4606734",
+      "title": "Bitcoin moves higher as risk assets catch a bid on hopes of stable Iran ceasefire",
+      "link": "https://www.investing.com/news/stock-market-news/bitcoin-slips-below-71k-amid-doubts-over-iran-ceasefire-4604616",
       "summary": "",
-      "title_ko": "FCC는 미국이 중국 통신사에 대한 새로운 단속을 고려하고 있다고 밝혔다.",
+      "title_ko": "비트코인은 리스크 자산이 안정적인 이란 휴전의 희망에 입찰을 함에 따라 더 높아집니다",
       "summary_ko": ""
     },
     {
-      "title": "SiFive raises $400 million from Atreides, Nvidia for data-center chip technology",
-      "link": "https://www.investing.com/news/stock-market-news/sifive-raises-400-million-from-atreides-nvidia-for-datacenter-chip-technology-4605722",
+      "title": "Mexico stocks higher at close of trade; S&amp;P/BMV IPC up 0.13%",
+      "link": "https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-013-4606840",
       "summary": "",
-      "title_ko": "SiFive, 데이터 센터 칩 기술로 엔비디아 Atreides로부터 4억 $ 모금",
+      "title_ko": "멕시코는 거래 마감 시점에서 더 높은 주식을 보유하고 있으며, S&amp;P/BMV IPC는 0.13% 상승",
       "summary_ko": ""
     },
     {
-      "title": "USTR’s Greer sees no changes in data rules that bar Chinese vehicles from US",
-      "link": "https://www.investing.com/news/stock-market-news/ustrs-greer-sees-no-changes-in-data-rules-that-bar-chinese-vehicles-from-us-4606651",
+      "title": "Colombia stocks higher at close of trade; COLCAP up 0.36%",
+      "link": "https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-036-4606829",
       "summary": "",
-      "title_ko": "USTR의 Greer는 중국 차량의 미국 출입을 금지하는 데이터 규칙을 변경하지 않습니다.",
+      "title_ko": "콜롬비아는 거래 종료 시점에 더 높은 주식을 보유하고 있으며 COLCAP는 0.36% 상승했습니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Venezuela legislature approves mining law meant to open sector to foreign investment",
+      "link": "https://www.investing.com/news/economic-indicators/venezuela-legislature-approves-mining-law-meant-to-open-sector-to-foreign-investment-4606787",
+      "summary": "",
+      "title_ko": "베네수엘라 입법부는 외국인 투자에 부문을 개방하기 위한 광업법을 승인합니다",
       "summary_ko": ""
     },
     {
@@ -51,25 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Natural gas storage report shows higher-than-expected increase",
-      "link": "https://www.investing.com/news/economic-indicators/natural-gas-storage-report-shows-higherthanexpected-increase-93CH-4606049",
-      "summary": "",
-      "title_ko": "천연가스 저장량 보고서에 따르면 예상보다 높은 증가율을 보였습니다.",
-      "summary_ko": ""
+      "title": "USD/JPY Price Forecast: Head-and-shoulders signals downside risk",
+      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-head-and-shoulders-signals-downside-risk-202604092158",
+      "summary": "USD/JPY rises and tests the 20-day Simple Moving Average (SMA) at 159.19 on Thursday, yet it retreated amid an improvement in risk appetite, a headwind to the safe-haven appeal of the US Dollar. At the time of writing, t",
+      "title_ko": "USD/JPY 가격 예측: 헤드 앤 숄더가 하방 위험을 나타냄",
+      "summary_ko": "USD/JPY는 목요일 159.19에서 20 일 단순 이동 평균 (SMA) 을 상승하고 테스트하지만 미국 달러의 안전 호소에 대한 역풍 인 위험 식욕의 향상 속에서 후퇴했습니다. 서면 작성 시, t"
     },
     {
-      "title": "EUR/USD nears 1.1700 as truce hopes and weak Dollar lift pair now",
-      "link": "https://www.fxstreet.com/news/eur-usd-nears-11700-as-truce-hopes-and-weak-dollar-lift-pair-now-202604092043",
-      "summary": "The EUR/USD edges higher by some 0.33% as risk appetite improves, as Israel and Lebanon seem ready to begin peace talks, even though hostilities continued. This weighed on the US Dollar, which is on the back foot, down 0",
-      "title_ko": "EUR/USD는 지금 휴전 희망과 약한 달러 리프트 쌍으로 1.1700에 근접합니다",
-      "summary_ko": "적대 행위가 계속되었음에도 불구하고 이스라엘과 레바논이 평화 협상을 시작할 준비가 된 것처럼 보이기 때문에 위험 욕구가 개선됨에 따라 EUR/USD는 0.33% 상승했다. 이것은 뒷발에 있는 미국 달러의 무게가 0으로 떨어졌습니다."
-    },
-    {
-      "title": "Gold nears $4,800 as softer Dollar and yields lift demand",
-      "link": "https://www.fxstreet.com/news/gold-nears-4-800-as-softer-dollar-and-yields-lift-demand-202604092005",
-      "summary": "Gold price (XAU/USD) resumed its rally on Thursday after Israeli Prime Minister Benjamin Netanyahu said that he is open to negotiations with Lebanon. This, along with broad US Dollar weakness, keeps the yellow metal unde",
-      "title_ko": "금은 더 부드러운 달러로 $ 4,800에 근접하고 리프트 수요를 산출합니다",
-      "summary_ko": "베냐민 네타냐후 이스라엘 총리가 레바논과의 협상에 열려 있다고 말한 후 금 가격 (XAU/USD) 이 목요일에 집회를 재개했다. 이것은 광범위한 미국 달러 약점과 함께 노란색 금속을 유지합니다."
+      "title": "NZD/USD surges as geopolitics and Fed stance favor the Kiwi",
+      "link": "https://www.fxstreet.com/news/nzd-usd-surges-as-geopolitics-and-fed-stance-favor-the-kiwi-202604092138",
+      "summary": "The NZD/USD pair is trading muted near 0.5860 on Friday, after climbing for four straight days, hovering near recent highs as the US Dollar (USD) remains supported by a combination of geopolitical tensions and a cautious",
+      "title_ko": "지정학적으로 NZD/USD가 급등하고 Fed는 키위에게 유리한 입장을 취함",
+      "summary_ko": "NZD/USD 쌍은 4 일 연속 상승한 후 금요일 0.5860 근처에서 음소거되어 미국 달러 (USD) 가 지정 학적 긴장과 신중한 정책의 조합에 의해 지원됨에 따라 최근 최고치 근처에서 맴돌고 있습니다."
     }
   ]
 }

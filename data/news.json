@@ -1,32 +1,53 @@
 {
-  "updated_at_utc": "2026-04-09 07:00:17 UTC",
+  "updated_at_utc": "2026-04-09 08:50:30 UTC",
   "items": [
     {
-      "title": "Kia boosts investment plan by 30% over the next four years; shares fall",
-      "link": "https://www.investing.com/news/stock-market-news/south-koreas-kia-cuts-2030-ev-target-over-20-plans-humanoid-robots-at-us-factory-4604516",
+      "title": "Exosens shares fall 6% after discounted block trade",
+      "link": "https://www.investing.com/news/stock-market-news/exosens-shares-fall-6-after-discounted-block-trade-4604694",
       "summary": "",
-      "title_ko": "기아차, 향후 4년간 투자 계획 30% 확대, 주가 하락",
+      "title_ko": "블록 거래 할인 후 엑소센스 주식 6% 하락",
       "summary_ko": ""
     },
     {
-      "title": "Asian stocks in sober mood as oil rises on Middle East truce doubts",
-      "link": "https://www.investing.com/news/stock-market-news/asia-stocks-turn-cautious-as-reality-intrudes-in-gulf-4604466",
+      "title": "China’s car sales extend declines in March",
+      "link": "https://www.investing.com/news/stock-market-news/chinas-car-sales-extend-declines-in-march-4604693",
       "summary": "",
-      "title_ko": "중동 정전협정 의심에 대한 석유 상승으로 정신이 번쩍 든 아시아 증시",
+      "title_ko": "3월 중국 자동차 판매량 감소폭 확대",
       "summary_ko": ""
     },
     {
-      "title": "Uniqlo owner Fast Retailing books 29.4% rise in Q2 profit",
-      "link": "https://www.investing.com/news/stock-market-news/uniqlo-owner-fast-retailing-books-294-rise-in-q2-profit-4604617",
+      "title": "Citi stays bullish on European Banks, upgrades two stocks",
+      "link": "https://www.investing.com/news/stock-market-news/citi-stays-bullish-on-european-banks-upgrades-two-stocks-4604682",
       "summary": "",
-      "title_ko": "유니클로 오너 Fast Retailing books 2분기 이익 29.4% 증가",
+      "title_ko": "Citi는 유럽 은행에서 강세를 유지하고 두 개의 주식을 업그레이드합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Bitcoin slips below $71k amid doubts over Iran ceasefire",
-      "link": "https://www.investing.com/news/stock-market-news/bitcoin-slips-below-71k-amid-doubts-over-iran-ceasefire-4604616",
+      "title": "European shares pause after rally as US-Iran truce shows signs of strain",
+      "link": "https://www.investing.com/news/stock-market-news/european-shares-pause-after-rally-as-usiran-truce-shows-signs-of-strain-4604652",
       "summary": "",
-      "title_ko": "이란 휴전에 대한 의구심 속에서 비트코인은 $ 71k 미만으로 전락했습니다",
+      "title_ko": "미국-이란 휴전이 긴장의 징후를 보임에 따라 유럽 주식은 랠리 후 일시 중지됩니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "New Zealand central bank ready to raise rates if Middle East crisis fuels inflation",
+      "link": "https://www.investing.com/news/economic-indicators/new-zealand-central-bank-ready-to-raise-rates-if-middle-east-crisis-fuels-inflation-93CH-4604696",
+      "summary": "",
+      "title_ko": "중동 위기가 인플레이션을 부추길 경우 금리를 인상할 준비가 된 뉴질랜드 중앙은행",
+      "summary_ko": ""
+    },
+    {
+      "title": "German industrial output fall points to weak quarter, economists say",
+      "link": "https://www.investing.com/news/economic-indicators/german-industrial-output-falls-unexpectedly-in-february-4604538",
+      "summary": "",
+      "title_ko": "경제학자들은 독일 산업 생산이 약한 분기를 가리킨다고 말한다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "German industrial production falls in February amid energy price pressures",
+      "link": "https://www.investing.com/news/economic-indicators/german-industrial-production-falls-in-february-amid-energy-price-pressures-93CH-4604573",
+      "summary": "",
+      "title_ko": "독일 산업 생산은 에너지 가격 압박 속에서 2월에 하락합니다.",
       "summary_ko": ""
     },
     {
@@ -37,39 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "World Bank trims Latin America growth estimate for 2026",
-      "link": "https://www.investing.com/news/economic-indicators/world-bank-trims-latin-america-growth-estimate-for-2026-4604317",
-      "summary": "",
-      "title_ko": "세계은행, 2026년 라틴아메리카 성장률 추정치 산정",
-      "summary_ko": ""
+      "title": "GBP/USD: Upside risk hinges on 1.3480 close – UOB",
+      "link": "https://www.fxstreet.com/news/gbp-usd-upside-risk-hinges-on-13480-close-uob-202604090756",
+      "summary": "UOB strategists Quek Ser Leang and Lee Sue Ann note that GBP/USD briefly broke above 1.3480 before retreating to the mid‑1.33s, suggesting a near‑term consolidation band between 1.3350 and 1.3450.",
+      "title_ko": "GBP/USD: 상향식 위험 힌지 1.3480 종결 – UOB",
+      "summary_ko": "UOB 전략가인 퀘크 세르 레앙 (Quek Ser Leang) 과 리 수 앤 (Lee Sue Ann) 은 GBP/USD가 1.3480 이상으로 잠시 하락한 후 1.33 초 중반으로 후퇴하여 1.3350에서 1.3450 사이의 단기 통합 대역을 제안했다고 언급했다."
     },
     {
-      "title": "Constellation Brands posts smaller‑than‑expected quarterly sales drop on steady Mexican beer demand",
-      "link": "https://www.investing.com/news/economic-indicators/constellation-brands-posts-smallerthanexpected-quarterly-sales-drop-on-steady-mexican-beer-demand-4604238",
-      "summary": "",
-      "title_ko": "Constellation Brands는 꾸준한 멕시코 맥주 수요에 따라 예상보다 작은 분기별 매출 하락을 기록합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Canada’s Carney on verge of majority government after another opposition member joins ruling Liberals",
-      "link": "https://www.investing.com/news/economic-indicators/canada-pm-carney-on-verge-of-majority-after-opposition-member-joins-ruling-liberals-4603560",
-      "summary": "",
-      "title_ko": "또 다른 야당 의원이 여당 자유당에 합류한 후 다수 정부를 앞두고 있는 캐나다의 카니",
-      "summary_ko": ""
-    },
-    {
-      "title": "EUR/GBP posts modest gains above 0.8700 despite weak German Industrial Production data",
-      "link": "https://www.fxstreet.com/news/eur-gbp-posts-modest-gains-above-08700-despite-weak-german-industrial-production-data-202604090655",
-      "summary": "The EUR/GBP cross posts modest gains near 0.8710 during the early European trading hours on Thursday. The Euro (EUR) remains firm despite the downbeat German Industrial Production report.",
-      "title_ko": "약한 독일 산업 생산 데이터에도 불구하고 EUR/GBP는 0.8700 이상의 소폭 증가를 기록했습니다.",
-      "summary_ko": "EUR/GBP는 목요일 초기 유럽 거래 시간 동안 0.8710 근처의 소폭 상승을 기록합니다. 유로화 (EUR) 는 낙후된 독일 산업 생산 보고서에도 불구하고 확고하게 유지되고 있습니다."
-    },
-    {
-      "title": "Gold keeps the red above $4,700 amid ceasefire uncertainty, ahead of US PCE data",
-      "link": "https://www.fxstreet.com/news/gold-remains-depressed-as-skepticism-over-us-iran-truce-supports-usd-202604090342",
-      "summary": "Gold (XAU/USD) remains on the back foot heading into the European session on Thursday, though it manages to hold above the $4,700 mark and, for now, seems to have stalled the previous day's slide from a three-week high.",
-      "title_ko": "금은 미국 PCE 데이터보다 앞서 휴전 불확실성 속에서 빨간색을 $ 4,700 이상으로 유지합니다.",
-      "summary_ko": "금 (XAU/USD) 은 목요일 유럽 세션으로 향하는 뒷발에 남아 있지만, 현재로서는 $ 4,700 이상을 유지하고 있으며 전날의 슬라이드를 3주 최고치에서 멈춘 것으로 보입니다."
+      "title": "Australian Dollar faces pressure as Iran truce uncertainty revives risk-off impulse slightly",
+      "link": "https://www.fxstreet.com/news/australian-dollar-faces-pressure-as-iran-truce-uncertainty-revives-risk-off-impulse-slightly-202604090746",
+      "summary": "The Australian Dollar (AUD) trades lower against its major currency peers, is down 0.2% to near 0.7030 vs. the US Dollar (USD) during the European trading session on Thursday.",
+      "title_ko": "이란 정전 불확실성이 리스크 오프 충동을 약간 되살리면서 호주 달러는 압박에 직면해 있다.",
+      "summary_ko": "호주 달러 (AUD) 거래는 목요일 유럽 거래 세션에서 미국 달러 (USD) 에 비해 0.7030 근처로 0.2% 하락했습니다."
     }
   ]
 }

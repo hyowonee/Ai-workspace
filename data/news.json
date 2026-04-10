@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-04-10 20:41:18 UTC",
+  "updated_at_utc": "2026-04-10 21:40:24 UTC",
   "items": [
     {
-      "title": "Bank of Canada meets major lenders on Anthropic AI cyber threats - Bloomberg",
-      "link": "https://www.investing.com/news/stock-market-news/bank-of-canada-meets-major-lenders-on-anthropic-ai-cyber-threats--bloomberg-93CH-4608564",
+      "title": "Bessent, Powell warned bank CEOs about Anthropic model risks, sources say",
+      "link": "https://www.investing.com/news/stock-market-news/bessent-powell-warn-bank-ceos-about-anthropic-model-risks-bloomberg-news-reports-4607020",
       "summary": "",
-      "title_ko": "캐나다 은행, Anthropic AI 사이버 위협에 대한 주요 대출 기관을 만나다 - Bloomberg",
+      "title_ko": "Bessent, Powell은 Anthropic 모델 위험에 대해 은행 CEO들에게 경고했다고 소식통은 말합니다.",
       "summary_ko": ""
     },
     {
-      "title": "US earnings season set to test war-rattled stocks",
-      "link": "https://www.investing.com/news/stock-market-news/us-earnings-season-set-to-test-warrattled-stocks-4608277",
+      "title": "Vance, Bessent questioned tech giants on AI security before Anthropic’s Mythos release, CNBC reports",
+      "link": "https://www.investing.com/news/stock-market-news/vance-bessent-questioned-tech-giants-on-ai-security-before-anthropics-mythos-release-cnbc-reports-4608619",
       "summary": "",
-      "title_ko": "전쟁에 휘말린 주식을 테스트하기 위해 설정된 미국 수입 시즌",
+      "title_ko": "CNBC 보도에 따르면, 베슨트 밴스 (Vance, Bessent) 는 앤서로픽 (Anthropic) 의 미토스 (Mythos) 가 출시되기 전에 인공지능 (AI) 보안에",
       "summary_ko": ""
     },
     {
-      "title": "FAA, Pentagon sign agreement on deploying anti-drone laser system near Mexico",
-      "link": "https://www.investing.com/news/stock-market-news/faa-pentagon-sign-agreement-on-deploying-antidrone-laser-system-near-mexico-4608543",
+      "title": "Rio Tinto’s California boron assets draw interest from bidders, Bloomberg News reports",
+      "link": "https://www.investing.com/news/stock-market-news/rio-tintos-california-boron-assets-draw-interest-from-bidders-bloomberg-news-reports-4608601",
       "summary": "",
-      "title_ko": "FAA, 미 국방부, 멕시코 인근에 드론 방지 레이저 시스템 배치에 관한 협정 서명",
+      "title_ko": "블룸버그 뉴스는 리오 틴토의 캘리포니아 붕소 자산이 입찰자로부터 관심을 끌고 있다고 보도했습니다.",
       "summary_ko": ""
     },
     {
-      "title": "Proxy adviser Glass Lewis recommends Warner Bros shareholders vote for Paramount deal",
-      "link": "https://www.investing.com/news/stock-market-news/proxy-adviser-glass-lewis-recommends-warner-bros-shareholders-vote-for-paramount-deal-4608461",
+      "title": "U.S. stocks mixed at close of trade; Dow Jones Industrial Average down 0.56%",
+      "link": "https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-down-056-4608576",
       "summary": "",
-      "title_ko": "대리 고문 Glass Lewis는 Warner Bros 주주가 Paramount 거래에 투표할 것을 권장합니다.",
+      "title_ko": "미국 증시는 교역 마감 시점에서 혼조세를 보였고, 다우존스 산업평균지수는 0.56% 하락했습니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Colombia raises Ecuador tariffs to 100% as trade tensions escalate",
+      "link": "https://www.investing.com/news/economic-indicators/colombia-raises-ecuador-tariffs-to-100-as-trade-tensions-escalate-4608575",
+      "summary": "",
+      "title_ko": "콜롬비아, 무역 긴장 고조에 따라 에콰도르 관세 100% 인상",
       "summary_ko": ""
     },
     {
@@ -51,25 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "US factory orders unchanged in February for second straight month",
-      "link": "https://www.investing.com/news/economic-indicators/us-factory-orders-unchanged-in-february-for-second-straight-month-4608154",
-      "summary": "",
-      "title_ko": "2개월 연속 2월 미국 공장 주문 변동 없음",
-      "summary_ko": ""
+      "title": "Singapore: Exports boosted by electronics cycle – DBS",
+      "link": "https://www.fxstreet.com/news/singapore-exports-boosted-by-electronics-cycle-dbs-202604102037",
+      "summary": "DBS Group Research expects Singapore’s non-oil domestic exports to rise for a seventh consecutive month in March 2026, accelerating to 10.3% year-on-year from 4.0% in February.",
+      "title_ko": "싱가포르: 전자제품 사이클에 따른 수출 증가 – DBS",
+      "summary_ko": "DBS Group Research는 2026년 3월 싱가포르의 비석유 내수 수출이 7개월 연속 증가하여 2월 4.0% 에서 전년 대비 10.3% 로 가속화될 것으로 예상합니다."
     },
     {
-      "title": "Taiwan: Trade boom drives bold growth upgrade – ING",
-      "link": "https://www.fxstreet.com/news/taiwan-trade-boom-drives-bold-growth-upgrade-ing-202604101938",
-      "summary": "ING’s Chief Economist for Greater China, Lynn Song, highlights that Taiwan’s March trade data far exceeded expectations, with exports and imports surging and the trade surplus more than doubling year-on-year in the first",
-      "title_ko": "대만: 무역 붐으로 대담한 성장 업그레이드 추진 – ING",
-      "summary_ko": "ING의 중화권 수석 이코노미스트인 린 송 (Lynn Song) 은 대만의 3월 무역 데이터가 수출과 수입이 급증하고 무역 흑자가 전년 대비 두 배 이상 증가하면서 기대치를 훨씬 초과했다고 강조합니다."
-    },
-    {
-      "title": "Gold steady near $4,760 as Iran talks weigh on US Dollar",
-      "link": "https://www.fxstreet.com/news/gold-steady-near-4-760-as-iran-talks-weigh-on-us-dollar-202604101914",
-      "summary": "Gold (XAU/USD) price remains steady on Friday, poised to finish the week with gains of almost 2% as the US Dollar tumbles amid optimism about Iran-US talks in Pakistan throughout the weekend. Also, a mildly high US infla",
-      "title_ko": "이란과의 대화에서 금은 $ 4,760 근처에서 꾸준히 미국 달러에 무게를 두고 있습니다.",
-      "summary_ko": "금 (XAU/USD) 가격은 주말 내내 파키스탄에서 이란-미국 회담에 대한 낙관 속에서 미국 달러가 하락함에 따라 거의 2% 의 상승으로 한 주를 마무리할 태세를 유지하고 있다. 또한, 약간 높은 미국 infla"
+      "title": "AUD/USD Price Forecast: Aussie rejected at 0.7100, upside risks persist",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-rejected-at-07100-yet-upside-risks-remain-202604102015",
+      "summary": "The Australian Dollar (AUD) is poised to end Friday’s session flat against the US Dollar (USD), even though an improvement in market mood drove the Greenback toward four-week lows near 98.52, according to the US Dollar I",
+      "title_ko": "AUD/USD 가격 예측: 호주가 0.7100에서 거부됨, 업사이드 리스크 지속",
+      "summary_ko": "호주 달러 (AUD) 는 시장 분위기의 개선으로 그린백이 98.52 주 근처의 4 주 최저치를 기록했음에도 불구하고 미국 달러 (USD) 에 대한 금요일 세션을 끝낼 준비가되어 있습니다. 미국 달러 I에 따르면"
     }
   ]
 }

@@ -1,6 +1,27 @@
 {
-  "updated_at_utc": "2026-04-09 23:09:55 UTC",
+  "updated_at_utc": "2026-04-10 00:02:16 UTC",
   "items": [
+    {
+      "title": "Anthropic weighs building its own AI chips- Reuters",
+      "link": "https://www.investing.com/news/stock-market-news/anthropic-weighs-building-its-own-ai-chips-reuters-4606984",
+      "summary": "",
+      "title_ko": "Anthropic은 자체 AI 칩을 만드는 데 중점을 둡니다. - Reuters",
+      "summary_ko": ""
+    },
+    {
+      "title": "Meta pulls ads aimed at recruiting plaintiffs for social media addiction lawsuits",
+      "link": "https://www.investing.com/news/stock-market-news/meta-pulls-ads-aimed-at-recruiting-plaintiffs-for-social-media-addiction-lawsuits-4606983",
+      "summary": "",
+      "title_ko": "Meta는 소셜 미디어 중독 소송을 위해 원고 모집을 목적으로 광고를 가져옵니다",
+      "summary_ko": ""
+    },
+    {
+      "title": "Exclusive-Anthropic weighs building it own AI chips, sources say",
+      "link": "https://www.investing.com/news/stock-market-news/exclusiveanthropic-weighs-building-it-own-ai-chips-sources-say-4606979",
+      "summary": "",
+      "title_ko": "독점적-인류학은 자체 AI 칩을 구축하는 데 무게가 있다고 소식통은 말합니다.",
+      "summary_ko": ""
+    },
     {
       "title": "Elon Musk’s xAI sues Colorado over state’s new AI law",
       "link": "https://www.investing.com/news/stock-market-news/elon-musks-xai-sues-colorado-over-states-new-ai-law-4606964",
@@ -9,24 +30,10 @@
       "summary_ko": ""
     },
     {
-      "title": "Fitch cuts FS KKR Capital rating to junk territory as asset quality weakens",
-      "link": "https://www.investing.com/news/stock-market-news/fitch-cuts-fs-kkr-capital-rating-to-junk-territory-as-asset-quality-weakens-4606962",
+      "title": "Venezuela approves mining law to encourage foreign investment",
+      "link": "https://www.investing.com/news/economic-indicators/venezuela-legislature-approves-mining-law-meant-to-open-sector-to-foreign-investment-4606787",
       "summary": "",
-      "title_ko": "Fitch는 자산 품질이 약화됨에 따라 FS KKR 자본 등급을 정크 영역으로 삭감합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Lockheed Martin wins $4.76 billion missile production contract",
-      "link": "https://www.investing.com/news/stock-market-news/lockheed-martin-wins-476-billion-missile-production-contract-93CH-4606888",
-      "summary": "",
-      "title_ko": "록히드마틴, 47억 6천만 달러 규모 미사일 생산 계약 수주 ($ 4.76 billion missile production contract",
-      "summary_ko": ""
-    },
-    {
-      "title": "USA Rare Earth considers building French magnet plant",
-      "link": "https://www.investing.com/news/stock-market-news/usa-rare-earth-considers-building-french-magnet-plant-4606084",
-      "summary": "",
-      "title_ko": "미국 희토류, 프랑스 자석 공장 건설 고려",
+      "title_ko": "베네수엘라는 외국인 투자를 장려하기 위해 광업법을 승인합니다",
       "summary_ko": ""
     },
     {
@@ -34,13 +41,6 @@
       "link": "https://www.investing.com/news/economic-indicators/ecuador-raises-tariffs-on-colombia-to-100-from-50-4606947",
       "summary": "",
       "title_ko": "에콰도르, 콜롬비아 관세 50% 에서 100% 로 인상",
-      "summary_ko": ""
-    },
-    {
-      "title": "Venezuela legislature approves mining law meant to open sector to foreign investment",
-      "link": "https://www.investing.com/news/economic-indicators/venezuela-legislature-approves-mining-law-meant-to-open-sector-to-foreign-investment-4606787",
-      "summary": "",
-      "title_ko": "베네수엘라 입법부는 외국인 투자에 부문을 개방하기 위한 광업법을 승인합니다",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "GBP/USD grinds higher but 1.3450 resistance refuses to budge",
-      "link": "https://www.fxstreet.com/news/gbp-usd-grinds-higher-but-13450-resistance-refuses-to-budge-202604092234",
-      "summary": "GBP/USD added 0.31% on Thursday, pushing into the mid-1.3400s as the US-Iran ceasefire continued to weigh on the US Dollar. But the rally is starting to feel laboured.",
-      "title_ko": "GBP/USD는 더 높게 그라인딩되지만 1.3450 저항은 동요를 거부합니다",
-      "summary_ko": "GBP/USD는 목요일에 0.31% 를 추가하여 미국-이란 휴전이 미국 달러에 계속 무게를 실으면서 1.3400년대 중반으로 밀려났다. 그러나 집회는 진통을 느끼기 시작했습니다."
+      "title": "When are the China’s CPI, PPI and how could they affect AUD/USD?",
+      "link": "https://www.fxstreet.com/news/when-are-the-chinas-cpi-ppi-and-how-could-they-affect-aud-usd-202604092329",
+      "summary": "The National Bureau of Statistics of China (NBS) will publish its data for March at 01.30 GMT. The Consumer Price Index (CPI) is expected to show a rise of 1.2% YoY in March, compared to 1.3% in February.",
+      "title_ko": "중국의 CPI, PPI는 언제이며 어떻게 AUD/USD에 영향을 미칠 수 있습니까?",
+      "summary_ko": "중국 국가 통계국 (NBS) 은 3월 01.30 GMT에 데이터를 발표할 예정입니다. 소비자물가지수 (CPI) 는 3월에 전년 동기 대비 1.2% 상승할 것으로 예상되며, 2월에는 1.3% 상승할 것으로 예상됩니다."
     },
     {
-      "title": "AUD/USD climbs as ceasefire rally meets a PCE wall",
-      "link": "https://www.fxstreet.com/news/aud-usd-climbs-as-ceasefire-rally-meets-a-pce-wall-202604092207",
-      "summary": "AUD/USD rose 0.56% on Thursday, extending its winning streak to four sessions as the ceasefire-driven risk rally continued to lift the Aussie Dollar.",
-      "title_ko": "휴전 집회가 PCE 벽을 만나면서 AUD/USD가 상승",
-      "summary_ko": "AUD/USD는 목요일에 0.56% 상승하여 휴전 중심의 위험 랠리가 호주 달러를 계속 인상함에 따라 연승 행진을 4회로 연장했습니다."
+      "title": "Gold declines to near $4,750 as oil-driven inflation worries weigh ahead of US CPI data",
+      "link": "https://www.fxstreet.com/news/gold-declines-to-near-4-750-as-oil-driven-inflation-worries-weigh-ahead-of-us-cpi-data-202604092311",
+      "summary": "Gold price (XAU/USD) trades with mild losses near $4,760 during the early Asian session on Friday. The precious metal declines as market uncertainty persists regarding the fragility of the US-Iran ceasefire and reports o",
+      "title_ko": "석유 중심의 인플레이션 우려가 미국 CPI 데이터보다 무겁기 때문에 금은 거의 $ 4,750까지 하락합니다.",
+      "summary_ko": "금 가격 (XAU/USD) 은 금요일 아시아 세션 초반에 약 $ 4,760의 손실로 거래됩니다. 미국-이란 휴전의 취약성에 대한 시장 불확실성이 지속됨에 따라 귀금속이 감소하고 보고 o"
     }
   ]
 }

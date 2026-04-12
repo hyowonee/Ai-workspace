@@ -1,11 +1,18 @@
 {
-  "updated_at_utc": "2026-04-12 22:37:21 UTC",
+  "updated_at_utc": "2026-04-12 23:38:18 UTC",
   "items": [
     {
       "title": "US FTC in settlement talks with ad companies in boycott probe, WSJ reports",
       "link": "https://www.investing.com/news/stock-market-news/us-ftc-in-settlement-talks-with-ad-companies-in-boycott-probe-wsj-reports-4609110",
       "summary": "",
       "title_ko": "미국 연방거래위원회 (FTC) 가 보이콧 조사에서 광고 회사들과 합의 협상 중이라고 WSJ가 보도했다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Dollar jumps as failed US-Iran peace talks spark safe-haven push",
+      "link": "https://www.investing.com/news/stock-market-news/dollar-jumps-as-failed-usiran-peace-talks-spark-safehaven-push-4609115",
+      "summary": "",
+      "title_ko": "실패한 미국-이란 평화 회담이 안전을 촉발시키면서 달러가 뛰어오른다.",
       "summary_ko": ""
     },
     {
@@ -20,13 +27,6 @@
       "link": "https://www.investing.com/news/stock-market-news/artemis-ii-astronauts-safely-back-on-earth-after-historic-trip-around-moon-4609098",
       "summary": "",
       "title_ko": "아르테미스 2세의 우주비행사들은 역사적인 달 탐사 후 지구로 안전하게 귀환했습니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "GSK sees blockbuster potential in targeted cancer therapy after promising early data",
-      "link": "https://www.investing.com/news/stock-market-news/gsk-sees-blockbuster-potential-in-targeted-cancer-therapy-after-promising-early-data-4609094",
-      "summary": "",
-      "title_ko": "GSK는 초기 데이터를 약속한 후 표적 암 치료에서 블록버스터 잠재력을 봅니다",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Middle East War updates: US-Iran peace talks fail, Trump threatens to blockade Strait of Hormuz",
-      "link": "https://www.fxstreet.com/news/middle-east-war-updates-us-iran-peace-talks-fail-trump-threatens-to-blockade-strait-of-hormuz-202604122211",
-      "summary": "Here’s all you need to know about the developments in the Middle East war that took place over the weekend, which are expected to have a significant impact on the markets in the upcoming week.",
-      "title_ko": "중동 전쟁 업데이트: 미국-이란 평화 회담 실패, 트럼프, 호르무즈 해협 봉쇄 위협",
-      "summary_ko": "주말에 일어난 중동 전쟁의 발전에 대해 알아야 할 모든 것은 다음과 같습니다. 이는 다음 주 시장에 큰 영향을 미칠 것으로 예상됩니다."
+      "title": "WTI jumps roughly 8% toward $100 as US blockades Strait of Hormuz",
+      "link": "https://www.fxstreet.com/news/wti-jumps-roughly-8-toward-100-as-us-blockades-strait-of-hormuz-202604122314",
+      "summary": "West Texas Intermediate (WTI) – the US oil benchmark – has opened the week with a bullish gap, climbing roughly 8%, looking to retarget the $100 threshold.",
+      "title_ko": "미국이 호르무즈 해협을 봉쇄함에 따라 WTI가 $ 100로 약 8% 뛰어오름",
+      "summary_ko": "미국 석유 벤치마크인 서부 텍사스 중급 (West Texas Intermediate, WTI) 은 이번 주에 약 8% 상승한 강세를 보이며 $ 100 임계값을 재목표로 잡을 것으로 보인다."
     },
     {
-      "title": "China: Inflation pressures build with energy – ING",
-      "link": "https://www.fxstreet.com/news/china-inflation-pressures-build-with-energy-ing-202604102302",
-      "summary": "ING’s Chief Economist for Greater China, Lynn Song, notes that China’s CPI inflation eased to 1.0% year-on-year after Lunar New Year, while PPI turned positive for the first time since 2022.",
-      "title_ko": "중국: 에너지로 인플레이션 압력 증가 – ING",
-      "summary_ko": "ING의 린 송 (Lynn Song) 중화권 수석 이코노미스트는 중국의 CPI 인플레이션이 설 연휴 이후 전년 대비 1.0% 로 완화된 반면 PPI는 2022년 이후 처음으로 긍정적으로 전환했다고 지적했다."
+      "title": "Japanese Yen falls as US Dollar rises after US–Iran talks collapse",
+      "link": "https://www.fxstreet.com/news/japanese-yen-falls-as-us-dollar-rises-after-us-iran-talks-collapse-202604122304",
+      "summary": "USD/JPY extends its winning streak for the third successive day, trading around 159.80 during the Asian hours on Monday.",
+      "title_ko": "미국-이란 회담 붕괴 후 미국 달러가 상승함에 따라 일본 엔화 하락",
+      "summary_ko": "USD/JPY는 월요일 아시아 시간 동안 약 159.80에 거래되는 3 일 연속으로 연승 행진을 연장합니다."
     }
   ]
 }

@@ -1,6 +1,13 @@
 {
-  "updated_at_utc": "2026-04-12 21:37:41 UTC",
+  "updated_at_utc": "2026-04-12 22:37:21 UTC",
   "items": [
+    {
+      "title": "US FTC in settlement talks with ad companies in boycott probe, WSJ reports",
+      "link": "https://www.investing.com/news/stock-market-news/us-ftc-in-settlement-talks-with-ad-companies-in-boycott-probe-wsj-reports-4609110",
+      "summary": "",
+      "title_ko": "미국 연방거래위원회 (FTC) 가 보이콧 조사에서 광고 회사들과 합의 협상 중이라고 WSJ가 보도했다.",
+      "summary_ko": ""
+    },
     {
       "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
       "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4609107",
@@ -20,13 +27,6 @@
       "link": "https://www.investing.com/news/stock-market-news/gsk-sees-blockbuster-potential-in-targeted-cancer-therapy-after-promising-early-data-4609094",
       "summary": "",
       "title_ko": "GSK는 초기 데이터를 약속한 후 표적 암 치료에서 블록버스터 잠재력을 봅니다",
-      "summary_ko": ""
-    },
-    {
-      "title": "US earnings season set to test war-rattled stocks",
-      "link": "https://www.investing.com/news/stock-market-news/us-earnings-season-set-to-test-warrattled-stocks-4609049",
-      "summary": "",
-      "title_ko": "전쟁에 휘말린 주식을 테스트하기 위해 설정된 미국 수입 시즌",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
+      "title": "Middle East War updates: US-Iran peace talks fail, Trump threatens to blockade Strait of Hormuz",
+      "link": "https://www.fxstreet.com/news/middle-east-war-updates-us-iran-peace-talks-fail-trump-threatens-to-blockade-strait-of-hormuz-202604122211",
+      "summary": "Here’s all you need to know about the developments in the Middle East war that took place over the weekend, which are expected to have a significant impact on the markets in the upcoming week.",
+      "title_ko": "중동 전쟁 업데이트: 미국-이란 평화 회담 실패, 트럼프, 호르무즈 해협 봉쇄 위협",
+      "summary_ko": "주말에 일어난 중동 전쟁의 발전에 대해 알아야 할 모든 것은 다음과 같습니다. 이는 다음 주 시장에 큰 영향을 미칠 것으로 예상됩니다."
+    },
+    {
       "title": "China: Inflation pressures build with energy – ING",
       "link": "https://www.fxstreet.com/news/china-inflation-pressures-build-with-energy-ing-202604102302",
       "summary": "ING’s Chief Economist for Greater China, Lynn Song, notes that China’s CPI inflation eased to 1.0% year-on-year after Lunar New Year, while PPI turned positive for the first time since 2022.",
       "title_ko": "중국: 에너지로 인플레이션 압력 증가 – ING",
       "summary_ko": "ING의 린 송 (Lynn Song) 중화권 수석 이코노미스트는 중국의 CPI 인플레이션이 설 연휴 이후 전년 대비 1.0% 로 완화된 반면 PPI는 2022년 이후 처음으로 긍정적으로 전환했다고 지적했다."
-    },
-    {
-      "title": "Malaysia: Solid GDP and contained inflation – DBS",
-      "link": "https://www.fxstreet.com/news/malaysia-solid-gdp-and-contained-inflation-dbs-202604102217",
-      "summary": "DBS Group Research expects Malaysia’s 1Q26 advance Gross Domestic Product (GDP) to grow 5.5% year-on-year, slightly below 6.3% in 4Q25 but still robust. Growth is seen supported by export-oriented electrical and electron",
-      "title_ko": "말레이시아: 견고한 GDP 및 인플레이션 포함 – DBS",
-      "summary_ko": "DBS Group Research는 말레이시아의 1Q26 선진 국내총생산 (GDP) 이 전년 대비 5.5% 성장하여 4Q25에서는 6.3% 에 약간 못 미치지만 여전히 견고할 것으로 예상합니다. 성장은 수출 지향적 인 전기 및 전자에 의해 뒷받침됩니다."
     }
   ]
 }

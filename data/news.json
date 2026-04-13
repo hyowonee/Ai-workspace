@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-04-13 08:08:33 UTC",
+  "updated_at_utc": "2026-04-13 10:14:51 UTC",
   "items": [
     {
-      "title": "Barclays shuffles EU electricals as Mideast war clouds construction outlook",
-      "link": "https://www.investing.com/news/stock-market-news/barclays-shuffles-eu-electricals-as-mideast-war-clouds-construction-outlook-4609302",
+      "title": "Volkswagen’s first-quarter deliveries drop 4% on weak China, US",
+      "link": "https://www.investing.com/news/stock-market-news/volkswagen-deliveries-down-at-start-of-year-weighed-by-china-woes-4609437",
       "summary": "",
-      "title_ko": "Barclays는 Mideast war clouds 건설 전망에 따라 EU 전기를 뒤섞습니다.",
+      "title_ko": "폭스바겐의 1분기 납품은 미국, 약한 중국에 4% 하락",
       "summary_ko": ""
     },
     {
-      "title": "Wise stock jumps 5% after strong quarter, eyes U.S. market debut",
-      "link": "https://www.investing.com/news/stock-market-news/wise-q4-profit-jumps-24-volumes-surge-ahead-of-us-listing-4609233",
+      "title": "Aena reports strong March traffic growth ahead of Easter",
+      "link": "https://www.investing.com/news/stock-market-news/aena-reports-strong-march-traffic-growth-ahead-of-easter-93CH-4609506",
       "summary": "",
-      "title_ko": "WISE 주가, 분기 강세 이후 5% 급등 눈길 미국 시장 데뷔",
+      "title_ko": "Aena는 부활절을 앞두고 3월의 강력한 트래픽 증가를 보고합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Kering slides after Morgan Stanley downgrade, Gucci woes loom",
-      "link": "https://www.investing.com/news/stock-market-news/kering-slides-after-morgan-stanley-downgrade-gucci-woes-loom-4609297",
+      "title": "BofA: US economy now far less vulnerable to oil price shocks",
+      "link": "https://www.investing.com/news/stock-market-news/bofa-us-economy-now-far-less-vulnerable-to-oil-price-shocks-93CH-4609502",
       "summary": "",
-      "title_ko": "모건 스탠리 다운그레이드 후 케어링 슬라이드, 구찌 우즈 직기",
+      "title_ko": "BofA: 미국 경제는 이제 유가 충격에 훨씬 덜 취약합니다.",
       "summary_ko": ""
     },
     {
-      "title": "European stocks dip amid Trump’s Hormuz blockade threat, failed Mideast talks",
-      "link": "https://www.investing.com/news/stock-market-news/european-stocks-dip-amid-trumps-hormuz-blockade-threat-failed-mideast-talks-4609286",
+      "title": "Eni CEO calls for EU to reconsider Russian gas import ban",
+      "link": "https://www.investing.com/news/stock-market-news/eni-ceo-calls-for-eu-to-reconsider-russian-gas-import-ban-93CH-4609492",
       "summary": "",
-      "title_ko": "트럼프의 호르무즈 봉쇄 위협에 유럽 증시가 침체, 중동 회담 실패",
+      "title_ko": "ENI CEO, EU에 러시아 가스 수입 금지 재검토 촉구",
+      "summary_ko": ""
+    },
+    {
+      "title": "Argentina credit stress deepens as inflation and utility costs hit households",
+      "link": "https://www.investing.com/news/economic-indicators/argentina-credit-stress-deepens-as-inflation-and-utility-costs-hit-households-4609418",
+      "summary": "",
+      "title_ko": "인플레이션 및 공공요금 비용이 가계에 영향을 미치면서 아르헨티나 신용 스트레스가 심화됩니다.",
       "summary_ko": ""
     },
     {
@@ -51,25 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "What the Trump tax breaks giveth, the gasoline pump taketh away",
-      "link": "https://www.investing.com/news/economic-indicators/what-the-trump-tax-breaks-giveth-the-gasoline-pump-taketh-away-4608231",
-      "summary": "",
-      "title_ko": "트럼프 세금 감면 혜택, 휘발유 펌프 빼앗아",
-      "summary_ko": ""
+      "title": "EUR/USD: Hungarian politics offer near-term support – ING",
+      "link": "https://www.fxstreet.com/news/eur-usd-hungarian-politics-offer-near-term-support-ing-202604130923",
+      "summary": "ING’s Chris Turner writes that EUR/USD was pressured in Asia by higher Oil after failed peace talks, but notes the pair is holding above 1.1600.",
+      "title_ko": "EUR/USD: 헝가리 정치는 단기 지원을 제공합니다 – ING",
+      "summary_ko": "ING의 크리스 터너 (Chris Turner) 는 평화 회담에 실패한 후 EUR/USD가 아시아에서 더 높은 석유에 의해 압력을 받았다고 썼지만, 두 사람은 1.1600 이상을 유지하고 있다고 지적했다."
     },
     {
-      "title": "EUR/GBP Price Forecast: Euro hesitates around 0.8700 amid cautious markets",
-      "link": "https://www.fxstreet.com/news/eur-gbp-price-forecast-euro-hesitates-around-08700-amid-cautious-markets-202604130752",
-      "summary": "EUR/USD remains trapped within a tight range between 0.8695 and 0.8725.",
-      "title_ko": "EUR/GBP 가격 예측: 유로화는 조심스러운 시장 속에서 약 0.8700을 주저합니다.",
-      "summary_ko": "EUR/USD는 0.8695와 0.8725 사이의 엄격한 범위 내에 갇혀 있습니다."
-    },
-    {
-      "title": "Australian Dollar trades mixed on renewed Middle East conflicts, job data awaited",
-      "link": "https://www.fxstreet.com/news/australian-dollar-trades-mixed-on-renewed-middle-east-conflicts-job-data-awaited-202604130749",
-      "summary": "The Australian Dollar (AUD) demonstrates a mixed performance against its major currency peers, still trading 0.2% lower to near 0.7050 against the US Dollar (USD) during the European trading session on Monday, even after",
-      "title_ko": "갱신된 중동 분쟁에서 혼재된 호주 달러 거래, 일자리 데이터가 기다리고 있음",
-      "summary_ko": "호주 달러 (AUD) 는 월요일 유럽 거래 세션에서 미국 달러 (USD) 에 대해 0.2% 낮은 0.7050 근처에서 여전히 거래되는 주요 통화 동종 업체에 대한 혼합 실적을 보여줍니다."
+      "title": "USD/INR rises as oil prices rally after US-Iran talks fail",
+      "link": "https://www.fxstreet.com/news/usd-inr-starts-the-week-strongly-as-us-iran-failed-talks-boost-oil-prices-202604130543",
+      "summary": "The Indian Rupee (INR) falls sharply in the opening trade against the US Dollar (USD) at the start of the week.",
+      "title_ko": "미국-이란 회담 실패 후 유가 상승으로 USD/INR 상승",
+      "summary_ko": "인도 루피 (INR) 는 이번 주 초 미국 달러 (USD) 에 대한 개장 거래에서 급격히 하락합니다."
     }
   ]
 }

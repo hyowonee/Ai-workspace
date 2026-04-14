@@ -1,32 +1,46 @@
 {
-  "updated_at_utc": "2026-04-14 20:06:07 UTC",
+  "updated_at_utc": "2026-04-14 21:25:30 UTC",
   "items": [
     {
-      "title": "Theater group says Paramount, Warner Bros merger ’harmful’ to industry",
-      "link": "https://www.investing.com/news/stock-market-news/theater-group-says-paramount-warner-bros-merger-harmful-to-industry-4613496",
+      "title": "Volkswagen faces Q1 charge after halting EV production in Tennessee, analysts say",
+      "link": "https://www.investing.com/news/stock-market-news/volkswagen-faces-q1-charge-after-halting-ev-production-in-tennessee-analysts-say-4613976",
       "summary": "",
-      "title_ko": "극단 파라마운트, 워너 브라더스 합병이 업계에 ’해롭다’",
+      "title_ko": "애널리스트들은 폭스바겐이 테네시에서 전기차 생산을 중단한 후 1분기 요금에 직면했다고 말한다.",
       "summary_ko": ""
     },
     {
-      "title": "Nestle, Mondelez say were not targeted by EU Commission anti-trust raids",
-      "link": "https://www.investing.com/news/stock-market-news/nestle-mondelez-say-were-not-targeted-by-eu-commission-antitrust-raids-4613369",
+      "title": "Broadcom shares gain on multi-year Meta AI chip deal",
+      "link": "https://www.investing.com/news/stock-market-news/broadcom-shares-gain-on-multiyear-meta-ai-chip-deal-93CH-4613961",
       "summary": "",
-      "title_ko": "네슬레, 몬델레즈는 EU 집행위원회 반독점 습격의 대상이 아니라고 말합니다.",
+      "title_ko": "Broadcom, 다년간의 Meta AI 칩 거래에서 이득 공유",
       "summary_ko": ""
     },
     {
-      "title": "Wall Street rises on hopes for more Iran ceasefire talks, cooler-than-expected PPI",
-      "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-steady-after-sp-500-jumps-1-bank-earnings-ahead-4611597",
+      "title": "Wall Street rallies on renewed hopes for US-Iran talks, earnings boost",
+      "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-climb-as-traders-cling-to-deescalation-hopes-await-earnings-4612028",
       "summary": "",
-      "title_ko": "월스트리트는 더 많은 이란 휴전 회담에 대한 희망에 상승, 예상보다 시원한 PPI",
+      "title_ko": "월스트리트, 미국-이란 회담에 대한 새로운 희망에 대한 집회, 수입 증대",
       "summary_ko": ""
     },
     {
-      "title": "Amazon to buy satellite firm Globalstar in $11.57 billion deal to take on Musk’s Starlink",
-      "link": "https://www.investing.com/news/stock-market-news/amazon-signs-1157-billion-deal-for-satellite-firm-globalstar-to-challenge-starlink-4612622",
+      "title": "Brazilian steelmaker CSN pushes ahead with cement unit sale",
+      "link": "https://www.investing.com/news/stock-market-news/brazilian-steelmaker-csn-pushes-ahead-with-cement-unit-sale-4613892",
       "summary": "",
-      "title_ko": "Amazon, Musk의 Starlink를 인수하기 위해 위성 회사 Globalstar를 $ 11.57 billion에 인수",
+      "title_ko": "브라질 제강사 CSN, 시멘트 유닛 판매 추진",
+      "summary_ko": ""
+    },
+    {
+      "title": "South Korea import prices rise at sharpest pace in over 3 years",
+      "link": "https://www.investing.com/news/economic-indicators/south-korea-import-prices-rise-at-sharpest-pace-in-over-3-years-4613963",
+      "summary": "",
+      "title_ko": "한국 수입가격 3년여 만에 가장 빠른 속도로 상승",
+      "summary_ko": ""
+    },
+    {
+      "title": "Crude oil inventories rise sharply, surpassing forecasts",
+      "link": "https://www.investing.com/news/economic-indicators/crude-oil-inventories-rise-sharply-surpassing-forecasts-93CH-4613903",
+      "summary": "",
+      "title_ko": "원유 재고가 예상을 뛰어넘어 급격히 증가하고 있습니다.",
       "summary_ko": ""
     },
     {
@@ -44,18 +58,11 @@
       "summary_ko": ""
     },
     {
-      "title": "US small business sentiment falls to 11-month low in March",
-      "link": "https://www.investing.com/news/economic-indicators/us-small-business-sentiment-falls-to-11month-low-in-march-4612110",
-      "summary": "",
-      "title_ko": "미국 중소기업의 3월 체감경기는 11개월래 최저치로 떨어진다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Serbia’s inflation rate rises to 2.8% in March, up from 2.5% in February",
-      "link": "https://www.investing.com/news/economic-indicators/serbias-inflation-rate-rises-to-28-in-march-up-from-25-in-february-93CH-4612100",
-      "summary": "",
-      "title_ko": "세르비아의 3월 물가상승률은 2.8% 로, 2월 물가상승률은 2.5% 에서",
-      "summary_ko": ""
+      "title": "USD/SGD: MAS tightening supports Singapore Dollar – MUFG",
+      "link": "https://www.fxstreet.com/news/usd-sgd-mas-tightening-supports-singapore-dollar-mufg-202604142002",
+      "summary": "MUFG’s Senior Currency Analyst Michael Wan notes that the Monetary Authority of Singapore (MAS) tightened its exchange rate policy in April by slightly increasing the slope of the Singapore Dollar Nominal Effective Excha",
+      "title_ko": "USD/SGD: MAS 조임 지원 싱가포르 달러 – MUFG",
+      "summary_ko": "MUFG의 수석 통화 분석가 마이클 완 (Michael Wan) 은 싱가포르 통화청 (MAS) 이 4월에 싱가포르 달러 명목 유효 엑사 (Singapore Dollar Nominal Effective Excha) 의 기울기를 약간 증가시킴으로써 환율 정책을 강화했다고 언급했다."
     },
     {
       "title": "Gold surges as Iran talks hopes dent US Dollar again",
@@ -63,13 +70,6 @@
       "summary": "Gold (XAU/USD) price surges nearly 2% on Tuesday amid growing optimism linked to the resumption of US-Iran talks, even though the US military seized Iran-linked ships as the blockade of the Strait of Hormuz persists. The",
       "title_ko": "이란 회담에서 미국 달러가 다시 찌그러지기를 희망하면서 금이 급등합니다.",
       "summary_ko": "금 (XAU/USD) 가격은 호르무즈 해협의 봉쇄가 지속됨에 따라 미군이 이란과 연계된 선박을 점령했음에도 불구하고 화요일 미-이란 회담 재개와 관련된 낙관론이 커지는 가운데 거의 2% 나 급등했다."
-    },
-    {
-      "title": "CNY: Safe-haven role grows with stronger yuan – Societe Generale",
-      "link": "https://www.fxstreet.com/news/cny-safe-haven-role-grows-with-stronger-yuan-societe-generale-202604141917",
-      "summary": "Societe Generale analysts highlight that CNY strength has resumed, with USD/CNY nearing 6.80 for the first time in three years as China-linked tankers transit the Strait of Hormuz.",
-      "title_ko": "CNY: 위안화가 강해지면서 안전한 피난처 역할이 커짐 – Societe Generale",
-      "summary_ko": "Societe Generale 분석가들은 중국과 연계된 유조선이 호르무즈 해협을 수송함에 따라 3년 만에 처음으로 USD/CNY가 6.80 에 근접하면서 위안화 강세가 재개되었다고 강조합니다."
     }
   ]
 }

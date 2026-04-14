@@ -1,32 +1,32 @@
 {
-  "updated_at_utc": "2026-04-14 22:11:47 UTC",
+  "updated_at_utc": "2026-04-14 23:12:47 UTC",
   "items": [
+    {
+      "title": "Maine legislature approves first US moratorium on big data centers",
+      "link": "https://www.investing.com/news/stock-market-news/maine-legislature-approves-first-us-moratorium-on-big-data-centers-4614088",
+      "summary": "",
+      "title_ko": "메인 주 의회는 빅 데이터 센터에 대한 최초의 미국 모라토리엄을 승인합니다",
+      "summary_ko": ""
+    },
+    {
+      "title": "Meta extends custom chips deal with Broadcom to power AI ambitions",
+      "link": "https://www.investing.com/news/stock-market-news/meta-inks-deal-with-broadcom-for-custom-ai-chips-4614006",
+      "summary": "",
+      "title_ko": "Meta는 Broadcom과의 맞춤형 칩 거래를 확장하여 AI 야망을 강화합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Wall Street rallies on renewed hopes for US-Iran talks, earnings boost",
+      "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-climb-as-traders-cling-to-deescalation-hopes-await-earnings-4612028",
+      "summary": "",
+      "title_ko": "월스트리트, 미국-이란 회담에 대한 새로운 희망에 대한 집회, 수입 증대",
+      "summary_ko": ""
+    },
     {
       "title": "OpenAI releases cyber model to limited group in race with Mythos",
       "link": "https://www.investing.com/news/stock-market-news/openai-releases-cyber-model-to-limited-group-in-race-with-mythos-4614041",
       "summary": "",
       "title_ko": "OpenAI, Mythos와 경쟁하는 제한된 그룹에 사이버 모델 출시",
-      "summary_ko": ""
-    },
-    {
-      "title": "Meta inks deal with Broadcom for custom AI chips",
-      "link": "https://www.investing.com/news/stock-market-news/meta-inks-deal-with-broadcom-for-custom-ai-chips-4614006",
-      "summary": "",
-      "title_ko": "메타 잉크는 맞춤형 AI 칩을 위해 Broadcom과 거래합니다",
-      "summary_ko": ""
-    },
-    {
-      "title": "Wall Street scales highs, oil drops on hopes for renewed US-Iran talks",
-      "link": "https://www.investing.com/news/stock-market-news/stocks-gain-oil-and-dollar-retreat-on-hopes-for-usiran-resolution-4611626",
-      "summary": "",
-      "title_ko": "월스트리트, 미국-이란 회담 재개에 대한 희망에 석유 하락",
-      "summary_ko": ""
-    },
-    {
-      "title": "OpenAI unveils GPT-5.4-Cyber a week after rival’s announcement of AI model",
-      "link": "https://www.investing.com/news/stock-market-news/openai-unveils-gpt54cyber-a-week-after-rivals-announcement-of-ai-model-4614027",
-      "summary": "",
-      "title_ko": "OpenAI, 라이벌의 AI 모델 발표 1주일 후 GPT-5.4-Cyber 공개",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "USD/JPY slips back below 159.00 as softer PPI links with peace talk optimism",
-      "link": "https://www.fxstreet.com/news/usd-jpy-slips-back-below-15900-as-softer-ppi-links-with-peace-talk-optimism-202604142152",
-      "summary": "USD/JPY fell around 0.4% on Tuesday, slipping back below the 159.00 handle to settle close to 158.85.",
-      "title_ko": "USD/JPY는 더 부드러운 PPI가 평화 토크 낙관론과 연결됨에 따라 159.00 아래로 미끄러집니다.",
-      "summary_ko": "USD/JPY는 화요일에 약 0.4% 하락하여 159.00 핸들 아래로 미끄러져 158.85에 가깝게 정착했습니다."
+      "title": "NZD/USD climbs over half a percent but stalls at the 0.5900 handle",
+      "link": "https://www.fxstreet.com/news/nzd-usd-climbs-over-half-a-percent-but-stalls-at-the-05900-handle-202604142215",
+      "summary": "NZD/USD rose over 0.55% on Tuesday, printing a session high near 0.5920 before pulling back to settle around 0.5900.",
+      "title_ko": "NZD/USD가 0.5% 이상 오르지만 0.5900 핸들에서 멈춤",
+      "summary_ko": "NZD/USD는 화요일 0.55% 이상 상승하여 0.5920 근처에서 높은 세션을 인쇄한 후 약 0.5900에 정착했습니다."
     },
     {
-      "title": "EUR/USD nears 1.1800 as Iran talks hopes sink, US Dollar",
-      "link": "https://www.fxstreet.com/news/eur-usd-nears-11800-as-iran-talks-hopes-sink-us-dollar-202604142152",
-      "summary": "The EUR/USD rallies for the seventh straight session as the Greenback falls to a six-week low amid hopes of US-Iran talks in the week ahead, while US data remains in the back seat despite a jump in inflation. At the time",
-      "title_ko": "이란이 미국 달러의 침몰을 희망하면서 EUR/USD는 1.1800에 근접했습니다.",
-      "summary_ko": "그린백이 앞으로 일주일 동안 미국-이란 회담의 희망 속에서 6주 최저치로 떨어지면서 EUR/USD는 7번째 연속 세션으로 집결하는 반면, 인플레이션이 급증했음에도 불구하고 미국 데이터는 뒷좌석에 남아 있습니다. 당시"
+      "title": "NZD/USD rises toward 0.5900 as risk sentiment improves and USD softens on US data",
+      "link": "https://www.fxstreet.com/news/nzd-usd-rises-toward-05900-as-risk-sentiment-improves-and-usd-softens-on-us-data-202604142209",
+      "summary": "The NZD/USD pair is trading with a bullish bias near the 0.5900 level on Wednesday, as the New Zealand Dollar (NZD) gains strength amid improving global risk sentiment and a weaker US Dollar (USD).",
+      "title_ko": "위험 심리가 개선되고 미국 데이터에 대한 USD가 완화됨에 따라 NZD/USD는 0.5900으로 상승합니다.",
+      "summary_ko": "뉴질랜드 달러 (NZD) 가 글로벌 리스크 심리 개선과 미국 달러 (USD) 약세 속에서 강세를 보임에 따라 NZD/USD 쌍은 수요일 0.5900 수준에 가까운 강세 편향으로 거래되고 있습니다."
     }
   ]
 }

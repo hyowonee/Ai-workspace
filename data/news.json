@@ -1,32 +1,53 @@
 {
-  "updated_at_utc": "2026-04-15 12:11:03 UTC",
+  "updated_at_utc": "2026-04-15 14:10:28 UTC",
   "items": [
     {
-      "title": "DTCC to move core systems to cloud with Amazon by 2030",
-      "link": "https://www.investing.com/news/stock-market-news/dtcc-to-move-core-systems-to-cloud-with-amazon-by-2030-93CH-4615158",
+      "title": "European stocks subdued as Trump signals more Iran talks ahead",
+      "link": "https://www.investing.com/news/stock-market-news/european-stocks-open-mostly-higher-as-trump-signals-more-iran-talks-ahead-4614381",
       "summary": "",
-      "title_ko": "2030년까지 핵심 시스템을 아마존과 함께 클라우드로 이전하는 DTCC",
+      "title_ko": "트럼프가 더 많은 이란 회담을 앞두고 있다는 신호로 제압된 유럽 증시",
       "summary_ko": ""
     },
     {
-      "title": "Energous stock surges 17% on Fortune 10 deployment expansion",
-      "link": "https://www.investing.com/news/stock-market-news/energous-stock-surges-17-on-fortune-10-deployment-expansion-93CH-4615155",
+      "title": "Webull shares surge as SEC approves overhaul of pattern day-trading rule",
+      "link": "https://www.investing.com/news/stock-market-news/webull-shares-surge-as-sec-approves-overhaul-of-pattern-daytrading-rule-4615719",
       "summary": "",
-      "title_ko": "Fortune 10 배포 확장 시 에너지 재고 17% 급증",
+      "title_ko": "SEC가 패턴 당일 거래 규칙의 정비를 승인함에 따라 Webull 주식 급증",
       "summary_ko": ""
     },
     {
-      "title": "Nutella-maker Ferrero aware of EU inspections, says it is cooperating",
-      "link": "https://www.investing.com/news/stock-market-news/nutellamaker-ferrero-aware-of-eu-inspections-says-it-is-cooperating-4615141",
+      "title": "American Eagle rallies again after launching second Sydney Sweeney campaign",
+      "link": "https://www.investing.com/news/stock-market-news/american-eagle-rallies-again-after-launching-second-sydney-sweeney-campaign-4615607",
       "summary": "",
-      "title_ko": "누텔라 제조업체 페레로 (Ferrero) 는 EU 검사를 알고 있으며, 협력하고 있다고 말합니다.",
+      "title_ko": "두 번째 시드니 스위니 캠페인을 시작한 후 아메리칸 이글이 다시 집결합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Morgan Stanley’s profit rises on dealmaking, trading boost",
-      "link": "https://www.investing.com/news/stock-market-news/morgan-stanleys-profit-rises-on-dealmaking-trading-boost-4615137",
+      "title": "Morgan Stanley boosts trading as deregulation frees up capital",
+      "link": "https://www.investing.com/news/stock-market-news/morgan-stanley-boosts-trading-as-deregulation-frees-up-capital-93CH-4615698",
       "summary": "",
-      "title_ko": "모건 스탠리의 이익은 거래 성사, 거래 증대에 따라 증가합니다.",
+      "title_ko": "규제 완화가 자본을 확보함에 따라 모건 스탠리는 거래를 강화합니다",
+      "summary_ko": ""
+    },
+    {
+      "title": "US import prices increase less than expected in March",
+      "link": "https://www.investing.com/news/economic-indicators/us-import-prices-increase-less-than-expected-in-march-4615478",
+      "summary": "",
+      "title_ko": "미국 수입 가격은 3월에 예상보다 적게 인상됩니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "India’s trade deficit shrinks in March as US export surge offsets Mideast hit",
+      "link": "https://www.investing.com/news/economic-indicators/indias-trade-deficit-at-2098-billion-in-march-4614464",
+      "summary": "",
+      "title_ko": "3월 미국 수출 급증으로 Mideast가 타격을 입으면서 인도의 무역 적자가 줄어들고 있습니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "New York Manufacturing Index Surges, Exceeding Expectations",
+      "link": "https://www.investing.com/news/economic-indicators/new-york-manufacturing-index-surges-exceeding-expectations-93CH-4615328",
+      "summary": "",
+      "title_ko": "뉴욕 제조업 지수 급등, 기대 이상",
       "summary_ko": ""
     },
     {
@@ -37,39 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "India’s trade deficit shrinks as US exports counter Mideast woes",
-      "link": "https://www.investing.com/news/economic-indicators/indias-trade-deficit-at-2098-billion-in-march-4614464",
-      "summary": "",
-      "title_ko": "미국 수출이 중동의 위기에 대응하면서 인도의 무역적자가 줄어들고 있다.",
-      "summary_ko": ""
+      "title": "DXY: Range trade seen persisting – BBH",
+      "link": "https://www.fxstreet.com/news/dxy-range-trade-seen-persisting-bbh-202604151257",
+      "summary": "Brown Brothers Harriman argues that with risk sentiment likely having bottomed on March 30, the Dollar Index should revert to trading primarily on rate differentials.",
+      "title_ko": "DXY: 지속되는 원거리 거래 – BBH",
+      "summary_ko": "브라운 브라더스 해리먼 (Brown Brothers Harriman) 은 3 월 30 일에 위험 감정이 바닥을 쳤을 가능성이 있기 때문에 달러 지수는 주로 금리 차에 따라 거래로 되돌아 가야한다고 주장한다."
     },
     {
-      "title": "Eurozone industrial output rises 0.4% in February",
-      "link": "https://www.investing.com/news/economic-indicators/eurozone-industrial-output-rises-04-in-february-93CH-4614476",
-      "summary": "",
-      "title_ko": "2월 유로존 산업 생산량 0.4% 증가",
-      "summary_ko": ""
-    },
-    {
-      "title": "Greece’s inflation rises to 3.4% in March",
-      "link": "https://www.investing.com/news/economic-indicators/greeces-inflation-rises-to-34-in-march-93CH-4614475",
-      "summary": "",
-      "title_ko": "그리스의 인플레이션은 3월에 3.4% 로 상승합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "USD/JPY edges up to 159.00 with investors pondering news on Iran war",
-      "link": "https://www.fxstreet.com/news/usd-jpy-edges-up-to-15900-with-investors-pondering-news-on-iran-war-202604151155",
-      "summary": "The US Dollar (USD) is posting moderate gains against the Japanese Yen (JPY) on Wednesday, returning to levels past 159.00 to partially reverse the 0.5% depreciation witnessed over the last two days.",
-      "title_ko": "USD/JPY는 투자자들이 이란 전쟁에 대한 뉴스를 숙고하면서 최대 159.00까지 가장자리",
-      "summary_ko": "미국 달러 (USD) 는 수요일에 일본 엔 (JPY) 에 대해 중간 수준의 이익을 기록하고 있으며, 지난 이틀 동안 목격된 0.5% 의 감가 상각을 부분적으로 역전시키기 위해 159.00을 넘긴 수준으로 회복하고 있습니다."
-    },
-    {
-      "title": "DXY: War gains unwind as allies resist blockade – DBS",
-      "link": "https://www.fxstreet.com/news/dxy-war-gains-unwind-as-allies-resist-blockade-dbs-202604151137",
-      "summary": "DBS Group Research’s Philip Wee notes that the US Dollar (USD) has given back most of its Iran‑war related strength, with the US Dollar Index (DXY) down this month and nearing pre‑conflict levels.",
-      "title_ko": "DXY: 아군이 봉쇄에 저항하면 전쟁에서 긴장이 풀립니다 – DBS",
-      "summary_ko": "DBS 그룹 리서치 (DBS Group Research) 의 필립 위 (Philip Wee) 는 미국 달러 (USD) 가 이번 달 미국 달러 지수 (DXY) 가 하락하고 분쟁 전 수준에 가까워지면서 이란 전쟁과 관련된 힘의 대부분을 환원했다고 지적했다."
+      "title": "Japan: Higher inflation and weaker growth outlook – Standard Chartered",
+      "link": "https://www.fxstreet.com/news/japan-higher-inflation-and-weaker-growth-outlook-standard-chartered-202604151244",
+      "summary": "Standard Chartered revises its Japan macro outlook, cutting 2026 Gross Domestic Product (GDP) growth to 0.7% and raising Consumer Price Index (CPI) inflation to 2.0% on a worsening terms-of-trade shock from higher Oil an",
+      "title_ko": "일본: 높은 인플레이션과 약한 성장 전망 – 스탠다드차타드",
+      "summary_ko": "스탠다드차타드는 일본 거시 전망을 수정하여 2026년 국내총생산 (GDP) 성장률을 0.7% 로 낮추고 석유 거래량 증가로 인한 무역 조건 충격 악화로 소비자 물가 지수 (CPI) 인플레이션을 2.0% 로 상향 조정했습니다."
     }
   ]
 }

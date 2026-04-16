@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-04-16 21:10:28 UTC",
+  "updated_at_utc": "2026-04-16 22:07:32 UTC",
   "indices": {
     "spx": {
       "Symbol": "^SPX",
@@ -36,7 +36,7 @@
     "es": {
       "Symbol": "ES.F",
       "Date": "2026-04-16",
-      "Time": "22:59:58",
+      "Time": "22:59:59",
       "Open": "7057.25",
       "High": "7089",
       "Low": "7046.5",

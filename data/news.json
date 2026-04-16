@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-04-16 19:19:42 UTC",
+  "updated_at_utc": "2026-04-16 20:10:43 UTC",
   "items": [
     {
-      "title": "S&amp;P 500, Nasdaq edge up from records with Middle East hopes, corporate earnings in focus",
-      "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-edge-higher-on-mideast-diplomacy-hopes-strong-earnings-4617346",
+      "title": "Abbott trims 2026 profit forecast on Exact deal hit, shares fall",
+      "link": "https://www.investing.com/news/stock-market-news/abbott-results-beat-on-medical-device-boost-exact-deal-hits-forecast-4617849",
       "summary": "",
-      "title_ko": "S&amp;P 500, 중동의 희망을 담은 기록에서 나스닥의 우위를 점하고, 기업 수익에 중점을 둠",
+      "title_ko": "Abbott는 정확한 거래 적중, 주식 하락에 대한 2026년 이익 예측을 다듬습니다.",
       "summary_ko": ""
     },
     {
-      "title": "Intel hires Samsung executive to boost chip manufacturing push",
-      "link": "https://www.investing.com/news/stock-market-news/intel-hires-samsung-executive-to-boost-chip-manufacturing-push-93CH-4618966",
+      "title": "Trump administration preparing critical minerals pact with price floor",
+      "link": "https://www.investing.com/news/stock-market-news/trump-administration-preparing-critical-minerals-pact-with-price-floor-93CH-4619039",
       "summary": "",
-      "title_ko": "인텔, 칩 제조 푸시 강화를 위해 삼성 임원 고용",
+      "title_ko": "중대한 광물 조약을 준비하는 트럼프 행정부",
       "summary_ko": ""
     },
     {
-      "title": "White House to give US agencies Anthropic Mythos access, Bloomberg News reports",
-      "link": "https://www.investing.com/news/stock-market-news/white-house-to-give-us-agencies-anthropic-mythos-access-bloomberg-news-reports-4618960",
+      "title": "OpenAI introduces AI model for biology and drug discovery research",
+      "link": "https://www.investing.com/news/stock-market-news/openai-introduces-ai-model-for-biology-and-drug-discovery-research-93CH-4619029",
       "summary": "",
-      "title_ko": "백악관, 미국 기관에 인류 신화 접근 권한 부여, 블룸버그 뉴스 보도",
+      "title_ko": "OpenAI, 생물학 및 약물 발견 연구를 위한 AI 모델 도입",
       "summary_ko": ""
     },
     {
-      "title": "U.S. stocks make small moves a day after records galore; Netflix earnings in focus",
-      "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-rise-after-sp-500-nasdaq-hit-record-highs-on-iran-peace-hopes-4616981",
+      "title": "OpenAI launches AI model GPT-Rosalind for life sciences research",
+      "link": "https://www.investing.com/news/stock-market-news/openai-launches-ai-model-gptrosalind-for-life-sciences-research-4619022",
       "summary": "",
-      "title_ko": "미국 주식은 기록을 갈고 닦은 후 하루에 작은 움직임을 보입니다. Netflix 수입에 중점을 둡니다.",
+      "title_ko": "OpenAI, 생명과학 연구를 위한 AI 모델 GPT-Rosalind 출시",
+      "summary_ko": ""
+    },
+    {
+      "title": "Fed’s Miran says may cut rate outlook on inflation concerns",
+      "link": "https://www.investing.com/news/economic-indicators/feds-miran-says-may-cut-rate-outlook-on-inflation-concerns-93CH-4619028",
+      "summary": "",
+      "title_ko": "Fed의 Miran은 인플레이션 우려에 대한 금리 전망을 낮출 수 있다고 말합니다.",
       "summary_ko": ""
     },
     {
@@ -51,11 +58,11 @@
       "summary_ko": ""
     },
     {
-      "title": "Industrial production declines, missing forecasts and previous gains",
-      "link": "https://www.investing.com/news/economic-indicators/industrial-production-declines-missing-forecasts-and-previous-gains-93CH-4618296",
-      "summary": "",
-      "title_ko": "산업 생산 감소, 예측 누락 및 이전 이익",
-      "summary_ko": ""
+      "title": "Forex Today: US Dollar steadies as Hormuz tensions persist despite fragile ceasefire headlines",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-steadies-as-hormuz-tensions-persist-despite-fragile-ceasefire-headlines-202604161934",
+      "summary": "The US Dollar Index (DXY) is trading near the 98.20 price region on a firm footing amid a complex geopolitical backdrop. The Strait of Hormuz remains partially blocked, with reports of a “double blockage” disrupting flow",
+      "title_ko": "포렉스 투데이: 연약한 휴전 헤드라인에도 불구하고 호르무즈의 긴장이 지속되는 미국 달러 스테디",
+      "summary_ko": "미국 달러 지수 (DXY) 는 복잡한 지정학적 배경 속에서 확고한 입지를 바탕으로 98.20 가격 지역 근처에서 거래되고 있습니다. 호르무즈 해협은 부분적으로 차단되어 있으며, \"이중 차단\" 이 흐름을 방해한다는 보고가 있습니다."
     },
     {
       "title": "Carry trade: War-driven gains question durability – Commerzbank",
@@ -63,13 +70,6 @@
       "summary": "Commerzbank’s Michael Pfister notes that G10 and Gelişen Piyasalar (EM)  carry trades have delivered strong paper gains, helped by Iran-related market moves and high-yield currencies like the Brazilian Real and Mexican P",
       "title_ko": "거래 수행: 전쟁 중심의 이익 질문 내구성 – Commerzbank",
       "summary_ko": "코메르츠방크의 마이클 피스터 (Michael Pfister) 는 G10과 겔리센 피야살라르 (Gelişen Piyasalar, EM) 의 거래가 이란 관련 시장 움직임과 브라질 레알 및 멕시코 P와 같은 고수익 통화의 도움으로 강력한 종이 이득을 가져왔다고 언급했다."
-    },
-    {
-      "title": "AUD/USD slips as USD rebounds, Oil and geopolitics in focus",
-      "link": "https://www.fxstreet.com/news/aud-usd-slips-as-usd-rebounds-oil-and-geopolitics-in-focus-202604161837",
-      "summary": "The Australian Dollar (AUD) trades under pressure against the US Dollar (USD) on Thursday, as the Greenback steadies after recent weakness, allowing AUD/USD to snap a four-day winning streak.",
-      "title_ko": "AUD/USD는 USD 반등, 석유 및 지정학에 초점을 맞추면서 하락합니다.",
-      "summary_ko": "호주 달러 (AUD) 는 최근 약세 이후 그린백이 지속됨에 따라 목요일 미국 달러 (USD) 에 대한 압박으로 AUD/USD가 4 일 연속으로 낙찰 될 수 있습니다."
     }
   ]
 }

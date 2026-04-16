@@ -1,32 +1,46 @@
 {
-  "updated_at_utc": "2026-04-16 16:27:01 UTC",
+  "updated_at_utc": "2026-04-16 17:53:03 UTC",
   "items": [
     {
-      "title": "US SEC seeks comment on contentious trading database",
-      "link": "https://www.investing.com/news/stock-market-news/us-sec-seeks-comment-on-contentious-trading-database-4618665",
+      "title": "US ESG shareholder resolutions plunge in face of Republican pressure, report says",
+      "link": "https://www.investing.com/news/stock-market-news/us-esg-shareholder-resolutions-plunge-in-face-of-republican-pressure-report-says-4617475",
       "summary": "",
-      "title_ko": "미국 SEC는 논쟁의 여지가 있는 거래 데이터베이스에 대한 의견을 구합니다.",
+      "title_ko": "보고서에 따르면 미국 ESG 주주 결의안은 공화당의 압력에 직면하여 급락하고 있다.",
       "summary_ko": ""
     },
     {
-      "title": "Gucci can no longer treat China like a ’trash bin’, Kering CEO says",
-      "link": "https://www.investing.com/news/stock-market-news/gucci-can-no-longer-treat-china-like-a-trash-bin-kering-ceo-says-4618655",
+      "title": "Google, Pentagon discuss classified AI deal, the Information reports",
+      "link": "https://www.investing.com/news/stock-market-news/google-pentagon-discuss-classified-ai-deal-the-information-reports-4618355",
       "summary": "",
-      "title_ko": "구찌는 더 이상 중국을 ’쓰레기통’ 처럼 취급할 수 없다고 케링 CEO는 말합니다.",
+      "title_ko": "Google, Pentagon, 기밀 AI 거래 논의, 정보 보고서",
       "summary_ko": ""
     },
     {
-      "title": "Poland stocks lower at close of trade; WIG30 down 0.55%",
-      "link": "https://www.investing.com/news/stock-market-news/poland-stocks-lower-at-close-of-trade-wig30-down-055-4618654",
+      "title": "JPMorgan released from OCC’s consent order over employee-client conduct",
+      "link": "https://www.investing.com/news/stock-market-news/jpmorgan-released-from-occs-consent-order-over-employeeclient-conduct-93CH-4618867",
       "summary": "",
-      "title_ko": "폴란드 주식은 거래 마감 시점에 하락, WIG30은 0.55% 하락",
+      "title_ko": "JPMorgan은 직원-고객 행동에 대한 OCC의 동의 명령에서 해제되었습니다.",
       "summary_ko": ""
     },
     {
-      "title": "Turkey stocks lower at close of trade; BIST 100 down 0.36%",
-      "link": "https://www.investing.com/news/stock-market-news/turkey-stocks-lower-at-close-of-trade-bist-100-down-036-4618645",
+      "title": "Airflow products maker Madison Air valued at $15.7 billion as shares rise on NYSE debut",
+      "link": "https://www.investing.com/news/stock-market-news/airflow-products-maker-madison-air-valued-at-156-billion-as-shares-rise-on-nyse-debut-4618822",
       "summary": "",
-      "title_ko": "터키 주식은 거래 마감 시점에 하락, BIST 100은 0.36% 하락",
+      "title_ko": "NYSE 데뷔에서 주가가 상승함에 따라 공기 흐름 제품 메이커 Madison Air의 가치는 $ 157억입니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "US weekly jobless claims fall; manufacturing production retreats in March",
+      "link": "https://www.investing.com/news/economic-indicators/us-weekly-jobless-claims-decline-as-labor-market-remains-stable-4618139",
+      "summary": "",
+      "title_ko": "미국 주간 실업 보험금 하락, 3월 제조업 생산 감소",
+      "summary_ko": ""
+    },
+    {
+      "title": "Trump administration to lobby allies to support ’trade over aid’ push, cable shows",
+      "link": "https://www.investing.com/news/economic-indicators/trump-administration-to-lobby-allies-to-support-trade-over-aid-push-cable-shows-4618777",
+      "summary": "",
+      "title_ko": "트럼프 행정부, '원조보다 무역’ 밀어붙이기 지원 위해 동맹국 로비, 케이블 쇼",
       "summary_ko": ""
     },
     {
@@ -37,13 +51,6 @@
       "summary_ko": ""
     },
     {
-      "title": "US weekly jobless claims drop amid labor market stability; Iran war a risk",
-      "link": "https://www.investing.com/news/economic-indicators/us-weekly-jobless-claims-decline-as-labor-market-remains-stable-4618139",
-      "summary": "",
-      "title_ko": "노동시장 안정 속에서 미국 주간 실업보험금 하락, 이란 전쟁 위험",
-      "summary_ko": ""
-    },
-    {
       "title": "Industrial production declines, missing forecasts and previous gains",
       "link": "https://www.investing.com/news/economic-indicators/industrial-production-declines-missing-forecasts-and-previous-gains-93CH-4618296",
       "summary": "",
@@ -51,25 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "U.S. initial jobless claims fall below expectations, signaling economic resilience",
-      "link": "https://www.investing.com/news/economic-indicators/us-initial-jobless-claims-fall-below-expectations-signaling-economic-resilience-93CH-4618109",
-      "summary": "",
-      "title_ko": "미국의 초기 실업 보험 청구가 기대치를 밑돌아 경제적 회복력이 있다는 신호입니다.",
-      "summary_ko": ""
+      "title": "Gold holds range as US-Iran talks in focus, Oil-driven inflation caps gains",
+      "link": "https://www.fxstreet.com/news/gold-holds-range-as-us-iran-talks-in-focus-oil-driven-inflation-caps-gains-202604161240",
+      "summary": "Gold (XAU/USD) everses earlier gains on Thursday, though it remains confined within a multi-week range as traders refrain from placing strong directional bets while awaiting clearer signals on US-Iran peace talks.",
+      "title_ko": "금은 미국-이란 회담에 초점을 맞추면서 범위를 유지하고, 석유 중심의 인플레이션 상한선은 증가합니다.",
+      "summary_ko": "금 (XAU/USD) 은 목요일에 이전의 이익을 상회하지만, 미국-이란 평화 회담에 대한 더 명확한 신호를 기다리는 동안 거래자들이 강한 방향성 베팅을 하는 것을 자제함에 따라 다주 범위 내에 갇혀 있습니다."
     },
     {
-      "title": "WTI Oil rebounds as Strait of Hormuz disruptions temper US-Iran peace optimism",
-      "link": "https://www.fxstreet.com/news/wti-oil-rebounds-as-strait-of-hormuz-disruptions-temper-us-iran-peace-optimism-202604161615",
-      "summary": "West Texas Intermediate (WTI) US Oil rebounds on Thursday, gaining 2.50% to trade near $90.45 at the time of writing, after three consecutive days of decline.",
-      "title_ko": "WTI 석유, 호르무즈 해협 붕괴로 미국-이란 평화 낙관",
-      "summary_ko": "서부 텍사스 중급 (WTI) 미국 석유는 목요일에 반등하여 3 일 연속 하락한 후 작성 당시 $ 90.45 근처에서 거래되는 2.50% 를 얻습니다."
-    },
-    {
-      "title": "USD/CAD declines as Hormuz disruptions keep Oil elevated, US-Iran talks in focus",
-      "link": "https://www.fxstreet.com/news/usd-cad-declines-as-hormuz-disruptions-keep-oil-elevated-us-iran-talks-in-focus-202604161554",
-      "summary": "USD/CAD trades with a negative bias on Thursday, extending losses for a fourth straight day as elevated Oil prices support the commodity-linked Canadian Dollar (CAD), even as the US Dollar (USD) strengthens against most ",
-      "title_ko": "미국 달러/캐나다 달러는 호르무즈 사태로 인해 석유 시장이 계속 상승하고 미국-이란 회담이 집중됨에 따라 하락하고 있습니다.",
-      "summary_ko": "USD/CAD는 목요일에 부정적인 편향으로 거래되며, 유가가 상승함에 따라 미국 달러 (USD) 가 대부분에 대해 강화되더라도 상품 연계 캐나다 달러 (CAD) 를 지원하기 때문에 4 일 연속으로 손실을 연장합니다."
+      "title": "Germany: Recovery risks from energy shock – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/germany-recovery-risks-from-energy-shock-deutsche-bank-202604161705",
+      "summary": "Deutsche Bank economists Marc Schattenberg and colleagues discuss how higher Oil and gas prices linked to the Middle East conflict are weighing on the German economy.",
+      "title_ko": "독일: 에너지 충격으로 인한 복구 위험 – Deutsche Bank",
+      "summary_ko": "도이치뱅크 경제학자 마크 샤텐베르크와 동료들은 중동 분쟁과 연계된 석유 및 가스 가격이 독일 경제에 어떻게 영향을 미치고 있는지에 대해 논의합니다."
     }
   ]
 }

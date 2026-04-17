@@ -1,39 +1,46 @@
 {
-  "updated_at_utc": "2026-04-17 11:59:11 UTC",
+  "updated_at_utc": "2026-04-17 13:52:37 UTC",
   "items": [
     {
-      "title": "Kura Oncology shares jump on positive kidney cancer trial data",
-      "link": "https://www.investing.com/news/stock-market-news/kura-oncology-shares-jump-on-positive-kidney-cancer-trial-data-93CH-4620100",
+      "title": "Wall Street opens with solid gains after Iran unblocks Strait of Hormuz",
+      "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-steady-after-record-highs-on-iran-talks-hopes-netflix-shares-drop-4619640",
       "summary": "",
-      "title_ko": "Kura Oncology, 양성 신장암 시험 데이터에 대한 JUMP 공유",
+      "title_ko": "월스트리트는 이란이 호르무즈 해협을 봉쇄한 후 견고한 이익으로 문을 엽니다.",
       "summary_ko": ""
     },
     {
-      "title": "Regions Financial profit jumps on interest income boost, lower bad loan provisions",
-      "link": "https://www.investing.com/news/stock-market-news/regions-financial-profit-jumps-on-interest-income-boost-lower-bad-loan-provisions-4620099",
+      "title": "Malta-flagged tanker arrives at Iraq’s southern terminals to load crude",
+      "link": "https://www.investing.com/news/stock-market-news/maltaflagged-tanker-arrives-at-iraqs-southern-terminals-to-load-crude-93CH-4620417",
       "summary": "",
-      "title_ko": "지역 이자수익 증가에 따른 금융 이익 증가, 악성 대출 충당금 감소",
+      "title_ko": "몰타 표적이 된 유조선이 이라크 남부 터미널에 도착하여 원유를 적재합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Factbox-Airlines cancel flights amid Middle East conflict",
-      "link": "https://www.investing.com/news/stock-market-news/factboxairlines-cancel-flights-amid-middle-east-conflict-4620098",
+      "title": "US travel cruise liners surges as Strait of Hormuz reopens",
+      "link": "https://www.investing.com/news/stock-market-news/us-travel-cruise-liners-surges-as-strait-of-hormuz-reopens-93CH-4620407",
       "summary": "",
-      "title_ko": "팩트박스-항공사, 중동 분쟁으로 항공편 취소",
+      "title_ko": "호르무즈 해협이 재개통됨에 따라 미국 여행 크루즈 라이너가 급증하고 있습니다.",
       "summary_ko": ""
     },
     {
-      "title": "Bernstein Names Top Consumer Stocks Amid Market Volatility",
-      "link": "https://www.investing.com/news/stock-market-news/bernstein-names-top-consumer-stocks-amid-market-volatility-93CH-4620095",
+      "title": "Gold miners surge as Iran opens Hormuz Strait",
+      "link": "https://www.investing.com/news/stock-market-news/gold-miners-surge-as-iran-opens-hormuz-strait-93CH-4620375",
       "summary": "",
-      "title_ko": "번스타인, 시장 변동성 가운데 최고 소비자 주식 선정",
+      "title_ko": "이란이 호르무즈 해협을 열면서 금 채굴자들이 급증하고 있습니다.",
       "summary_ko": ""
     },
     {
-      "title": "EU trade surplus shrinks 60% as US exports fall due to tariffs",
+      "title": "Canadian housing starts decrease 6% in March",
+      "link": "https://www.investing.com/news/economic-indicators/canadian-housing-starts-decrease-6-in-march-4620211",
+      "summary": "",
+      "title_ko": "캐나다 주택 3월부터 6% 감소",
+      "summary_ko": ""
+    },
+    {
+      "title": "US tariffs drive steep drop in EU exports for second month",
       "link": "https://www.investing.com/news/economic-indicators/eu-trade-surplus-shrinks-60-as-us-exports-fall-due-to-tariffs-4619931",
       "summary": "",
-      "title_ko": "관세로 인한 미국 수출 감소로 EU 무역수지 흑자 60% 축소",
+      "title_ko": "미국 관세는 두 번째 달 동안 EU 수출의 급격한 감소를 주도합니다.",
       "summary_ko": ""
     },
     {
@@ -51,25 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "NATO will not collapse and US will defend its allies, Estonian minister says",
-      "link": "https://www.investing.com/news/economic-indicators/nato-will-not-collapse-and-us-will-defend-its-allies-estonian-minister-says-4619712",
-      "summary": "",
-      "title_ko": "에스토니아 장관은 나토는 붕괴하지 않을 것이며 미국은 동맹국을 방어할 것이라고 말했습니다.",
-      "summary_ko": ""
+      "title": "USD/JPY falls as Hormuz reopening, risk mood hit US Dollar",
+      "link": "https://www.fxstreet.com/news/usd-jpy-falls-as-hormuz-reopening-risk-mood-hit-us-dollar-202604171317",
+      "summary": "USD/JPY falls toward 158.20 at the time of writing, down 0.61% on Friday after hitting a daily high of 159.53 earlier. The pair now faces notable selling pressure as improving geopolitical conditions in the Middle East r",
+      "title_ko": "호르무즈 재개로 USD/JPY 하락, 리스크 분위기 미국 달러 강타",
+      "summary_ko": "USD/JPY는 서면 작성 당시 158.20으로 하락했으며, 금요일에는 159.53의 일일 최고치를 기록한 후 0.61% 하락했습니다. 이 쌍은 이제 중동의 지정학적 조건을 개선하는 것으로 주목할 만한 판매 압박에 직면해 있습니다."
     },
     {
-      "title": "USD: Labor data supports resilience – TD Securities",
-      "link": "https://www.fxstreet.com/news/usd-labor-data-supports-resilience-td-securities-202604171119",
-      "summary": "TD Securities reports that United States labor market data surprised slightly on the positive side, with initial jobless claims below expectations and continuing claims near consensus. This reinforces a picture of a stil",
-      "title_ko": "USD: Labor data supports resilience – TD Securities",
-      "summary_ko": "TD Securities는 미국 노동 시장 데이터가 긍정적 측면에서 약간 놀랐으며 초기 실업 보험 청구가 기대치를 밑돌고 합의에 가까운 청구가 계속되었다고 보고합니다. 이것은 스틸의 사진을 보강합니다."
-    },
-    {
-      "title": "Australian Dollar outperforms on broader risk rally, hawkish RBA bets",
-      "link": "https://www.fxstreet.com/news/australian-dollar-outperforms-on-broader-risk-rally-hawkish-rba-bets-202604171119",
-      "summary": "The Australian Dollar (AUD) outperforms its major currency peers, trading 0.16% higher to near 0.7175 ahead of the opening of United States (US) markets during the European trading session on Friday.",
-      "title_ko": "광범위한 위험 랠리, 매파적인 RBA 베팅에서 호주 달러가 우세",
-      "summary_ko": "호주 달러 (AUD) 는 금요일 유럽 거래 세션에서 미국 (미국) 시장 개장을 앞두고 0.7175 근처로 0.16% 상승한 주요 통화 동종 거래를 상회합니다."
+      "title": "Breaking: Risk flows dominate markets as Iran completely opens Strait of Hormuz",
+      "link": "https://www.fxstreet.com/news/irans-foreign-minister-passage-for-all-commercial-vessels-through-hormuz-is-completely-open-202604171254",
+      "summary": "Abbas Araghchi, the foreign minister of Iran, announced on Friday that in line with the ceasefire in Lebanon, the passage for all commercial vessels through the Strait of Hormuz is declared completely open for the remain",
+      "title_ko": "속보: 이란이 호르무즈 해협을 완전히 개방함에 따라 위험 흐름이 시장을 지배합니다.",
+      "summary_ko": "이란 외무장관 아바스 아라기 (Abbas Araghchi) 는 금요일 레바논 정전협정에 따라 호르무즈 해협을 통과하는 모든 상업용 선박의 통행이 완전히 개방되었다고 발표했다."
     }
   ]
 }

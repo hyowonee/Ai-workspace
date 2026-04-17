@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-04-17 03:51:48 UTC",
+  "updated_at_utc": "2026-04-17 06:04:57 UTC",
   "items": [
     {
-      "title": "OpenAI to spend more than $20 billion on Cerebras chips, receive stake, The Information reports",
-      "link": "https://www.investing.com/news/stock-market-news/openai-to-spend-more-than-20-billion-on-cerebras-chips-receive-equity-stake-the-information-reports-4619673",
+      "title": "Chinese AI firm Manycore shares rally over 100% in Hong Kong IPO",
+      "link": "https://www.investing.com/news/stock-market-news/chinese-ai-firm-manycore-shares-rally-over-100-in-hong-kong-ipo-4619720",
       "summary": "",
-      "title_ko": "OpenAI, Cerebras 칩에 200억 달러 이상 지출, 지분 수취, The Information 보고서",
+      "title_ko": "중국 AI 기업인 모티코어 (Manycore) 가 홍콩 기업공개 (IPO) 를 통해 100% 이상의 지분을",
       "summary_ko": ""
     },
     {
-      "title": "Singapore non-oil exports climb 15.3% in March on AI electronics demand",
-      "link": "https://www.investing.com/news/stock-market-news/singapore-nonoil-exports-climb-153-in-march-on-ai-electronics-demand-93CH-4619696",
+      "title": "Uber to acquire additional 4.5% stake in Delivery Hero, FT reports",
+      "link": "https://www.investing.com/news/stock-market-news/uber-to-acquire-additional-45-stake-in-delivery-hero-ft-reports-4619719",
       "summary": "",
-      "title_ko": "싱가포르 비석유 수출은 AI 전자 제품 수요에 따라 3월에 15.3% 상승",
+      "title_ko": "FT에 따르면 Uber는 Delivery Hero의 지분 4.5% 를 추가로 인수합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Drone maker AEVEX raises $320 million in US IPO",
-      "link": "https://www.investing.com/news/stock-market-news/drone-maker-aevex-raises-320-million-in-us-ipo-4619694",
+      "title": "Asia stocks set for weekly gain, oil under $100 on peace deal hopes",
+      "link": "https://www.investing.com/news/stock-market-news/stocks-set-for-weekly-gain-oil-below-100-on-peace-deal-hopes-4619687",
       "summary": "",
-      "title_ko": "드론 메이커 AEVEX, 미국 IPO에서 3억 2천만 달러 ($) 조달",
+      "title_ko": "주간 이득을 위해 설정된 아시아 주식, 평화 협상 희망에 대한 $ 100 미만의 석유",
       "summary_ko": ""
     },
     {
-      "title": "Asia stocks dip but head for sharp weekly gains on Iran peace hopes, tech boost",
-      "link": "https://www.investing.com/news/stock-market-news/asia-stocks-dip-but-head-for-sharp-weekly-gains-on-iran-peace-hopes-tech-boost-4619691",
+      "title": "Top China Healthcare Stocks According to Morgan Stanley",
+      "link": "https://www.investing.com/news/stock-market-news/top-china-healthcare-stocks-according-to-morgan-stanley-93CH-4619718",
       "summary": "",
-      "title_ko": "아시아 증시는 침체되지만 이란의 평화 희망, 기술 부스트에 대한 급격한 주간 이익으로 향한다.",
+      "title_ko": "Morgan Stanley에 따르면 중국 최고의 헬스케어 주식",
+      "summary_ko": ""
+    },
+    {
+      "title": "NATO will not collapse and US will defend its allies, Estonian minister says",
+      "link": "https://www.investing.com/news/economic-indicators/nato-will-not-collapse-and-us-will-defend-its-allies-estonian-minister-says-4619712",
+      "summary": "",
+      "title_ko": "에스토니아 장관은 나토는 붕괴하지 않을 것이며 미국은 동맹국을 방어할 것이라고 말했습니다.",
       "summary_ko": ""
     },
     {
@@ -51,25 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Natural gas storage exceeds expectations, impacts energy markets",
-      "link": "https://www.investing.com/news/economic-indicators/natural-gas-storage-exceeds-expectations-impacts-energy-markets-93CH-4618537",
-      "summary": "",
-      "title_ko": "천연가스 저장고는 예상을 뛰어넘어 에너지 시장에 영향을 미칩니다.",
-      "summary_ko": ""
+      "title": "AUD/JPY gains traction above 114.00 as RBA hike bets grow",
+      "link": "https://www.fxstreet.com/news/aud-jpy-gains-traction-above-11400-as-rba-hike-bets-grow-202604170505",
+      "summary": "The AUD/JPY cross trades in positive territory for the fifth consecutive day around 114.30 during the early European session on Friday. The Australian Dollar (AUD) strengthens against the Japanese Yen (JPY) on a hawkish ",
+      "title_ko": "AUD/JPY는 RBA 하이크 베팅이 증가함에 따라 114.00 이상의 견인력을 얻습니다.",
+      "summary_ko": "AUD/JPY는 금요일의 초기 유럽 세션 동안 114.30 주변에서 5 일 연속으로 긍정적 인 영토에서 거래됩니다. 호주 달러 (AUD) 는 일본 엔화 (JPY) 에 대해 매파적인"
     },
     {
-      "title": "US Dollar Index flat lines above 98.00 on fragile Middle East ceasefire",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-flat-lines-above-9800-on-fragile-middle-east-ceasefire-202604170311",
-      "summary": "The US Dollar Index (DXY), an index of the value of the US Dollar (USD) measured against a basket of six world currencies, currently trades near 98.25 during the Asian trading hours on Friday. The DXY trades on a flat no",
-      "title_ko": "취약한 중동 휴전에서 98.00 이상의 미국 달러 인덱스 플랫 라인",
-      "summary_ko": "6개의 세계 통화 바스켓에 대해 측정된 미국 달러 (USD) 가치 지수인 미국 달러 지수 (DXY) 는 현재 금요일 아시아 거래 시간 동안 98.25 근처에서 거래되고 있습니다. DXY는"
-    },
-    {
-      "title": "Pound Sterling declines as BoE hike bets ease",
-      "link": "https://www.fxstreet.com/news/pound-sterling-declines-as-boe-hike-bets-ease-202604170228",
-      "summary": "GBP/USD loses ground for the third successive day, trading around 1.3520 during the Asian hours on Friday. The Pound Sterling (GBP) remains under pressure as traders pare back expectations for a Bank of England (BoE) rat",
-      "title_ko": "BoE 하이킹 베팅이 쉬워지면서 파운드 스털링이 감소합니다",
-      "summary_ko": "영국 파운드/미국 달러 (GBP/USD) 는 금요일 아시아 시간 동안 약 1.3520에 거래되는 세 번째 연이은 날의 기반을 잃습니다. 파운드 스털링 (GBP) 은 거래자들이 잉글랜드 은행 (BOE) 쥐에 대한 기대치를 상회함에 따라 여전히 압박을 받고 있습니다."
+      "title": "Gold traders seem non-committal as Hormuz risks offset Iran diplomacy hopes",
+      "link": "https://www.fxstreet.com/news/gold-flat-lines-below-4-800-as-hormuz-risks-and-usd-uptick-counter-iran-diplomacy-hopes-202604170331",
+      "summary": "Gold (XAU/USD) extends its sideways consolidative price move through the Asian session on Friday and currently trades around the $4,800 mark, nearly unchanged for the day amid mixed cues.",
+      "title_ko": "호르무즈의 위험이 이란 외교의 희망을 상쇄함에 따라 금 거래자들은 비약적으로 보입니다.",
+      "summary_ko": "금 (XAU/USD) 은 금요일에 아시아 세션을 통해 옆으로 통합 가격 움직임을 확장하고 현재 $ 4,800 마르크 주위에 거래, 거의 하루 동안 변경되지 않은 혼합 신호 가운데."
     }
   ]
 }

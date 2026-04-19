@@ -1,6 +1,20 @@
 {
-  "updated_at_utc": "2026-04-19 07:23:40 UTC",
+  "updated_at_utc": "2026-04-19 08:31:54 UTC",
   "items": [
+    {
+      "title": "Street Calls of the Week",
+      "link": "https://www.investing.com/news/stock-market-news/street-calls-of-the-week-4622198",
+      "summary": "",
+      "title_ko": "금주의 스트리트콜",
+      "summary_ko": ""
+    },
+    {
+      "title": "Comedy trailblazer Eddie Murphy receives AFI Life Achievement Award",
+      "link": "https://www.investing.com/news/stock-market-news/comedy-trailblazer-eddie-murphy-receives-afi-life-achievement-award-4622196",
+      "summary": "",
+      "title_ko": "코미디 개척자 에디 머피, AFI 인생 공로상 수상",
+      "summary_ko": ""
+    },
     {
       "title": "Record stock market valuations mask reliance on temporary profit catalysts",
       "link": "https://www.investing.com/news/stock-market-news/record-stock-market-valuations-mask-reliance-on-temporary-profit-catalysts-4622193",
@@ -13,20 +27,6 @@
       "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4622176",
       "summary": "",
       "title_ko": "러시아 주식은 교역 마감 시점보다 낮습니다. MOEX 러시아 지수는 변동이 없습니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Tesla expands robotaxi service to Dallas, Houston",
-      "link": "https://www.investing.com/news/stock-market-news/tesla-rolls-out-robotaxis-in-dallas-and-houston-4622171",
-      "summary": "",
-      "title_ko": "테슬라, 휴스턴 달라스까지 로봇 택시 서비스 확대",
-      "summary_ko": ""
-    },
-    {
-      "title": "Merchant vessels report gunfire as they attempt to cross Hormuz, shipping sources say",
-      "link": "https://www.investing.com/news/stock-market-news/merchant-vessels-report-gunfire-as-they-attempt-to-cross-hormuz-shipping-sources-say-4622148",
-      "summary": "",
-      "title_ko": "상선들이 호르무즈를 횡단하려다 총격을 당했다고 선적 소식통들이 전하고 있다.",
       "summary_ko": ""
     },
     {
@@ -62,7 +62,7 @@
       "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-breaks-below-key-smas-eyes-on-07800-202604172230",
       "summary": "USD/CHF finishes the week on a lower note, down 0.87% for the week and 0.27% in the day, as markets turn optimistic about a possible US-Iran deal over the weekend.",
       "title_ko": "USD/CHF 가격 예측: 주요 SMA 아래로 돌파, 0.7800에 주목",
-      "summary_ko": "USD/CHF는 주말 동안 미국-이란 거래 가능성에 대해 시장이 낙관적으로 변함에 따라 주간 0.87%, 일간 0.27% 하락한 낮은 어음으로 주간을 마칩니다."
+      "summary_ko": "USD/CHF는 주말 동안 미국-이란 거래 가능성에 대해 시장이 낙관적으로 변함에 따라 주당 0.87%, 일당 0.27% 하락한 낮은 어음으로 주를 마칩니다."
     },
     {
       "title": "US President Trump says he can trust Iranians – ABC News",

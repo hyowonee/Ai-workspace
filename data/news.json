@@ -1,6 +1,20 @@
 {
-  "updated_at_utc": "2026-04-19 11:36:51 UTC",
+  "updated_at_utc": "2026-04-19 13:06:56 UTC",
   "items": [
+    {
+      "title": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 0.78%",
+      "link": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-078-4622216",
+      "summary": "",
+      "title_ko": "사우디아라비아 주식은 거래 종료 시점에 하락, 타다울 전체 점유율은 0.78% 하락",
+      "summary_ko": ""
+    },
+    {
+      "title": "Blue Origin says it has landed reused New Glenn rocket booster",
+      "link": "https://www.investing.com/news/stock-market-news/blue-origin-says-it-has-landed-reused-new-glenn-rocket-booster-4622215",
+      "summary": "",
+      "title_ko": "Blue Origin은 재사용한 New Glenn 로켓 부스터를 착륙시켰다고 밝혔습니다.",
+      "summary_ko": ""
+    },
     {
       "title": "Analysis-Investors pile into US stocks as ’TINA’ revival knocks ’TIARA’ trades",
       "link": "https://www.investing.com/news/stock-market-news/analysisinvestors-pile-into-us-stocks-as-tina-revival-knocks-tiara-trades-4622206",
@@ -13,20 +27,6 @@
       "link": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-bullish-on-google-stock-nearterm-tesla-upgraded-4622179",
       "summary": "",
       "title_ko": "5대 애널리스트 AI의 움직임: 단기적으로 구글 주식에서 강세; 테슬라 업그레이드",
-      "summary_ko": ""
-    },
-    {
-      "title": "Street Calls of the Week",
-      "link": "https://www.investing.com/news/stock-market-news/street-calls-of-the-week-4622198",
-      "summary": "",
-      "title_ko": "금주의 스트리트콜",
-      "summary_ko": ""
-    },
-    {
-      "title": "Comedy trailblazer Eddie Murphy receives AFI Life Achievement Award",
-      "link": "https://www.investing.com/news/stock-market-news/comedy-trailblazer-eddie-murphy-receives-afi-life-achievement-award-4622196",
-      "summary": "",
-      "title_ko": "코미디 개척자 에디 머피, AFI 인생 공로상 수상",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
+      "title": "US President Trump confirms talks, threatens to destroy Iran",
+      "link": "https://www.fxstreet.com/news/us-president-trump-confirms-talks-threatens-to-destroy-iran-202604191225",
+      "summary": "United States (US) President Donald Trump just confirmed on Truth Social that US representatives are going to Islamabad, where negotiations with Iran will take place on Monday.",
+      "title_ko": "트럼프 미국 대통령, 회담 확정, 이란 파괴 위협",
+      "summary_ko": "도널드 트럼프 미국 대통령은 방금 트루스 소셜 (Truth Social) 을 통해 미국 대표들이 월요일에 이란과의 협상이 진행되는 이슬라마바드에 갈 것이라고 확인했다."
+    },
+    {
       "title": "USD/CHF Price Forecast: Breaks below key SMAs, eyes on 0.7800",
       "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-breaks-below-key-smas-eyes-on-07800-202604172230",
       "summary": "USD/CHF finishes the week on a lower note, down 0.87% for the week and 0.27% in the day, as markets turn optimistic about a possible US-Iran deal over the weekend.",
       "title_ko": "USD/CHF 가격 예측: 주요 SMA 아래로 돌파, 0.7800에 주목",
-      "summary_ko": "USD/CHF는 주말 동안 미국-이란 거래 가능성에 대해 시장이 낙관적으로 변함에 따라 주간 0.87%, 일간 0.27% 하락한 낮은 어음으로 주간을 마칩니다."
-    },
-    {
-      "title": "US President Trump says he can trust Iranians – ABC News",
-      "link": "https://www.fxstreet.com/news/us-president-trump-says-he-can-trust-iranians-abc-news-202604172208",
-      "summary": "US President Donald Trump said he can trust Iranians, according to an interview with ABC News. Trump added that talks will take place only in Islamabad and resume over the weekend.",
-      "title_ko": "트럼프 미국 대통령이 이란인들을 믿을 수 있다고 말했습니다 – ABC 뉴스",
-      "summary_ko": "ABC 뉴스와의 인터뷰에 따르면 도널드 트럼프 미국 대통령은 이란인들을 신뢰할 수 있다고 말했다. 트럼프 대통령은 회담이 이슬라마바드에서만 열리고 주말에 재개될 것이라고 덧붙였다."
+      "summary_ko": "USD/CHF는 주말 동안 미국-이란 거래 가능성에 대해 시장이 낙관적으로 변함에 따라 주당 0.87%, 일당 0.27% 하락한 낮은 어음으로 주를 마칩니다."
     }
   ]
 }

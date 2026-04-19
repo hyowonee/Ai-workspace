@@ -1,6 +1,20 @@
 {
-  "updated_at_utc": "2026-04-19 21:03:08 UTC",
+  "updated_at_utc": "2026-04-19 22:00:04 UTC",
   "items": [
+    {
+      "title": "Eli Lilly in advanced talks to acquire Kelonia Therapeutics for over $2 billion, WSJ says",
+      "link": "https://www.investing.com/news/stock-market-news/eli-lilly-in-advanced-talks-to-acquire-kelonia-therapeutics-for-over-2-billion-wsj-says-4622253",
+      "summary": "",
+      "title_ko": "WSJ는 일라이 릴리 (Eli Lilly) 가 켈로니아 테라퓨틱스 (Kelonia Therapeutics) 를 20억 달러 ($) 이상에 인수하기 위한 고급 회담에 참여했다고",
+      "summary_ko": ""
+    },
+    {
+      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4622250",
+      "summary": "",
+      "title_ko": "러시아 주식은 교역 마감 시점보다 낮습니다. MOEX 러시아 지수는 변동이 없습니다.",
+      "summary_ko": ""
+    },
     {
       "title": "QXO strikes $17 billion deal to acquire building products distributor and installer TopBuild",
       "link": "https://www.investing.com/news/stock-market-news/qxo-to-buy-commercial-roofing-firm-topbuild-for-17-billion-4622238",
@@ -13,20 +27,6 @@
       "link": "https://www.investing.com/news/stock-market-news/us-security-agency-is-using-anthropics-mythos-despite-blacklist-axios-reports-4622241",
       "summary": "",
       "title_ko": "Axios는 미국 보안 기관이 블랙리스트에도 불구하고 Anthropic의 Mythos를 사용하고 있다고 보고합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Bank creditors for Brazil’s Raizen make restructuring proposal, Bloomberg reports",
-      "link": "https://www.investing.com/news/stock-market-news/bank-creditors-for-brazils-raizen-make-restructuring-proposal-bloomberg-reports-4622230",
-      "summary": "",
-      "title_ko": "블룸버그 보고서에 따르면 브라질 Raizen의 은행 채권자는 구조 조정 제안을합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Google in talks with Marvell to build new AI chips, The Information reports",
-      "link": "https://www.investing.com/news/stock-market-news/google-in-talks-with-marvell-to-build-new-ai-chips-for-inference-the-information-reports-4622218",
-      "summary": "",
-      "title_ko": "Google이 Marvell과 대화하여 새로운 AI 칩을 구축했다고 The Information이 보도했습니다.",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
+      "title": "Iran denies upcoming talks with the United States",
+      "link": "https://www.fxstreet.com/news/iran-denies-upcoming-talks-with-the-united-states-202604192116",
+      "summary": "The Iranian state TV reported on Sunday that the country rejected new peace talks with the United States, following US President Donald Trump's post on Truth Social, indicating US representatives were heading to Pakistan",
+      "title_ko": "이란, 미국과의 예정된 회담 거부",
+      "summary_ko": "이란 국영 TV는 일요일 도널드 트럼프 미국 대통령의 트루스 소셜 (Truth Social) 에 대한 게시물에 따라 미국이 미국과의 새로운 평화 회담을 거부했다고 보도했다. 이는 미국 대표들이 파키스탄으로 향하고 있음을 나타낸다."
+    },
+    {
       "title": "US President Trump confirms talks, threatens to destroy Iran",
       "link": "https://www.fxstreet.com/news/us-president-trump-confirms-talks-threatens-to-destroy-iran-202604191225",
       "summary": "United States (US) President Donald Trump just confirmed on Truth Social that US representatives are going to Islamabad, where negotiations with Iran will take place on Monday.",
       "title_ko": "트럼프 미국 대통령, 회담 확정, 이란 파괴 위협",
       "summary_ko": "도널드 트럼프 미국 대통령은 방금 트루스 소셜 (Truth Social) 을 통해 미국 대표들이 월요일에 이란과의 협상이 진행되는 이슬라마바드에 갈 것이라고 확인했다."
-    },
-    {
-      "title": "USD/CHF Price Forecast: Breaks below key SMAs, eyes on 0.7800",
-      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-breaks-below-key-smas-eyes-on-07800-202604172230",
-      "summary": "USD/CHF finishes the week on a lower note, down 0.87% for the week and 0.27% in the day, as markets turn optimistic about a possible US-Iran deal over the weekend.",
-      "title_ko": "USD/CHF 가격 예측: 주요 SMA 아래로 돌파, 0.7800에 주목",
-      "summary_ko": "USD/CHF는 주말 동안 미국-이란 거래 가능성에 대해 시장이 낙관적으로 변함에 따라 주당 0.87%, 일당 0.27% 하락한 낮은 어음으로 주를 마칩니다."
     }
   ]
 }

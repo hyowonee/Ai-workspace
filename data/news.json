@@ -1,6 +1,20 @@
 {
-  "updated_at_utc": "2026-04-20 21:11:57 UTC",
+  "updated_at_utc": "2026-04-20 22:09:18 UTC",
   "items": [
+    {
+      "title": "Factbox-Who is John Ternus, Apple’s new CEO?",
+      "link": "https://www.investing.com/news/stock-market-news/factboxwho-is-john-ternus-apples-new-ceo-4624857",
+      "summary": "",
+      "title_ko": "팩트박스 - 애플의 새로운 CEO 존 테르누스는 누구인가?",
+      "summary_ko": ""
+    },
+    {
+      "title": "Tesla settles wrongful death lawsuit over crash that killed Florida teenager",
+      "link": "https://www.investing.com/news/stock-market-news/tesla-settles-wrongful-death-lawsuit-over-crash-that-killed-florida-teenager-4624843",
+      "summary": "",
+      "title_ko": "테슬라, 플로리다 십대 사망 사고에 대한 부당한 사형 소송 해결",
+      "summary_ko": ""
+    },
     {
       "title": "Alaska Air pulls 2026 profit forecast amid fuel costs related uncertainty",
       "link": "https://www.investing.com/news/stock-market-news/alaska-air-pulls-2026-profit-forecast-amid-fuel-costs-related-uncertainty-4624720",
@@ -9,24 +23,10 @@
       "summary_ko": ""
     },
     {
-      "title": "Tim Cook steps down as Apple CEO after 1,000% growth; John Ternus named successor",
-      "link": "https://www.investing.com/news/stock-market-news/tim-cook-steps-down-as-apple-ceo-after-1000-growth-john-ternus-named-successor-4624598",
+      "title": "US regulator orders Blue Origin to probe its second-stage rocket failure",
+      "link": "https://www.investing.com/news/stock-market-news/faa-orders-investigation-into-blue-origin-flight-mishap-4624307",
       "summary": "",
-      "title_ko": "팀 쿡, 1,000% 성장 후 애플 CEO로 물러나다; 존 테르누스가 후계자로 지명",
-      "summary_ko": ""
-    },
-    {
-      "title": "After-hours movers: Amazon, Marvell, Apple, and more",
-      "link": "https://www.investing.com/news/stock-market-news/afterhours-movers-amazon-marvell-apple-and-more-432SI-4624698",
-      "summary": "",
-      "title_ko": "영업시간 외 이동: 아마존, 마벨, 애플 등",
-      "summary_ko": ""
-    },
-    {
-      "title": "US low-cost airlines seek temporary tax relief to address soaring fuel costs",
-      "link": "https://www.investing.com/news/stock-market-news/us-lowcost-airlines-seek-temporary-tax-relief-to-address-soaring-fuel-costs-4624346",
-      "summary": "",
-      "title_ko": "미국 저가 항공사들은 치솟는 연료비 문제를 해결하기 위해 일시적인 세금 감면을 요구하고 있습니다.",
+      "title_ko": "미국 규제 당국, Blue Origin에 2단계 로켓 고장 조사 명령",
       "summary_ko": ""
     },
     {
@@ -40,7 +40,7 @@
       "title": "German producer prices fall 0.2% in March, beat forecasts",
       "link": "https://www.investing.com/news/economic-indicators/german-producer-prices-fall-02-in-march-beat-forecasts-93CH-4622420",
       "summary": "",
-      "title_ko": "독일 생산자 가격은 3월에 0.2% 하락, 예측을 능가",
+      "title_ko": "3월 독일 생산자 가격 0.2% 하락, 예측을 능가",
       "summary_ko": ""
     },
     {

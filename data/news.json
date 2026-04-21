@@ -1,11 +1,25 @@
 {
-  "updated_at_utc": "2026-04-21 17:59:56 UTC",
+  "updated_at_utc": "2026-04-21 19:24:28 UTC",
   "items": [
     {
-      "title": "Mining investors jittery about politics in Peru as vote count drags on, analysts say",
-      "link": "https://www.investing.com/news/stock-market-news/mining-investors-jittery-about-politics-in-peru-as-vote-count-drags-on-analysts-say-4627024",
+      "title": "Trump says Anthropic is ’shaping up,’ open to deal with Pentagon",
+      "link": "https://www.investing.com/news/stock-market-news/trump-says-anthropic-is-shaping-up-open-to-deal-with-pentagon-4626327",
       "summary": "",
-      "title_ko": "분석가들은 투표 수가 늘어남에 따라 광업 투자자들이 페루의 정치에 대해 불안해한다고 말합니다.",
+      "title_ko": "트럼프는 Anthropic이 펜타곤을 다루기 위해 ’형성 중’ 이라고 말합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Deutsche Telekom exploring merger with T-Mobile, Bloomberg News reports",
+      "link": "https://www.investing.com/news/stock-market-news/deutsche-telekom-exploring-merger-with-tmobile-bloomberg-news-reports-4627102",
+      "summary": "",
+      "title_ko": "블룸버그 뉴스는 Deutsche Telekom이 T-Mobile과의 합병을 모색하고 있다고 보도했습니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "New York sues Coinbase and Gemini Titan, calls their prediction markets illegal gambling",
+      "link": "https://www.investing.com/news/stock-market-news/new-york-sues-coinbase-financial-markets-gemini-titan-for-allegedly-violating-state-law-4626861",
+      "summary": "",
+      "title_ko": "뉴욕은 Coinbase와 Gemini Titan을 고소하여 예측 시장에 불법 도박을 제기합니다.",
       "summary_ko": ""
     },
     {
@@ -13,20 +27,6 @@
       "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-steady-amid-usiran-peace-talks-uncertainty-4624975",
       "summary": "",
       "title_ko": "미국-이란 평화 회담에 대한 불확실성이 커지는 가운데 월스트리트 하락",
-      "summary_ko": ""
-    },
-    {
-      "title": "Navy to deploy Patriot missiles on warships with Lockheed contract",
-      "link": "https://www.investing.com/news/stock-market-news/navy-to-deploy-patriot-missiles-on-warships-with-lockheed-contract-93CH-4627023",
-      "summary": "",
-      "title_ko": "해군, 록히드 계약으로 전함에 패트리어트 미사일 배치",
-      "summary_ko": ""
-    },
-    {
-      "title": "Microsoft cuts Xbox Game Pass price, to remove ’Call of Duty’ day one inclusions",
-      "link": "https://www.investing.com/news/stock-market-news/microsoft-cuts-xbox-game-pass-price-to-remove-call-of-duty-day-one-inclusions-4626987",
-      "summary": "",
-      "title_ko": "Microsoft, Xbox Game Pass 가격 인하로 ’Call of Duty’ 1일차 포함 사항 삭제",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Dow Jones Industrial Average futures slip on Oil surge, hot US Retail Sales",
-      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-futures-slip-on-oil-surge-hot-us-retail-sales-202604211616",
-      "summary": "Dow Jones Industrial Average (DJIA) futures eased in Tuesday's session, with the contract printing a fresh overnight high near 49,800 before reversing sharply as traders digested a trio of hotter-than-expected US Retail ",
-      "title_ko": "다우 존스 산업 평균 선물 미끄러짐 석유 급증, 뜨거운 미국 소매 판매",
-      "summary_ko": "Dow Jones Industrial Average (DJIA) 선물은 화요일 세션에서 완화되었습니다. 계약은 49,800 근처에서 신선한 하룻밤 최고치를 인쇄 한 후 거래자가 예상보다 더 뜨거운 미국 소매 트리오를 소화함에 따라 급격히 반전되었습니다."
+      "title": "Oil jumps 4%: Deal or bombs by Wednesday?",
+      "link": "https://www.fxstreet.com/news/oil-jumps-4-deal-or-bombs-by-wednesday-202604211815",
+      "summary": "The countdown is on. With the US-Iran ceasefire set to expire late Wednesday, Tuesday delivered dueling statements from both sides that looked more like pre-conflict posturing than pre-deal diplomacy.",
+      "title_ko": "석유 점프 4%: 수요일까지 거래 또는 폭탄?",
+      "summary_ko": "카운트다운이 시작되었습니다. 화요일 미국-이란 휴전이 수요일 늦게 만료됨에 따라, 화요일은 거래 전 외교보다는 분쟁 전 자세로 보이는 양측의 결투 성명을 전달했다."
     },
     {
-      "title": "NZD/USD extends gains as stronger NZ inflation data fuels RBNZ tightening expectations",
-      "link": "https://www.fxstreet.com/news/nzd-usd-extends-gains-as-stronger-nz-inflation-data-fuels-rbnz-tightening-expectations-202604211611",
-      "summary": "NZD/USD trades around 0.5900 on Tuesday at the time of writing, up 0.20% on the day, extending its rebound from the lows near 0.5850 recorded on Monday.",
-      "title_ko": "NZD/USD는 더 강력한 NZ 인플레이션 데이터가 RBNZ 타이트닝 기대에 연료를 공급함에 따라 이익을 확대합니다.",
-      "summary_ko": "NZD/USD는 서면 작성 당시 화요일 약 0.5900에 거래되며, 당일 0.20% 상승하여 월요일에 기록된 0.5850 근처의 최저치에서 반등을 연장합니다."
+      "title": "USD/CAD steadies as firmer US Dollar supports gains, but technicals signal downside risk",
+      "link": "https://www.fxstreet.com/news/usd-cad-steadies-as-firmer-us-dollar-supports-gains-but-technicals-signal-downside-risk-202604211814",
+      "summary": "USD/CAD holds firm on Tuesday as the US Dollar (USD) steadies after recent weakness, although the pair lacks strong upside momentum as elevated Oil prices provide underlying support to the commodity-linked Canadian Dolla",
+      "title_ko": "더 확고한 미국 달러로 USD/CAD 스테이디스는 이익을 지지하지만, 기술자는 하방 리스크를 나타냅니다",
+      "summary_ko": "USD/CAD는 최근 약세 이후 미국 달러 (USD) 의 안정세로 화요일에 견고하게 유지되고 있지만, 상승한 유가가 상품 연계 캐나다 달러에 대한 근본적인 지원을 제공함에 따라 이 쌍은 강한 상승 모멘텀이 부족합니다."
     }
   ]
 }

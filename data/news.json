@@ -1,32 +1,46 @@
 {
-  "updated_at_utc": "2026-04-21 16:36:17 UTC",
+  "updated_at_utc": "2026-04-21 17:59:56 UTC",
   "items": [
     {
-      "title": "Trump says he will ’remember’ companies that don’t seek tariff refunds",
-      "link": "https://www.investing.com/news/stock-market-news/trump-says-he-will-remember-companies-that-dont-seek-tariff-refunds-4626890",
+      "title": "Mining investors jittery about politics in Peru as vote count drags on, analysts say",
+      "link": "https://www.investing.com/news/stock-market-news/mining-investors-jittery-about-politics-in-peru-as-vote-count-drags-on-analysts-say-4627024",
       "summary": "",
-      "title_ko": "트럼프는 관세 환급을 추구하지 않는 회사를 ’기억’ 할 것이라고 말한다.",
+      "title_ko": "분석가들은 투표 수가 늘어남에 따라 광업 투자자들이 페루의 정치에 대해 불안해한다고 말합니다.",
       "summary_ko": ""
     },
     {
-      "title": "European stocks decline as uncertainty surrounds Mideast peace talks",
-      "link": "https://www.investing.com/news/stock-market-news/european-stocks-open-mostly-subdued-as-uncertainty-surrounds-mideast-peace-talks-4625110",
+      "title": "Wall Street falls amid growing uncertainty over U.S.-Iran peace talks",
+      "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-steady-amid-usiran-peace-talks-uncertainty-4624975",
       "summary": "",
-      "title_ko": "유럽 증시는 중동 평화 회담을 둘러싼 불확실성으로 하락",
+      "title_ko": "미국-이란 평화 회담에 대한 불확실성이 커지는 가운데 월스트리트 하락",
       "summary_ko": ""
     },
     {
-      "title": "FTSE 100 today: Stocks fall as ceasefire jitters, Iran talks weigh",
-      "link": "https://www.investing.com/news/stock-market-news/ftse-100-stocks-tick-up-on-cautious-optimism-over-usiran-talks-4625109",
+      "title": "Navy to deploy Patriot missiles on warships with Lockheed contract",
+      "link": "https://www.investing.com/news/stock-market-news/navy-to-deploy-patriot-missiles-on-warships-with-lockheed-contract-93CH-4627023",
       "summary": "",
-      "title_ko": "FTSE 100 오늘: 주식은 휴전 지터로 떨어지고, 이란 회담의 무게는",
+      "title_ko": "해군, 록히드 계약으로 전함에 패트리어트 미사일 배치",
       "summary_ko": ""
     },
     {
-      "title": "Trump’s $1.5 trillion defense budget includes $750 billion for ships, jets and Golden Dome",
-      "link": "https://www.investing.com/news/stock-market-news/trumps-15-trillion-defense-budget-includes-750-billion-for-ships-jets-and-golden-dome-4626587",
+      "title": "Microsoft cuts Xbox Game Pass price, to remove ’Call of Duty’ day one inclusions",
+      "link": "https://www.investing.com/news/stock-market-news/microsoft-cuts-xbox-game-pass-price-to-remove-call-of-duty-day-one-inclusions-4626987",
       "summary": "",
-      "title_ko": "트럼프의 $ 1.5 조 국방 예산에는 선박, 제트기 및 골든 돔을위한 $ 75 billion이 포함됩니다.",
+      "title_ko": "Microsoft, Xbox Game Pass 가격 인하로 ’Call of Duty’ 1일차 포함 사항 삭제",
+      "summary_ko": ""
+    },
+    {
+      "title": "Italy to confirm 2026 deficit around 2.8% of GDP despite weaker growth",
+      "link": "https://www.investing.com/news/economic-indicators/italy-to-confirm-2026-deficit-around-28-of-gdp-despite-weaker-growth-4626988",
+      "summary": "",
+      "title_ko": "이탈리아, 성장률 약화에도 2026년 GDP의 약 2.8% 적자 확인",
+      "summary_ko": ""
+    },
+    {
+      "title": "Record surge in gasoline receipts boosts US retail sales, but weakness is looming",
+      "link": "https://www.investing.com/news/economic-indicators/us-retail-sales-surge-in-march-on-higher-gasoline-prices-4626182",
+      "summary": "",
+      "title_ko": "휘발유 영수증의 기록적인 급등은 미국 소매 판매를 증가시키지만 약점은 드러나고 있습니다.",
       "summary_ko": ""
     },
     {
@@ -44,20 +58,6 @@
       "summary_ko": ""
     },
     {
-      "title": "Business Inventories Rise, Surpassing Forecasts",
-      "link": "https://www.investing.com/news/economic-indicators/business-inventories-rise-surpassing-forecasts-93CH-4626575",
-      "summary": "",
-      "title_ko": "비즈니스 인벤토리 상승, 예측 뛰어넘어",
-      "summary_ko": ""
-    },
-    {
-      "title": "Pending home sales dip but remain above forecast amid market fluctuations",
-      "link": "https://www.investing.com/news/economic-indicators/pending-home-sales-dip-but-remain-above-forecast-amid-market-fluctuations-93CH-4626571",
-      "summary": "",
-      "title_ko": "주택 판매가 하락할 것으로 보이지만 시장 변동에 따라 예측치를 상회합니다.",
-      "summary_ko": ""
-    },
-    {
       "title": "Dow Jones Industrial Average futures slip on Oil surge, hot US Retail Sales",
       "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-futures-slip-on-oil-surge-hot-us-retail-sales-202604211616",
       "summary": "Dow Jones Industrial Average (DJIA) futures eased in Tuesday's session, with the contract printing a fresh overnight high near 49,800 before reversing sharply as traders digested a trio of hotter-than-expected US Retail ",
@@ -68,7 +68,7 @@
       "title": "NZD/USD extends gains as stronger NZ inflation data fuels RBNZ tightening expectations",
       "link": "https://www.fxstreet.com/news/nzd-usd-extends-gains-as-stronger-nz-inflation-data-fuels-rbnz-tightening-expectations-202604211611",
       "summary": "NZD/USD trades around 0.5900 on Tuesday at the time of writing, up 0.20% on the day, extending its rebound from the lows near 0.5850 recorded on Monday.",
-      "title_ko": "NZD/USD는 NZ 인플레이션 데이터가 RBNZ 타이트닝 기대에 연료를 공급함에 따라 이득을 확대합니다.",
+      "title_ko": "NZD/USD는 더 강력한 NZ 인플레이션 데이터가 RBNZ 타이트닝 기대에 연료를 공급함에 따라 이익을 확대합니다.",
       "summary_ko": "NZD/USD는 서면 작성 당시 화요일 약 0.5900에 거래되며, 당일 0.20% 상승하여 월요일에 기록된 0.5850 근처의 최저치에서 반등을 연장합니다."
     }
   ]

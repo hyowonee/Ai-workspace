@@ -1,6 +1,20 @@
 {
-  "updated_at_utc": "2026-04-20 23:09:41 UTC",
+  "updated_at_utc": "2026-04-21 00:06:41 UTC",
   "items": [
+    {
+      "title": "Wall Street closes slightly down on renewed tensions between US, Iran",
+      "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-fall-after-rally-as-mideast-tensions-flare-4622671",
+      "summary": "",
+      "title_ko": "월스트리트는 미국과 이란 사이의 새로운 긴장에 약간 폐쇄됩니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Australia’s Lynas Rare Earths more than doubles third-quarter revenue",
+      "link": "https://www.investing.com/news/stock-market-news/australias-lynas-rare-earths-more-than-doubles-thirdquarter-revenue-4624953",
+      "summary": "",
+      "title_ko": "호주의 Lynas Rare Earths, 3분기 매출 2배 이상 증가",
+      "summary_ko": ""
+    },
     {
       "title": "Snap names Doug Hott as new CFO",
       "link": "https://www.investing.com/news/stock-market-news/snap-names-doug-hott-as-new-cfo-4624946",
@@ -13,20 +27,6 @@
       "link": "https://www.investing.com/news/stock-market-news/gm-lured-new-product-chief-with-pay-package-totaling-40-million-4624937",
       "summary": "",
       "title_ko": "GM은 총 4천만 달러의 급여 패키지로 신제품 책임자를 유인했다 ($ 40 million).",
-      "summary_ko": ""
-    },
-    {
-      "title": "Texas environmental network plans to protest SpaceX analyst meetings",
-      "link": "https://www.investing.com/news/stock-market-news/texas-environmental-network-plans-to-protest-spacex-analyst-meetings-4624933",
-      "summary": "",
-      "title_ko": "텍사스 환경 네트워크는 SpaceX 분석가 회의에 항의할 계획입니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Alaska Air pulls forecast as Iran-linked fuel surge hits margins",
-      "link": "https://www.investing.com/news/stock-market-news/alaska-air-pulls-2026-profit-forecast-amid-fuel-costs-related-uncertainty-4624720",
-      "summary": "",
-      "title_ko": "알래스카 항공은 이란과 연계된 연료 서지가 마진에 도달함에 따라 예측을 당깁니다.",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "China: Energy resilience under Hormuz shock – Commerzbank",
-      "link": "https://www.fxstreet.com/news/china-energy-resilience-under-hormuz-shock-commerzbank-202604202149",
-      "summary": "Commerzbank’s Dr. Henry Hao argues China is better positioned than other Asian economies to withstand energy disruptions from Middle East tensions and Strait of Hormuz risks.",
-      "title_ko": "중국: 호르무즈 쇼크 하의 에너지 복원력 – 코메르츠방크",
-      "summary_ko": "코메르츠방크 (Commerzbank) 의 헨리 하오 (Henry Hao) 박사는 중국이 중동 긴장과 호르무즈 해협 위험으로 인한 에너지 혼란을 견딜 수 있는 다른 아시아 경제국보다 더 나은 위치에 있다고 주장한다."
+      "title": "GBP/USD holds above 1.35 as Iran deadline and UK data wave loom",
+      "link": "https://www.fxstreet.com/news/gbp-usd-holds-above-135-as-iran-deadline-and-uk-data-wave-loom-202604202252",
+      "summary": "GBP/USD advanced 0.1% on Monday, trading around 1.3530 after pulling back from last week's peak near 1.3600.",
+      "title_ko": "이란 마감일 및 영국 데이터 웨이브 직기로 GBP/USD가 1.35 를 초과합니다",
+      "summary_ko": "GBP/USD는 지난주 1.3600 근처에서 철수한 후 약 1.3530에 거래되며 월요일에 0.1% 상승했습니다."
     },
     {
-      "title": "USD/JPY holds below 159.00 as Iran ceasefire edges toward Wednesday deadline",
-      "link": "https://www.fxstreet.com/news/usd-jpy-holds-below-15900-as-iran-ceasefire-edges-toward-wednesday-deadline-202604202123",
-      "summary": "USD/JPY edged lower by less than 0.1% on Monday, trading in a tight range around 158.80.",
-      "title_ko": "이란이 수요일 마감일을 향해 휴전함에 따라 USD/JPY는 159.00 미만으로 유지됩니다.",
-      "summary_ko": "USD/JPY는 월요일에 0.1% 미만으로 하락하여 약 158.80의 타이트한 범위에서 거래되었습니다."
+      "title": "New Zealand’s CPI inflation steadies at 3.1% YoY in Q1, vs 2.9% expected",
+      "link": "https://www.fxstreet.com/news/new-zealands-cpi-inflation-steadies-at-31-yoy-in-q1-vs-29-expected-202604202250",
+      "summary": "New Zealand’s Consumer Price Index (CPI) climbed 3.1% YoY in the first quarter (Q1) of 2026, compared with the 3.1% increase seen in the fourth quarter of 2025, according to the latest data published by Statistics New Ze",
+      "title_ko": "뉴질랜드의 CPI 인플레이션은 1분기 전년 동기 대비 3.1% 증가한 2.9% 를 기록할 것으로 예상됩니다.",
+      "summary_ko": "Statistics New Ze가 발표한 최신 데이터에 따르면 2026년 1분기 (1분기) 뉴질랜드 소비자물가지수 (CPI) 는 전년 동기 대비 3.1% 상승한 반면, 2025년 4분기에는 3.1% 상승한 것으로 나타났습니다."
     }
   ]
 }

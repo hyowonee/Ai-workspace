@@ -1,32 +1,32 @@
 {
-  "updated_at_utc": "2026-04-21 19:24:28 UTC",
+  "updated_at_utc": "2026-04-21 20:27:26 UTC",
   "items": [
     {
-      "title": "Trump says Anthropic is ’shaping up,’ open to deal with Pentagon",
-      "link": "https://www.investing.com/news/stock-market-news/trump-says-anthropic-is-shaping-up-open-to-deal-with-pentagon-4626327",
+      "title": "United Airlines sees weak Q2, full-year profit as fuel shock squeezes margins",
+      "link": "https://www.investing.com/news/stock-market-news/united-airlines-sees-weak-q2-fullyear-profit-as-fuel-shock-squeezes-margins-4627334",
       "summary": "",
-      "title_ko": "트럼프는 Anthropic이 펜타곤을 다루기 위해 ’형성 중’ 이라고 말합니다.",
+      "title_ko": "유나이티드 항공은 연료 충격이 마진을 압박함에 따라 2분기, 전년도 이익이 미약하다고 보고 있습니다.",
       "summary_ko": ""
     },
     {
-      "title": "Deutsche Telekom exploring merger with T-Mobile, Bloomberg News reports",
-      "link": "https://www.investing.com/news/stock-market-news/deutsche-telekom-exploring-merger-with-tmobile-bloomberg-news-reports-4627102",
-      "summary": "",
-      "title_ko": "블룸버그 뉴스는 Deutsche Telekom이 T-Mobile과의 합병을 모색하고 있다고 보도했습니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "New York sues Coinbase and Gemini Titan, calls their prediction markets illegal gambling",
-      "link": "https://www.investing.com/news/stock-market-news/new-york-sues-coinbase-financial-markets-gemini-titan-for-allegedly-violating-state-law-4626861",
-      "summary": "",
-      "title_ko": "뉴욕은 Coinbase와 Gemini Titan을 고소하여 예측 시장에 불법 도박을 제기합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Wall Street falls amid growing uncertainty over U.S.-Iran peace talks",
+      "title": "Wall Street ends lower as U.S. calls off trip to Pakistan for Iran peace talks",
       "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-steady-amid-usiran-peace-talks-uncertainty-4624975",
       "summary": "",
-      "title_ko": "미국-이란 평화 회담에 대한 불확실성이 커지는 가운데 월스트리트 하락",
+      "title_ko": "미국이 이란 평화 회담을 위해 파키스탄 여행을 중단할 것을 촉구함에 따라 월스트리트는 더 낮아진다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Adobe stock jumps on $25 billion buyback program",
+      "link": "https://www.investing.com/news/stock-market-news/adobe-stock-jumps-on-25-billion-buyback-program-93CH-4627286",
+      "summary": "",
+      "title_ko": "Adobe 주식이 250억 달러 ($) 의 환매 프로그램으로 뛰어오름",
+      "summary_ko": ""
+    },
+    {
+      "title": "US transportation secretary calls United CEO proposal to buy American ’interesting’",
+      "link": "https://www.investing.com/news/stock-market-news/us-transportation-secretary-calls-united-ceo-proposal-to-buy-american-interesting-4627140",
+      "summary": "",
+      "title_ko": "미국 교통부 장관이 유나이티드 CEO에게 전화를 걸어 미국산 ’흥미롭다’ 고 매수할 것을 제안",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Oil jumps 4%: Deal or bombs by Wednesday?",
-      "link": "https://www.fxstreet.com/news/oil-jumps-4-deal-or-bombs-by-wednesday-202604211815",
-      "summary": "The countdown is on. With the US-Iran ceasefire set to expire late Wednesday, Tuesday delivered dueling statements from both sides that looked more like pre-conflict posturing than pre-deal diplomacy.",
-      "title_ko": "석유 점프 4%: 수요일까지 거래 또는 폭탄?",
-      "summary_ko": "카운트다운이 시작되었습니다. 화요일 미국-이란 휴전이 수요일 늦게 만료됨에 따라, 화요일은 거래 전 외교보다는 분쟁 전 자세로 보이는 양측의 결투 성명을 전달했다."
+      "title": "Silver Price Analysis: Tanks after a trendline break, eyes on $70",
+      "link": "https://www.fxstreet.com/news/silver-price-analysis-tanks-after-a-trendline-break-eyes-on-70-202604211929",
+      "summary": "Silver price tanks nearly 3.50% on Tuesday, clearing a key support trendline after printing a doji on Monday, as markets remained uncertain about the outcome of US-Iran talks. Heightened tensions and a ceasefire about to",
+      "title_ko": "실버 가격 분석: 추세선 이탈 후 탱크, $ 70을 주시",
+      "summary_ko": "은 가격 탱크는 화요일에 거의 3.50% 에 달하며, 미국과 이란 회담의 결과에 대해 시장이 여전히 불확실하기 때문에 월요일에 도지를 인쇄한 후 주요 지지 추세를 정리했다. 긴장이 고조되고 곧 휴전이 시작됩니다."
     },
     {
-      "title": "USD/CAD steadies as firmer US Dollar supports gains, but technicals signal downside risk",
-      "link": "https://www.fxstreet.com/news/usd-cad-steadies-as-firmer-us-dollar-supports-gains-but-technicals-signal-downside-risk-202604211814",
-      "summary": "USD/CAD holds firm on Tuesday as the US Dollar (USD) steadies after recent weakness, although the pair lacks strong upside momentum as elevated Oil prices provide underlying support to the commodity-linked Canadian Dolla",
-      "title_ko": "더 확고한 미국 달러로 USD/CAD 스테이디스는 이익을 지지하지만, 기술자는 하방 리스크를 나타냅니다",
-      "summary_ko": "USD/CAD는 최근 약세 이후 미국 달러 (USD) 의 안정세로 화요일에 견고하게 유지되고 있지만, 상승한 유가가 상품 연계 캐나다 달러에 대한 근본적인 지원을 제공함에 따라 이 쌍은 강한 상승 모멘텀이 부족합니다."
+      "title": "New Zealand: Sticky inflation and cautious business mood – BNY",
+      "link": "https://www.fxstreet.com/news/new-zealand-sticky-inflation-and-cautious-business-mood-bny-202604211926",
+      "summary": "BNY’s Bob Savage notes that New Zealand’s Consumer Price Index (CPI) accelerated to 0.9% q/q, keeping annual inflation at 3.1%, with strong non-tradeable components such as electricity and local authority rates.",
+      "title_ko": "뉴질랜드: 끈적한 인플레이션과 신중한 비즈니스 분위기 – BNY",
+      "summary_ko": "BNY의 밥 새비지 (Bob Savage) 는 뉴질랜드의 소비자 물가 지수 (CPI) 가 0.9% q/q로 가속화되어 연간 인플레이션이 3.1% 로 유지되었으며 전기 및 지방 당국 금리와 같은 거래 불가능한 요소가 강하다고 지적했다."
     }
   ]
 }

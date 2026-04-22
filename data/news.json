@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-04-22 13:47:49 UTC",
+  "updated_at_utc": "2026-04-22 15:16:19 UTC",
   "items": [
     {
-      "title": "Wall Street opens higher on ceasefire extension relief",
-      "link": "https://www.investing.com/news/stock-market-news/wall-street-opens-higher-on-ceasefire-extension-relief-4629565",
+      "title": "Norway stocks higher at close of trade; Oslo OBX up 0.32%",
+      "link": "https://www.investing.com/news/stock-market-news/norway-stocks-higher-at-close-of-trade-oslo-obx-up-032-4629898",
       "summary": "",
-      "title_ko": "월스트리트는 휴전 연장 구호에 더 높은 문을 엽니다",
+      "title_ko": "노르웨이는 교역 마감 시점에서 더 높은 주식을 보유하고 있으며, 오슬로 OBX는 0.32% 상승했습니다.",
       "summary_ko": ""
     },
     {
-      "title": "Wall Street opens higher after Trump extends Iran ceasefire, hints at more talks",
-      "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-after-trump-extends-iran-ceasefire-4627987",
+      "title": "Micron pushes US Congress to crack down on chip tool sales to Chinese rivals, sources say",
+      "link": "https://www.investing.com/news/stock-market-news/micron-pushes-us-congress-to-crack-down-on-chip-tool-sales-to-chinese-rivals-sources-say-4628423",
       "summary": "",
-      "title_ko": "월스트리트는 트럼프가 이란 휴전을 연장한 후 더 높이 열리며, 더 많은 회담을 암시한다.",
+      "title_ko": "소식통에 따르면 마이크론은 미국 의회가 중국 라이벌에 대한 칩 툴 판매를 단속하도록 압력을 가하고 있다.",
       "summary_ko": ""
     },
     {
-      "title": "Honeywell’s Quantinuum confidentially files for US IPO",
-      "link": "https://www.investing.com/news/stock-market-news/honeywells-quantinuum-confidentially-files-for-us-ipo-4629506",
+      "title": "Budweiser-maker Anheuser-Busch lays out $600 million investment plan for US facilities",
+      "link": "https://www.investing.com/news/stock-market-news/budweisermaker-anheuserbusch-lays-out-600-million-investment-plan-for-us-facilities-4629895",
       "summary": "",
-      "title_ko": "Honeywell의 Quantinuum은 미국 IPO를 위해 기밀 파일",
+      "title_ko": "버드와이저 제조업체 Anheuser-Busch, 미국 시설에 대한 6억 달러 투자 계획 수립 ($)",
       "summary_ko": ""
     },
     {
-      "title": "Gaming industry could unlock $22 billion in profits on AI-driven cost cuts, says Morgan Stanley",
-      "link": "https://www.investing.com/news/stock-market-news/gaming-industry-could-unlock-22-billion-in-profits-on-aidriven-cost-cuts--morgan-stanley-4629410",
+      "title": "Greece stocks lower at close of trade; Athens General Composite down 1.38%",
+      "link": "https://www.investing.com/news/stock-market-news/greece-stocks-lower-at-close-of-trade-athens-general-composite-down-138-4629887",
       "summary": "",
-      "title_ko": "모건 스탠리 (Morgan Stanley) 는 게임 산업이 AI 중심의 비용 절감으로 $ 220억의 이익을 창출할 수 있다고 말합니다.",
+      "title_ko": "그리스는 교역 마감 시점에 주가가 낮아집니다. 아테네 종합 지수는 1.38% 하락했습니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "EIA crude oil inventories rise, defying expectations of a decline",
+      "link": "https://www.investing.com/news/economic-indicators/eia-crude-oil-inventories-rise-defying-expectations-of-a-decline-93CH-4629803",
+      "summary": "",
+      "title_ko": "EIA 원유 재고는 하락에 대한 기대에 반하여 상승합니다.",
       "summary_ko": ""
     },
     {
@@ -51,25 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "UK inflation jumps to 3.3% as fuel prices surge; BoE rate hike seen unlikely",
-      "link": "https://www.investing.com/news/economic-indicators/uk-inflation-speeds-up-to-33-in-march-driven-by-fuel-and-food-costs-4628072",
-      "summary": "",
-      "title_ko": "영국 인플레이션은 연료 가격 급등에 따라 3.3% 로 뛰어오릅니다. BOE 금리 인상 가능성은 낮습니다.",
-      "summary_ko": ""
+      "title": "USD/JPY: Consolidation holds ahead of BoJ decision – Scotiabank",
+      "link": "https://www.fxstreet.com/news/usd-jpy-consolidation-holds-ahead-of-boj-decision-scotiabank-202604221421",
+      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret highlight that the Japanese Yen (JPY) is flat against the US Dollar (USD), underperforming G10 peers in subdued trading. USD/JPY price action suggests consolidation i",
+      "title_ko": "USD/JPY: BOJ 결정에 앞서 통합 보류 – Scotiabank",
+      "summary_ko": "스코샤뱅크 전략가 숀 오스본 (Shaun Osborne) 과 에릭 시어리 (Eric Theoret) 는 일본 엔화 (JPY) 가 미국 달러 (USD) 에 대해 평평하며, 제압 거래에서 G10 동료보다 저조하다고 강조합니다. USD/JPY 가격 조치는 통합을 제안합니다 i"
     },
     {
-      "title": "USD/CAD: Bear trend extends with downside risks – Scotiabank",
-      "link": "https://www.fxstreet.com/news/usd-cad-bear-trend-extends-with-downside-risks-scotiabank-202604221323",
-      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret note the Canadian Dollar (CAD) is little changed versus the US Dollar (USD), trading around the midpoint of Tuesday’s range. April’s broader USD decline has largely c",
-      "title_ko": "USD/CAD: 하방 리스크에 따른 베어 트렌드 확장 – Scotiabank",
-      "summary_ko": "스코샤뱅크 전략가 숀 오스본 (Shaun Osborne) 과 에릭 테오레 (Eric Theoret) 는 캐나다 달러 (CAD) 가 미국 달러 (USD) 와 거의 변하지 않았으며 화요일 범위의 중간 지점을 중심으로 거래되고 있다고 지적했다. 4월의 광범위한 미화 환율 하락은 대부분"
-    },
-    {
-      "title": "Euro area: Energy shock seen more disinflationary – Nomura",
-      "link": "https://www.fxstreet.com/news/euro-area-energy-shock-seen-more-disinflationary-nomura-202604221312",
-      "summary": "Nomura economists argue that the latest energy price surge will be a larger drag on Euro area growth than a persistent inflation shock. They stress weaker labour markets in Northern Europe, limited fiscal space, more spa",
-      "title_ko": "Euro area: Energy shock seen more disinflationary – Nomura",
-      "summary_ko": "노무라 경제학자들은 최신 에너지 가격 급등이 지속적인 인플레이션 충격보다 유로 지역 성장에 더 큰 영향을 미칠 것이라고 주장한다. 그들은 북유럽의 약한 노동 시장, 제한된 재정 공간, 더 많은 스파를 강조합니다."
+      "title": "Eurozone: Stagflation risk builds after Iran conflict – Rabobank",
+      "link": "https://www.fxstreet.com/news/eurozone-stagflation-risk-builds-after-iran-conflict-rabobank-202604221410",
+      "summary": "Rabobank strategists argue that the Iran war delivers a stagflationary shock to the Eurozone, lifting inflation and depressing Gross Domestic Product (GDP).",
+      "title_ko": "유로존: 이란 분쟁 이후 스태그플레이션 위험 증가 – Rabobank",
+      "summary_ko": "라보뱅크 전략가들은 이란 전쟁이 유로존에 스태그플레이션 충격을 가져와 인플레이션을 해소하고 국내총생산 (GDP) 을 위축시킨다고 주장한다."
     }
   ]
 }

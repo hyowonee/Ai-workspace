@@ -1,6 +1,13 @@
 {
-  "updated_at_utc": "2026-04-21 23:07:56 UTC",
+  "updated_at_utc": "2026-04-22 00:01:40 UTC",
   "items": [
+    {
+      "title": "America Movil posts Q1 profit up 25%",
+      "link": "https://www.investing.com/news/stock-market-news/america-movil-posts-q1-profit-up-25-4627958",
+      "summary": "",
+      "title_ko": "America Movil, 1분기 이익 25% 증가",
+      "summary_ko": ""
+    },
     {
       "title": "Anthropic’s Mythos model accessed by unauthorized users, Bloomberg News reports",
       "link": "https://www.investing.com/news/stock-market-news/anthropics-mythos-model-accessed-by-unauthorized-users-bloomberg-news-reports-4627820",
@@ -9,24 +16,24 @@
       "summary_ko": ""
     },
     {
-      "title": "BHP’s third-quarter iron ore output rises 3%",
-      "link": "https://www.investing.com/news/stock-market-news/bhps-thirdquarter-iron-ore-output-rises-3-4627896",
-      "summary": "",
-      "title_ko": "BHP의 3/4 분기 철광석 생산량 3% 증가",
-      "summary_ko": ""
-    },
-    {
-      "title": "Spacex says it has option to acquire startup Cursor for $60 billion",
+      "title": "SpaceX says it has option to acquire startup Cursor for $60 billion",
       "link": "https://www.investing.com/news/stock-market-news/spacex-says-it-has-option-to-acquire-startup-cursor-for-60-billion-4627875",
       "summary": "",
-      "title_ko": "Spacex는 스타트업 Cursor를 $ 600억에 인수할 수 있는 옵션이 있다고 말합니다.",
+      "title_ko": "SpaceX는 스타트업 Cursor를 $ 600억에 인수할 수 있는 옵션이 있다고 말합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Gates Foundation says it has opened external review of Epstein ties",
-      "link": "https://www.investing.com/news/stock-market-news/gates-foundation-to-cut-20-of-staff-review-epstein-ties-wsj-reports-4627217",
+      "title": "BHP’s says third-quarter iron ore output rises, keeps full-year outlook",
+      "link": "https://www.investing.com/news/stock-market-news/bhps-thirdquarter-iron-ore-output-rises-3-4627896",
       "summary": "",
-      "title_ko": "게이츠 재단은 엡스타인 관계에 대한 외부 검토를 열었다고 밝혔습니다.",
+      "title_ko": "BHP는 3/4 분기 철광석 생산량이 증가하고 전체 연도 전망을 유지한다고 말합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "UK pay awards rise in Q1 but April hints at softness, Brightmine says",
+      "link": "https://www.investing.com/news/economic-indicators/uk-pay-awards-rise-in-q1-but-april-hints-at-softness-brightmine-says-4627922",
+      "summary": "",
+      "title_ko": "Brightmine은 영국 페이 어워드가 1분기에 상승하지만 4월은 부드러움을 암시한다고 말합니다.",
       "summary_ko": ""
     },
     {
@@ -51,25 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "US business inventories slightly above expectations in February",
-      "link": "https://www.investing.com/news/economic-indicators/us-business-inventories-slightly-above-expectations-in-february-4626659",
-      "summary": "",
-      "title_ko": "2월 미국 사업 재고가 기대치를 약간 상회함",
-      "summary_ko": ""
+      "title": "Iran warns of powerful attack on predetermined targets in view of repeated threats by Trump",
+      "link": "https://www.fxstreet.com/news/iran-warns-of-powerful-attack-on-predetermined-targets-in-view-of-repeated-threats-by-trump-202604212348",
+      "summary": "Iran's military warned of powerful attack on predetermined targets in view of repeated threats by US President Donald Trump.",
+      "title_ko": "이란은 트럼프의 반복적인 위협을 고려하여 미리 결정된 표적에 대한 강력한 공격을 경고한다.",
+      "summary_ko": "이란 군부는 도널드 트럼프 미국 대통령의 반복되는 위협을 고려하여 미리 결정된 목표물에 대한 강력한 공격을 경고했다."
     },
     {
-      "title": "USD/TWD: Falling wedge hints at reversal risk – OCBC",
-      "link": "https://www.fxstreet.com/news/usd-twd-falling-wedge-hints-at-reversal-risk-ocbc-202604212212",
-      "summary": "OCBC strategists Sim Moh Siong and Christopher Wong highlight that USD/TWD has been grinding lower, supported by strong Taiwan equities, foreign inflows and robust tech exports. They note Taiwan Dollar (TWD) is re-coupli",
-      "title_ko": "USD/TWD: 역전 위험에 대한 하락 쐐기 힌트 – OCBC",
-      "summary_ko": "OCBC 전략가 심 모 시옹 (Sim Moh Siong) 과 크리스토퍼 웡 (Christopher Wong) 은 USD/TWD가 대만 주식, 해외 유입 및 견고한 기술 수출로 인해 더 낮아지고 있다고 강조합니다. 그들은 대만 달러 (TWD) 가 리커플리 (re-coupli) 라고 말합니다."
-    },
-    {
-      "title": "NZD/USD loses momentum despite the Fed’s pressure narrative",
-      "link": "https://www.fxstreet.com/news/nzd-usd-loses-momentum-despite-the-feds-pressure-narrative-202604212153",
-      "summary": "The NZD/USD receded during the American session, recovering toward the 0.5880 area as the US Dollar (USD) lost some traction despite ongoing geopolitical risks and political pressure on the Federal Reserve.",
-      "title_ko": "NZD/USD는 연준의 압력 서술에도 불구하고 모멘텀을 잃는다.",
-      "summary_ko": "미국 세션에서 NZD/USD는 계속되는 지정학적 위험과 연방준비제도에 대한 정치적 압력에도 불구하고 미국 달러 (USD) 가 견인력을 잃음에 따라 0.5880 지역으로 회복했다."
+      "title": "Gold slumps below $4,750 as Middle East tensions and robust US Retail Sales weigh",
+      "link": "https://www.fxstreet.com/news/gold-slumps-below-4-750-as-middle-east-tensions-and-robust-us-retail-sales-weigh-202604212324",
+      "summary": "Gold price (XAU/USD) attracts some sellers to around $4,720 during the early Asian session on Wednesday. The precious metal falls as renewed Strait of Hormuz disruption stokes inflation concerns.",
+      "title_ko": "금은 중동의 긴장과 견고한 미국 소매 판매의 무게로 인해 $ 4,750 미만으로 떨어집니다.",
+      "summary_ko": "금 가격 (XAU/USD) 은 수요일 아시아 세션 초기에 일부 판매자를 약 $ 4,720로 끌어들입니다. 호르무즈 해협 붕괴가 인플레이션 우려를 불러일으키면서 귀금속이 떨어집니다."
     }
   ]
 }

@@ -1,32 +1,46 @@
 {
-  "updated_at_utc": "2026-04-22 00:01:40 UTC",
+  "updated_at_utc": "2026-04-22 03:47:57 UTC",
   "items": [
     {
-      "title": "America Movil posts Q1 profit up 25%",
-      "link": "https://www.investing.com/news/stock-market-news/america-movil-posts-q1-profit-up-25-4627958",
-      "summary": "",
-      "title_ko": "America Movil, 1분기 이익 25% 증가",
-      "summary_ko": ""
-    },
-    {
-      "title": "Anthropic’s Mythos model accessed by unauthorized users, Bloomberg News reports",
-      "link": "https://www.investing.com/news/stock-market-news/anthropics-mythos-model-accessed-by-unauthorized-users-bloomberg-news-reports-4627820",
-      "summary": "",
-      "title_ko": "블룸버그 뉴스는 허가받지 않은 사용자가 액세스한 Anthropic의 Mythos 모델에 대해 보도합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "SpaceX says it has option to acquire startup Cursor for $60 billion",
-      "link": "https://www.investing.com/news/stock-market-news/spacex-says-it-has-option-to-acquire-startup-cursor-for-60-billion-4627875",
-      "summary": "",
-      "title_ko": "SpaceX는 스타트업 Cursor를 $ 600억에 인수할 수 있는 옵션이 있다고 말합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "BHP’s says third-quarter iron ore output rises, keeps full-year outlook",
+      "title": "BHP beats iron ore output estimates, settles China dispute; shares rise",
       "link": "https://www.investing.com/news/stock-market-news/bhps-thirdquarter-iron-ore-output-rises-3-4627896",
       "summary": "",
-      "title_ko": "BHP는 3/4 분기 철광석 생산량이 증가하고 전체 연도 전망을 유지한다고 말합니다.",
+      "title_ko": "BHP는 철광석 생산량 추정치를 능가하고 중국 분쟁을 해결하며 주식은 상승합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Nvidia approached S.Korea power firms over data center infra- report",
+      "link": "https://www.investing.com/news/stock-market-news/nvidia-approached-skorea-power-firms-over-data-center-infra-report-4628024",
+      "summary": "",
+      "title_ko": "엔비디아는 데이터 센터 인프라 보고서를 통해 S.Korea 전력 회사에 접근했습니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "LG Innotek shares hit fresh record high after European auto parts deal",
+      "link": "https://www.investing.com/news/stock-market-news/lg-innotek-shares-hit-fresh-record-high-after-european-auto-parts-deal-4628018",
+      "summary": "",
+      "title_ko": "LG이노텍 주가는 유럽 자동차 부품 거래 이후 사상 최고치를 경신했다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "South32 cuts Australia manganese forecast after cyclone disruption",
+      "link": "https://www.investing.com/news/stock-market-news/south32-cuts-australia-manganese-forecast-after-cyclone-disruption-93CH-4628017",
+      "summary": "",
+      "title_ko": "South32, 사이클론 중단 후 호주 망간 예측 삭감",
+      "summary_ko": ""
+    },
+    {
+      "title": "South Korea producer prices rise in March at fastest in more than 3 years",
+      "link": "https://www.investing.com/news/economic-indicators/south-korea-producer-prices-rise-in-march-at-fastest-in-more-than-3-years-4627973",
+      "summary": "",
+      "title_ko": "3월 한국 생산자 가격은 3년 이상 가장 빠르게 상승합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Japan trade surplus widens in March on strong export growth",
+      "link": "https://www.investing.com/news/economic-indicators/japan-trade-surplus-widens-in-march-on-strong-export-growth-4627972",
+      "summary": "",
+      "title_ko": "3월 수출 호조로 일본 무역 흑자 확대",
       "summary_ko": ""
     },
     {
@@ -44,32 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Italy to confirm 2026 deficit around 2.8% of GDP despite weaker growth",
-      "link": "https://www.investing.com/news/economic-indicators/italy-to-confirm-2026-deficit-around-28-of-gdp-despite-weaker-growth-4626988",
-      "summary": "",
-      "title_ko": "이탈리아, 성장률 약화에도 2026년 GDP의 약 2.8% 적자 확인",
-      "summary_ko": ""
+      "title": "UK CPI set to grow at faster pace in March as core inflation is expected to steady",
+      "link": "https://www.fxstreet.com/news/uk-inflation-set-to-jump-to-33-in-march-due-to-higher-energy-prices-202604220215",
+      "summary": "The United Kingdom (UK) Office for National Statistics (ONS) will publish the high-impact Consumer Price Index (CPI) data for March at 06:00 GMT.",
+      "title_ko": "영국 CPI는 코어 인플레이션이 안정적일 것으로 예상되기 때문에 3월에 더 빠른 속도로 성장할 것으로 예상됩니다.",
+      "summary_ko": "영국 통계청 (ONS) 은 3월 소비자 물가 지수 (CPI) 데이터를 GMT 기준 06:00 에 발표할 예정입니다."
     },
     {
-      "title": "Record surge in gasoline receipts boosts US retail sales, but weakness is looming",
-      "link": "https://www.investing.com/news/economic-indicators/us-retail-sales-surge-in-march-on-higher-gasoline-prices-4626182",
-      "summary": "",
-      "title_ko": "휘발유 영수증의 기록적인 급등은 미국 소매 판매를 증가시키지만 약점은 드러나고 있습니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Iran warns of powerful attack on predetermined targets in view of repeated threats by Trump",
-      "link": "https://www.fxstreet.com/news/iran-warns-of-powerful-attack-on-predetermined-targets-in-view-of-repeated-threats-by-trump-202604212348",
-      "summary": "Iran's military warned of powerful attack on predetermined targets in view of repeated threats by US President Donald Trump.",
-      "title_ko": "이란은 트럼프의 반복적인 위협을 고려하여 미리 결정된 표적에 대한 강력한 공격을 경고한다.",
-      "summary_ko": "이란 군부는 도널드 트럼프 미국 대통령의 반복되는 위협을 고려하여 미리 결정된 목표물에 대한 강력한 공격을 경고했다."
-    },
-    {
-      "title": "Gold slumps below $4,750 as Middle East tensions and robust US Retail Sales weigh",
-      "link": "https://www.fxstreet.com/news/gold-slumps-below-4-750-as-middle-east-tensions-and-robust-us-retail-sales-weigh-202604212324",
-      "summary": "Gold price (XAU/USD) attracts some sellers to around $4,720 during the early Asian session on Wednesday. The precious metal falls as renewed Strait of Hormuz disruption stokes inflation concerns.",
-      "title_ko": "금은 중동의 긴장과 견고한 미국 소매 판매의 무게로 인해 $ 4,750 미만으로 떨어집니다.",
-      "summary_ko": "금 가격 (XAU/USD) 은 수요일 아시아 세션 초기에 일부 판매자를 약 $ 4,720로 끌어들입니다. 호르무즈 해협 붕괴가 인플레이션 우려를 불러일으키면서 귀금속이 떨어집니다."
+      "title": "EUR/JPY Price Forecast: Remains above 187.00 as bullish bias prevails",
+      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-remains-above-18700-as-bullish-bias-prevails-202604220257",
+      "summary": "EUR/JPY remains subdued for the second successive day, trading around 187.10 during Asian hours on Wednesday. The technical analysis of the daily chart indicates the currency cross is remaining within an ascending channe",
+      "title_ko": "EUR/JPY 가격 예측: 강세 편향이 우세하기 때문에 187.00 이상 유지",
+      "summary_ko": "EUR/JPY는 수요일 아시아 시간 동안 187.10 주위에 거래, 두 번째 연속 일 동안 정복 남아있다. 일일 차트의 기술적 분석은 통화 교차가 오름차순 샹느 내에 남아 있음을 나타냅니다."
     }
   ]
 }

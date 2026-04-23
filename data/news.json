@@ -1,32 +1,32 @@
 {
-  "updated_at_utc": "2026-04-23 15:13:33 UTC",
+  "updated_at_utc": "2026-04-23 16:59:58 UTC",
   "items": [
     {
-      "title": "Stocks cut opening losses, trade little changed as U.S.-Iran tensions remain high",
+      "title": "US Justice Dept. watchdog to review release of Epstein files",
+      "link": "https://www.investing.com/news/stock-market-news/us-justice-dept-watchdog-to-review-release-of-epsteinfiles-4633535",
+      "summary": "",
+      "title_ko": "미국 법무부 감시단, 엡스타인 파일 공개 검토",
+      "summary_ko": ""
+    },
+    {
+      "title": "S&amp;P 500 hits new record high, but stocks mostly muted as U.S.-Iran tensions simmer",
       "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-fall-as-usiran-tensions-persist-despite-ceasefire-extension-4631120",
       "summary": "",
-      "title_ko": "주식은 개성공단 손실을 줄이고, 미국과 이란의 긴장이 고조됨에 따라 거래는 거의 변하지 않았습니다.",
+      "title_ko": "S&amp;P 500은 사상 최고치를 기록했지만 미국과 이란의 긴장이 끓어오르면서 주식은 대부분 음소거되었습니다.",
       "summary_ko": ""
     },
     {
-      "title": "Oracle stock: Morgan Stanley says questions on margins and financing remain open",
-      "link": "https://www.investing.com/news/stock-market-news/oracle-stock-morgan-stanley-says-questions-on-margins-and-financing-remain-open-4633286",
+      "title": "Jaguar Land Rover to recall over 170,000 US vehicles over loss of drive power",
+      "link": "https://www.investing.com/news/stock-market-news/jaguar-land-rover-to-recall-over-170000-us-vehicles-over-loss-of-drive-power-4631277",
       "summary": "",
-      "title_ko": "ORACLE STOCK: Morgan Stanley는 마진 및 자금 조달에 대한 질문이 여전히 열려 있다고 말합니다.",
+      "title_ko": "재규어 랜드로버, 구동력 손실로 17만 대 이상의 미국 차량 리콜",
       "summary_ko": ""
     },
     {
-      "title": "Norway stocks higher at close of trade; Oslo OBX up 0.34%",
-      "link": "https://www.investing.com/news/stock-market-news/norway-stocks-higher-at-close-of-trade-oslo-obx-up-034-4633283",
+      "title": "Pot firms rally after US reclassifies marijuana as less dangerous drug",
+      "link": "https://www.investing.com/news/stock-market-news/pot-firms-rally-after-us-reclassifies-marijuana-as-less-dangerous-drug-4632913",
       "summary": "",
-      "title_ko": "노르웨이는 교역 마감 시점에서 더 높은 주식을 보유하고 있으며, 오슬로 OBX는 0.34% 상승했습니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Israel stocks lower at close of trade; TA 35 down 0.22%",
-      "link": "https://www.investing.com/news/stock-market-news/israel-stocks-lower-at-close-of-trade-ta-35-down-022-4633282",
-      "summary": "",
-      "title_ko": "이스라엘 주식은 거래 종료 시점에 낮아집니다. TA 35는 0.22% 하락했습니다.",
+      "title_ko": "미국이 마리화나를 덜 위험한 약물로 재분류한 후 냄비 회사들이 집결",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Gold under pressure as USD firms, US PMIs hit multi-month highs",
+      "title": "Gold rebounds modestly as USD eases, but higher-for-longer interest rate outlook cap gains",
       "link": "https://www.fxstreet.com/news/gold-rebounds-modestly-but-remains-pressured-by-higher-for-longer-interest-rate-outlook-202604231245",
-      "summary": "Gold (XAU/USD) trades under pressure on Thursday as a firmer US Dollar (USD) and elevated Oil prices weigh on the precious metal, while uncertainty over stalled US-Iran talks keeps market sentiment cautious.",
-      "title_ko": "USD 기업으로 금 압박, 미국 PMI 다개월 최고치 경신",
-      "summary_ko": "금 (XAU/USD) 은 목요일에 더 확고한 미국 달러 (USD) 로 압력을 받고 유가는 귀금속에 무게를 두고 있으며, 중단된 미국-이란 회담에 대한 불확실성은 시장 정서를 조심스럽게 유지하고 있습니다."
+      "summary": "Gold (XAU/USD) trims earlier intraday losses on Thursday as the US Dollar loses momentum, but gains remain capped amid higher-for-longer rate expectations fueled by Oil-driven inflation.",
+      "title_ko": "금은 USD가 완화됨에 따라 완만하게 반등하지만, 더 높은 장기 이자율 전망 상한 이익",
+      "summary_ko": "금 (XAU/USD) 은 미국 달러가 모멘텀을 상실함에 따라 목요일에 조기 일중 손실을 다듬지만, 석유 중심의 인플레이션으로 인한 더 높은 금리 기대치로 인해 이익은 여전히 상한선을 유지합니다."
     },
     {
-      "title": "NZD/USD: RBNZ hawkish tone supports pair – Rabobank",
-      "link": "https://www.fxstreet.com/news/nzd-usd-rbnz-hawkish-tone-supports-pair-rabobank-202604231410",
-      "summary": "Rabobank Senior FX Strategist Jane Foley highlights that stronger-than-expected New Zealand Consumer Price Index (CPI) and a hawkish Reserve Bank of New Zealand (RBNZ) stance have driven aggressive market pricing for pol",
-      "title_ko": "NZD/USD: RBNZ HAWKISH TONE SUPPORTS PAIR – Rabobank",
-      "summary_ko": "Rabobank 수석 FX 전략가 제인 폴리 (Jane Foley) 는 예상보다 강한 뉴질랜드 소비자 물가 지수 (CPI) 와 뉴질랜드 연방 준비 은행 (RBNZ) 의 입장이 POL에 대한 공격적인 시장 가격을 유도했다고 강조합니다."
+      "title": "EUR/USD rebounds as USD eases despite strong PMIs, Hormuz tensions in focus",
+      "link": "https://www.fxstreet.com/news/eur-usd-rebounds-as-usd-eases-despite-strong-pmis-hormuz-tensions-in-focus-202604231532",
+      "summary": "EUR/USD rebounds on Thursday after trading under pressure earlier in the day, as the US Dollar (USD) loses momentum, allowing the Euro (EUR) to recover from intraday lows despite upbeat US Purchasing Managers Index (PMI)",
+      "title_ko": "강한 PMI에도 불구하고 USD가 완화됨에 따라 EUR/USD가 반등, 호르무즈 긴장 초점",
+      "summary_ko": "미국 달러 (USD) 가 모멘텀을 잃어 미국 구매 관리자 지수 (PMI) 가 낙관적임에도 불구하고 유로 (EUR) 가 일중 최저치에서 회복할 수 있게 됨에 따라, EUR/USD는 목요일 초반에 압력을 받아 거래된 후 반등했습니다."
     }
   ]
 }

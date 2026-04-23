@@ -1,32 +1,53 @@
 {
-  "updated_at_utc": "2026-04-23 07:59:20 UTC",
+  "updated_at_utc": "2026-04-23 09:53:32 UTC",
   "items": [
     {
-      "title": "XP Power sees highest order intake since third quarter of 2022",
-      "link": "https://www.investing.com/news/stock-market-news/xp-power-sees-highest-order-intake-since-third-quarter-of-2022-93CH-4631308",
+      "title": "Intel gains after Musk says Tesla’s Terafab will use its 14A chipmaking process",
+      "link": "https://www.investing.com/news/stock-market-news/tesla-ceo-musk-says-terafab-to-use-intels-14a-chipmaking-process-4631100",
       "summary": "",
-      "title_ko": "XP Power, 2022년 3분기 이후 최고 주문 섭취량 확인",
+      "title_ko": "머스크가 테슬라의 테라팹이 14A 칩 제조 프로세스를 사용할 것이라고 밝힌 후 인텔이 얻은 이득",
       "summary_ko": ""
     },
     {
-      "title": "London Stock Exchange Group raises guidance after strong first quarter",
-      "link": "https://www.investing.com/news/stock-market-news/london-stock-exchange-group-raises-guidance-after-strong-first-quarter-93CH-4631304",
+      "title": "Hormuz anxiety persists with outlook for Iran peace talks murky",
+      "link": "https://www.investing.com/news/stock-market-news/hormuz-anxiety-persists-with-outlook-for-iran-peace-talks-murky-4631520",
       "summary": "",
-      "title_ko": "런던증권거래소그룹, 1분기 강세 이후 가이던스 인상",
+      "title_ko": "호르무즈 불안은 이란 평화 회담에 대한 전망과 함께 지속된다.",
       "summary_ko": ""
     },
     {
-      "title": "Hikma Pharmaceuticals reiterates full-year guidance",
-      "link": "https://www.investing.com/news/stock-market-news/hikma-pharmaceuticals-reiterates-fullyear-guidance-93CH-4631302",
+      "title": "European shares decline as investors weigh Mideast developments, corporate earnings",
+      "link": "https://www.investing.com/news/stock-market-news/european-shares-dip-as-investors-weigh-mideast-developments-corporate-earnings-4631292",
       "summary": "",
-      "title_ko": "Hikma Pharmaceuticals, 전체 연도 지침 반복",
+      "title_ko": "투자자들이 중동의 발전, 기업 이익에 무게를 두면서 유럽 주식은 감소합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Man Group reports Q1 assets below expectations following single-client withdrawal",
-      "link": "https://www.investing.com/news/stock-market-news/man-group-reports-q1-assets-below-expectations-following-singleclient-withdrawal-93CH-4631297",
+      "title": "RELX maintains full-year outlook amid strong growth across divisions; shares dip",
+      "link": "https://www.investing.com/news/stock-market-news/relx-maintains-fullyear-outlook-amid-strong-growth-across-divisions-shares-dip-93CH-4631500",
       "summary": "",
-      "title_ko": "MAN 그룹은 단일 고객 철수에 따른 기대치보다 낮은 1분기 자산을 보고합니다.",
+      "title_ko": "RELX는 여러 부문에서 강력한 성장 속에서 전체 연도 전망을 유지합니다. 주식 딥",
+      "summary_ko": ""
+    },
+    {
+      "title": "Singapore core inflation holds steady at 1.7% in March",
+      "link": "https://www.investing.com/news/economic-indicators/singapore-core-inflation-holds-steady-at-17-in-march-93CH-4631486",
+      "summary": "",
+      "title_ko": "싱가포르 핵심 인플레이션은 3월 1.7% 로 안정적 유지",
+      "summary_ko": ""
+    },
+    {
+      "title": "UK companies see cost pressures spreading at record pace, PMI shows",
+      "link": "https://www.investing.com/news/economic-indicators/uk-companies-see-cost-pressures-spreading-at-record-pace-pmi-shows-4631390",
+      "summary": "",
+      "title_ko": "영국 기업들은 기록적인 속도로 확산되는 비용 압박을 보고 있습니다. PMI 쇼",
+      "summary_ko": ""
+    },
+    {
+      "title": "Euro zone business activity contracted in April as costs rocketed, PMI shows",
+      "link": "https://www.investing.com/news/economic-indicators/euro-zone-business-activity-contracted-in-april-as-costs-rocketed-pmi-shows-4631318",
+      "summary": "",
+      "title_ko": "유로존 사업 활동은 4월에 로켓 비용으로 계약되었으며, PMI는",
       "summary_ko": ""
     },
     {
@@ -37,39 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Britain’s deficit narrows but fuel duty fall points to Iran war drag",
-      "link": "https://www.investing.com/news/economic-indicators/britains-deficit-narrows-but-fuel-duty-fall-points-to-iran-war-drag-4631281",
-      "summary": "",
-      "title_ko": "영국의 적자는 좁아지지만 연료 관세 하락은 이란의 전쟁을 가리킨다.",
-      "summary_ko": ""
+      "title": "Gold: ETF inflows signal renewed interest – ING",
+      "link": "https://www.fxstreet.com/news/gold-etf-inflows-signal-renewed-interest-ing-202604230851",
+      "summary": "ING analysts Warren Patterson and Ewa Manthey report that Gold and Silver have rebounded after recent losses, supported by a weaker Dollar and easing geopolitical tensions.",
+      "title_ko": "금: ETF 유입 신호 갱신 이자 – ING",
+      "summary_ko": "ING 분석가 워렌 패터슨 (Warren Patterson) 과 EWA 맨티 (EWA Manthey) 는 최근 손실 이후 금과 은이 반등했으며, 달러 약세와 지정학적 긴장 완화가 뒷받침된다고 보고했다."
     },
     {
-      "title": "French economic activity contracted at fastest pace in 14 months, survey shows",
-      "link": "https://www.investing.com/news/economic-indicators/french-economic-activity-contracted-at-fastest-pace-in-14-months-survey-shows-4631276",
-      "summary": "",
-      "title_ko": "프랑스 경제 활동이 14개월 만에 가장 빠른 속도로 축소되었다는 설문 조사 결과가 나왔습니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Japan manufacturing PMI beats forecasts in April; services drag slows growth",
-      "link": "https://www.investing.com/news/economic-indicators/japan-manufacturing-pmi-beats-forecasts-in-april-services-drag-slows-growth-4631122",
-      "summary": "",
-      "title_ko": "일본 제조업 PMI, 4월 전망치 상회; 서비스 드래그로 성장 둔화",
-      "summary_ko": ""
-    },
-    {
-      "title": "USD/INR rallies further as US Dollar gains, oil prices extend upside",
-      "link": "https://www.fxstreet.com/news/usd-inr-extends-winning-streak-amid-firm-us-dollar-higher-oil-prices-202604230541",
-      "summary": "The Indian Rupee (INR) extends its losing streak for the fourth trading day against the US Dollar (USD) on Thursday.",
-      "title_ko": "USD/INR은 미국 달러화 상승에 따라 상승하며, 유가는 상승폭을 확대합니다.",
-      "summary_ko": "인도 루피 (INR) 는 목요일 미국 달러 (USD) 대비 4거래일 연속 손실을 연장합니다."
-    },
-    {
-      "title": "Gold shows resilience near $4,700; not out of the woods yet amid firmer USD",
-      "link": "https://www.fxstreet.com/news/gold-struggles-near-4-700-as-hormuz-risks-and-inflation-driven-fed-repricing-lift-usd-202604230350",
-      "summary": "Gold (XAU/USD) remains depressed through the first half of the European session, albeit it has been showing some resilience below the $4,700 mark. The US Dollar (USD) gains positive traction for the third straight day an",
-      "title_ko": "금은 $ 4,700에 가까운 탄력성을 보여줍니다. 아직 숲에서 벗어나지 못했습니다.",
-      "summary_ko": "금 (XAU/USD) 은 유럽 세션의 상반기를 통해 여전히 침체되어 있지만, $ 4,700에 미치지 못하는 회복력을 보이고 있습니다. 미국 달러 (USD) 는 3 일 연속 긍정적인 견인력을 얻습니다."
+      "title": "JPY: Data and safe-haven backdrop – Danske Bank",
+      "link": "https://www.fxstreet.com/news/jpy-data-and-safe-haven-backdrop-danske-bank-202604230843",
+      "summary": "Danske Research Team underlines that Japan’s March national Consumer Price Index (CPI) is unlikely to show a surge, contrasting with global inflation trends, with consensus at 1.8% for CPI excluding fresh food.",
+      "title_ko": "JPY: 데이터 및 안전한 배경 – Danske Bank",
+      "summary_ko": "Danske Research Team은 일본의 3월 국가 소비자 물가 지수 (CPI) 가 글로벌 인플레이션 추세와 대조적으로 급등세를 보일 것 같지 않으며, 신선 식품을 제외한 CPI의 합의율은 1.8% 라고 강조합니다."
     }
   ]
 }

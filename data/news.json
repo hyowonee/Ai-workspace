@@ -1,32 +1,46 @@
 {
-  "updated_at_utc": "2026-04-23 23:50:15 UTC",
+  "updated_at_utc": "2026-04-24 02:51:59 UTC",
   "items": [
     {
-      "title": "Trump says will be looking into banks regarding Los Angeles wildfires",
-      "link": "https://www.investing.com/news/stock-market-news/trump-says-will-be-looking-into-banks-regarding-los-angeles-wildfires-4634477",
+      "title": "Canon shares slide on weak Q1 profit, lowered guidance",
+      "link": "https://www.investing.com/news/stock-market-news/canon-shares-slide-on-weak-q1-profit-lowered-guidance-4634523",
       "summary": "",
-      "title_ko": "트럼프 대통령은 로스앤젤레스 산불과 관련해 은행을 조사할 것이라고 말했습니다.",
+      "title_ko": "Canon, 1분기 이익 약세에 대한 슬라이드 공유, 가이드라인 하향 조정",
       "summary_ko": ""
     },
     {
-      "title": "Stocks close lower on fading hopes for quick Iran deal, mixed quarterly earnings",
-      "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-slip-as-investors-pause-for-clarity-on-usiran-war-4631491",
+      "title": "Cisco shows switch that can connect quantum computers of different kinds",
+      "link": "https://www.investing.com/news/stock-market-news/cisco-shows-switch-that-can-connect-quantum-computers-of-different-kinds-4634504",
       "summary": "",
-      "title_ko": "주식은 빠른 이란 거래, 혼합 분기별 이익에 대한 희망이 사라짐에 따라 낮아집니다.",
+      "title_ko": "Cisco는 다양한 종류의 양자 컴퓨터를 연결할 수 있는 스위치를 보여줍니다",
       "summary_ko": ""
     },
     {
-      "title": "Newmont beats Q1 profit estimates as record gold prices offset output drop",
-      "link": "https://www.investing.com/news/stock-market-news/gold-miner-newmont-beats-firstquarter-profit-estimates-4633898",
+      "title": "Renesas Q1 profit more than doubles; shares fall amid profit-taking",
+      "link": "https://www.investing.com/news/stock-market-news/renesas-q1-profit-more-than-doubles-shares-fall-amid-profittaking-4634513",
       "summary": "",
-      "title_ko": "뉴몬트, 사상 최대 금 가격 상쇄 산출량 하락으로 1분기 이익 추정치 상회",
+      "title_ko": "르네사스 1분기 이익은 2배 이상 증가, 주식은 이윤추구 중 하락",
       "summary_ko": ""
     },
     {
-      "title": "Fortescue’s third-quarter iron ore shipments rise 5% but miss estimate",
+      "title": "Fortescue spends more on green energy, keeps shipment forecast steady",
       "link": "https://www.investing.com/news/stock-market-news/fortescues-thirdquarter-iron-ore-shipments-rise-5-but-miss-estimate-4634474",
       "summary": "",
-      "title_ko": "Fortescue의 3/4분기 철광석 출하량은 5% 증가하지만 예상치 미달",
+      "title_ko": "Fortescue는 친환경 에너지에 더 많은 비용을 지출하고 배송 예측을 안정적으로 유지합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Japan CPI picks up in March; Core inflation remains below BOJ target",
+      "link": "https://www.investing.com/news/economic-indicators/japan-cpi-picks-up-in-march-core-inflation-remains-below-boj-target-4634482",
+      "summary": "",
+      "title_ko": "일본 CPI는 3월에 상승, 핵심 인플레이션은 BOJ 목표보다 낮음",
+      "summary_ko": ""
+    },
+    {
+      "title": "Japan March core CPI rises 1.8% yr/yr",
+      "link": "https://www.investing.com/news/economic-indicators/japan-march-core-cpi-rises-18-yryr-4634479",
+      "summary": "",
+      "title_ko": "일본 3월 핵심 CPI, 전년 대비 1.8% 상승",
       "summary_ko": ""
     },
     {
@@ -44,32 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "US labor market shows no signs of stress yet from Iran war",
-      "link": "https://www.investing.com/news/economic-indicators/us-weekly-jobless-claims-increase-marginally-as-labor-market-remains-stable-4632541",
-      "summary": "",
-      "title_ko": "미국 노동 시장은 이란 전쟁으로 인한 스트레스의 징후를 아직 보이지 않습니다.",
-      "summary_ko": ""
+      "title": "Canadian Dollar steadies as US Dollar firms on safe-haven demand",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-steadies-as-us-dollar-firms-on-safe-haven-demand-202604240229",
+      "summary": "USD/CAD remains flat following a three-day winning streak, trading around 1.3700 during the Asian hours on Friday. The pair steadies as the US Dollar (USD) maintains its position as safe-haven demand increases amid persi",
+      "title_ko": "안전한 피난처 수요에 대한 미국 달러 기업의 캐나다 달러 스테디셀러",
+      "summary_ko": "USD/CAD는 3일 연속 우승 이후에도 평평하게 유지되며, 금요일 아시아 시간 동안 약 1.3700에 거래됩니다. 미국 달러 (USD) 가 페르시아 인들 사이에서 안전 피난처 수요가 증가함에 따라 그 위치를 유지함에 따라 쌍은 안정적입니다."
     },
     {
-      "title": "U.S. Manufacturing PMI Surges, Exceeds Expectations",
-      "link": "https://www.investing.com/news/economic-indicators/us-manufacturing-pmi-surges-exceeds-expectations-93CH-4632946",
-      "summary": "",
-      "title_ko": "미국 제조업 PMI 급증, 기대 이상",
-      "summary_ko": ""
-    },
-    {
-      "title": "USD/PHP: BSP hike overshadowed by Oil shock – BBH",
-      "link": "https://www.fxstreet.com/news/usd-php-bsp-hike-overshadowed-by-oil-shock-bbh-202604232226",
-      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad reports that USD/PHP is trading just below its record high as higher crude Oil prices overshadow a hawkish Bangko Sentral ng Pilipinas (BSP) move.",
-      "title_ko": "USD/PHP: 오일 쇼크로 가려진 BSP 인상 – BBH",
-      "summary_ko": "Brown Brothers Harriman (BBH) 의 Elias Haddad는 USD/PHP가 높은 원유 가격이 매파적인 Bangko Sentral ng Pilipinas (BSP) 의 움직임을 덮으면서 사상 최고치 바로 아래에서 거래되고 있다고 보고합니다."
-    },
-    {
-      "title": "NZD/USD pressured as strong US data support the Dollar",
-      "link": "https://www.fxstreet.com/news/nzd-usd-pressured-as-strong-us-data-support-the-dollar-202604232149",
-      "summary": "The NZD/USD pair trades with a negative bias near the 0.5860 area on Friday, April 24, as the US Dollar (USD) remains supported despite a slight loss of momentum in the broader index.",
-      "title_ko": "강력한 미국 데이터가 달러를 지지하기 때문에 NZD/USD 압박",
-      "summary_ko": "NZD/USD 쌍은 4 월 24 일 금요일 0.5860 지역 근처에서 부정적인 편향으로 거래됩니다. 미국 달러 (USD) 는 광범위한 지수의 모멘텀이 약간 손실되었음에도 불구하고 계속 지원되기 때문입니다."
+      "title": "Japanese Yen hangs near two-week low vs USD as Japan’s National CPI fails to impress bulls",
+      "link": "https://www.fxstreet.com/news/japanese-yen-hangs-near-two-week-low-vs-usd-as-japans-national-cpi-fails-to-impress-bulls-202604240217",
+      "summary": "The USD/JPY pair sticks to its positive bias for the fifth straight day and trades around the 159.80 area, or a nearly two-week top during the Asian session on Friday.",
+      "title_ko": "일본의 국가 CPI가 황소를 감동시키지 못하기 때문에 일본 엔화는 USD 대비 2주 가까이 낮게 매달려 있습니다.",
+      "summary_ko": "USD/JPY 쌍은 5 일 연속 긍정적 인 편견을 고수하며 금요일 아시아 세션에서 159.80 지역 또는 거의 2 주 동안 거래됩니다."
     }
   ]
 }

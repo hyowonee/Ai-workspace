@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-04-24 10:05:15 UTC",
+  "updated_at_utc": "2026-04-24 11:40:33 UTC",
   "items": [
     {
-      "title": "Fuji Oil cuts full-year profit outlook on Blommer impairment",
-      "link": "https://www.investing.com/news/stock-market-news/fuji-oil-cuts-fullyear-profit-outlook-on-blommer-impairment-93CH-4635003",
+      "title": "UBS sees supportive macro backdrop sustaining global equity rally",
+      "link": "https://www.investing.com/news/stock-market-news/ubs-sees-supportive-macro-backdrop-sustaining-global-equity-rally-4635319",
       "summary": "",
-      "title_ko": "후지유, 블로머 손상에 대한 전년 이익 전망 삭감",
+      "title_ko": "UBS는 지지적인 거시적 배경이 글로벌 주식 랠리를 유지한다고 봅니다.",
       "summary_ko": ""
     },
     {
-      "title": "China plans to curb U.S. investment in tech firms following Meta deal - Bloomberg",
-      "link": "https://www.investing.com/news/stock-market-news/china-plans-to-curb-us-investment-in-tech-firms-following-meta-deal--bloomberg-4634996",
+      "title": "AMD and Arm stocks rally: How shifting CPU-to-GPU ratios are reshaping AI markets",
+      "link": "https://www.investing.com/news/stock-market-news/amd-and-arm-stocks-rally-how-shifting-cputogpu-ratios-are-reshaping-ai-markets-4635306",
       "summary": "",
-      "title_ko": "중국, 메타 거래 후 기술 기업에 대한 미국 투자 억제 계획 - 블룸버그",
+      "title_ko": "AMD 및 ARM 주식 랠리: CPU-GPU 비율의 변화로 AI 시장이 재편되는 방법",
       "summary_ko": ""
     },
     {
-      "title": "Wall Street futures mixed as US-Iran stalemate keeps investors on edge",
-      "link": "https://www.investing.com/news/stock-market-news/wall-street-futures-mixed-as-usiran-stalemate-keeps-investors-on-edge-4634994",
+      "title": "Intel soars premarket; Coursera tumbles",
+      "link": "https://www.investing.com/news/stock-market-news/intel-soars-premarket-coursera-tumbles-4635299",
       "summary": "",
-      "title_ko": "미국-이란 교착 상태로 혼합된 월스트리트 선물은 투자자를 계속 우위에 있게 합니다",
+      "title_ko": "인텔, 프리마켓을 치솟다; 코세라 텀블링",
       "summary_ko": ""
     },
     {
-      "title": "China’s AI darling DeepSeek previews new model adapted for Huawei chip technology",
-      "link": "https://www.investing.com/news/stock-market-news/chinas-ai-darling-deepseek-previews-new-model-4634553",
+      "title": "World stocks, oil on edge as US-Iran deadlock weighs",
+      "link": "https://www.investing.com/news/stock-market-news/asia-shares-mixed-oil-advances-on-usiran-deadlock-4634531",
       "summary": "",
-      "title_ko": "중국의 인공지능 딥시크 (DeepSeek), 화웨이 칩 기술에 맞는 새로운 모델 미리보기",
+      "title_ko": "세계 증시, 미국-이란 교착 상태에 놓인 석유의 무게",
+      "summary_ko": ""
+    },
+    {
+      "title": "BoE expected to hold rates as uncertainty persists, BofA says",
+      "link": "https://www.investing.com/news/economic-indicators/boe-expected-to-hold-rates-as-uncertainty-persists-bofa-says-4635084",
+      "summary": "",
+      "title_ko": "BOE는 불확실성이 지속됨에 따라 금리가 유지될 것으로 예상한다고 BofA는 말합니다.",
       "summary_ko": ""
     },
     {
@@ -51,25 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "UK retail sales rise 0.7% in March, beating expectations",
-      "link": "https://www.investing.com/news/economic-indicators/uk-retail-sales-rise-07-in-march-beating-expectations-4634624",
-      "summary": "",
-      "title_ko": "영국 소매 판매는 3월에 0.7% 증가하여 예상을 뛰어넘습니다.",
-      "summary_ko": ""
+      "title": "NZD/USD edges higher as softer US Dollar, firm RBNZ outlook support pair",
+      "link": "https://www.fxstreet.com/news/nzd-usd-edges-higher-as-softer-us-dollar-firm-rbnz-outlook-support-pair-202604241122",
+      "summary": "NZD/USD trades higher around 0.5865 on Friday, gaining 0.22% at the time of writing, while the US Dollar (USD) loses ground with the US Dollar Index (DXY) down 0.18% at 98.65.",
+      "title_ko": "NZD/USD 가장자리가 더 부드러운 미국 달러로 상승, 확고한 RBNZ 전망 지원 쌍",
+      "summary_ko": "NZD/USD는 금요일 0.5865 주위에서 더 높게 거래되며, 서면 작성 시 0.22% 상승한 반면, 미국 달러 (USD) 는 98.65 로 0.18% 하락한 미국 달러 지수 (DXY) 와 함께 하락합니다."
     },
     {
-      "title": "ECB: Hawkish hold and June options – Nordea",
-      "link": "https://www.fxstreet.com/news/ecb-hawkish-hold-and-june-options-nordea-202604240903",
-      "summary": "Nordea’s Chief Analyst Jan von Gerich expects the European Central Bank (ECB) to leave policy rates unchanged at the April meeting while keeping all options open for June. He anticipates a hawkish communication tone that",
-      "title_ko": "ECB: 호키시 홀드 및 준 옵션 – Nordea",
-      "summary_ko": "Nordea의 수석 분석가 Jan von Gerich는 유럽 중앙 은행 (ECB) 이 6 월에 모든 옵션을 열어 두면서 4 월 회의에서 정책 금리를 변경하지 않을 것으로 기대합니다. 그는 매파적인 의사소통 어조를 예상합니다."
-    },
-    {
-      "title": "Iran warns US an eye for an eye over oil strikes",
-      "link": "https://www.fxstreet.com/news/iran-warns-us-an-eye-for-an-eye-over-oil-strikes-202604240856",
-      "summary": "Iran’s deputy president Esmaeil Saqab Esfahani has warned the United States (US) of “an eye for an eye” over oil strikes, according to the Mehr news agency, The Guardian reported. Esfahani threatened to attack the oil fa",
-      "title_ko": "이란은 미국에 석유 파업에 대한 안목을 경고한다.",
-      "summary_ko": "가디언에 따르면 이란의 에스매일 사카브 에스파하니 부통령은 석유 파업에 대해 미국에 \"눈에는 눈\" 이라고 경고했다. 에스파하니는 석유 공장을 공격하겠다고 위협했다."
+      "title": "DXY: Range holds as energy shock eases – BBH",
+      "link": "https://www.fxstreet.com/news/dxy-range-holds-as-energy-shock-eases-bbh-202604241115",
+      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad notes that the US-Iran standoff in the Strait of Hormuz is keeping Brent elevated and supporting a firm Dollar, but sees the worst of the energy shock as past.",
+      "title_ko": "DXY: 에너지 충격이 완화됨에 따라 범위 유지 – BBH",
+      "summary_ko": "Brown Brothers Harriman (BBH) 의 Elias Haddad는 호르무즈 해협의 미국-이란 대립이 브렌트를 계속 상승시키고 확고한 달러를 지원하고 있지만 에너지 충격의 최악을 과거로 보고 있다고 지적합니다."
     }
   ]
 }

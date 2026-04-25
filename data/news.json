@@ -1,6 +1,20 @@
 {
-  "updated_at_utc": "2026-04-24 23:41:41 UTC",
+  "updated_at_utc": "2026-04-25 02:40:43 UTC",
   "items": [
+    {
+      "title": "Related Digital secures financing for $16 billion Oracle data center in Michigan",
+      "link": "https://www.investing.com/news/stock-market-news/related-digital-secures-financing-for-16-billion-oracle-data-center-in-michigan-4637232",
+      "summary": "",
+      "title_ko": "관련 디지털은 미시간에서 $ 160억 오라클 데이터 센터에 대한 자금 조달을 보호",
+      "summary_ko": ""
+    },
+    {
+      "title": "US judge dismisses Musk’s fraud claims in OpenAI case, plans to proceed to trial",
+      "link": "https://www.investing.com/news/stock-market-news/us-judge-dismisses-musks-fraud-claims-in-openai-case-plans-to-proceed-to-trial-4637230",
+      "summary": "",
+      "title_ko": "미국 판사가 OpenAI 사건에서 머스크의 사기 주장을 기각, 재판 진행 계획",
+      "summary_ko": ""
+    },
     {
       "title": "Lincoln International targets rare investment bank IPO in US markets",
       "link": "https://www.investing.com/news/stock-market-news/investment-bank-lincoln-international-files-for-us-ipo-4637083",
@@ -13,20 +27,6 @@
       "link": "https://www.investing.com/news/stock-market-news/cftc-sues-new-york-to-block-oversight-of-prediction-markets-4637183",
       "summary": "",
       "title_ko": "CFTC, 예측 시장 감독을 차단하기 위해 뉴욕 소송",
-      "summary_ko": ""
-    },
-    {
-      "title": "US considers using Defense Production Act in Spirit Airlines restructuring, source says",
-      "link": "https://www.investing.com/news/stock-market-news/us-considers-using-defense-production-act-in-spirit-airlines-restructuring-source-says-4637210",
-      "summary": "",
-      "title_ko": "미국이 스피릿 항공의 구조조정에서 국방생산법 (Defense Production Act) 을 사용하는 것을 고려하고 있다고 소식통이 전",
-      "summary_ko": ""
-    },
-    {
-      "title": "Exclusive-US State Dept orders global warning about alleged China AI thefts by DeepSeek, others",
-      "link": "https://www.investing.com/news/stock-market-news/exclusiveus-state-dept-orders-global-warning-about-alleged-china-ai-thefts-by-deepseek-others-4637208",
-      "summary": "",
-      "title_ko": "미국 독점 국무부, DeepSeek 등의 중국 AI 절도 혐의에 대해 글로벌 경고 명령",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
+      "title": "USD/SGD: Upside risks as Hormuz crisis persists – OCBC",
+      "link": "https://www.fxstreet.com/news/usd-sgd-upside-risks-as-hormuz-crisis-persists-ocbc-202604242339",
+      "summary": "OCBC strategists Sim Moh Siong and Christopher Wong flag slight upside risks for USD/SGD as the Hormuz standoff weighs on risk appetite and imported cost pressures.",
+      "title_ko": "USD/SGD: 호르무즈 위기가 지속됨에 따라 위험 완화 – OCBC",
+      "summary_ko": "OCBC 전략가인 심 모 시옹 (Sim Moh Siong) 과 크리스토퍼 웡 (Christopher Wong) 은 호르무즈 스탠드오프 (Hormuz standoff) 가 위험에 대한 식욕과 수입 비용 압박에 무게를 두기 때문에 USD/SGD에 대한 위험을 약간 상향합니다."
+    },
+    {
       "title": "PHP: BSP starts new hiking cycle – Commerzbank",
       "link": "https://www.fxstreet.com/news/php-bsp-starts-new-hiking-cycle-commerzbank-202604242256",
       "summary": "Commerzbank highlights that BSP raised its policy rate by 25bp to 4.50%, signalling the start of a new tightening cycle to anchor inflation expectations.",
       "title_ko": "PHP: BSP가 새로운 하이킹 사이클을 시작합니다 – Commerzbank",
       "summary_ko": "Commerzbank는 BSP가 정책 금리를 25bp에서 4.50% 로 인상하여 인플레이션 기대치를 정착시키기 위한 새로운 긴축 사이클의 시작을 알렸다고 강조합니다."
-    },
-    {
-      "title": "USD/TWD: Rebound seen as fadeable – OCBC",
-      "link": "https://www.fxstreet.com/news/usd-twd-rebound-seen-as-fadeable-ocbc-202604242212",
-      "summary": "OCBC strategists Sim Moh Siong and Christopher Wong describe a technical rebound in USD/TWD driven by broader US Dollar (USD) strength and risk aversion linked to the US‑Iran ceasefire stalemate.",
-      "title_ko": "USD/TWD: 페이드 가능으로 보이는 리바운드 – OCBC",
-      "summary_ko": "OCBC 전략가 심 모 시옹 (Sim Moh Siong) 과 크리스토퍼 웡 (Christopher Wong) 은 미국 달러 (USD) 의 광범위한 강세와 미국-이란 휴전 교착 상태와 관련된 위험 회피에 힘입어 USD/TWD의 기술적 반등을 설명합니다."
     }
   ]
 }

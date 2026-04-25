@@ -1,6 +1,13 @@
 {
-  "updated_at_utc": "2026-04-25 06:50:36 UTC",
+  "updated_at_utc": "2026-04-25 08:05:50 UTC",
   "items": [
+    {
+      "title": "DeepSeek unveils new AI model tailored for Huawei chips as China pushes for tech autonomy",
+      "link": "https://www.investing.com/news/stock-market-news/chinas-ai-darling-deepseek-previews-new-model-4634553",
+      "summary": "",
+      "title_ko": "딥시크 (DeepSeek), 중국이 기술 자율화를 추진함에 따라 화웨이 칩에 맞춘 새로운 AI 모델 공개",
+      "summary_ko": ""
+    },
     {
       "title": "UK stocks end week lower as fragile U.S.-Iran truce weighs; BoE flags risks",
       "link": "https://www.investing.com/news/stock-market-news/uk-stocks-set-for-weekly-losses-amid-dimming-prospects-of-swift-usiran-truce-4635209",
@@ -23,10 +30,10 @@
       "summary_ko": ""
     },
     {
-      "title": "Jane Street’s $40 billion trading haul tops rivals, sources say",
-      "link": "https://www.investing.com/news/stock-market-news/jane-streets-40-billion-trading-haul-tops-rivals-sources-say-4636449",
+      "title": "US consumer sentiment slumps to record low in April; inflation expectations rise",
+      "link": "https://www.investing.com/news/economic-indicators/us-consumer-sentiment-drops-to-near-fouryear-low-in-april-4636156",
       "summary": "",
-      "title_ko": "소식통에 따르면 제인 스트리트 (Jane Street) 의 400 억 달러 ($) 규모의 거래소가 라이벌을 제치고 1 위를 차지했다.",
+      "title_ko": "4월 미국 소비심리 부진, 인플레이션 기대치 상승",
       "summary_ko": ""
     },
     {
@@ -48,13 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/brazil-posts-widerthanexpected-current-account-deficit-in-march-4635612",
       "summary": "",
       "title_ko": "브라질은 3월에 예상보다 더 많은 경상수지 적자를 기록했습니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "German business sentiment hits lowest since 2020 as Iran war weighs",
-      "link": "https://www.investing.com/news/economic-indicators/german-business-sentiment-falls-in-april-to-lowest-level-since-2020-4634816",
-      "summary": "",
-      "title_ko": "독일 기업 감정은 이란 전쟁의 무게로 2020년 이후 최저를 기록했습니다.",
       "summary_ko": ""
     },
     {

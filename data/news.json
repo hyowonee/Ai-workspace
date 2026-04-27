@@ -1,25 +1,18 @@
 {
-  "updated_at_utc": "2026-04-27 18:49:57 UTC",
+  "updated_at_utc": "2026-04-27 20:09:12 UTC",
   "items": [
     {
-      "title": "Rogers Communications shares gain on reports of buyouts offered to half staff",
-      "link": "https://www.investing.com/news/stock-market-news/rogers-communications-shares-gain-on-reports-of-buyouts-offered-to-half-staff-93CH-4639641",
+      "title": "Rogers Communications offering buyouts to half its workforce, Globe and Mail reports",
+      "link": "https://www.investing.com/news/stock-market-news/rogers-communications-offering-buyouts-to-half-its-workforce-globe-and-mail-reports-4639650",
       "summary": "",
-      "title_ko": "Rogers Communications는 절반의 직원에게 제공된 매수 보고서에 대한 이익을 공유합니다.",
+      "title_ko": "Rogers Communications, 직원 절반에게 바이아웃 제공, Globe 및 Mail 보고서",
       "summary_ko": ""
     },
     {
-      "title": "Microsoft and OpenAI rework alliance: Exclusivity ends as both seek flexibility",
-      "link": "https://www.investing.com/news/stock-market-news/microsoft-shares-slide-2-as-openai-partnership-shifts-to-nonexclusive-4638933",
+      "title": "Explainer-What does Bayer’s US Supreme Court case mean for the thousands of Roundup lawsuits?",
+      "link": "https://www.investing.com/news/stock-market-news/explainerwhat-does-bayers-us-supreme-court-case-mean-for-the-thousands-of-roundup-lawsuits-4637447",
       "summary": "",
-      "title_ko": "Microsoft 및 OpenAI 재작업 제휴: 둘 다 유연성을 추구하므로 독점성이 종료됩니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Absci stock surges 22% on hair-loss drug market optimism",
-      "link": "https://www.investing.com/news/stock-market-news/absci-stock-surges-22-on-hairloss-drug-market-optimism-93CH-4639636",
-      "summary": "",
-      "title_ko": "탈모약 시장 낙관론에 앱시 주가 22% 급등",
+      "title_ko": "설명자 - 수천 건의 반올림 소송에 대한 바이엘의 미국 대법원 판례는 무엇을 의미합니까?",
       "summary_ko": ""
     },
     {
@@ -27,6 +20,13 @@
       "link": "https://www.investing.com/news/stock-market-news/melania-trump-says-abc-should-take-stand-on-latenight-host-kimmel-4639340",
       "summary": "",
       "title_ko": "트럼프 대통령은 ABC가 심야에 호스트 키멜을 해고해야 한다고 말했습니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "WeRide stock gains on Lenovo autonomous vehicle deal",
+      "link": "https://www.investing.com/news/stock-market-news/weride-stock-gains-on-lenovo-autonomous-vehicle-deal-93CH-4639690",
+      "summary": "",
+      "title_ko": "Lenovo 자율 주행 차량 거래에 대한 WeRide 재고 이익",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "BoJ: Cautious stance and inflation guidance in focus – Rabobank",
-      "link": "https://www.fxstreet.com/news/boj-cautious-stance-and-inflation-guidance-in-focus-rabobank-202604271751",
-      "summary": "Rabobank’s Senior FX Strategist Jane Foley notes that earlier market surveys showed a strong chance of a Bank of Japan (BoJ) rate hike this week, but Governor Ueda’s lack of clear hints at IMF/World Bank meetings shifted",
-      "title_ko": "BOJ: 신중한 자세와 인플레이션 지침 중점 – Rabobank",
-      "summary_ko": "라보뱅크의 수석 FX 전략가 제인 폴리 (Jane Foley) 는 이전 시장 조사에서 이번 주 일본은행 (BOJ) 의 금리 인상 가능성이 높았지만 우에다 총재가 IMF/세계은행 회의에서 명확한 힌트를 얻지 못했다고 지적했다."
+      "title": "FXToday: US Dollar falls as markets brace for central bank week and Iran headlines",
+      "link": "https://www.fxstreet.com/news/fxtoday-us-dollar-falls-as-markets-brace-for-central-bank-week-and-iran-headlines-202604271900",
+      "summary": "The US Dollar Index (DXY) is trading cautiously near the 98.50 level as markets prepare for a busy week of central bank meetings.",
+      "title_ko": "FXToday: 미국 달러가 중앙은행 주간 및 이란 헤드라인을 장식하며 하락",
+      "summary_ko": "미국 달러 지수 (DXY) 는 시장이 바쁜 주간 중앙 은행 회의를 준비함에 따라 98.50 수준 근처에서 조심스럽게 거래되고 있습니다."
     },
     {
-      "title": "EUR/USD struggles for traction as markets remain cautious on US-Iran talks",
-      "link": "https://www.fxstreet.com/news/eur-usd-struggles-for-traction-as-markets-remain-cautious-on-us-iran-talks-202604271711",
-      "summary": "The Euro (EUR) trims part of its earlier gains against the US Dollar (USD) on Monday, as stalled US-Iran peace talks keep market sentiment fragile and limit downside in the Greenback.",
-      "title_ko": "미국-이란 회담에서 시장이 여전히 신중하기 때문에 EUR/USD는 견인력 확보에 어려움을 겪고 있습니다.",
-      "summary_ko": "유로 (EUR) 는 월요일 미국 달러 (USD) 에 대한 이전 이익의 일부를 다듬는다. 미국-이란 평화 회담이 지연되면서 시장 정서가 취약해지고 그린백의 하방이 제한되기 때문이다."
+      "title": "CEE FX: Stable ranges as data cluster looms – ING",
+      "link": "https://www.fxstreet.com/news/cee-fx-stable-ranges-as-data-cluster-looms-ing-202604271858",
+      "summary": "ING strategist Frantisek Taborsky expects Central and Eastern European (CEE) FX to stay broadly stable this week despite volatile rates and global headlines.",
+      "title_ko": "CEE FX: 데이터 클러스터 직기에 따른 안정 범위 – ING",
+      "summary_ko": "ING 전략가 프란티섹 타보르스키 (Frantisek Taborsky) 는 중부 및 동유럽 (CEE) 외환거래가 이번 주 변동성 있는 금리와 글로벌 헤드라인에도 불구하고 광범위하게 안정적으로 유지될 것으로 예상합니다."
     }
   ]
 }

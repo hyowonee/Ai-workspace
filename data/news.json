@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-04-27 22:55:03 UTC",
+  "updated_at_utc": "2026-04-27 23:56:09 UTC",
   "items": [
     {
-      "title": "Rogers Communications offering buyouts to half its workforce, Globe and Mail reports",
-      "link": "https://www.investing.com/news/stock-market-news/rogers-communications-offering-buyouts-to-half-its-workforce-globe-and-mail-reports-4639650",
+      "title": "Churchill Capital Corp XII prices $360 million IPO at $10 per unit",
+      "link": "https://www.investing.com/news/stock-market-news/churchill-capital-corp-xii-prices-360-million-ipo-at-10-per-unit-432SI-4640121",
       "summary": "",
-      "title_ko": "Rogers Communications, 직원 절반에게 바이아웃 제공, Globe 및 Mail 보고서",
+      "title_ko": "Churchill Capital Corp XII, 단위당 $ 10로 $ 360,000,000 IPO 가격",
       "summary_ko": ""
     },
     {
-      "title": "Explainer-What does Bayer’s US Supreme Court case mean for the thousands of Roundup lawsuits?",
-      "link": "https://www.investing.com/news/stock-market-news/explainerwhat-does-bayers-us-supreme-court-case-mean-for-the-thousands-of-roundup-lawsuits-4637447",
+      "title": "Taylor Swift files to trademark her voice, likeness to ward off AI deepfakes",
+      "link": "https://www.investing.com/news/stock-market-news/taylor-swift-files-to-trademark-her-voice-likeness-to-ward-off-ai-deepfakes-4640107",
       "summary": "",
-      "title_ko": "설명자 - 수천 건의 반올림 소송에 대한 바이엘의 미국 대법원 판례는 무엇을 의미합니까?",
+      "title_ko": "테일러 스위프트 (Taylor Swift) 는 그녀의 목소리를 상표로 등록하고 인공지능 딥페이크를 막기 위한 유사성을 기록합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Trump says ABC should fire late-night host Kimmel",
-      "link": "https://www.investing.com/news/stock-market-news/melania-trump-says-abc-should-take-stand-on-latenight-host-kimmel-4639340",
+      "title": "Microsoft, OpenAI change terms of deal so startup can court Amazon and others",
+      "link": "https://www.investing.com/news/stock-market-news/microsoft-to-end-exclusive-license-for-openais-technology-4638956",
       "summary": "",
-      "title_ko": "트럼프 대통령은 ABC가 심야에 호스트 키멜을 해고해야 한다고 말했습니다.",
+      "title_ko": "Microsoft, OpenAI가 거래 조건을 변경하여 스타트업이 Amazon 및 기타 업체에 소송을 제기할 수 있도록 합니다.",
       "summary_ko": ""
     },
     {
-      "title": "WeRide stock gains on Lenovo autonomous vehicle deal",
-      "link": "https://www.investing.com/news/stock-market-news/weride-stock-gains-on-lenovo-autonomous-vehicle-deal-93CH-4639690",
+      "title": "Critical Metals agrees to buy European Lithium for about $835 million",
+      "link": "https://www.investing.com/news/stock-market-news/critical-metals-to-acquire-european-lithium-for-835-million-4638851",
       "summary": "",
-      "title_ko": "Lenovo 자율 주행 차량 거래에 대한 WeRide 재고 이익",
+      "title_ko": "크리티컬 메탈은 유럽 리튬을 약 8억 3천 5백만 달러 ($) 에 구매하기로 합의했습니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Irish consumer sentiment hits fresh 3-year low in April",
+      "link": "https://www.investing.com/news/economic-indicators/irish-consumer-sentiment-hits-fresh-3year-low-in-april-4640126",
+      "summary": "",
+      "title_ko": "아일랜드 소비심리, 4월 3년 새 최저",
       "summary_ko": ""
     },
     {
@@ -51,25 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Senate panel to vote on Wednesday on advancing Fed chair Warsh’s nomination",
-      "link": "https://www.investing.com/news/economic-indicators/senate-panel-to-vote-on-wednesday-on-advancing-fed-chair-warshs-nomination-4639519",
-      "summary": "",
-      "title_ko": "워시 연방준비제도 (Fed) 의장 지명 승진에 대해 수요일에 투표할 상원 패널",
-      "summary_ko": ""
+      "title": "Bank of Japan expected to hold rates amid Iran war-driven inflation fears",
+      "link": "https://www.fxstreet.com/news/bank-of-japan-expected-to-hold-rates-amid-iran-war-driven-inflation-fears-202604272300",
+      "summary": "The Bank of Japan (BoJ) will announce its monetary policy decision on Tuesday, at around 3:00 GMT. The BoJ is widely expected to deliver a hawkish hold, keeping the benchmark interest rate unchanged at 0.75% while also h",
+      "title_ko": "일본은행은 이란의 전쟁 중심의 인플레이션 공포 속에서 금리를 보유할 것으로 예상했다.",
+      "summary_ko": "일본은행 (BOJ) 은 화요일 오후 3시 (그리니치 표준시) 에 통화 정책 결정을 발표할 예정입니다. BOJ는 기준 금리를 0.75% 로 변경하지 않고 매파적인 보류를 제공 할 것으로 예상됩니다."
     },
     {
-      "title": "CNY: Supported by exports and geopolitics – Commerzbank",
-      "link": "https://www.fxstreet.com/news/cny-supported-by-exports-and-geopolitics-commerzbank-202604272212",
-      "summary": "Commerzbank’s FX team highlights that CNY is the only Asian currency stronger against the Dollar since late February, helped by robust exports and policy support.",
-      "title_ko": "CNY: 수출 및 지정학의 지원 – Commerzbank",
-      "summary_ko": "Commerzbank의 FX 팀은 CNY가 지난 2월 말 이후 달러 대비 유일하게 아시아 통화 강세이며, 강력한 수출과 정책 지원의 도움을 받았다고 강조합니다."
-    },
-    {
-      "title": "NZD/USD climbs above 0.59 as hot CPI fuels RBNZ hike bets ahead of Fed",
-      "link": "https://www.fxstreet.com/news/nzd-usd-climbs-above-059-as-hot-cpi-fuels-rbnz-hike-bets-ahead-of-fed-202604272152",
-      "summary": "NZD/USD posted limited gains of around 0.4% on Monday, settling close to 0.5905 but stalling just below the 0.5925 area that capped last week's recovery.",
-      "title_ko": "뜨거운 CPI가 연준보다 앞서 RBNZ 하이킹 베팅에 연료를 공급함에 따라 NZD/USD가 0.59 이상 상승",
-      "summary_ko": "NZD/USD는 월요일에 약 0.4% 의 제한된 이익을 기록하여 0.5905에 가깝게 정착했지만 지난 주 회복 한도였던 0.5925 지역 바로 아래에서 멈췄습니다."
+      "title": "NZD/USD holds firm as softer USD and easing yields support the Kiwi",
+      "link": "https://www.fxstreet.com/news/nzd-usd-holds-firm-as-softer-usd-and-easing-yields-support-the-kiwi-202604272239",
+      "summary": "The NZD/USD pair is trading with a firmer tone on Tuesday, hovering near the 0.5910 region as the US Dollar (USD) struggles to extend its recent strength.",
+      "title_ko": "NZD/USD는 더 부드러운 USD로 확고하게 유지되고 있으며 완화 수익률은 키위를 지원합니다",
+      "summary_ko": "NZD/USD 쌍은 화요일에 더 확고한 어조로 거래되고 있으며, 미국 달러 (USD) 가 최근 강세를 확장하기 위해 고군분투하면서 0.5910 지역 근처를 맴돌고 있습니다."
     }
   ]
 }

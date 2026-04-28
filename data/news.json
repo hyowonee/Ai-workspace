@@ -1,32 +1,53 @@
 {
-  "updated_at_utc": "2026-04-28 13:14:06 UTC",
+  "updated_at_utc": "2026-04-28 15:57:18 UTC",
   "items": [
     {
-      "title": "AI stocks slide after report sparks OpenAI growth concerns",
-      "link": "https://www.investing.com/news/stock-market-news/oracle-coreweave-shares-drop-after-report-flags-openai-growth-worries-4641199",
+      "title": "Blaize stock tumbles on short seller fraud allegations",
+      "link": "https://www.investing.com/news/stock-market-news/blaize-stock-tumbles-on-short-seller-fraud-allegations-93CH-4642281",
       "summary": "",
-      "title_ko": "보고서가 OpenAI 성장 우려를 불러일으킨 후 AI 주식이 미끄러짐",
+      "title_ko": "Blaize 주식, 공매도 사기 혐의에 엎치락뒤치락",
       "summary_ko": ""
     },
     {
-      "title": "Analysis-SpaceX ties Musk compensation to Mars colonization goal",
-      "link": "https://www.investing.com/news/stock-market-news/analysisspacex-ties-musk-compensation-to-mars-colonization-goal-4640750",
+      "title": "GM lifts profit outlook, flags expected tariff refund",
+      "link": "https://www.investing.com/news/stock-market-news/gms-core-profit-rises-22-on-strong-us-truck-sales-4640867",
       "summary": "",
-      "title_ko": "Analysis-SpaceX는 사향 보상을 화성 식민지화 목표와 연결합니다.",
+      "title_ko": "GM은 이익 전망을 높이고, 관세 환급 예상 플래그를 표시합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Goldman cuts US consumer spending growth forecast on higher oil prices",
-      "link": "https://www.investing.com/news/stock-market-news/goldman-cuts-us-consumer-spending-growth-forecast-on-higher-oil-prices-93CH-4641518",
+      "title": "FedEx, UPS vow to return tariff refunds to customers",
+      "link": "https://www.investing.com/news/stock-market-news/fedex-ups-vow-to-return-tariff-refunds-to-customers-4642277",
       "summary": "",
-      "title_ko": "골드만, 유가 상승에 대한 미국 소비자 지출 성장 전망 삭감",
+      "title_ko": "FedEx, UPS는 고객에게 관세 환급을 반환하겠다고 맹세합니다.",
       "summary_ko": ""
     },
     {
-      "title": "UGI stock gains on $470M electric division sale",
-      "link": "https://www.investing.com/news/stock-market-news/ugi-stock-gains-on-470m-electric-division-sale-93CH-4641510",
+      "title": "Poland stocks lower at close of trade; WIG30 down 0.78%",
+      "link": "https://www.investing.com/news/stock-market-news/poland-stocks-lower-at-close-of-trade-wig30-down-078-4642275",
       "summary": "",
-      "title_ko": "$ 470M 전기 사업부 매각에 대한 UGI 주식 이익",
+      "title_ko": "폴란드 주식은 거래 마감 시점에 하락, WIG30은 0.78% 하락",
+      "summary_ko": ""
+    },
+    {
+      "title": "US consumer confidence unexpectedly improves in April",
+      "link": "https://www.investing.com/news/economic-indicators/us-consumer-confidence-unexpectedly-improves-in-april-4642032",
+      "summary": "",
+      "title_ko": "4월 미국 소비자 신뢰도 예상치 향상",
+      "summary_ko": ""
+    },
+    {
+      "title": "Consumer confidence surpasses expectations, indicating economic optimism",
+      "link": "https://www.investing.com/news/economic-indicators/consumer-confidence-surpasses-expectations-indicating-economic-optimism-93CH-4641920",
+      "summary": "",
+      "title_ko": "소비자의 신뢰가 기대를 뛰어넘어 경제적 낙관론을 나타냄",
+      "summary_ko": ""
+    },
+    {
+      "title": "US single-family home prices unchanged on monthly basis in February, FHFA says",
+      "link": "https://www.investing.com/news/economic-indicators/us-singlefamily-home-prices-unchanged-on-monthly-basis-in-february-fhfa-says-4641578",
+      "summary": "",
+      "title_ko": "FHFA에 따르면 2월 미국 단독 주택 가격은 월별로 변동이 없습니다.",
       "summary_ko": ""
     },
     {
@@ -37,39 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Italy budget watchdog casts doubt on government debt reduction pledges",
-      "link": "https://www.investing.com/news/economic-indicators/italy-budget-watchdog-casts-doubt-on-government-debt-reduction-pledges-4641167",
-      "summary": "",
-      "title_ko": "이탈리아 예산 감시단, 정부 부채 감축 서약에 의구심 던져",
-      "summary_ko": ""
-    },
-    {
-      "title": "Spain sticks to 2.2% economic growth forecast, for now",
-      "link": "https://www.investing.com/news/economic-indicators/spain-sticks-to-22-economic-growth-forecast-for-now-4641085",
-      "summary": "",
-      "title_ko": "스페인은 현재 2.2% 경제 성장 전망을 고수하고 있습니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Canada’s fiscal update to show improved deficit, revenue projections",
-      "link": "https://www.investing.com/news/economic-indicators/canadas-fiscal-update-to-show-improved-deficit-revenue-projections-4640788",
-      "summary": "",
-      "title_ko": "개선된 적자, 매출 전망을 보여주기 위한 캐나다의 재정 업데이트",
-      "summary_ko": ""
-    },
-    {
-      "title": "Gold hits four-week low as firmer US Dollar, Oil-driven inflation weigh",
+      "title": "Gold drops to four-week low on firm dollar, Oil-driven inflation concerns",
       "link": "https://www.fxstreet.com/news/gold-hits-four-week-low-as-firmer-us-dollar-oil-driven-inflation-weigh-202604281210",
       "summary": "Gold (XAU/USD) slips to a near one-month low, pressured by a firmer US Dollar (USD) and mounting Oil-driven inflation concerns, as investors await clearer signals on stalled diplomatic efforts between the United States (",
-      "title_ko": "금은 더 확고한 미국 달러로 4주 최저치를 기록했고, 석유 중심의 인플레이션은",
+      "title_ko": "금은 회사 달러, 석유 중심의 인플레이션 우려로 4주 최저치로 하락",
       "summary_ko": "금 (XAU/USD) 은 미국 달러 (USD) 의 강세와 석유 중심의 인플레이션 우려로 인해 거의 1개월 만에 최저 수준으로 떨어지며, 투자자들은 미국 간의 중단된 외교적 노력에 대한 명확한 신호를 기다립니다."
     },
     {
-      "title": "USD: Risk resilience caps gains – ING",
-      "link": "https://www.fxstreet.com/news/usd-risk-resilience-caps-gains-ing-202604281204",
-      "summary": "ING strategist Francesco Pesole notes that despite higher Oil prices and geopolitical uncertainty, the Dollar has only found limited support as resilient US equities and month‑end flows weigh on USD performance.",
-      "title_ko": "USD: Risk resilience caps gains – ING",
-      "summary_ko": "ING 전략가 프란체스코 페솔레 (Francesco Pesole) 는 높은 유가와 지정학적 불확실성에도 불구하고 달러는 탄력적인 미국 주식과 월말 흐름이 USD 실적에 무게를 두기 때문에 제한적인 지원을 발견했다고 지적했다."
+      "title": "USD/JPY: Yen rebound seen short-lived – MUFG",
+      "link": "https://www.fxstreet.com/news/usd-jpy-yen-rebound-seen-short-lived-mufg-202604281514",
+      "summary": "MUFG’s Lee Hardman argues that the recent Japanese Yen (JPY) rebound against the US Dollar (USD) is unlikely to last, as USD/JPY remains in a broader bearish Yen trend since the Middle East conflict began.",
+      "title_ko": "USD/JPY: 단기 엔화 반등 – MUFG",
+      "summary_ko": "MUFG의 리 하드먼 (Lee Hardman) 은 중동 분쟁이 시작된 이후 미국 달러 (USD) 에 대한 최근 일본 엔화 (JPY) 의 반등이 지속될 것 같지 않다고 주장한다."
     }
   ]
 }

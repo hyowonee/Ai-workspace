@@ -1,32 +1,46 @@
 {
-  "updated_at_utc": "2026-04-28 19:44:42 UTC",
+  "updated_at_utc": "2026-04-28 21:08:59 UTC",
   "items": [
     {
-      "title": "Iran war boosts biofuels, lifts US agriculture giants earnings expectations",
-      "link": "https://www.investing.com/news/stock-market-news/iran-war-boosts-biofuels-lifts-us-agriculture-giants-earnings-expectations-93CH-4642752",
-      "summary": "",
-      "title_ko": "이란 전쟁은 바이오 연료를 부양하고 미국 농업 거물들의 수입 기대치를 높입니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Teradyne shares fall almost 6% ahead of earnings despite AI-driven growth",
-      "link": "https://www.investing.com/news/stock-market-news/teradyne-shares-fall-almost-6-ahead-of-earnings-despite-aidriven-growth-93CH-4642750",
-      "summary": "",
-      "title_ko": "Teradyne 주식은 AI 주도 성장에도 불구하고 수익보다 거의 6% 하락합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Musk says it’s not ok to ’loot a charity’ as he takes the stand in OpenAI fraud trial",
+      "title": "Musk testifies at OpenAI trial it’s not OK to ’loot a charity’",
       "link": "https://www.investing.com/news/stock-market-news/openai-trial-pitting-elon-musk-against-sam-altman-kicks-off-4640752",
       "summary": "",
-      "title_ko": "머스크는 OpenAI 사기 재판에서 입장을 취하면서 ’자선 단체 약탈’ 은 괜찮지 않다고 말합니다.",
+      "title_ko": "머스크는 OpenAI 재판에서 '자선 단체를 약탈하는 것’ 은 옳지 않다고 증언합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Purdue Pharma to be sentenced, paving way for opioid settlement",
-      "link": "https://www.investing.com/news/stock-market-news/purdue-pharma-to-be-sentenced-paving-way-for-opioid-settlement-4640784",
+      "title": "Starbucks raises forecasts after strong quarter as CEO’s turnaround gains momentum",
+      "link": "https://www.investing.com/news/stock-market-news/starbucks-tops-quarterly-sales-estimates-as-ceos-turnaround-gains-momentum-4642891",
       "summary": "",
-      "title_ko": "Purdue Pharma는 선고받을 예정이며, 오피오이드 정착을위한 길을 열어줍니다.",
+      "title_ko": "스타벅스는 CEO의 턴어라운드 증가 모멘텀에 따라 분기 강세 이후 전망치를 상향 조정합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "US FDA to monitor clinical trial data in real time in pilot program aimed at speeding approvals",
+      "link": "https://www.investing.com/news/stock-market-news/us-fda-to-monitor-clinical-trial-data-in-real-time-in-pilot-program-aimed-at-speeding-approvals-4642619",
+      "summary": "",
+      "title_ko": "승인 속도를 높이기 위한 시범 프로그램에서 임상 시험 데이터를 실시간으로 모니터링하는 미국 FDA",
+      "summary_ko": ""
+    },
+    {
+      "title": "Amazon targets mass hiring with agentic software, goal to humanize AI",
+      "link": "https://www.investing.com/news/stock-market-news/amazon-targets-mass-hiring-with-agentic-software-goal-to-humanize-ai-4642354",
+      "summary": "",
+      "title_ko": "아마존은 에이전트 소프트웨어로 대량 채용을 목표로 하며, AI를 인간화하는 것을 목표로 합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Canada says 2025/26 deficit was less than expected, trims growth forecasts",
+      "link": "https://www.investing.com/news/economic-indicators/canada-says-202526-deficit-was-less-than-expected-trims-growth-forecasts-4642887",
+      "summary": "",
+      "title_ko": "캐나다는 2025/26년 적자가 예상보다 적었다고 말하고, 성장률 전망을 조정합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Carney’s fiscal update shows smaller Canadian deficit, new spending",
+      "link": "https://www.investing.com/news/economic-indicators/canadas-fiscal-update-to-show-improved-deficit-revenue-projections-4640788",
+      "summary": "",
+      "title_ko": "Carney's fiscal update shows smaller Canadian deficit, new spending",
       "summary_ko": ""
     },
     {
@@ -44,18 +58,11 @@
       "summary_ko": ""
     },
     {
-      "title": "US single-family home prices unchanged on monthly basis in February, FHFA says",
-      "link": "https://www.investing.com/news/economic-indicators/us-singlefamily-home-prices-unchanged-on-monthly-basis-in-february-fhfa-says-4641578",
-      "summary": "",
-      "title_ko": "FHFA에 따르면 2월 미국 단독 주택 가격은 월별로 변동이 없습니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "S&amp;P/Case-Shiller House Price Index Misses Forecast, Falls Below Previous Level",
-      "link": "https://www.investing.com/news/economic-indicators/spcaseshiller-house-price-index-misses-forecast-falls-below-previous-level-93CH-4641462",
-      "summary": "",
-      "title_ko": "S&amp;P/케이스-실러 하우스 가격 지수 예측 누락, 이전 수준 아래로 하락",
-      "summary_ko": ""
+      "title": "USD/SGD: Range trade with defensive profile – OCBC",
+      "link": "https://www.fxstreet.com/news/usd-sgd-range-trade-with-defensive-profile-ocbc-202604281934",
+      "summary": "OCBC strategists Sim Moh Siong and Christopher Wong describe USD/SGD as slipping on broad USD weakness and expects two‑way, range‑bound trading in the near term, with resistance around 1.2780–1.2850 and support near 1.27",
+      "title_ko": "USD/SGD: 방어 프로필이 있는 범위 거래 – OCBC",
+      "summary_ko": "OCBC 전략가 심 모 시옹 (Sim Moh Siong) 과 크리스토퍼 웡 (Christopher Wong) 은 USD/SGD가 광범위한 USD 약세에 미끄러지는 것으로 설명하며 1.2780-1.2850 정도의 저항과 1.27 근처의 지원으로 단기적으로 양방향 범위 거래를 기대합니다."
     },
     {
       "title": "WTI Oil extends gains as prolonged Hormuz closure reinforces supply shock",
@@ -63,13 +70,6 @@
       "summary": "West Texas Intermediate (WTI) US Oil trades around $98.00 on Tuesday at the time of writing, up 3.21% on the day, reaching its highest level since mid-April.",
       "title_ko": "WTI 오일은 장기간의 Hormuz 폐쇄로 공급 충격이 강화됨에 따라 이득을 연장합니다.",
       "summary_ko": "서부 텍사스 중급 (WTI) 미국 석유는 서면 작성 당시 화요일에 약 $ 98.00 에 거래되며, 당일 3.21% 상승하여 4월 중순 이후 최고 수준에 도달했습니다."
-    },
-    {
-      "title": "Canada: Fiscal update seen modestly improving deficit – TD Securities",
-      "link": "https://www.fxstreet.com/news/canada-fiscal-update-seen-modestly-improving-deficit-td-securities-202604281856",
-      "summary": "TD Securities analysts expect Canada’s Spring Economic Update to show a CAD 60 billion deficit over 2026–27, slightly better than the prior budget shortfall.",
-      "title_ko": "캐나다: 적자폭이 완만하게 개선된 재정 업데이트 – TD 증권",
-      "summary_ko": "TD 증권 분석가들은 캐나다의 봄 경제 업데이트가 2026 ~ 27년에 걸쳐 600억 달러의 적자를 기록할 것으로 예상하고 있으며, 이는 이전 예산 부족분보다 약간 더 나은 수준입니다."
     }
   ]
 }

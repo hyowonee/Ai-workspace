@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-04-28 21:08:59 UTC",
+  "updated_at_utc": "2026-04-28 22:31:54 UTC",
   "items": [
     {
-      "title": "Musk testifies at OpenAI trial it’s not OK to ’loot a charity’",
+      "title": "Elon Musk says OpenAI was his idea, before executives looted it",
       "link": "https://www.investing.com/news/stock-market-news/openai-trial-pitting-elon-musk-against-sam-altman-kicks-off-4640752",
       "summary": "",
-      "title_ko": "머스크는 OpenAI 재판에서 '자선 단체를 약탈하는 것’ 은 옳지 않다고 증언합니다.",
+      "title_ko": "일론 머스크 (Elon Musk) 는 경영진이 약탈하기 전에 OpenAI가 그의 아이디어라고 말했습니다.",
       "summary_ko": ""
     },
     {
-      "title": "Starbucks raises forecasts after strong quarter as CEO’s turnaround gains momentum",
-      "link": "https://www.investing.com/news/stock-market-news/starbucks-tops-quarterly-sales-estimates-as-ceos-turnaround-gains-momentum-4642891",
+      "title": "T-Mobile lifts annual forecast for account additions after upbeat quarterly results",
+      "link": "https://www.investing.com/news/stock-market-news/tmobile-lifts-annual-forecast-for-account-additions-after-upbeat-quarterly-results-4643002",
       "summary": "",
-      "title_ko": "스타벅스는 CEO의 턴어라운드 증가 모멘텀에 따라 분기 강세 이후 전망치를 상향 조정합니다.",
+      "title_ko": "T-Mobile, 낙관적인 분기별 실적 후 계정 추가에 대한 연간 예측치 상향 조정",
       "summary_ko": ""
     },
     {
-      "title": "US FDA to monitor clinical trial data in real time in pilot program aimed at speeding approvals",
-      "link": "https://www.investing.com/news/stock-market-news/us-fda-to-monitor-clinical-trial-data-in-real-time-in-pilot-program-aimed-at-speeding-approvals-4642619",
+      "title": "Authentic Brands Group CEO says company could top $50 billion in 2026 revenue through deals",
+      "link": "https://www.investing.com/news/stock-market-news/authentic-brands-group-ceo-says-retailer-could-top-50-billion-in-2026-revenue-through-deals-4643204",
       "summary": "",
-      "title_ko": "승인 속도를 높이기 위한 시범 프로그램에서 임상 시험 데이터를 실시간으로 모니터링하는 미국 FDA",
+      "title_ko": "Authentic Brands Group CEO는 회사가 거래를 통해 2026년 매출에서 최고 $ 500억 달러를 달성할 수 있다고 말합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Amazon targets mass hiring with agentic software, goal to humanize AI",
-      "link": "https://www.investing.com/news/stock-market-news/amazon-targets-mass-hiring-with-agentic-software-goal-to-humanize-ai-4642354",
+      "title": "Visa beats quarterly profit estimates on resilient consumer spending",
+      "link": "https://www.investing.com/news/stock-market-news/visa-quarterly-profit-rises-on-robust-card-spending-volumes-4642873",
       "summary": "",
-      "title_ko": "아마존은 에이전트 소프트웨어로 대량 채용을 목표로 하며, AI를 인간화하는 것을 목표로 합니다.",
+      "title_ko": "Visa, 탄력적인 소비자 지출에 대한 분기별 이익 추정치 상회",
+      "summary_ko": ""
+    },
+    {
+      "title": "API Weekly Crude Stock Shows Unexpected Decline, But Misses Forecast",
+      "link": "https://www.investing.com/news/economic-indicators/api-weekly-crude-stock-shows-unexpected-decline-but-misses-forecast-93CH-4643101",
+      "summary": "",
+      "title_ko": "API 주간 원유 재고는 예기치 않은 하락을 보이지만 예측을 놓칩니다.",
       "summary_ko": ""
     },
     {
@@ -51,25 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Consumer confidence surpasses expectations, indicating economic optimism",
-      "link": "https://www.investing.com/news/economic-indicators/consumer-confidence-surpasses-expectations-indicating-economic-optimism-93CH-4641920",
-      "summary": "",
-      "title_ko": "소비자의 신뢰가 기대를 뛰어넘어 경제적 낙관론을 나타냄",
-      "summary_ko": ""
+      "title": "USD/JPY pinned below 160.00 into Fed decision and Tokyo CPI release",
+      "link": "https://www.fxstreet.com/news/usd-jpy-pinned-below-16000-into-fed-decision-and-tokyo-cpi-release-202604282204",
+      "summary": "USD/JPY traded in a tight 80-pip range on Tuesday, closing near 159.62 after the session touched a low of 158.96 in early Asia and a high of 159.79 late in the New York session.",
+      "title_ko": "USD/JPY는 Fed 결정 및 도쿄 CPI 발표에 160.00 미만으로 고정되었습니다.",
+      "summary_ko": "USD/JPY는 화요일에 80 pip 범위에서 거래되었으며, 세션이 초기 아시아에서 158.96의 최저치와 뉴욕 세션 후반에 159.79의 최고치를 기록한 후 159.62 근처에서 마감되었습니다."
     },
     {
-      "title": "USD/SGD: Range trade with defensive profile – OCBC",
-      "link": "https://www.fxstreet.com/news/usd-sgd-range-trade-with-defensive-profile-ocbc-202604281934",
-      "summary": "OCBC strategists Sim Moh Siong and Christopher Wong describe USD/SGD as slipping on broad USD weakness and expects two‑way, range‑bound trading in the near term, with resistance around 1.2780–1.2850 and support near 1.27",
-      "title_ko": "USD/SGD: 방어 프로필이 있는 범위 거래 – OCBC",
-      "summary_ko": "OCBC 전략가 심 모 시옹 (Sim Moh Siong) 과 크리스토퍼 웡 (Christopher Wong) 은 USD/SGD가 광범위한 USD 약세에 미끄러지는 것으로 설명하며 1.2780-1.2850 정도의 저항과 1.27 근처의 지원으로 단기적으로 양방향 범위 거래를 기대합니다."
-    },
-    {
-      "title": "WTI Oil extends gains as prolonged Hormuz closure reinforces supply shock",
-      "link": "https://www.fxstreet.com/news/wti-oil-extends-gains-as-prolonged-hormuz-closure-reinforces-supply-shock-202604281913",
-      "summary": "West Texas Intermediate (WTI) US Oil trades around $98.00 on Tuesday at the time of writing, up 3.21% on the day, reaching its highest level since mid-April.",
-      "title_ko": "WTI 오일은 장기간의 Hormuz 폐쇄로 공급 충격이 강화됨에 따라 이득을 연장합니다.",
-      "summary_ko": "서부 텍사스 중급 (WTI) 미국 석유는 서면 작성 당시 화요일에 약 $ 98.00 에 거래되며, 당일 3.21% 상승하여 4월 중순 이후 최고 수준에 도달했습니다."
+      "title": "NZD/USD slips below 0.59 as US Dollar firms into Fed week",
+      "link": "https://www.fxstreet.com/news/nzd-usd-slips-below-059-as-us-dollar-firms-into-fed-week-202604282159",
+      "summary": "NZD/USD slipped 0.4% on Tuesday, closing near 0.5885 after a session high close to 0.5925 and a fresh rejection from the 0.5900 handle.",
+      "title_ko": "NZD/USD는 미국 달러 기업이 연준 주에 진입함에 따라 0.59 미만으로 하락했습니다.",
+      "summary_ko": "NZD/USD는 화요일에 0.4% 하락하여 0.5925에 가까운 높은 세션과 0.5900 핸들의 새로운 거부 이후 0.5885 근처에서 마감되었습니다."
     }
   ]
 }

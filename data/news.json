@@ -1,32 +1,46 @@
 {
-  "updated_at_utc": "2026-04-28 09:23:53 UTC",
+  "updated_at_utc": "2026-04-28 11:21:02 UTC",
   "items": [
     {
-      "title": "Microsoft facing UK antitrust lawsuit from Slack over Teams ’bundling’",
-      "link": "https://www.investing.com/news/stock-market-news/microsoft-facing-uk-antitrust-lawsuit-from-slack-over-teams-bundling-4639460",
+      "title": "Google signs classified AI deal with Pentagon, The Information reports",
+      "link": "https://www.investing.com/news/stock-market-news/google-signs-classified-ai-deal-with-pentagon-the-information-reports-4640272",
       "summary": "",
-      "title_ko": "Teams ’번들링’ 에 대한 Slack의 영국 독점 금지 소송에 직면한 Microsoft",
+      "title_ko": "구글, 펜타곤과 기밀 AI 거래 체결, 정보 보고서",
       "summary_ko": ""
     },
     {
-      "title": "European shares subdued as US-Iran talks stall; corporate earnings on tap",
-      "link": "https://www.investing.com/news/stock-market-news/european-shares-edge-lower-as-usiran-talks-stall-corporate-earnings-on-tap-4640384",
+      "title": "European stocks choppy amid stalled U.S.-Iran negotiations, earnings deluge",
+      "link": "https://www.investing.com/news/stock-market-news/european-stocks-slip-as-usiran-negotiations-stall-and-oil-climbs-4640386",
       "summary": "",
-      "title_ko": "유럽 주식은 미국-이란 회담 중단으로 제압, 기업 수익은 탭",
+      "title_ko": "미국-이란 협상이 지연되는 가운데 유럽 증시가 갈팡질팡하며 수입이 들끓고 있다.",
       "summary_ko": ""
     },
     {
-      "title": "AI capex-sensitive stocks fall amid rising OpenAI worries",
-      "link": "https://www.investing.com/news/stock-market-news/ai-capexsensitive-stocks-fall-amid-rising-openai-worries-4640469",
+      "title": "OpenAI trial pitting Elon Musk against Sam Altman kicks off",
+      "link": "https://www.investing.com/news/stock-market-news/openai-trial-pitting-elon-musk-against-sam-altman-kicks-off-4640752",
       "summary": "",
-      "title_ko": "OpenAI 우려가 높아지는 가운데 AI capex에 민감한 주식이 하락합니다.",
+      "title_ko": "일론 머스크와 샘 알트먼을 상대로 한 OpenAI 시험 시작",
       "summary_ko": ""
     },
     {
-      "title": "Exclusive-KKR, Macquarie in Italy-backed talks over telecoms network commercial deal, sources say",
-      "link": "https://www.investing.com/news/stock-market-news/kkr-macquarie-in-italybacked-talks-over-telecoms-network-commercial-deal-sources-say-4639844",
+      "title": "JetBlue’s quarterly loss widens as high fuel costs dent margin recovery",
+      "link": "https://www.investing.com/news/stock-market-news/jetblues-quarterly-loss-widens-as-high-fuel-costs-dent-margin-recovery-4641041",
       "summary": "",
-      "title_ko": "소식통에 따르면 이탈리아의 독점 KKR, Macquarie는 통신 네트워크 상업 거래를 통해 회담을 지원했습니다.",
+      "title_ko": "높은 연료비로 인한 마진 회복으로 JetBlue의 분기 손실이 확대됩니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Canada’s fiscal update to show improved deficit, revenue projections",
+      "link": "https://www.investing.com/news/economic-indicators/canadas-fiscal-update-to-show-improved-deficit-revenue-projections-4640788",
+      "summary": "",
+      "title_ko": "개선된 적자, 매출 전망을 보여주기 위한 캐나다의 재정 업데이트",
+      "summary_ko": ""
+    },
+    {
+      "title": "UK grocery inflation eases to 3.8% in April, says Worldpanel",
+      "link": "https://www.investing.com/news/economic-indicators/uk-grocery-inflation-eases-to-38-in-april-says-worldpanel-4640688",
+      "summary": "",
+      "title_ko": "Worldpanel은 영국 식료품 인플레이션이 4월에 3.8% 로 완화된다고 말합니다.",
       "summary_ko": ""
     },
     {
@@ -44,32 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Irish consumer sentiment hits fresh 3-year low in April",
-      "link": "https://www.investing.com/news/economic-indicators/irish-consumer-sentiment-hits-fresh-3year-low-in-april-4640126",
-      "summary": "",
-      "title_ko": "아일랜드 소비심리, 4월 3년 새 최저",
-      "summary_ko": ""
+      "title": "USD/INR approaches all-time highs amid elevated oil prices",
+      "link": "https://www.fxstreet.com/news/usd-inr-extends-rally-as-elevated-oil-prices-keep-pressuring-indian-rupee-202604280523",
+      "summary": "The Indian Rupee (INR) weakens further against the US Dollar (USD) on Tuesday after a brief pause in the last two trading days. The USD/INR pair jumps to near 94.50 as elevated oil prices continue to hurt the Indian Rupe",
+      "title_ko": "USD/INR, 유가 상승으로 사상 최고치에 근접",
+      "summary_ko": "인도 루피 (INR) 는 지난 2거래일 동안 잠시 중단된 후 화요일에 미국 달러 (USD) 에 대해 더 약세입니다. USD/INR 쌍은 상승한 유가가 인도 루프를 계속 해치면서 94.50 근처로 점프합니다."
     },
     {
-      "title": "Venezuela central bank says it and US hired firms to audit assets abroad",
-      "link": "https://www.investing.com/news/economic-indicators/venezuela-central-bank-says-it-and-us-have-each-hired-firms-to-audit-assets-abroad-4639613",
-      "summary": "",
-      "title_ko": "베네수엘라 중앙은행은 미국이 해외 자산 감사를 위해 회사를 고용했다고 밝혔습니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Brent: Higher forecasts with disruption risks – ING",
-      "link": "https://www.fxstreet.com/news/brent-higher-forecasts-with-disruption-risks-ing-202604280918",
-      "summary": "ING’s Warren Patterson raises ICE Brent forecasts as prolonged disruption through the Strait of Hormuz persists and peace talks between the US and Iran stall.",
-      "title_ko": "BRENT: 중단 위험이 있는 높은 예측 – ING",
-      "summary_ko": "ING의 워렌 패터슨 (Warren Patterson) 은 호르무즈 해협을 통해 장기간의 혼란이 지속되고 미국과 이란 간의 평화 회담이 중단됨에 따라 ICE 브렌트 (ICE Brent) 예측을 제기합니다."
-    },
-    {
-      "title": "NZD/USD remains steady after slipping below 0.5900",
-      "link": "https://www.fxstreet.com/news/nzd-usd-remains-steady-after-slipping-below-05900-202604280906",
-      "summary": "NZD/USD depreciates after two days of gains, trading around 0.5890 during the European hours on Tuesday. The pair loses ground as the US Dollar (USD) advances due to increased safe-haven demand amid stalled United States",
-      "title_ko": "0.5900 아래로 미끄러진 후에도 NZD/USD는 안정적으로 유지됩니다.",
-      "summary_ko": "NZD/USD는 이틀간의 이익 후 감가 상각되며, 화요일 유럽 시간 동안 약 0.5890에 거래됩니다. 이 쌍은 미국이 정체된 가운데 안전 피난처 수요 증가로 인해 미국 달러 (USD) 가 상승함에 따라 기반을 잃게 됩니다."
+      "title": "AUD/USD Price Forecast: Likely display one-sided strong move post Aussie Q1 CPI data",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-likely-display-one-sided-strong-move-post-aussie-q1-cpi-data-202604281018",
+      "summary": "The AUD/USD pair trades 0.16% lower at around 0.7175 during the European trading session on Tuesday.",
+      "title_ko": "AUD/USD 가격 예측: 호주 1분기 CPI 데이터 이후 일방적인 강한 움직임 표시",
+      "summary_ko": "AUD/USD 쌍은 화요일 유럽 거래 세션에서 약 0.7175에서 0.16% 낮게 거래됩니다."
     }
   ]
 }

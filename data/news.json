@@ -1,32 +1,53 @@
 {
-  "updated_at_utc": "2026-04-29 23:56:16 UTC",
+  "updated_at_utc": "2026-04-30 03:42:01 UTC",
   "items": [
     {
-      "title": "SoftBank plans to list new AI and robotics company in US, FT reports",
-      "link": "https://www.investing.com/news/stock-market-news/softbank-plans-to-list-new-ai-and-robotics-company-in-us-ft-reports-4647497",
+      "title": "Samsung Electronics expects to win more customers for advanced logic chips",
+      "link": "https://www.investing.com/news/stock-market-news/samsung-electronics-expects-to-win-more-customers-for-advanced-logic-chips-4647587",
       "summary": "",
-      "title_ko": "FT 보고서에 따르면 소프트뱅크는 미국에 새로운 AI 및 로봇 회사를 상장할 계획입니다.",
+      "title_ko": "삼성전자는 고급 로직 칩에 대해 더 많은 고객을 확보할 것으로 기대하고 있습니다.",
       "summary_ko": ""
     },
     {
-      "title": "Trump administration appeals judge’s order upending Kennedy’s vaccine policies",
-      "link": "https://www.investing.com/news/stock-market-news/trump-administration-appeals-judges-order-upending-kennedys-vaccine-policies-4647502",
+      "title": "Samsung Electronics sees robust AI demand after Q1 chip profit jumps almost 50-fold",
+      "link": "https://www.investing.com/news/stock-market-news/samsung-elec-q1-profit-surges-eightfold-to-a-record-4647510",
       "summary": "",
-      "title_ko": "트럼프 행정부, 케네디 백신 정책에 따라 판사의 명령에 항소",
+      "title_ko": "삼성전자는 1분기 칩 이익이 50배 가까이 급증한 후 AI 수요가 견조한 것으로 보고 있다.",
       "summary_ko": ""
     },
     {
-      "title": "PayPal makes Venmo a separate unit as CEO Lores looks to boost growth",
-      "link": "https://www.investing.com/news/stock-market-news/paypal-to-separate-venmo-business-cnbc-reports-4646558",
+      "title": "First Tesla Semi rolls off high volume production line",
+      "link": "https://www.investing.com/news/stock-market-news/first-tesla-semi-rolls-off-high-volume-production-line-4647584",
       "summary": "",
-      "title_ko": "PayPal은 CEO Lores가 성장을 촉진하려고 할 때 Venmo를 별도의 단위로 만듭니다.",
+      "title_ko": "첫 번째 Tesla Semi, 대량 생산 라인에서 롤오프",
       "summary_ko": ""
     },
     {
-      "title": "SoftBank plans to list AI firm Roze in the US at up to $100 bln valuation- FT",
-      "link": "https://www.investing.com/news/stock-market-news/softbank-plans-to-list-ai-firm-roze-in-the-us-at-up-to-100-bln-valuation-ft-4647500",
+      "title": "OpenAI’s Stargate hits 10GW AI capacity target years ahead of schedule",
+      "link": "https://www.investing.com/news/stock-market-news/openais-stargate-hits-10gw-ai-capacity-target-years-ahead-of-schedule-4647583",
       "summary": "",
-      "title_ko": "소프트뱅크는 미국에 AI 기업 로즈 (Roze) 를 최대 100억 달러 ($) 에 상장할 계획이다.",
+      "title_ko": "OpenAI의 Stargate, 예정보다 수년 앞서 10GW AI 용량 목표 달성",
+      "summary_ko": ""
+    },
+    {
+      "title": "Japan’s factory output in surprise fall as Iran war takes toll on petroleum-based products",
+      "link": "https://www.investing.com/news/economic-indicators/japan-march-factory-output-unexpectedly-falls-05-monthonmonth-4647509",
+      "summary": "",
+      "title_ko": "이란 전쟁이 석유 기반 제품에 타격을 입으면서 일본의 공장 생산량이 기습적으로 감소했습니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "China manufacturing PMI grows more than expected in April, services lag",
+      "link": "https://www.investing.com/news/economic-indicators/china-manufacturing-pmi-grows-more-than-expected-in-april-services-lag-4647552",
+      "summary": "",
+      "title_ko": "중국 제조업 PMI, 4월 예상보다 성장, 서비스 지연",
+      "summary_ko": ""
+    },
+    {
+      "title": "Japan factory output slips unexpectedly in March; retail sales beat forecasts",
+      "link": "https://www.investing.com/news/economic-indicators/japan-factory-output-slips-unexpectedly-in-march-retail-sales-beat-forecasts-4647512",
+      "summary": "",
+      "title_ko": "3월 일본 공장 생산이 예기치 않게 미끄러짐, 소매 판매가 예측을 능가함",
       "summary_ko": ""
     },
     {
@@ -37,39 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Brazil creates more formal jobs than expected in March",
-      "link": "https://www.investing.com/news/economic-indicators/brazil-creates-more-formal-jobs-than-expected-in-march-4646613",
-      "summary": "",
-      "title_ko": "브라질은 3월에 예상보다 더 많은 정식 일자리를 창출합니다.",
-      "summary_ko": ""
+      "title": "Pound Sterling flat lines vs USD as traders await BoE policy update and US PCE Price Index",
+      "link": "https://www.fxstreet.com/news/pound-sterling-flat-lines-vs-usd-as-traders-await-boe-policy-update-and-us-pce-price-index-202604300318",
+      "summary": "The GBP/USD pair struggles to capitalize on a modest Asian session uptick to the 1.3500 neighborhood, though it holds above the 100-day Simple Moving Average (SMA).",
+      "title_ko": "거래자가 BOE 정책 업데이트 및 미국 PCE 가격 지수를 기다리는 동안 파운드 스털링 플랫 라인 vs USD",
+      "summary_ko": "GBP/USD 쌍은 100일 단순 이동 평균 (SMA) 을 상회하지만 1.3500 인근 지역까지 상승하는 소박한 아시아 세션을 활용하기 위해 고군분투합니다."
     },
     {
-      "title": "Instant view: Fed holds rates steady, but board vote is most divided since 1992",
-      "link": "https://www.investing.com/news/economic-indicators/instant-view-fed-holds-rates-steady-but-board-vote-is-most-divided-since-1992-4646556",
-      "summary": "",
-      "title_ko": "즉시 보기: 연준은 금리를 안정적으로 유지하지만 이사회 투표는 1992년 이후 가장 분열되어 있습니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Brazil’s central government posts $14.76 billion primary deficit in March",
-      "link": "https://www.investing.com/news/economic-indicators/brazils-central-government-posts-1476-billion-primary-deficit-in-march-4646429",
-      "summary": "",
-      "title_ko": "브라질 중앙정부는 3월에 147억 6천만 달러의 1차 적자를 기록했다 ($ 147.6 billion primary deficit).",
-      "summary_ko": ""
-    },
-    {
-      "title": "EUR/USD weakens below 1.1700 as Fed keeps rates unchanged",
-      "link": "https://www.fxstreet.com/news/eur-usd-weakens-below-11700-as-fed-keeps-rates-unchanged-202604292312",
-      "summary": "The EUR/USD pair loses ground to near 1.1680 during the early European session on Thursday. The US Dollar (USD) strengthens against the Euro (EUR) after the US Federal Reserve (Fed) left interest rates unchanged.",
-      "title_ko": "연준이 금리를 변동 없이 유지함에 따라 EUR/USD는 1.1700 미만으로 약세",
-      "summary_ko": "EUR/USD 쌍은 목요일의 초기 유럽 세션에서 1.1680 근처로 지고 있습니다. 미국 연방준비제도 (Fed) 가 금리를 변경하지 않은 후 미국 달러 (USD) 는 유로 (EUR) 대비 강화됩니다."
-    },
-    {
-      "title": "Dow Jones Industrial Average drops as Powell signs off: is $650B in AI capex the next risk?",
-      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-drops-as-powell-signs-off-is-650b-in-ai-capex-the-next-risk-202604292212",
-      "summary": "Wednesday's session had every excuse to rally. The Federal Reserve (Fed) decision was telegraphed. Big Tech earnings were teed up. The Dow Jones Industrial Average (DJIA) had reclaimed 49,000 just two days earlier.",
-      "title_ko": "Dow Jones Industrial Average, Powell이 사인오프하면서 하락: AI capex에서 $ 650B가 다음 위험인가?",
-      "summary_ko": "수요일 세션에는 집결할 수 있는 모든 변명이 있었다. 연방준비제도 (Fed) 결정이 전보로 전달되었습니다. 빅 테크 수입이 급증했습니다. DJIA (Dow Jones Industrial Average) 는 불과 이틀 전에 49,000을 회수했습니다."
+      "title": "EUR/USD Price Forecast: Hovers around 50-day EMA near 1.1700",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-hovers-around-50-day-ema-near-11700-202604300316",
+      "summary": "EUR/USD extends its losses for the third successive day, trading around 1.1660 during the Asian hours on Thursday. The daily chart technical analysis indicates a potential for a bearish reversal, as the pair has slipped ",
+      "title_ko": "EUR/USD 가격 예측: 1.1700 근처에서 약 50일 EMA 상승",
+      "summary_ko": "EUR/USD는 목요일 아시아 시간 동안 약 1.1660에 거래되는 세 번째 날 연속 손실을 연장합니다. 일일 차트 기술적 분석은 쌍이 미끄러졌기 때문에 약세 반전의 가능성을 나타냅니다."
     }
   ]
 }

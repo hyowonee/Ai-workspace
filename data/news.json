@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-04-30 10:57:10 UTC",
+  "updated_at_utc": "2026-04-30 12:18:51 UTC",
   "items": [
     {
-      "title": "Merck posts quarterly loss due to Cidara charge, sales rise 5%",
-      "link": "https://www.investing.com/news/stock-market-news/merck-posts-quarterly-loss-due-to-cidara-charge-sales-rise-5-4648557",
+      "title": "Exclusive-Apollo, Blackstone and KKR vie for Shell stake in LNG Canada, sources say",
+      "link": "https://www.investing.com/news/stock-market-news/exclusiveapollo-blackstone-and-kkr-vie-for-shell-stake-in-lng-canada-sources-say-4647639",
       "summary": "",
-      "title_ko": "Merck는 Cidara 요금으로 인한 분기별 손실을 게시하며, 매출은 5% 증가합니다.",
+      "title_ko": "소식통에 따르면 LNG Canada의 Shell 지분에 대한 독점 아폴로, 블랙스톤 및 KKR VIE",
       "summary_ko": ""
     },
     {
-      "title": "Bombardier’s quarterly revenue rises 5% on strong demand for maintenance services",
+      "title": "Vistance Networks stock surges on $1.8B asset sale to Belden",
+      "link": "https://www.investing.com/news/stock-market-news/vistance-networks-stock-surges-on-18b-asset-sale-to-belden-93CH-4648940",
+      "summary": "",
+      "title_ko": "Vistance Networks, Belden에 $ 1.8B 자산 매각으로 주가 급등",
+      "summary_ko": ""
+    },
+    {
+      "title": "Bombardier tops quarterly profit estimates on strong demand for maintenance services",
       "link": "https://www.investing.com/news/stock-market-news/bombardiers-quarterly-revenue-rises-5-on-strong-demand-for-maintenance-services-4648555",
       "summary": "",
-      "title_ko": "봄바디어의 분기별 매출은 유지 보수 서비스에 대한 강력한 수요에 따라 5% 증가합니다.",
+      "title_ko": "Bombardier, 강력한 유지보수 서비스 수요에 대한 분기별 이익 추정치 상회",
       "summary_ko": ""
     },
     {
-      "title": "Caterpillar’s first-quarter profit rises on robust construction, power equipment sales",
-      "link": "https://www.investing.com/news/stock-market-news/caterpillars-firstquarter-profit-rises-on-robust-construction-power-equipment-sales-4648545",
+      "title": "Eli Lilly raises annual forecasts as GLP-1 drugs fuel growth",
+      "link": "https://www.investing.com/news/stock-market-news/eli-lilly-raises-annual-profit-forecast-on-sustained-weightloss-drug-demand-4648662",
       "summary": "",
-      "title_ko": "Caterpillar의 1분기 이익은 견고한 건설, 전력 장비 판매에서 상승합니다.",
+      "title_ko": "일라이 릴리 (Eli Lilly) 는 GLP-1 약물이 성장에 연료를 공급함에 따라 연간 전망치를 높입니다",
       "summary_ko": ""
     },
     {
-      "title": "India stocks lower at close of trade; Nifty 50 down 0.74%",
-      "link": "https://www.investing.com/news/stock-market-news/india-stocks-lower-at-close-of-trade-nifty-50-down-074-4648541",
+      "title": "Croatia inflation accelerates to 5.8% in April on energy prices",
+      "link": "https://www.investing.com/news/economic-indicators/croatia-inflation-accelerates-to-58-in-april-on-energy-prices-93CH-4648655",
       "summary": "",
-      "title_ko": "인도 주식은 거래 마감 시점보다 낮습니다. Nifty 50은 0.74% 하락했습니다.",
+      "title_ko": "크로아티아 인플레이션, 4월 에너지 가격 5.8% 로 가속화",
       "summary_ko": ""
     },
     {
@@ -51,25 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Italy EU-harmonised CPI jumps to 2.9% y/y in April, above forecast",
-      "link": "https://www.investing.com/news/economic-indicators/italy-euharmonised-cpi-jumps-to-29-yy-in-april-above-forecast-4648209",
-      "summary": "",
-      "title_ko": "이탈리아 EU-조화 CPI, 4월 전년 동기 대비 2.9% 로 뛰어올라 전망치 상회",
-      "summary_ko": ""
+      "title": "ECB: Expected to hold rates with hawkish risks – TD Securities",
+      "link": "https://www.fxstreet.com/news/ecb-expected-to-hold-rates-with-hawkish-risks-td-securities-202604301119",
+      "summary": "TD Securities strategists expect the European Central Bank (ECB) to leave the deposit rate at 2.00%, reiterating a meeting-by-meeting approach without pre-committing on future moves. However, recent inflation expectation",
+      "title_ko": "ECB: 매파 위험이 있는 금리 보유 예상 – TD 증권",
+      "summary_ko": "TD 증권 전략가들은 유럽 중앙 은행 (ECB) 이 예금 금리를 2.00% 로 유지할 것으로 예상하며, 향후 움직임에 대한 사전 약속 없이 회의별 접근 방식을 반복할 것으로 예상합니다. 그러나 최근 인플레이션 기대감은"
     },
     {
-      "title": "Gold Price Forecast: XAU/USD returns above $4,600 as the US Dollar eases",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-returns-above-4-600-as-the-us-dollar-eases-202604301047",
-      "summary": "Gold (XAU/USD) is trading higher following a three-day sell-off on Thursday.",
-      "title_ko": "금 가격 예측: 미국 달러가 완화됨에 따라 XAU/USD가 $ 4,600를 상회합니다.",
-      "summary_ko": "금 (XAU/USD) 은 목요일에 3일간 매도한 후 더 높게 거래되고 있습니다."
-    },
-    {
-      "title": "European Central Bank set to hold interest rates as markets weigh future hikes amid rising inflation",
-      "link": "https://www.fxstreet.com/news/european-central-bank-set-to-hold-interest-rates-as-markets-assess-prospects-for-future-hikes-202604300700",
-      "summary": "The European Central Bank (ECB) is scheduled to announce its monetary policy decision on Thursday, following its April meeting. The Frankfurt-based institution is widely expected to keep its key interest rates unchanged,",
-      "title_ko": "유럽중앙은행은 인플레이션 증가에 따라 시장이 향후 인상을 고려함에 따라 금리를 보유하기로 결정했습니다.",
-      "summary_ko": "유럽중앙은행 (ECB) 은 4월 회의 후 목요일에 통화정책 결정을 발표할 예정이다. 프랑크푸르트에 기반을 둔 기관은 주요 금리를 변경하지 않을 것으로 예상됩니다."
+      "title": "Breaking: BoE keeps interest rate steady at 3.75% as expected",
+      "link": "https://www.fxstreet.com/news/boe-set-to-keep-interest-rate-steady-as-iran-war-fuels-inflation-concerns-202604300600",
+      "summary": "The Bank of England (BoE) announced on Thursday that it left the benchmark policy rate unchanged at 3.75%, as widely expected, following the conclusion of the April monetary policy meeting.",
+      "title_ko": "깨짐: BOE는 예상대로 금리를 3.75% 로 일정하게 유지합니다.",
+      "summary_ko": "영국은행 (BOE) 은 4월 통화정책회의 종료 후 예상대로 기준금리를 3.75% 로 변경하지 않았다고 목요일 발표했다."
     }
   ]
 }

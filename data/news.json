@@ -1,39 +1,53 @@
 {
-  "updated_at_utc": "2026-04-30 03:42:01 UTC",
+  "updated_at_utc": "2026-04-30 06:29:28 UTC",
   "items": [
     {
-      "title": "Samsung Electronics expects to win more customers for advanced logic chips",
-      "link": "https://www.investing.com/news/stock-market-news/samsung-electronics-expects-to-win-more-customers-for-advanced-logic-chips-4647587",
+      "title": "ArcelorMittal beats earnings view as EU steel measures begin to bear fruit",
+      "link": "https://www.investing.com/news/stock-market-news/arcelormittal-beats-earnings-forecasts-as-eu-steel-measures-bear-fruit-4647642",
       "summary": "",
-      "title_ko": "삼성전자는 고급 로직 칩에 대해 더 많은 고객을 확보할 것으로 기대하고 있습니다.",
+      "title_ko": "ArcelorMittal은 EU 철강 조치가 결실을 맺기 시작함에 따라 수입을 능가합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Samsung Electronics sees robust AI demand after Q1 chip profit jumps almost 50-fold",
-      "link": "https://www.investing.com/news/stock-market-news/samsung-elec-q1-profit-surges-eightfold-to-a-record-4647510",
+      "title": "Analysis-Big funds bet billions on mining supercycle",
+      "link": "https://www.investing.com/news/stock-market-news/analysisbig-funds-bet-billions-on-mining-supercycle-4647666",
       "summary": "",
-      "title_ko": "삼성전자는 1분기 칩 이익이 50배 가까이 급증한 후 AI 수요가 견조한 것으로 보고 있다.",
+      "title_ko": "분석-빅펀드는 채굴 슈퍼사이클에 수십억 달러를 베팅합니다",
       "summary_ko": ""
     },
     {
-      "title": "First Tesla Semi rolls off high volume production line",
-      "link": "https://www.investing.com/news/stock-market-news/first-tesla-semi-rolls-off-high-volume-production-line-4647584",
+      "title": "Alzchem beats Q1 earnings despite sales miss on steel weakness",
+      "link": "https://www.investing.com/news/stock-market-news/alzchem-beats-q1-earnings-despite-sales-miss-on-steel-weakness-93CH-4647664",
       "summary": "",
-      "title_ko": "첫 번째 Tesla Semi, 대량 생산 라인에서 롤오프",
+      "title_ko": "Alzchem은 강철 약점에 대한 판매 실패에도 불구하고 Q1 수익을 능가합니다.",
       "summary_ko": ""
     },
     {
-      "title": "OpenAI’s Stargate hits 10GW AI capacity target years ahead of schedule",
-      "link": "https://www.investing.com/news/stock-market-news/openais-stargate-hits-10gw-ai-capacity-target-years-ahead-of-schedule-4647583",
+      "title": "Taiwan stocks lower at close of trade; Taiwan Weighted down 0.24%",
+      "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-024-4647659",
       "summary": "",
-      "title_ko": "OpenAI의 Stargate, 예정보다 수년 앞서 10GW AI 용량 목표 달성",
+      "title_ko": "대만 증시는 거래 종료 시점에 하락, 대만 가중치 0.24% 감소",
       "summary_ko": ""
     },
     {
-      "title": "Japan’s factory output in surprise fall as Iran war takes toll on petroleum-based products",
+      "title": "Surprise fall in Japan’s factory output as Iran war takes toll on petroleum-based products",
       "link": "https://www.investing.com/news/economic-indicators/japan-march-factory-output-unexpectedly-falls-05-monthonmonth-4647509",
       "summary": "",
-      "title_ko": "이란 전쟁이 석유 기반 제품에 타격을 입으면서 일본의 공장 생산량이 기습적으로 감소했습니다.",
+      "title_ko": "이란 전쟁이 석유 기반 제품에 타격을 입으면서 일본의 공장 생산량이 깜짝 하락했습니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "French economy flat in the first quarter, below forecasts -preliminary GDP",
+      "link": "https://www.investing.com/news/economic-indicators/french-economy-flat-in-the-first-quarter-below-forecasts-preliminary-gdp-4647651",
+      "summary": "",
+      "title_ko": "1분기 프랑스 경제, 전망치보다 낮음 - 예비 GDP",
+      "summary_ko": ""
+    },
+    {
+      "title": "US growth likely picked up in first quarter, but consumer spending probably cooled",
+      "link": "https://www.investing.com/news/economic-indicators/us-growth-likely-picked-up-in-first-quarter-but-consumer-spending-probably-cooled-4647592",
+      "summary": "",
+      "title_ko": "1분기에 미국 증시는 상승세를 보였지만, 소비자 지출은 냉각되었을 가능성이 높습니다.",
       "summary_ko": ""
     },
     {
@@ -44,32 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Japan factory output slips unexpectedly in March; retail sales beat forecasts",
-      "link": "https://www.investing.com/news/economic-indicators/japan-factory-output-slips-unexpectedly-in-march-retail-sales-beat-forecasts-4647512",
-      "summary": "",
-      "title_ko": "3월 일본 공장 생산이 예기치 않게 미끄러짐, 소매 판매가 예측을 능가함",
-      "summary_ko": ""
+      "title": "BoJ Report: Impact of weak Japanese Yen shock on inflation bigger than that from oil shock",
+      "link": "https://www.fxstreet.com/news/boj-report-impact-of-weak-japanese-yen-shock-on-inflation-bigger-than-that-from-oil-shock-202604300514",
+      "summary": "A report released by the Bank of Japan (BoJ) on Thursday revealed that the impact of weak Japanese Yen shock on inflation bigger than that from oil shock.",
+      "title_ko": "BOJ 보고서: 오일 쇼크로 인한 약한 일본 엔화 쇼크가 그보다 큰 인플레이션에 미치는 영향",
+      "summary_ko": "일본은행 (BOJ) 이 목요일 발표한 보고서에 따르면 약한 일본 엔화 충격이 오일 쇼크로 인한 인플레이션보다 큰 영향을 미치는 것으로 나타났다."
     },
     {
-      "title": "UK firms’ worries about economy rise by most since 2020, Lloyds survey shows",
-      "link": "https://www.investing.com/news/economic-indicators/uk-firms-worries-about-economy-rise-by-most-since-2020-lloyds-survey-shows-4647471",
-      "summary": "",
-      "title_ko": "2020년 이후 대부분 경제 성장에 대한 영국 기업의 우려, Lloyds 설문 조사에 따르면",
-      "summary_ko": ""
-    },
-    {
-      "title": "Pound Sterling flat lines vs USD as traders await BoE policy update and US PCE Price Index",
-      "link": "https://www.fxstreet.com/news/pound-sterling-flat-lines-vs-usd-as-traders-await-boe-policy-update-and-us-pce-price-index-202604300318",
-      "summary": "The GBP/USD pair struggles to capitalize on a modest Asian session uptick to the 1.3500 neighborhood, though it holds above the 100-day Simple Moving Average (SMA).",
-      "title_ko": "거래자가 BOE 정책 업데이트 및 미국 PCE 가격 지수를 기다리는 동안 파운드 스털링 플랫 라인 vs USD",
-      "summary_ko": "GBP/USD 쌍은 100일 단순 이동 평균 (SMA) 을 상회하지만 1.3500 인근 지역까지 상승하는 소박한 아시아 세션을 활용하기 위해 고군분투합니다."
-    },
-    {
-      "title": "EUR/USD Price Forecast: Hovers around 50-day EMA near 1.1700",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-hovers-around-50-day-ema-near-11700-202604300316",
-      "summary": "EUR/USD extends its losses for the third successive day, trading around 1.1660 during the Asian hours on Thursday. The daily chart technical analysis indicates a potential for a bearish reversal, as the pair has slipped ",
-      "title_ko": "EUR/USD 가격 예측: 1.1700 근처에서 약 50일 EMA 상승",
-      "summary_ko": "EUR/USD는 목요일 아시아 시간 동안 약 1.1660에 거래되는 세 번째 날 연속 손실을 연장합니다. 일일 차트 기술적 분석은 쌍이 미끄러졌기 때문에 약세 반전의 가능성을 나타냅니다."
+      "title": "NZD/USD hangs near two-week low; seems vulnerable below 0.5850/200-day SMA amid firmer USD",
+      "link": "https://www.fxstreet.com/news/nzd-usd-hangs-near-two-week-low-seems-vulnerable-below-05850-200-day-sma-amid-firmer-usd-202604300501",
+      "summary": "The NZD/USD pair attracts fresh sellers following a modest Asian session move up to the 0.5845 area on Thursday and slides back closer to a two-and-a-half week low, touched the previous day.",
+      "title_ko": "NZD/USD는 2주 가까이 낮게 매달려 있습니다. 0.5850/200-day 아래의 SMA는 더 단단한 USD 가운데 취약한 것으로 보입니다.",
+      "summary_ko": "NZD/USD 쌍은 목요일에 0.5845 지역으로 이동하여 전날에 만진 2 주 반 최저치에 가깝게 슬라이드 한 다음 새로운 판매자를 끌어들입니다."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-05-01 23:28:54 UTC",
+  "updated_at_utc": "2026-05-02 01:13:21 UTC",
   "indices": {
     "spx": {
       "Symbol": "^SPX",
@@ -9,7 +9,7 @@
       "High": "7272.5",
       "Low": "7229.3",
       "Close": "7230.1",
-      "Volume": "2061501610"
+      "Volume": "2912854202"
     },
     "ndq": {
       "Symbol": "^NDQ",
@@ -19,7 +19,7 @@
       "High": "25223.12",
       "Low": "24967.09",
       "Close": "25114.44",
-      "Volume": "3651718943"
+      "Volume": "4952249040"
     },
     "dji": {
       "Symbol": "^DJI",
@@ -29,7 +29,7 @@
       "High": "49988.6",
       "Low": "49496.5",
       "Close": "49499.3",
-      "Volume": "333641066"
+      "Volume": "456030639"
     }
   },
   "futures": {
@@ -66,8 +66,8 @@
   },
   "fx": {
     "usdkrw": {
-      "rate": 1475.699372,
-      "time_last_update_utc": "Fri, 01 May 2026 00:02:31 +0000"
+      "rate": 1473.124555,
+      "time_last_update_utc": "Sat, 02 May 2026 00:02:31 +0000"
     }
   }
 }

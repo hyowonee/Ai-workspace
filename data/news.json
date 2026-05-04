@@ -1,32 +1,32 @@
 {
-  "updated_at_utc": "2026-05-03 23:51:02 UTC",
+  "updated_at_utc": "2026-05-04 03:28:56 UTC",
   "items": [
     {
-      "title": "GameStop makes unsolicited offer to buy eBay for about $56 billion, WSJ reports",
+      "title": "Anthropic nears $1.5 billion AI joint venture with Wall Street firms, WSJ reports",
+      "link": "https://www.investing.com/news/stock-market-news/anthropic-nears-15-billion-ai-joint-venture-with-wall-street-firms-wsj-reports-4654946",
+      "summary": "",
+      "title_ko": "WSJ 보고서에 따르면 Anthropic은 월스트리트 기업과의 $ 1.5 billion AI 합작 투자에 근접합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Berkshire shareholders reject report on workforce oversight, approve say-on-pay",
+      "link": "https://www.investing.com/news/stock-market-news/berkshire-shareholders-reject-report-on-workforce-oversight-approve-sayonpay-4654945",
+      "summary": "",
+      "title_ko": "버크셔 주주들은 인력 감독에 대한 보고서를 거부하고 Say-On-Pay를 승인합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "GameStop offers to buy eBay for about $56 billion",
       "link": "https://www.investing.com/news/stock-market-news/gamestop-ceo-ryan-cohen-makes-unsolicited-offer-to-buy-ebay-for-about-56-billion-wsj-says-4654912",
       "summary": "",
-      "title_ko": "WSJ에 따르면 GameStop은 eBay를 약 560억 달러 ($) 에 구매하겠다는 원치 않는 제안을 합니다.",
+      "title_ko": "GameStop, 약 560억 달러에 이베이 구매 제안 ($ 560억)",
       "summary_ko": ""
     },
     {
-      "title": "GameStop CEO Cohen offers to buy eBay for $56 bln- WSJ",
-      "link": "https://www.investing.com/news/stock-market-news/gamestop-ceo-cohen-offers-to-buy-ebay-for-56-bln-wsj-4654914",
+      "title": "Meta faces New Mexico trial that could force changes to Facebook, other platforms",
+      "link": "https://www.investing.com/news/stock-market-news/meta-faces-new-mexico-trial-that-could-force-changes-to-facebook-other-platforms-4654944",
       "summary": "",
-      "title_ko": "GameStop CEO Cohen은 eBay를 $ 56 bln- WSJ에 구매할 것을 제안합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Asia’s bond markets shake off war angst with record local issuance",
-      "link": "https://www.investing.com/news/stock-market-news/asias-bond-markets-shake-off-war-angst-with-record-local-issuance-4654911",
-      "summary": "",
-      "title_ko": "아시아의 채권 시장은 기록적인 현지 발행으로 전쟁의 불안을 떨쳐냅니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Spirit says most customers refunded, staff returned after shutdown",
-      "link": "https://www.investing.com/news/stock-market-news/spirit-nearly-done-processing-customer-refunds-after-shutdown-4654900",
-      "summary": "",
-      "title_ko": "스피릿에 따르면 대부분의 고객은 환불을 받았고, 직원은 서비스 종료 후 다시 돌아왔습니다.",
+      "title_ko": "페이스북, 다른 플랫폼에 변경을 강요할 수 있는 뉴멕시코 재판에 직면한 메타",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Iran’s Azizi warns US interference in Hormuz will be considered a violation of the ceasefire",
-      "link": "https://www.fxstreet.com/news/irans-azizi-warns-us-interference-in-hormuz-will-be-considered-a-violation-of-the-ceasefire-202605032305",
-      "summary": "Ebrahim Azizi, a former commander in Iran's Islamic Revolutionary Guards Corps (IRGC) and current head of the parliamentary National Security and Foreign Policy Committee, said that any US interference in the new maritim",
-      "title_ko": "이란의 Azizi는 호르무즈에 대한 미국의 간섭이 휴전 위반으로 간주 될 것이라고 경고합니다.",
-      "summary_ko": "이란의 이슬람 혁명수비대 (IRGC) 의 전 사령관이자 현재 의회 국가안보 및 외교 정책 위원회의 수장인 에브라힘 아지지 (Ebrahim Azizi) 는 미국의 새로운 해양에 대한 간섭이"
+      "title": "US Dollar Index flat lines above 98.00 amid Hormuz tensions",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-flat-lines-above-9800-amid-hormuz-tensions-202605040254",
+      "summary": "The US Dollar Index (DXY), an index of the value of the US Dollar (USD) measured against a basket of six world currencies, currently trades near 98.20 during the Asian trading hours on Monday. The DXY steadies as traders",
+      "title_ko": "호르무즈의 긴장 속에서 98.00 이상의 미국 달러 인덱스 플랫 라인",
+      "summary_ko": "6개의 세계 통화 바스켓에 대해 측정된 미국 달러 (USD) 가치 지수인 미국 달러 지수 (DXY) 는 현재 월요일 아시아 거래 시간 동안 98.20 근처에서 거래되고 있습니다. DXY는 거래자로서 안정적입니다"
     },
     {
-      "title": "US President Donald Trump says US will start guiding trapped ships through Hormuz — Bloomberg",
-      "link": "https://www.fxstreet.com/news/us-president-donald-trump-says-us-will-start-guiding-trapped-ships-through-hormuz-bloomberg-202605032247",
-      "summary": "US President Donald Trump said the United States (US) will begin guiding some neutral ships trapped in the Persian Gulf out through the Strait of Hormuz beginning Monday, Bloomberg reported on Sunday.",
-      "title_ko": "도널드 트럼프 미국 대통령은 미국이 함정에 갇힌 배를 호르무즈 — 블룸버그를 통해 안내하기 시작할 것이라고 말했습니다.",
-      "summary_ko": "블룸버그 통신은 도널드 트럼프 미국 대통령이 미국이 월요일부터 페르시아만에 갇힌 일부 중립 선박을 호르무즈 해협을 통해 인도하기 시작할 것이라고 보도했다."
+      "title": "Silver Price Forecast: XAG/USD slips below $75.50 due to easing safe-haven demand",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-slips-below-7550-due-to-easing-safe-haven-demand-202605040242",
+      "summary": "Silver price (XAG/USD) declines after opening at a gap up, but remains in the positive territory and trades around $75.40 per troy ounce during the Asian hours on Monday.",
+      "title_ko": "실버 가격 예측: 안전 수요 완화로 인해 XAG/USD가 $ 75.50 미만으로 하락",
+      "summary_ko": "실버 가격 (XAG/USD) 은 개장 후 격차로 하락하지만 긍정적인 영역에 머물며 월요일 아시아 시간 동안 트로이 온스당 약 $ 75.40 에 거래됩니다."
     }
   ]
 }

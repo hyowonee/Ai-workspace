@@ -1,11 +1,25 @@
 {
-  "updated_at_utc": "2026-05-05 19:47:06 UTC",
+  "updated_at_utc": "2026-05-05 21:05:17 UTC",
   "items": [
     {
-      "title": "US says Mexico will address concerns US airline access to Mexico City airport",
-      "link": "https://www.investing.com/news/stock-market-news/us-says-mexico-will-address-concerns-us-airline-access-to-mexico-city-airport-4660743",
+      "title": "Theater operator AMC beats revenue estimates on strong box office and premium format demand",
+      "link": "https://www.investing.com/news/stock-market-news/theater-operator-amc-beats-revenue-estimates-on-strong-box-office-and-premium-format-demand-4661079",
       "summary": "",
-      "title_ko": "미국, 멕시코시티 공항에 대한 미국 항공사 접근성 문제 해결 예정",
+      "title_ko": "극장 운영사 AMC, 강력한 박스오피스 및 프리미엄 포맷 수요에 대한 매출 추정치 상회",
+      "summary_ko": ""
+    },
+    {
+      "title": "Lucid misses quarterly revenue estimates as supplier issue hits Gravity SUV deliveries",
+      "link": "https://www.investing.com/news/stock-market-news/lucid-misses-quarterly-revenue-estimates-as-supplier-issue-hits-gravity-suv-deliveries-4660798",
+      "summary": "",
+      "title_ko": "Lucid는 공급업체 이슈가 Gravity SUV 납품을 타격할 때 분기별 매출 추정치를 놓칩니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Anthropic commits to spending $200 billion on Google’s cloud and chips, the Information reports",
+      "link": "https://www.investing.com/news/stock-market-news/anthropic-commits-to-spending-200-billion-on-googles-cloud-and-chips-the-information-reports-4661029",
+      "summary": "",
+      "title_ko": "정보 보고서에 따르면 Anthropic은 Google의 클라우드 및 칩에 $ 2,000억을 지출할 것을 약속합니다.",
       "summary_ko": ""
     },
     {
@@ -16,17 +30,17 @@
       "summary_ko": ""
     },
     {
-      "title": "US and Bahrain push UN-backed action for Hormuz as Washington seeks maritime coalition",
-      "link": "https://www.investing.com/news/stock-market-news/us-and-bahrain-push-unbacked-action-for-hormuz-as-washington-seeks-maritime-coalition-4658975",
+      "title": "New York Times sued by US employment agency over diversity, hiring",
+      "link": "https://www.investing.com/news/economic-indicators/new-york-times-sued-by-us-employment-agency-over-diversity-hiring-4661030",
       "summary": "",
-      "title_ko": "미국과 바레인은 워싱턴이 해양 연합을 모색함에 따라 호르무즈에 대한 유엔의 지원을 받는 조치를 밀어붙인다.",
+      "title_ko": "다양성, 고용 문제로 미국 고용 기관에 소송을 제기한 뉴욕 타임즈",
       "summary_ko": ""
     },
     {
-      "title": "S&amp;P 500, Nasdaq hit record highs as U.S.-Iran tensions cool and oil prices dip",
-      "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-subdued-after-hormuz-tensions-flare-4657735",
+      "title": "Crude Oil Inventories Drop Sharply, Indicating Strong Demand",
+      "link": "https://www.investing.com/news/economic-indicators/crude-oil-inventories-drop-sharply-indicating-strong-demand-93CH-4661070",
       "summary": "",
-      "title_ko": "S&amp;P 500, 나스닥, 미국-이란 긴장 완화 및 유가 하락으로 사상 최고치 기록",
+      "title_ko": "원유 재고는 급격히 감소하여 강한 수요를 나타냅니다.",
       "summary_ko": ""
     },
     {
@@ -44,32 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "US new home sales increase in February and March; median price drops",
-      "link": "https://www.investing.com/news/economic-indicators/us-new-home-sales-increase-in-february-and-march-median-price-drops-4659735",
-      "summary": "",
-      "title_ko": "2월과 3월 미국 신규 주택 판매 증가, 중간 가격 하락",
-      "summary_ko": ""
+      "title": "Forex Today: DXY steadies as resilient US data keep FX markets on edge",
+      "link": "https://www.fxstreet.com/news/forex-today-dxy-steadies-as-resilient-us-data-keep-fx-markets-on-edge-202605051954",
+      "summary": "The US Dollar Index (DXY) is trading with a neutral tone near the 98.50 area, supported by safe-haven demand and elevated US yields even after upbeat US data. Price action remains choppy amid shifting Middle East headlin",
+      "title_ko": "포렉스 투데이: 탄력적인 미국 데이터인 DXY 스테디스가 외환 시장을 계속 장악하고 있습니다.",
+      "summary_ko": "미국 달러 지수 (DXY) 는 98.50 지역 근처에서 중립적인 어조로 거래되고 있으며, 미국 데이터를 경신한 후에도 안전 수요와 미국 수익률 상승으로 뒷받침됩니다. 중동 헤드라인이 바뀌는 가운데 가격 움직임이 여전히 고르지 않습니다."
     },
     {
-      "title": "U.S. services sector activity expands at a slower pace in April",
-      "link": "https://www.investing.com/news/economic-indicators/us-services-sector-activity-slows-in-april-4659516",
-      "summary": "",
-      "title_ko": "미국 서비스 부문 활동은 4월에 느린 속도로 확대됩니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Philippines: Inflation surge raises BSP hike risks – ING",
-      "link": "https://www.fxstreet.com/news/philippines-inflation-surge-raises-bsp-hike-risks-ing-202605051907",
-      "summary": "ING’s Deepali Bhargava highlights that Philippine Consumer Price Index (CPI) has jumped to a three‑year high, driven mainly by broad‑based food and fuel‑related pressures, and now looks set to average above 8% in 2Q.",
-      "title_ko": "필리핀: 인플레이션 급증으로 BSP 인상 위험 증가 – ING",
-      "summary_ko": "ING의 Deepali Bhargava는 필리핀 소비자 물가 지수 (CPI) 가 주로 광범위한 식품 및 연료 관련 압력에 의해 3 년 최고치로 뛰어 올랐으며 현재 2 분기에 평균 8% 이상으로 설정된 것으로 보인다고 강조합니다."
-    },
-    {
-      "title": "Silver Price Analysis: Capped below $75, as momentum remains bearish",
-      "link": "https://www.fxstreet.com/news/silver-price-analysis-capped-below-75-as-momentum-remains-bearish-202605051843",
-      "summary": "Silver price trims some of its Monday losses, recovering some ground up 0.69% in the day, trading at $73.22 after bouncing off a daily low of $72.42. An improvement in risk appetite is underpinning the precious metals se",
-      "title_ko": "실버 가격 분석: 모멘텀이 약세로 유지됨에 따라 $ 75 미만으로 제한됨",
-      "summary_ko": "실버 가격은 월요일 손실의 일부를 다듬고, 하루 동안 0.69% 상승한 일부를 회복하며, 일일 최저치인 $ 72.42 에서 이탈한 후 $ 73.22 에 거래됩니다. 위험 식욕의 개선은 귀금속을 뒷받침합니다."
+      "title": "Indonesia: Growth outlook steady with fiscal constraints – UOB",
+      "link": "https://www.fxstreet.com/news/indonesia-growth-outlook-steady-with-fiscal-constraints-uob-202605051954",
+      "summary": "UOB economists Enrico Tanuwidjaja and Vincentius Ming Shen highlight that Indonesia’s 1Q26 Gross Domestic Product (GDP) beat expectations at 5.61% year-on-year, driven by government spending, household consumption and in",
+      "title_ko": "인도네시아: 재정적 제약으로 꾸준한 성장 전망 – UOB",
+      "summary_ko": "UOB 경제학자 엔리코 타누위자자 (Enrico Tanuwidjaja) 와 빈센티우스 밍셴 (Vincentius Ming Shen) 은 인도네시아의 1Q26 국내총생산 (GDP) 이 정부 지출, 가계 소비에 힘입어 전년 대비 5.61% 의 기대치를 상회했다고 강조했다."
     }
   ]
 }

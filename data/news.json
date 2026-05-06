@@ -1,32 +1,53 @@
 {
-  "updated_at_utc": "2026-05-06 11:25:05 UTC",
+  "updated_at_utc": "2026-05-06 13:14:05 UTC",
   "items": [
     {
-      "title": "Marriott raises annual room revenue growth forecast",
-      "link": "https://www.investing.com/news/stock-market-news/marriott-raises-annual-room-revenue-growth-forecast-4662747",
+      "title": "Uber forecasts strong second-quarter bookings despite Middle East woes",
+      "link": "https://www.investing.com/news/stock-market-news/uber-forecasts-strong-secondquarter-bookings-despite-middle-east-woes-4662578",
       "summary": "",
-      "title_ko": "메리어트, 연간 객실 매출 성장 전망",
+      "title_ko": "Uber, 중동 지역의 불황에도 불구하고 2분기 예약 증가 전망",
       "summary_ko": ""
     },
     {
-      "title": "Kraft Heinz beats quarterly sales estimates",
-      "link": "https://www.investing.com/news/stock-market-news/kraft-heinz-beats-quarterly-sales-estimates-4662723",
+      "title": "CMA CGM vessel attacked in Strait of Hormuz as shipping halted by US-Iran war",
+      "link": "https://www.investing.com/news/stock-market-news/cma-cgm-vessel-attacked-in-strait-of-hormuz-as-shipping-halted-by-usiran-war-4663359",
       "summary": "",
-      "title_ko": "Kraft Heinz, 분기별 매출 추정치 상회",
+      "title_ko": "CMA CGM 함선이 미국-이란 전쟁으로 중단된 선박으로 호르무즈 해협에서 공격을 받았습니다.",
       "summary_ko": ""
     },
     {
-      "title": "Disney earnings beat estimates as new CEO outlines growth strategy",
-      "link": "https://www.investing.com/news/stock-market-news/disney-earnings-beat-estimates-as-new-ceo-outlines-growth-strategy-4662511",
+      "title": "Terrestrial Energy stock surges on Riot data center deal",
+      "link": "https://www.investing.com/news/stock-market-news/terrestrial-energy-stock-surges-on-riot-data-center-deal-93CH-4663440",
       "summary": "",
-      "title_ko": "새로운 CEO가 성장 전략을 설명함에 따라 디즈니의 수익이 추정치를 능가합니다.",
+      "title_ko": "Riot 데이터 센터 거래에 대한 지상파 에너지 재고 급증",
       "summary_ko": ""
     },
     {
-      "title": "Analysis-SpaceX IPO gives Musk sweeping power and curbs shareholder rights",
-      "link": "https://www.investing.com/news/stock-market-news/analysisspacex-ipo-gives-musk-sweeping-power-and-curbs-shareholder-rights-4662252",
+      "title": "Entergy shares fall 3.6% after pricing $2.2 billion equity offering",
+      "link": "https://www.investing.com/news/stock-market-news/entergy-shares-fall-36-after-pricing-22-billion-equity-offering-93CH-4663433",
       "summary": "",
-      "title_ko": "Analysis-SpaceX IPO는 Musk에게 강력한 권한을 부여하고 주주 권한을 제한합니다.",
+      "title_ko": "엔터티 주식은 22억 $ 규모의 주식 공모 가격 책정 후 3.6% 하락",
+      "summary_ko": ""
+    },
+    {
+      "title": "U.S. private employment growth speeds up in April - ADP",
+      "link": "https://www.investing.com/news/economic-indicators/us-private-employment-growth-speeds-up-in-april--adp-4663289",
+      "summary": "",
+      "title_ko": "4월 미국 민간 고용 증가 속도 - ADP",
+      "summary_ko": ""
+    },
+    {
+      "title": "ADP nonfarm employment change shows moderate growth, misses forecast",
+      "link": "https://www.investing.com/news/economic-indicators/adp-nonfarm-employment-change-shows-moderate-growth-misses-forecast-93CH-4663101",
+      "summary": "",
+      "title_ko": "ADP 비농업 고용 변화는 보통의 성장, 미스 예측을 보여줍니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Egypt’s preliminary GDP growth 5% in first quarter, ministry says",
+      "link": "https://www.investing.com/news/economic-indicators/egypts-preliminary-gdp-growth-5-in-first-quarter-ministry-says-4663053",
+      "summary": "",
+      "title_ko": "이집트의 예비 GDP 성장률이 1분기에 5% 를 기록했다고 정부 부처가 밝혔습니다.",
       "summary_ko": ""
     },
     {
@@ -37,39 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "UK services sector growth picks up in April amid rising fuel costs",
-      "link": "https://www.investing.com/news/economic-indicators/uk-services-sector-growth-picks-up-in-april-amid-rising-fuel-costs-4662004",
-      "summary": "",
-      "title_ko": "연료비 상승으로 4월 영국 서비스 부문 성장이 주춤",
-      "summary_ko": ""
+      "title": "NZD/USD approaches 0.6000 amid speculation about a US-Iran peace deal",
+      "link": "https://www.fxstreet.com/news/nzd-usd-approaches-06000-amid-speculation-about-a-us-iran-peace-deal-202605061215",
+      "summary": "The New Zealand Dollar (NZD) appreciates more than 1.5% against the US Dollar (USD) on Wednesday, as rumours that Washington and Iran are close to a peace deal have boosted risk appetite.",
+      "title_ko": "NZD/USD는 미국-이란 평화 협정에 대한 추측 속에서 0.6000에 접근합니다.",
+      "summary_ko": "뉴질랜드 달러 (NZD) 는 수요일에 미국 달러 (USD) 에 대해 1.5% 이상을 평가하고 있는데, 워싱턴과 이란이 평화 협정에 가까워졌다는 소문이 위험의 욕구를 높였기 때문이다."
     },
     {
-      "title": "UK services firms report sharpest rise in costs since late 2022",
-      "link": "https://www.investing.com/news/economic-indicators/uk-services-firms-report-sharpest-rise-in-costs-since-late-2022-4662002",
-      "summary": "",
-      "title_ko": "영국 서비스 기업들은 2022년 후반 이후 가장 급격한 비용 상승을 보고했습니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Vietnam launches fresh crackdown on online piracy under threat of US tariffs",
-      "link": "https://www.investing.com/news/economic-indicators/vietnam-launches-fresh-crackdown-on-online-piracy-under-threat-of-us-tariffs-4661705",
-      "summary": "",
-      "title_ko": "베트남, 미국 관세 위협 하에 온라인 저작권 침해에 대한 새로운 단속 시작",
-      "summary_ko": ""
-    },
-    {
-      "title": "ADP Employment Report expected to highlight resilience in US labor market",
-      "link": "https://www.fxstreet.com/news/adp-employment-report-expected-to-show-private-sector-job-gains-accelerated-in-april-202605060730",
-      "summary": "Developments in the Middle East conflict are likely to remain at the forefront this week, but investors will also keep an eye on a string of US labour market figures.",
-      "title_ko": "ADP 고용 보고서는 미국 노동 시장의 탄력성을 강조할 것으로 예상됩니다.",
-      "summary_ko": "이번 주에는 중동 분쟁의 전개 상황이 주요 관심사로 남을 가능성이 높지만, 투자자들은 미국의 여러 노동 시장 지표에도 주목할 것입니다."
-    },
-    {
-      "title": "WTI Crude Oil tumbles as prospective US–Iran accord eases Strait of Hormuz fears",
-      "link": "https://www.fxstreet.com/news/wti-crude-oil-tumbles-as-prospective-us-iran-accord-eases-strait-of-hormuz-fears-202605061009",
-      "summary": "West Texas Intermediate (WTI) US Oil falls sharply on Wednesday and trades around $91.00 at the time of writing, posting an 8.91% daily decline as markets rapidly reassess geopolitical risks in the Middle East following ",
-      "title_ko": "WTI 원유, 미국-이란 간 협정으로 호르무즈 해협 공포 완화",
-      "summary_ko": "서부 텍사스 중급 (WTI) 미국 석유는 수요일에 급격히 하락하고 서면 작성 당시 약 $ 91.00 에 거래되며 시장이 중동의 지정학적 위험을 빠르게 재평가함에 따라 매일 8.91% 의 하락세를 기록했습니다."
+      "title": "USD/BRL: High carry keeps Real in focus – ING",
+      "link": "https://www.fxstreet.com/news/usd-brl-high-carry-keeps-real-in-focus-ing-202605061204",
+      "summary": "ING’s Chris Turner calls Brazil one of his preferred emerging markets, citing strong terms of trade, buoyant equities and expectations of 100bp in rate cuts.",
+      "title_ko": "USD/BRL: 하이 캐리가 Real에 초점을 유지합니다 – ING",
+      "summary_ko": "ING의 크리스 터너 (Chris Turner) 는 강력한 무역 조건, 부유한 주식, 100bp의 금리 인하에 대한 기대를 언급하면서 브라질을 자신이 선호하는 신흥 시장 중 하나라고 부릅니다."
     }
   ]
 }

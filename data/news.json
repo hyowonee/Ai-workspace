@@ -1,39 +1,53 @@
 {
-  "updated_at_utc": "2026-05-05 23:50:40 UTC",
+  "updated_at_utc": "2026-05-06 03:26:08 UTC",
   "items": [
     {
-      "title": "Super Micro bets on AI server demand to provide upbeat forecast, shares soar",
-      "link": "https://www.investing.com/news/stock-market-news/super-micro-misses-quarterly-revenue-estimates-4660846",
+      "title": "Exclusive-Rivian developing variants of its more affordable R2 EVs",
+      "link": "https://www.investing.com/news/stock-market-news/exclusiverivian-developing-variants-of-its-more-affordable-r2-evs-4661634",
       "summary": "",
-      "title_ko": "AI 서버 수요에 대한 슈퍼 마이크로 베팅을 통해 낙관적인 예측 제공, 주식 급증",
+      "title_ko": "더 저렴한 R2 EV의 독점적인 리비안 개발 변종",
       "summary_ko": ""
     },
     {
-      "title": "EV maker Lucid suspends forecast, misses quarterly revenue estimates",
-      "link": "https://www.investing.com/news/stock-market-news/lucid-misses-quarterly-revenue-estimates-as-supplier-issue-hits-gravity-suv-deliveries-4660798",
+      "title": "Asia markets hit records on AI euphoria, Iran peace hopes",
+      "link": "https://www.investing.com/news/stock-market-news/asia-markets-hit-records-on-ai-euphoria-iran-peace-hopes-4661624",
       "summary": "",
-      "title_ko": "전기차 제조업체 Lucid는 예측을 일시 중단하고 분기별 매출 추정치를 놓칩니다.",
+      "title_ko": "아시아 시장은 AI 쾌감에 대한 기록을 세웠습니다. 이란의 평화 희망",
       "summary_ko": ""
     },
     {
-      "title": "Factbox-What we know about US stress tests of Google, xAI and Microsoft AI models",
-      "link": "https://www.investing.com/news/stock-market-news/factboxwhat-we-know-about-us-stress-tests-of-google-xai-and-microsoft-ai-models-4661359",
+      "title": "Samsung Electronics’ market cap surpasses $1 trln after US AI chip stocks surge",
+      "link": "https://www.investing.com/news/stock-market-news/samsung-electronics-market-cap-surpasses-1-trln-4661609",
       "summary": "",
-      "title_ko": "Factbox - Google, xAI 및 Microsoft AI 모델에 대한 미국 스트레스 테스트에 대해 알고 있는 내용",
+      "title_ko": "삼성전자의 시가총액, 미국 인공지능 칩 재고 급증 후 $ 1 trln 돌파",
       "summary_ko": ""
     },
     {
-      "title": "Match Group beats revenue estimates as Hinge grows, Tinder resets amid AI push",
-      "link": "https://www.investing.com/news/stock-market-news/match-group-beats-revenue-estimates-as-hinge-grows-tinder-resets-amid-ai-push-4660929",
+      "title": "Samsung hits $1 trln valuation on AI memory boom",
+      "link": "https://www.investing.com/news/stock-market-news/samsung-hits-1-trln-valuation-on-ai-memory-boom-4661594",
       "summary": "",
-      "title_ko": "Match Group은 힌지가 증가함에 따라 매출 추정치를 상회하고, Tinder는 AI 푸시 중에 초기화됩니다.",
+      "title_ko": "삼성, AI 메모리 붐에서 $ 1 trln 밸류에이션 달성",
       "summary_ko": ""
     },
     {
-      "title": "South Korea April consumer inflation +2.6% y/y, as expected",
+      "title": "South Korea inflation near two-year high, raising likelihood of rate hikes",
       "link": "https://www.investing.com/news/economic-indicators/south-korea-april-consumer-inflation-26-yy-as-expected-4661484",
       "summary": "",
-      "title_ko": "예상대로 한국 4월 소비자 인플레이션 +2.6% (전년 대비)",
+      "title_ko": "2년 만의 최고치에 근접한 한국 인플레이션, 금리 인상 가능성 제기",
+      "summary_ko": ""
+    },
+    {
+      "title": "China services activity grows at faster pace in April - RatingDog PMI",
+      "link": "https://www.investing.com/news/economic-indicators/china-services-activity-grows-at-faster-pace-in-april--ratingdog-pmi-4661644",
+      "summary": "",
+      "title_ko": "중국 서비스 활동은 4월에 더 빠른 속도로 증가합니다 - RatingDog PMI",
+      "summary_ko": ""
+    },
+    {
+      "title": "Ireland services sector contracts for first time in five years, PMI shows",
+      "link": "https://www.investing.com/news/economic-indicators/ireland-services-sector-contracts-for-first-time-in-five-years-pmi-shows-4661569",
+      "summary": "",
+      "title_ko": "5년 만에 처음으로 아일랜드 서비스 부문 계약을 체결한 PMI는",
       "summary_ko": ""
     },
     {
@@ -44,32 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "New York Times sued by US employment agency over diversity, hiring",
-      "link": "https://www.investing.com/news/economic-indicators/new-york-times-sued-by-us-employment-agency-over-diversity-hiring-4661030",
-      "summary": "",
-      "title_ko": "다양성, 고용 문제로 미국 고용 기관에 소송을 제기한 뉴욕 타임즈",
-      "summary_ko": ""
+      "title": "Japanese Yen gains ground on Trump’s Hormuz pause, intervention caution",
+      "link": "https://www.fxstreet.com/news/japanese-yen-gains-ground-on-trumps-hormuz-pause-intervention-caution-202605060223",
+      "summary": "The USD/JPY pair loses ground to around 157.65 during the Asian trading hours on Wednesday. The US Dollar (USD) weakens against the Japanese Yen (JPY) after US President Donald Trump announces a pause on 'Project Freedom",
+      "title_ko": "일본 엔화, 트럼프의 호르무즈 일시 중지, 개입 주의",
+      "summary_ko": "USD/JPY 쌍은 수요일 아시아 거래 시간 동안 약 157.65로 하락합니다. 도널드 트럼프 미국 대통령이 '프로젝트 프리덤' 에 대한 일시 중단을 발표한 후 미국 달러 (USD) 가 일본 엔 (JPY) 에 대해 약세"
     },
     {
-      "title": "Crude Oil Inventories Drop Sharply, Indicating Strong Demand",
-      "link": "https://www.investing.com/news/economic-indicators/crude-oil-inventories-drop-sharply-indicating-strong-demand-93CH-4661070",
-      "summary": "",
-      "title_ko": "원유 재고는 급격히 감소하여 강한 수요를 나타냅니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "New Zealand’s Unemployment Rate falls to 5.3% in Q1 vs. 5.4% expected",
-      "link": "https://www.fxstreet.com/news/new-zealands-unemployment-rate-falls-to-53-in-q1-vs-54-expected-202605052250",
-      "summary": "New Zealand’s Unemployment Rate fell to 5.3% in the first quarter (Q1) of 2026 from 5.4% in the fourth quarter of 2025, according to the official data released by Statistics New Zealand on Wednesday. The figure came in b",
-      "title_ko": "뉴질랜드의 1분기 실업률은 5.3% 대 예상치인 5.4% 로 하락",
-      "summary_ko": "뉴질랜드 통계청이 수요일 발표한 공식 자료에 따르면 2026년 1분기 (1분기) 실업률은 2025년 4분기 5.4% 에서 5.3% 로 떨어졌다. 수치는 b로 나왔습니다."
-    },
-    {
-      "title": "USD/JPY rises as Yen intervention fades, buyers target 160.00",
-      "link": "https://www.fxstreet.com/news/usd-jpy-rises-as-yen-intervention-fades-buyers-target-16000-202605052249",
-      "summary": "USD/JPY advances some 0.48% on Tuesday as the Greenback remained steady during the session following last Thursday’s intervention in the FX markets by Japanese authorities, which bought the Yen, with the pair tanking nea",
-      "title_ko": "엔화 개입이 줄어들면서 USD/JPY가 상승, 구매자 목표 160.00",
-      "summary_ko": "지난 목요일 엔화를 매입한 일본 당국의 외환 시장 개입 이후 세션 동안 그린백이 꾸준히 유지되면서 USD/JPY는 화요일에 약 0.48% 상승했다."
+      "title": "China’s RatingDog Services PMI rises to 52.6 in April",
+      "link": "https://www.fxstreet.com/news/chinas-ratingdog-services-pmi-rises-to-526-in-april-202605060145",
+      "summary": "China's Services Purchasing Managers' Index (PMI) rose to 52.6 in April from 52.1 in March, the latest data published by RatingDog showed on Wednesday.",
+      "title_ko": "중국의 RatingDog 서비스 PMI는 4월에 52.6으로 상승합니다.",
+      "summary_ko": "RatingDog가 수요일 발표한 최신 데이터에 따르면 중국의 서비스 구매 관리자 지수 (PMI) 는 3월의 52.1에서 4월의 52.6으로 상승했습니다."
     }
   ]
 }

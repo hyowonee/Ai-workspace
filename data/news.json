@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-05-07 01:16:44 UTC",
+  "updated_at_utc": "2026-05-07 04:57:22 UTC",
   "items": [
     {
-      "title": "Space analytics firm HawkEye raises $416 million in US IPO",
-      "link": "https://www.investing.com/news/stock-market-news/space-analytics-firm-hawkeye-raises-416-million-in-us-ipo-4666090",
+      "title": "Philippines Q1 GDP grows 2.8%, missing forecasts",
+      "link": "https://www.investing.com/news/stock-market-news/philippines-q1-gdp-grows-28-missing-forecasts-93CH-4666144",
       "summary": "",
-      "title_ko": "우주 분석 회사 호크아이 (HawkEye), 미국 기업공개 (IPO) 에서 4억 1,600만 달러 ($) 모금",
+      "title_ko": "필리핀 1분기 GDP 성장률 2.8%, 예측 누락",
       "summary_ko": ""
     },
     {
-      "title": "Japan’s Nikkei surges past 61,000 for first time on earnings, Mideast optimism",
-      "link": "https://www.investing.com/news/stock-market-news/japans-nikkei-surges-past-61000-for-first-time-on-earnings-mideast-optimism-4666079",
+      "title": "US senators urge stability, cooperation between US, China",
+      "link": "https://www.investing.com/news/stock-market-news/us-senators-urge-stability-cooperation-between-us-china-4666143",
       "summary": "",
-      "title_ko": "일본 닛케이, 수입 사상 처음으로 61,000명 돌파 중대한 낙관론",
+      "title_ko": "미국 상원의원들, 미국과 중국 간 안정과 협력을 촉구하다",
       "summary_ko": ""
     },
     {
-      "title": "US stock futures edge lower after Wall St hits record highs on Iran hopes",
-      "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-edge-lower-after-wall-st-hits-record-highs-on-iran-hopes-4666050",
+      "title": "Suja Life prices IPO at $21 per share, expects to raise $173.6 million",
+      "link": "https://www.investing.com/news/stock-market-news/suja-life-prices-ipo-at-21-per-share-expects-to-raise-1736-million-432SI-4666141",
       "summary": "",
-      "title_ko": "월스트리트가 이란 희망에 사상 최고치를 기록한 후 미국 주식 선물 가장자리 낮아짐",
+      "title_ko": "Suja Life 가격 IPO 주당 $ 21, 모금액 $ 173.6 백만 예상",
       "summary_ko": ""
     },
     {
-      "title": "Ted Turner, outspoken founder of CNN, dies at 87",
-      "link": "https://www.investing.com/news/stock-market-news/cnn-founder-ted-turner-dead-at-87-4663944",
+      "title": "Asia stocks surge on Iran peace hopes; Nikkei rallies over 5% to record high",
+      "link": "https://www.investing.com/news/stock-market-news/asia-stocks-surge-on-iran-peace-hopes-nikkei-rallies-over-5-to-record-high-4666136",
       "summary": "",
-      "title_ko": "테드 터너 (Ted Turner), CNN 창립자, 87세로 사망",
+      "title_ko": "아시아 증시는 이란의 평화 희망에 급등, 닛케이는 5% 이상 집결해 사상 최고치 기록",
+      "summary_ko": ""
+    },
+    {
+      "title": "Australia trade balance unexpectedly shrinks in March as exports lag",
+      "link": "https://www.investing.com/news/economic-indicators/australia-trade-balance-unexpectedly-shrinks-in-march-as-exports-lag-4666113",
+      "summary": "",
+      "title_ko": "수출이 지연됨에 따라 3월 호주 무역수지가 예기치 않게 줄어들고 있습니다.",
       "summary_ko": ""
     },
     {
@@ -51,25 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Canada’s Ivey PMI rises to seven-month high in April",
-      "link": "https://www.investing.com/news/economic-indicators/canadas-ivey-pmi-rises-to-sevenmonth-high-in-april-4663946",
-      "summary": "",
-      "title_ko": "캐나다의 Ivey PMI, 4월 7개월 만에 최고치로 상승",
-      "summary_ko": ""
+      "title": "India Gold price today: Gold steadies, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-steadies-according-to-fxstreet-data-202605070435",
+      "summary": "Gold prices remained broadly unchanged in India on Thursday, according to data compiled by FXStreet.",
+      "title_ko": "오늘의 인도 골드 가격: FXStreet 데이터에 따르면 골드 스테디",
+      "summary_ko": "FXStreet가 집계한 데이터에 따르면 금 가격은 목요일 인도에서 전반적으로 변동이 없었다."
     },
     {
-      "title": "BoJ Minutes: Rates will be raised in line with improvements in economy, priced",
-      "link": "https://www.fxstreet.com/news/boj-minutes-rates-will-be-raised-in-line-with-improvements-in-economy-priced-202605070002",
-      "summary": "The Bank of Japan (BoJ) board members shared their views on the monetary policy outlook on Thursday, per the BoJ Minutes of the March meeting.",
-      "title_ko": "BOJ 분: 가격이 책정된 경제 개선에 따라 요금이 인상됩니다.",
-      "summary_ko": "일본은행 (BOJ) 이사회 위원들은 3월 회의록에 따라 목요일 통화 정책 전망에 대한 의견을 공유했다."
-    },
-    {
-      "title": "US President Donald Trump warns Iran of ‘much bigger’ bombing  if it doesn’t agree to peace deal",
-      "link": "https://www.fxstreet.com/news/us-president-donald-trump-warns-iran-of-much-bigger-bombing-if-it-doesnt-agree-to-peace-deal-202605062357",
-      "summary": "US President Donald Trump said that Iran will be bombed “at a much higher level” if it doesn’t agree to a peace deal, CNBC reported on Wednesday.",
-      "title_ko": "도널드 트럼프 미국 대통령은 이란이 평화 협정에 동의하지 않을 경우 ‘훨씬 더 큰’ 폭격을 경고합니다.",
-      "summary_ko": "CNBC는 도널드 트럼프 미국 대통령이 이란이 평화 협정에 동의하지 않으면 \"훨씬 더 높은 수준에서\" 폭격을 받을 것이라고 말했다고 수요일 보도했다."
+      "title": "WTI consolidates below $93.00 as traders assess likelihood of US-Iran peace deal",
+      "link": "https://www.fxstreet.com/news/wti-consolidates-below-9300-as-traders-assess-likelihood-of-us-iran-peace-deal-202605070428",
+      "summary": "West Texas Intermediate (WTI) – the benchmark US Crude Oil price – oscillates in a range during the Asian session on Thursday and, for now, seems to have stalled the previous day's modest bounce from sub-$87.00 levels, o",
+      "title_ko": "거래자가 미국과 이란의 평화 협상 가능성을 평가함에 따라 WTI는 $ 93.00 미만으로 통합됩니다.",
+      "summary_ko": "미국 원유 가격의 벤치마크인 서부 텍사스 중급 (West Texas Intermediate, WTI) 은 목요일 아시아 세션 동안 일정 범위에서 진동하며, 현재로서는 전날의 완만한 반등을 하위 $ 87.00 수준에서 지연시킨 것으로 보입니다."
     }
   ]
 }

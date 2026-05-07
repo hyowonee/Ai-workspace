@@ -1,32 +1,53 @@
 {
-  "updated_at_utc": "2026-05-07 19:14:33 UTC",
+  "updated_at_utc": "2026-05-07 20:47:42 UTC",
   "items": [
     {
-      "title": "Estee Lauder reaches $210 million settlement of lawsuit over China sales",
-      "link": "https://www.investing.com/news/stock-market-news/estee-lauder-reaches-210-million-settlement-of-lawsuit-over-china-sales-4669459",
+      "title": "Block raises annual gross profit outlook on consumer spending strength",
+      "link": "https://www.investing.com/news/stock-market-news/block-quarterly-profit-jumps-on-resilient-consumer-spending-4669835",
       "summary": "",
-      "title_ko": "에스티 로더 (Estee Lauder), 중국 매출에 대한 소송 합의액 2억 1천만 달러 ($) 달성",
+      "title_ko": "블록은 소비자 지출 강도에 대한 연간 총 이익 전망을 높입니다",
       "summary_ko": ""
     },
     {
-      "title": "Biotech funds see $1.5 billion outflows in latest week says Raymond James",
-      "link": "https://www.investing.com/news/stock-market-news/biotech-funds-see-15-billion-outflows-in-latest-week-says-raymond-james-93CH-4669486",
+      "title": "Microchip Tech forecasts quarterly revenue above estimates on strong chip demand",
+      "link": "https://www.investing.com/news/stock-market-news/microchip-tech-forecasts-quarterly-revenue-above-estimates-on-strong-chip-demand-4669988",
       "summary": "",
-      "title_ko": "바이오테크 펀드는 최근 한 주 동안 $ 1.5 billion의 유출을 보고 있다고 Raymond James는 말합니다.",
+      "title_ko": "Microchip Tech는 강력한 칩 수요에 대한 추정치를 상회하는 분기별 매출을 예측합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Democratic senators call early review of Disney station licenses ’abuse of power’",
-      "link": "https://www.investing.com/news/stock-market-news/democratic-senators-call-early-review-of-disney-station-licenses-abuse-of-power-4669421",
+      "title": "Coinbase logs second straight quarterly loss as crypto trading momentum fades",
+      "link": "https://www.investing.com/news/stock-market-news/coinbase-logs-second-straight-quarterly-loss-as-crypto-trading-momentum-fades-4669831",
       "summary": "",
-      "title_ko": "민주당 상원의원들은 디즈니 스테이션 라이선스에 대한 조기 검토를 '권력 남용’ 이라고 부른다.",
+      "title_ko": "코인베이스는 암호화폐 거래 모멘텀이 희미해짐에 따라 분기별 두 번째 연속 손실을 기록합니다",
       "summary_ko": ""
     },
     {
-      "title": "JPMorgan upgrades Freshpet to “Overweight,” sees competitive threats as overblown",
-      "link": "https://www.investing.com/news/stock-market-news/jpmorgan-upgrades-freshpet-to-overweight-sees-competitive-threats-as-overblown-4669461",
+      "title": "IREN stock surges 27% on Nvidia partnership for AI infrastructure",
+      "link": "https://www.investing.com/news/stock-market-news/iren-stock-surges-27-on-nvidia-partnership-for-ai-infrastructure-93CH-4669987",
       "summary": "",
-      "title_ko": "JPMorgan은 Freshpet을 \"과체중\" 으로 업그레이드하고 경쟁 위협이 과도하게 타격을 입은 것으로 간주합니다.",
+      "title_ko": "이렌 주가, AI 인프라를 위한 엔비디아 파트너십으로 27% 급등",
+      "summary_ko": ""
+    },
+    {
+      "title": "Argentina’s industrial output grows 5% in March after eight months of decline",
+      "link": "https://www.investing.com/news/economic-indicators/argentinas-industrial-output-grows-5-in-march-after-eight-months-of-decline-4669541",
+      "summary": "",
+      "title_ko": "아르헨티나의 산업 생산량은 8개월 동안 감소한 후 3월에 5% 증가합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Consumer Credit Surges, Exceeding Forecasts and Previous Levels",
+      "link": "https://www.investing.com/news/economic-indicators/consumer-credit-surges-exceeding-forecasts-and-previous-levels-93CH-4669475",
+      "summary": "",
+      "title_ko": "소비자 신용 급증, 예측치 초과 및 이전 수준",
+      "summary_ko": ""
+    },
+    {
+      "title": "Brazil’s April trade surplus jumps nearly 38% on rise in soy, oil exports",
+      "link": "https://www.investing.com/news/economic-indicators/brazils-april-trade-surplus-jumps-nearly-38-on-rise-in-soy-oil-exports-4669439",
+      "summary": "",
+      "title_ko": "브라질의 4월 무역 흑자는 콩, 석유 수출 증가로 거의 38% 증가",
       "summary_ko": ""
     },
     {
@@ -37,39 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Natural gas storage falls short of forecasts, signaling higher demand",
-      "link": "https://www.investing.com/news/economic-indicators/natural-gas-storage-falls-short-of-forecasts-signaling-higher-demand-93CH-4668536",
-      "summary": "",
-      "title_ko": "천연 가스 저장량이 예측에 미치지 못하여 수요가 증가합니다.",
-      "summary_ko": ""
+      "title": "South Korea: Modest tightening prospects – DBS",
+      "link": "https://www.fxstreet.com/news/south-korea-modest-tightening-prospects-dbs-202605072001",
+      "summary": "DBS Group Research economist Ma Tieying expects the Bank of Korea (BoK) to keep its base rate at 2.50% at the May 28 meeting, but now projects a single 25 bps hike in 3Q 2026 to 2.75%.",
+      "title_ko": "한국: 완만한 타이트닝 전망 – DBS",
+      "summary_ko": "DBS Group Research의 경제학자 Ma Tieying은 5월 28일 회의에서 한국은행 (BOK) 이 기준금리를 2.50% 로 유지할 것으로 예상했지만, 현재 2026년 3분기에 25bps의 단일 금리 인상을 2.75% 로 예상하고 있습니다."
     },
     {
-      "title": "US productivity slows further in first quarter",
-      "link": "https://www.investing.com/news/economic-indicators/us-productivity-slows-further-in-first-quarter-4667969",
-      "summary": "",
-      "title_ko": "1분기에 미국 생산성 둔화",
-      "summary_ko": ""
-    },
-    {
-      "title": "Russia’s central bank forecasts Q2 GDP growth at 0.9%",
-      "link": "https://www.investing.com/news/economic-indicators/russias-central-bank-forecasts-q2-gdp-growth-at-09-93CH-4668038",
-      "summary": "",
-      "title_ko": "러시아 중앙은행, 2분기 국내총생산 성장률 0.9% 전망",
-      "summary_ko": ""
-    },
-    {
-      "title": "DXY rebounds as Iran hope trade unwinds: is the safe-haven bid back?",
-      "link": "https://www.fxstreet.com/news/dxy-rebounds-as-iran-hope-trade-unwinds-is-the-safe-haven-bid-back-202605071820",
-      "summary": "The morning belonged to the deal: Asia had ripped overnight, with the Nikkei 225 clearing 62,000 for the first time on a session that gained north of 5%, and US futures came in primed for another leg of the Iran ceasefir",
-      "title_ko": "이란의 희망 무역이 풀리면서 DXY가 반등했습니다. 안전 피난처 입찰이 다시 시작되었습니까?",
-      "summary_ko": "아침은 거래에 속했습니다: 아시아는 하룻밤 사이에 찢어졌고, 닛케이 225는 처음으로 5% 의 북쪽을 얻은 세션에서 62,000을 지웠고, 미국 선물은 이란 휴전의 또 다른 다리를 위해 준비되었습니다."
-    },
-    {
-      "title": "EUR/USD retreats from intraday highs as Oil prices rebound on Hormuz tensions",
-      "link": "https://www.fxstreet.com/news/eur-usd-retreats-from-intraday-highs-as-oil-prices-rebound-on-hormuz-tensions-202605071804",
-      "summary": "EUR/USD eases from intraday highs on Thursday as evolving geopolitical developments surrounding tensions in the Middle East help the US Dollar (USD) and Oil prices recover some losses after recent weakness.",
-      "title_ko": "호르무즈 (Hormuz) 긴장에 대한 유가의 반등으로 EUR/USD는 일간 최고치에서 후퇴",
-      "summary_ko": "중동의 긴장을 둘러싼 지정학적 발전이 미국 달러 (USD) 와 유가가 최근의 약세 이후 일부 손실을 회복하는 데 도움이 됨에 따라 EUR/USD는 목요일에 일간 고점에서 완화됩니다."
+      "title": "Forex Today: US Dollar holds firm amid fragile US-Iran peace talks",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-holds-firm-amid-fragile-us-iran-peace-talks-202605072000",
+      "summary": "The US Dollar Index (DXY) is trading with a softer tone near the 98.10 area as markets continue reacting to rapidly shifting headlines surrounding the potential peace agreement between the United States (US) and Iran.",
+      "title_ko": "포렉스 투데이: 취약한 미국과 이란의 평화 회담 속에서 미국 달러가 굳건히 자리를 지키고 있다.",
+      "summary_ko": "미국 달러 지수 (DXY) 는 미국 (미국) 과 이란 간의 잠재적인 평화 협정을 둘러싼 급변하는 헤드라인에 시장이 계속 반응함에 따라 98.10 지역 근처에서 더 부드러운 어조로 거래되고 있습니다."
     }
   ]
 }

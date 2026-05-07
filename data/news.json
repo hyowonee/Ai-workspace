@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-05-07 04:57:22 UTC",
+  "updated_at_utc": "2026-05-07 07:46:20 UTC",
   "items": [
     {
-      "title": "Philippines Q1 GDP grows 2.8%, missing forecasts",
-      "link": "https://www.investing.com/news/stock-market-news/philippines-q1-gdp-grows-28-missing-forecasts-93CH-4666144",
+      "title": "Shell’s profit beats expectations at $6.9 billion, raises dividend by 5%",
+      "link": "https://www.investing.com/news/stock-market-news/shells-profit-beats-expectations-at-69-billion-cuts-share-buybacks-4666235",
       "summary": "",
-      "title_ko": "필리핀 1분기 GDP 성장률 2.8%, 예측 누락",
+      "title_ko": "Shell의 이익은 $ 6.9 billion으로 기대를 능가하고 배당금을 5% 올립니다.",
       "summary_ko": ""
     },
     {
-      "title": "US senators urge stability, cooperation between US, China",
-      "link": "https://www.investing.com/news/stock-market-news/us-senators-urge-stability-cooperation-between-us-china-4666143",
+      "title": "UK voters cast ballots in elections expected to deal blow to Starmer",
+      "link": "https://www.investing.com/news/stock-market-news/uk-voters-cast-ballots-in-elections-expected-to-deal-blow-to-starmer-4666338",
       "summary": "",
-      "title_ko": "미국 상원의원들, 미국과 중국 간 안정과 협력을 촉구하다",
+      "title_ko": "영국 유권자들은 Starmer에게 타격을 줄 것으로 예상되는 선거에서 투표했습니다.",
       "summary_ko": ""
     },
     {
-      "title": "Suja Life prices IPO at $21 per share, expects to raise $173.6 million",
-      "link": "https://www.investing.com/news/stock-market-news/suja-life-prices-ipo-at-21-per-share-expects-to-raise-1736-million-432SI-4666141",
+      "title": "European shares pause as markets watch Mideast peace prospects; earnings on tap",
+      "link": "https://www.investing.com/news/stock-market-news/european-shares-pause-as-markets-watch-mideast-peace-prospects-earnings-on-tap-4666327",
       "summary": "",
-      "title_ko": "Suja Life 가격 IPO 주당 $ 21, 모금액 $ 173.6 백만 예상",
+      "title_ko": "유럽 증시는 시장이 중동 평화 전망을 지켜보면서 일시 중지됩니다. 탭 한 번으로 수입을 올리세요.",
       "summary_ko": ""
     },
     {
-      "title": "Asia stocks surge on Iran peace hopes; Nikkei rallies over 5% to record high",
-      "link": "https://www.investing.com/news/stock-market-news/asia-stocks-surge-on-iran-peace-hopes-nikkei-rallies-over-5-to-record-high-4666136",
+      "title": "General Motors to recall over 40,400 U.S. vehicles over brake fluid issues",
+      "link": "https://www.investing.com/news/stock-market-news/general-motors-to-recall-over-40400-us-vehicles-over-brake-fluid-issues-4666318",
       "summary": "",
-      "title_ko": "아시아 증시는 이란의 평화 희망에 급등, 닛케이는 5% 이상 집결해 사상 최고치 기록",
+      "title_ko": "제너럴 모터스, 브레이크 유체 문제로 40,400대 이상의 미국 차량 리콜",
+      "summary_ko": ""
+    },
+    {
+      "title": "German industrial orders rise more than expected in March",
+      "link": "https://www.investing.com/news/economic-indicators/german-industrial-orders-rise-more-than-expected-in-march-4666236",
+      "summary": "",
+      "title_ko": "독일 산업 주문은 3월에 예상보다 증가합니다",
       "summary_ko": ""
     },
     {
@@ -51,25 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Crude Oil Inventories Fall Less Than Expected, Impacting Prices",
-      "link": "https://www.investing.com/news/economic-indicators/crude-oil-inventories-fall-less-than-expected-impacting-prices-93CH-4663967",
-      "summary": "",
-      "title_ko": "원유 재고가 예상보다 적게 떨어져 가격에 영향을 미침",
-      "summary_ko": ""
+      "title": "EUR/GBP steadies below 0.8650 with all eyes on UK elections",
+      "link": "https://www.fxstreet.com/news/eur-gbp-steadies-below-08650-with-all-eyes-on-uk-elections-202605070645",
+      "summary": "The Euro (EUR) has found some support in the 0.8620 area against the British Pound (GBP), but upside attempts remain capped below a previous support area at 0.8650.",
+      "title_ko": "영국 선거에 대한 모든 시선으로 0.8650 미만의 EUR/GBP 스테디셀러",
+      "summary_ko": "유로 (EUR) 는 영국 파운드 (GBP) 대비 0.8620 지역에서 일부 지원을 찾았지만, 거꾸로 시도는 이전 지원 지역인 0.8650 아래로 제한되어 있습니다."
     },
     {
-      "title": "India Gold price today: Gold steadies, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-steadies-according-to-fxstreet-data-202605070435",
-      "summary": "Gold prices remained broadly unchanged in India on Thursday, according to data compiled by FXStreet.",
-      "title_ko": "오늘의 인도 골드 가격: FXStreet 데이터에 따르면 골드 스테디",
-      "summary_ko": "FXStreet가 집계한 데이터에 따르면 금 가격은 목요일 인도에서 전반적으로 변동이 없었다."
-    },
-    {
-      "title": "WTI consolidates below $93.00 as traders assess likelihood of US-Iran peace deal",
-      "link": "https://www.fxstreet.com/news/wti-consolidates-below-9300-as-traders-assess-likelihood-of-us-iran-peace-deal-202605070428",
-      "summary": "West Texas Intermediate (WTI) – the benchmark US Crude Oil price – oscillates in a range during the Asian session on Thursday and, for now, seems to have stalled the previous day's modest bounce from sub-$87.00 levels, o",
-      "title_ko": "거래자가 미국과 이란의 평화 협상 가능성을 평가함에 따라 WTI는 $ 93.00 미만으로 통합됩니다.",
-      "summary_ko": "미국 원유 가격의 벤치마크인 서부 텍사스 중급 (West Texas Intermediate, WTI) 은 목요일 아시아 세션 동안 일정 범위에서 진동하며, 현재로서는 전날의 완만한 반등을 하위 $ 87.00 수준에서 지연시킨 것으로 보입니다."
+      "title": "Pound Sterling wobbles amid US-Iran uncertainty, NFP data awaited",
+      "link": "https://www.fxstreet.com/news/pound-sterling-wobbles-amid-us-iran-uncertainty-nfp-data-awaited-202605070640",
+      "summary": "The Pound Sterling (GBP) trades calmly against its major currency peers, flattening around 1.3600 against the US Dollar (USD), during the European trading session on Thursday.",
+      "title_ko": "미국-이란의 불확실성 속에서 파운드 스털링이 흔들리면서 NFP 데이터가 기다리고 있었습니다.",
+      "summary_ko": "파운드 스털링 (GBP) 은 목요일 유럽 거래 세션에서 미국 달러 (USD) 에 대해 약 1.3600 평평하게 주요 통화 동료에 대해 침착하게 거래합니다."
     }
   ]
 }

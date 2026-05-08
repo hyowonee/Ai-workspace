@@ -1,32 +1,53 @@
 {
-  "updated_at_utc": "2026-05-08 13:55:10 UTC",
+  "updated_at_utc": "2026-05-08 15:25:41 UTC",
   "items": [
     {
-      "title": "Jumia hits scaling consistency despite Middle East shocks, CEO says",
-      "link": "https://www.investing.com/news/stock-market-news/jumia-hits-scaling-consistency-despite-middle-east-shocks-ceo-says-4672902",
+      "title": "Mattel investor asks CEO to consider go-private or sale",
+      "link": "https://www.investing.com/news/stock-market-news/mattel-investor-asks-ceo-to-consider-goprivate-or-sale-as-toy-demand-weakens-4671445",
       "summary": "",
-      "title_ko": "CEO는 Jumia가 중동의 충격에도 불구하고 스케일링 일관성을 달성했다고 말합니다.",
+      "title_ko": "Mattel 투자자는 CEO에게 개인 소유 또는 판매를 고려하도록 요청합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Uber-backed Lime reveals revenue surge in US IPO filing",
-      "link": "https://www.investing.com/news/stock-market-news/uberbacked-lime-reveals-revenue-surge-in-us-ipo-filing-4672899",
+      "title": "Factbox-Airlines tackle fuel cost surge with price hikes, outlook cuts",
+      "link": "https://www.investing.com/news/stock-market-news/factboxairlines-tackle-fuel-cost-surge-with-price-hikes-outlook-cuts-4673314",
       "summary": "",
-      "title_ko": "Uber 후원 Lime, 미국 기업공개 (IPO) 에서 매출 급증",
+      "title_ko": "Factbox-Airlines는 가격 인상, 전망 삭감으로 연료비 탄력요금제를 해결합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Wall St opens higher after jobs data, chip rebound",
-      "link": "https://www.investing.com/news/stock-market-news/wall-st-opens-higher-after-jobs-data-chip-rebound-4672891",
+      "title": "Why is SoundHound AI stock sliding today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-soundhound-ai-stock-sliding-today-93CH-4673289",
       "summary": "",
-      "title_ko": "Wall St는 작업 데이터, 칩 리바운드 후 더 높게 열립니다.",
+      "title_ko": "오늘 SoundHound AI 재고가 미끄러지는 이유는 무엇입니까?",
       "summary_ko": ""
     },
     {
-      "title": "U.S. stocks open higher after April jobs data comes in stronger than expected",
-      "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-fall-on-renewed-iran-hostilities-nonfarm-payrolls-awaited-4670580",
+      "title": "Why is Rocket Lab USA stock surging today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-rocket-lab-usa-stock-surging-today-93CH-4673287",
       "summary": "",
-      "title_ko": "4월 일자리 데이터가 예상보다 강하게 나온 후 미국 주식이 더 많이 열림",
+      "title_ko": "오늘날 Rocket Lab USA의 재고가 급증하는 이유는 무엇입니까?",
+      "summary_ko": ""
+    },
+    {
+      "title": "US wholesale inventories jump in March amid surge in petroleum stocks",
+      "link": "https://www.investing.com/news/economic-indicators/us-wholesale-inventories-jump-in-march-amid-surge-in-petroleum-stocks-4673185",
+      "summary": "",
+      "title_ko": "석유 재고가 급증하는 가운데 3월 미국 도매 재고가 급증합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Wholesale inventories rise slightly below forecast, but above previous levels",
+      "link": "https://www.investing.com/news/economic-indicators/wholesale-inventories-rise-slightly-below-forecast-but-above-previous-levels-93CH-4673063",
+      "summary": "",
+      "title_ko": "도매 재고는 예측치보다 약간 낮지만 이전 수준보다 높습니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Consumer sentiment dips as Michigan index falls below expectations",
+      "link": "https://www.investing.com/news/economic-indicators/consumer-sentiment-dips-as-michigan-index-falls-below-expectations-93CH-4673055",
+      "summary": "",
+      "title_ko": "미시간 지수가 기대치를 밑돌면서 소비심리 하락",
       "summary_ko": ""
     },
     {
@@ -37,39 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Costa Rica’s Laura Fernandez vows ’war’ on crime ahead of inauguration",
-      "link": "https://www.investing.com/news/economic-indicators/costa-ricas-laura-fernandez-vows-war-on-crime-ahead-of-inauguration-4672735",
-      "summary": "",
-      "title_ko": "코스타리카의 로라 페르난데스 (Laura Fernandez) 는 취임식을 앞두고 범죄와의 '전쟁’ 을 맹세합니다.",
-      "summary_ko": ""
+      "title": "USD: Fed focus shifts to inflation path – TD Securities",
+      "link": "https://www.fxstreet.com/news/usd-fed-focus-shifts-to-inflation-path-td-securities-202605081425",
+      "summary": "TD Securities’ FX strategists Jayati Bharadwaj and Howard Du note that stronger United States (US) payrolls produced only a modest reaction in the US Dollar (USD), as markets focus more on inflation than labor data.",
+      "title_ko": "USD: Fed 포커스가 인플레이션 경로로 이동 – TD 증권",
+      "summary_ko": "TD Securities의 FX 전략가인 Jayati Bharadwaj와 Howard Du는 시장이 노동 데이터보다 인플레이션에 더 초점을 맞추기 때문에 미국 (US) 급여가 미국 달러 (USD) 에서 보통의 반응을 나타냈다고 지적합니다."
     },
     {
-      "title": "U.S. Nonfarm Payrolls Surpass Expectations but Fall Short of Previous Month",
-      "link": "https://www.investing.com/news/economic-indicators/us-nonfarm-payrolls-surpass-expectations-but-fall-short-of-previous-month-93CH-4672588",
-      "summary": "",
-      "title_ko": "미국 비농장 급여는 기대치를 초과하지만 전월에는 미치지 못합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Hungary’s inflation edges up to 2.1% in April",
-      "link": "https://www.investing.com/news/economic-indicators/hungarys-inflation-edges-up-to-21-in-april-93CH-4671446",
-      "summary": "",
-      "title_ko": "헝가리의 4월 물가상승률 최고 2.1%",
-      "summary_ko": ""
-    },
-    {
-      "title": "USD/JPY edges lower as robust US payrolls clash with persistent Yen intervention threats",
-      "link": "https://www.fxstreet.com/news/usd-jpy-edges-lower-as-robust-us-payrolls-clash-with-persistent-yen-intervention-threats-202605081259",
-      "summary": "USD/JPY edges lower on Friday and trades around 156.65 at the time of writing, down 0.17% on the day, despite the release of a stronger-than-expected US employment report.",
-      "title_ko": "강력한 미국 급여가 지속적인 엔화 개입 위협과 충돌함에 따라 USD/JPY 가장자리가 낮아집니다.",
-      "summary_ko": "USD/JPY는 금요일에 하락하고 예상보다 강한 미국 고용 보고서가 발표되었음에도 불구하고 서면 작성 당시 약 156.65에 거래되어 당일 0.17% 하락했습니다."
-    },
-    {
-      "title": "GBP/JPY Price Forecast: Bulls defend 100-day SMA while momentum remains subdued",
-      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-bulls-defend-100-day-sma-while-momentum-remains-subdued-202605081256",
-      "summary": "GBP/JPY edges higher on Friday as the Japanese Yen (JPY) continues to face selling pressure despite suspected intervention by Japanese authorities earlier this week.",
-      "title_ko": "GBP/JPY 가격 예측: 황소는 100일 SMA를 방어하지만 모멘텀은 가라앉지 않습니다.",
-      "summary_ko": "이번 주 초 일본 당국의 개입이 의심됨에도 불구하고 일본 엔화 (JPY) 가 계속 매도 압력에 직면함에 따라 GBP/JPY는 금요일에 상승세를 나타냈다."
+      "title": "ECB: War-driven inflation keeps hikes in focus – Nomura",
+      "link": "https://www.fxstreet.com/news/ecb-war-driven-inflation-keeps-hikes-in-focus-nomura-202605081418",
+      "summary": "Nomura’s George Buckley and team argue that even a swift resolution to the US-Iran war and reopening of the Strait would not necessarily stop the European Central Bank (ECB) from raising rates in June.",
+      "title_ko": "ECB: 전쟁 중심의 인플레이션으로 하이킹에 집중 – 노무라",
+      "summary_ko": "노무라의 조지 버클리와 팀은 미국-이란 전쟁에 대한 신속한 해결과 해협의 재개조차 6월 유럽 중앙은행 (ECB) 의 금리 인상을 반드시 막을 수는 없다고 주장한다."
     }
   ]
 }

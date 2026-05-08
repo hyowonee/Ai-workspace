@@ -1,32 +1,53 @@
 {
-  "updated_at_utc": "2026-05-08 11:54:17 UTC",
+  "updated_at_utc": "2026-05-08 13:55:10 UTC",
   "items": [
     {
-      "title": "Qualcomm stock jumps 6% on Daiwa upgrade to Outperform",
-      "link": "https://www.investing.com/news/stock-market-news/qualcomm-stock-jumps-6-on-daiwa-upgrade-to-outperform-4672175",
+      "title": "Jumia hits scaling consistency despite Middle East shocks, CEO says",
+      "link": "https://www.investing.com/news/stock-market-news/jumia-hits-scaling-consistency-despite-middle-east-shocks-ceo-says-4672902",
       "summary": "",
-      "title_ko": "Daiwa에서 Outperform으로 업그레이드하면 Qualcomm 주가가 6% 뛰어오릅니다",
+      "title_ko": "CEO는 Jumia가 중동의 충격에도 불구하고 스케일링 일관성을 달성했다고 말합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Barclays Expects Home Depot, Lowe’s to Beat Estimates in Q1",
-      "link": "https://www.investing.com/news/stock-market-news/barclays-expects-home-depot-lowes-to-beat-estimates-in-q1-93CH-4672094",
+      "title": "Uber-backed Lime reveals revenue surge in US IPO filing",
+      "link": "https://www.investing.com/news/stock-market-news/uberbacked-lime-reveals-revenue-surge-in-us-ipo-filing-4672899",
       "summary": "",
-      "title_ko": "Barclays는 홈디포, Lowe 's가 1분기 예상치를 상회할 것으로 예상",
+      "title_ko": "Uber 후원 Lime, 미국 기업공개 (IPO) 에서 매출 급증",
       "summary_ko": ""
     },
     {
-      "title": "Google has bit more time to address concerns in EU investigation, EU Commission says",
-      "link": "https://www.investing.com/news/stock-market-news/google-has-bit-more-time-to-address-concerns-in-eu-investigation-eu-commission-says-4672086",
+      "title": "Wall St opens higher after jobs data, chip rebound",
+      "link": "https://www.investing.com/news/stock-market-news/wall-st-opens-higher-after-jobs-data-chip-rebound-4672891",
       "summary": "",
-      "title_ko": "EU 집행위원회에 따르면 Google은 EU 조사에서 우려 사항을 해결할 시간이 조금 더 있습니다.",
+      "title_ko": "Wall St는 작업 데이터, 칩 리바운드 후 더 높게 열립니다.",
       "summary_ko": ""
     },
     {
-      "title": "JPMorgan upgrades ams-Osram stock rating on AI opportunity",
-      "link": "https://www.investing.com/news/stock-market-news/jpmorgan-upgrades-amsosram-stock-rating-on-ai-opportunity-93CH-4672050",
+      "title": "U.S. stocks open higher after April jobs data comes in stronger than expected",
+      "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-fall-on-renewed-iran-hostilities-nonfarm-payrolls-awaited-4670580",
       "summary": "",
-      "title_ko": "JP모건, AI 기회에 대한 ams-Osram 주식 등급 업그레이드",
+      "title_ko": "4월 일자리 데이터가 예상보다 강하게 나온 후 미국 주식이 더 많이 열림",
+      "summary_ko": ""
+    },
+    {
+      "title": "Andean Community orders Colombia, Ecuador to lift trade curbs",
+      "link": "https://www.investing.com/news/economic-indicators/andean-community-orders-colombia-ecuador-to-lift-trade-curbs-4672893",
+      "summary": "",
+      "title_ko": "안데스 공동체, 에콰도르 콜롬비아에 교역 제한 해제 명령",
+      "summary_ko": ""
+    },
+    {
+      "title": "Costa Rica’s Laura Fernandez vows ’war’ on crime ahead of inauguration",
+      "link": "https://www.investing.com/news/economic-indicators/costa-ricas-laura-fernandez-vows-war-on-crime-ahead-of-inauguration-4672735",
+      "summary": "",
+      "title_ko": "코스타리카의 로라 페르난데스 (Laura Fernandez) 는 취임식을 앞두고 범죄와의 '전쟁’ 을 맹세합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "U.S. Nonfarm Payrolls Surpass Expectations but Fall Short of Previous Month",
+      "link": "https://www.investing.com/news/economic-indicators/us-nonfarm-payrolls-surpass-expectations-but-fall-short-of-previous-month-93CH-4672588",
+      "summary": "",
+      "title_ko": "미국 비농장 급여는 기대치를 초과하지만 전월에는 미치지 못합니다.",
       "summary_ko": ""
     },
     {
@@ -37,39 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "World food prices rise to more than three year high in April, FAO says",
-      "link": "https://www.investing.com/news/economic-indicators/world-food-prices-extend-rise-in-april-for-a-third-month-fao-says-4671282",
-      "summary": "",
-      "title_ko": "FAO에 따르면 세계 식량 가격은 4월에 3년 넘게 상승합니다.",
-      "summary_ko": ""
+      "title": "USD/JPY edges lower as robust US payrolls clash with persistent Yen intervention threats",
+      "link": "https://www.fxstreet.com/news/usd-jpy-edges-lower-as-robust-us-payrolls-clash-with-persistent-yen-intervention-threats-202605081259",
+      "summary": "USD/JPY edges lower on Friday and trades around 156.65 at the time of writing, down 0.17% on the day, despite the release of a stronger-than-expected US employment report.",
+      "title_ko": "강력한 미국 급여가 지속적인 엔화 개입 위협과 충돌함에 따라 USD/JPY 가장자리가 낮아집니다.",
+      "summary_ko": "USD/JPY는 금요일에 하락하고 예상보다 강한 미국 고용 보고서가 발표되었음에도 불구하고 서면 작성 당시 약 156.65에 거래되어 당일 0.17% 하락했습니다."
     },
     {
-      "title": "UK house prices fall below £300,000 mark in April",
-      "link": "https://www.investing.com/news/economic-indicators/uk-house-prices-fall-below-300000-mark-in-april-4671416",
-      "summary": "",
-      "title_ko": "4월 영국 주택 가격 £ 300,000 아래로 하락",
-      "summary_ko": ""
-    },
-    {
-      "title": "US container imports fell 5.5% in April on trade and geopolitical risks, Descartes says",
-      "link": "https://www.investing.com/news/economic-indicators/us-container-imports-fell-55-in-april-on-trade-and-geopolitical-risks-descartes-says-4671399",
-      "summary": "",
-      "title_ko": "데카르트는 4월 미국 컨테이너 수입이 무역 및 지정학적 위험으로 5.5% 감소했다고 말합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Copper: Mine constraints support elevated prices – Commerzbank",
-      "link": "https://www.fxstreet.com/news/copper-mine-constraints-support-elevated-prices-commerzbank-202605081142",
-      "summary": "Commerzbank strategists note Copper has outperformed other base metals, helped by improved macro sentiment around Hormuz and ongoing mine issues. Chilean ore output fell 9% year‑on‑year in March despite a monthly rebound",
-      "title_ko": "구리: 광산 제약이 가격 상승을 뒷받침합니다 – Commerzbank",
-      "summary_ko": "Commerzbank 전략가들은 Copper가 다른 기본 금속을 능가했으며, Hormuz 주변의 거시적 감정 개선과 지속적인 광산 문제의 도움을 받았다고 지적합니다. 칠레 광석 생산량은 월별 반등에도 불구하고 3월에 9% 감소했습니다."
-    },
-    {
-      "title": "Fed: Extended pause message tempers hike bets – DBS",
-      "link": "https://www.fxstreet.com/news/fed-extended-pause-message-tempers-hike-bets-dbs-202605081132",
-      "summary": "DBS Group Research’s Philip Wee says the Federal Reserve is working to cool hawkish expectations ahead of Kevin Warsh’s appointment as Chair on May 15.",
-      "title_ko": "페드: 연장된 일시 중지 메시지 템퍼 하이크 베팅 – DBS",
-      "summary_ko": "DBS 그룹 리서치의 필립 위 (Philip Wee) 는 연방준비제도가 5월 15일 케빈 워시 (Kevin Warsh) 의 의장 임명을 앞두고 매파적 기대를 식히기 위해 노력하고 있다고 밝혔다."
+      "title": "GBP/JPY Price Forecast: Bulls defend 100-day SMA while momentum remains subdued",
+      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-bulls-defend-100-day-sma-while-momentum-remains-subdued-202605081256",
+      "summary": "GBP/JPY edges higher on Friday as the Japanese Yen (JPY) continues to face selling pressure despite suspected intervention by Japanese authorities earlier this week.",
+      "title_ko": "GBP/JPY 가격 예측: 황소는 100일 SMA를 방어하지만 모멘텀은 가라앉지 않습니다.",
+      "summary_ko": "이번 주 초 일본 당국의 개입이 의심됨에도 불구하고 일본 엔화 (JPY) 가 계속 매도 압력에 직면함에 따라 GBP/JPY는 금요일에 상승세를 나타냈다."
     }
   ]
 }

@@ -1,14 +1,68 @@
 {
-  "updated_at_utc": "2026-05-09 13:40:14 UTC",
+  "updated_at_utc": "2026-05-09 14:53:20 UTC",
   "indices": {
-    "spx": null,
-    "ndq": null,
-    "dji": null
+    "spx": {
+      "Symbol": "^SPX",
+      "Date": "2026-05-08",
+      "Time": "23:00:00",
+      "Open": "7363",
+      "High": "7401.5",
+      "Low": "7363",
+      "Close": "7398.9",
+      "Volume": "3349607690"
+    },
+    "ndq": {
+      "Symbol": "^NDQ",
+      "Date": "2026-05-08",
+      "Time": "23:00:00",
+      "Open": "25958.12",
+      "High": "26248.62",
+      "Low": "25944.78",
+      "Close": "26247.08",
+      "Volume": "6175587330"
+    },
+    "dji": {
+      "Symbol": "^DJI",
+      "Date": "2026-05-08",
+      "Time": "23:00:00",
+      "Open": "49581.1",
+      "High": "49830.7",
+      "Low": "49487",
+      "Close": "49609.2",
+      "Volume": "528999572"
+    }
   },
   "futures": {
-    "es": null,
-    "nq": null,
-    "ym": null
+    "es": {
+      "Symbol": "ES.F",
+      "Date": "2026-05-08",
+      "Time": "23:00:00",
+      "Open": "7340",
+      "High": "7427.75",
+      "Low": "7336.25",
+      "Close": "7419",
+      "Volume": ""
+    },
+    "nq": {
+      "Symbol": "NQ.F",
+      "Date": "2026-05-08",
+      "Time": "23:00:00",
+      "Open": "28582",
+      "High": "29386.75",
+      "Low": "28541",
+      "Close": "29332.5",
+      "Volume": ""
+    },
+    "ym": {
+      "Symbol": "YM.F",
+      "Date": "2026-05-08",
+      "Time": "22:58:49",
+      "Open": "49617",
+      "High": "49955",
+      "Low": "49586",
+      "Close": "49737",
+      "Volume": ""
+    }
   },
   "fx": {
     "usdkrw": {

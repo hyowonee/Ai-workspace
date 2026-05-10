@@ -1,6 +1,13 @@
 {
-  "updated_at_utc": "2026-05-10 22:56:55 UTC",
+  "updated_at_utc": "2026-05-10 23:58:57 UTC",
   "items": [
+    {
+      "title": "Share futures ease, dollar gains as Gulf talks teeter",
+      "link": "https://www.investing.com/news/stock-market-news/share-futures-ease-dollar-gains-as-gulf-talks-teeter-4674873",
+      "summary": "",
+      "title_ko": "걸프가 티터 (teeter) 를 말하면서 선물 용이성, 달러 이익 공유",
+      "summary_ko": ""
+    },
     {
       "title": "Exclusive-Cerebras to raise IPO price range to $150-$160 as demand surges, sources say​​​​​​​​​​​​​​​​",
       "link": "https://www.investing.com/news/stock-market-news/exclusivecerebras-to-raise-ipo-price-range-to-150160-as-demand-surges-sources-say-4674870",
@@ -23,10 +30,10 @@
       "summary_ko": ""
     },
     {
-      "title": "Amazon Supply Chain Services: How big of a risk is this for transports?",
-      "link": "https://www.investing.com/news/stock-market-news/amazon-supply-chain-services-how-big-of-a-risk-is-this-for-transports-4674843",
+      "title": "China April exports rebound strongly, trade surplus widens ahead of Trump visit",
+      "link": "https://www.investing.com/news/economic-indicators/china-april-exports-rebound-strongly-trade-surplus-widens-ahead-of-trump-visit-4674872",
       "summary": "",
-      "title_ko": "아마존 공급망 서비스: 운송에 얼마나 큰 위험이 있습니까?",
+      "title_ko": "중국 4월 수출 강세 반등, 트럼프 방문 앞두고 무역 흑자 확대",
       "summary_ko": ""
     },
     {
@@ -37,13 +44,6 @@
       "summary_ko": ""
     },
     {
-      "title": "China April exports rebound strongly, trade surplus widens ahead of Trump visit",
-      "link": "https://www.investing.com/news/economic-indicators/china-april-exports-rebound-strongly-trade-surplus-widens-ahead-of-trump-visit-4674595",
-      "summary": "",
-      "title_ko": "중국 4월 수출 강세 반등, 트럼프 방문 앞두고 무역 흑자 확대",
-      "summary_ko": ""
-    },
-    {
       "title": "China April exports rebound strongly after sluggish March, trade surplus widens",
       "link": "https://www.investing.com/news/economic-indicators/china-april-exports-rebound-strongly-after-sluggish-march-trade-surplus-widens-4674578",
       "summary": "",
@@ -51,25 +51,25 @@
       "summary_ko": ""
     },
     {
-      "title": "Trump administration appeals latest court loss on tariffs",
-      "link": "https://www.investing.com/news/economic-indicators/trump-administration-appeals-latest-court-loss-on-tariffs-4673719",
-      "summary": "",
-      "title_ko": "트럼프 행정부, 관세에 대한 최신 법원 손실 항소",
-      "summary_ko": ""
+      "title": "EUR/USD edges lower to near 1.1750 as Trump rejects new Iran peace offer",
+      "link": "https://www.fxstreet.com/news/eur-usd-edges-lower-to-near-11750-as-trump-rejects-new-iran-peace-offer-202605102337",
+      "summary": "The EUR/USD pair loses momentum to around 1.1765 during the early Asian session on Monday. The Euro (EUR) softens against the US Dollar (USD) amid a cautious mood after US President Donald Trump and Iran rejected each ot",
+      "title_ko": "트럼프가 새로운 이란 평화 제안을 거부함에 따라 EUR/USD 가장자리가 1.1750 근처로 낮아졌습니다.",
+      "summary_ko": "EUR/USD 쌍은 월요일의 초기 아시아 세션에서 약 1.1765로 모멘텀을 잃습니다. 도널드 트럼프 미국 대통령과 이란이 각 OT를 거부한 후 신중한 분위기 속에서 유로 (EUR) 는 미국 달러 (USD) 대비 완화됩니다."
     },
     {
-      "title": "Iran submits proposal to end war in current negotiation phase",
-      "link": "https://www.fxstreet.com/news/iran-submits-proposal-to-end-war-in-current-negotiation-phase-202605101341",
-      "summary": "Iran has sent its response to the United States (US) proposal via Pakistan on Sunday, according to the Islamic Republic News Agency (IRNA).",
-      "title_ko": "이란, 현재 협상 단계에서 전쟁 종식 제안 제출",
-      "summary_ko": "이슬람 공화국 통신사 (IRNA) 에 따르면 이란은 지난 일요일 파키스탄을 통해 미국 제안에 대한 응답을 보냈습니다."
+      "title": "When are the CPI, PPI and how could they affect AUD/USD?",
+      "link": "https://www.fxstreet.com/news/when-are-the-cpi-ppi-and-how-could-they-affect-aud-usd-202605102313",
+      "summary": "The National Bureau of Statistics of China (NBS) will publish its data for April at 01.30 GMT. The Consumer Price Index (CPI) is expected to show an increase of 0.8% YoY in April, compared to 1.0% in March.",
+      "title_ko": "CPI, PPI는 언제이며 어떻게 AUD/USD에 영향을 미칠 수 있습니까?",
+      "summary_ko": "중국 국가 통계국 (NBS) 은 4월 01.30 GMT에 데이터를 발표할 예정입니다. 소비자물가지수 (CPI) 는 3월 1.0% 대비 4월에는 전년 동기 대비 0.8% 증가할 것으로 예상된다."
     },
     {
-      "title": "China: War risks reshape growth outlook – Rabobank",
-      "link": "https://www.fxstreet.com/news/china-war-risks-reshape-growth-outlook-rabobank-202605082221",
-      "summary": "Rabobank strategists assess how the US and Israel’s war against Iran could affect China. They note higher Oil and gas prices and global cost-push inflation, but argues China’s inflation is unlikely to force PBOC tighteni",
-      "title_ko": "중국: 전쟁 위험, 성장 전망 재편 – Rabobank",
-      "summary_ko": "라보뱅크 전략가들은 이란에 대한 미국과 이스라엘의 전쟁이 중국에 어떤 영향을 미칠 수 있는지 평가한다. 그들은 석유 및 가스 가격 상승과 글로벌 원가 상승 인플레이션에 주목하지만, 중국의 인플레이션이 PBOC 타이트니를 강요할 가능성은 낮다고 주장한다."
+      "title": "US President Donald Trump rejects new Iran peace proposal as ‘totally unacceptable’",
+      "link": "https://www.fxstreet.com/news/us-president-donald-trump-rejects-new-iran-peace-proposal-as-totally-unacceptable-202605102255",
+      "summary": "US President Donald Trump and Iran rejected each other’s latest peace proposals to bring an end to the war in the Middle East as the two sides struggle to maintain a fragile ceasefire, Bloomberg reported on Sunday.",
+      "title_ko": "도널드 트럼프 미국 대통령은 이란의 새로운 평화 제안을 ‘완전히 받아들일 수 없다‘ 고 거부했습니다.",
+      "summary_ko": "블룸버그 통신은 도널드 트럼프 미국 대통령과 이란이 양측이 취약한 휴전을 유지하기 위해 고군분투하면서 중동 전쟁을 종식시키기 위한 최근의 평화 제안을 거부했다고 보도했다."
     }
   ]
 }

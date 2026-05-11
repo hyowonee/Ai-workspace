@@ -1,13 +1,6 @@
 {
-  "updated_at_utc": "2026-05-10 23:58:57 UTC",
+  "updated_at_utc": "2026-05-11 04:16:45 UTC",
   "items": [
-    {
-      "title": "Share futures ease, dollar gains as Gulf talks teeter",
-      "link": "https://www.investing.com/news/stock-market-news/share-futures-ease-dollar-gains-as-gulf-talks-teeter-4674873",
-      "summary": "",
-      "title_ko": "걸프가 티터 (teeter) 를 말하면서 선물 용이성, 달러 이익 공유",
-      "summary_ko": ""
-    },
     {
       "title": "Exclusive-Cerebras to raise IPO price range to $150-$160 as demand surges, sources say​​​​​​​​​​​​​​​​",
       "link": "https://www.investing.com/news/stock-market-news/exclusivecerebras-to-raise-ipo-price-range-to-150160-as-demand-surges-sources-say-4674870",
@@ -16,17 +9,38 @@
       "summary_ko": ""
     },
     {
-      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-      "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4674868",
+      "title": "Apollo in talks to sell $3 billion private credit fund, WSJ reports",
+      "link": "https://www.investing.com/news/stock-market-news/apollo-in-talks-to-sell-3-billion-private-credit-fund-wsj-reports-4674888",
       "summary": "",
-      "title_ko": "러시아 주식은 교역 마감 시점보다 낮습니다. MOEX 러시아 지수는 변동이 없습니다.",
+      "title_ko": "WSJ는 아폴로가 30억 달러 ($) 규모의 민간 신용 펀드를 매각하기 위해 회담 중이라고 보도했다.",
       "summary_ko": ""
     },
     {
-      "title": "NVIDIA’s Huang says AI will make intelligence a commodity for billions",
-      "link": "https://www.investing.com/news/stock-market-news/nvidias-huang-says-ai-will-make-intelligence-a-commodity-for-billions-4674854",
+      "title": "Share futures wobble, dollar gains as Iran talks teeter",
+      "link": "https://www.investing.com/news/stock-market-news/share-futures-ease-dollar-gains-as-gulf-talks-teeter-4674873",
       "summary": "",
-      "title_ko": "NVIDIA의 Huang은 AI가 인텔리전스를 수십억 달러의 상품으로 만들 것이라고 말합니다.",
+      "title_ko": "이란이 티터 (teeter) 와 대화하면서 미래 흔들림, 달러 이익 공유",
+      "summary_ko": ""
+    },
+    {
+      "title": "Asia stocks rise past Iran tensions on chips strength, US-China summit",
+      "link": "https://www.investing.com/news/stock-market-news/asia-stocks-rise-past-iran-tensions-on-chips-strength-uschina-summit-4674943",
+      "summary": "",
+      "title_ko": "아시아 증시는 이란을 지나 칩 강세, 미 · 중 정상회담 등으로 긴장이 고조되고 있다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "China’s domestic car demand stays weak but exports strengthen",
+      "link": "https://www.investing.com/news/economic-indicators/chinas-april-car-sales-drop-for-seventh-month-4674908",
+      "summary": "",
+      "title_ko": "중국 내수 자동차 수요는 약세를 유지하지만 수출은 강화",
+      "summary_ko": ""
+    },
+    {
+      "title": "China’s factory inflation hits 45-month high on energy price shock",
+      "link": "https://www.investing.com/news/economic-indicators/china-april-producer-inflation-surgesto-45month-high-4674899",
+      "summary": "",
+      "title_ko": "중국 공장 인플레이션, 에너지 가격 쇼크 45개월 만에 최고치 기록",
       "summary_ko": ""
     },
     {
@@ -37,39 +51,25 @@
       "summary_ko": ""
     },
     {
-      "title": "Magyar sworn in as Hungary’s prime minister on promises of change",
-      "link": "https://www.investing.com/news/economic-indicators/magyar-sworn-in-as-hungarys-prime-minister-on-promises-of-change-4674639",
+      "title": "China CPI inflation picks up more than expected in April, PPI hits near 4-yr high",
+      "link": "https://www.investing.com/news/economic-indicators/china-cpi-inflation-picks-up-more-than-expected-in-april-ppi-hits-near-4yr-high-4674898",
       "summary": "",
-      "title_ko": "마자르는 변화의 약속에 따라 헝가리의 총리로 선서했다.",
+      "title_ko": "중국 CPI 인플레이션은 4월 예상보다 많이 상승했으며, PPI는 4년 가까이 상승했습니다.",
       "summary_ko": ""
     },
     {
-      "title": "China April exports rebound strongly after sluggish March, trade surplus widens",
-      "link": "https://www.investing.com/news/economic-indicators/china-april-exports-rebound-strongly-after-sluggish-march-trade-surplus-widens-4674578",
-      "summary": "",
-      "title_ko": "중국 4월 수출, 3월 부진 후 강세 반등, 무역 흑자 확대",
-      "summary_ko": ""
+      "title": "US Dollar Index advances after Trump and Iran dismissed latest peace initiatives",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-advances-after-trump-and-iran-dismissed-latest-peace-initiatives-202605110309",
+      "summary": "The US Dollar Index (DXY), which measures the value of the US Dollar (USD) against six major currencies, is holding gains after modest losses the previous day, trading around 98.10 during Asian hours on Monday.",
+      "title_ko": "트럼프와 이란이 최신 평화 이니셔티브를 기각한 후 미국 달러 지수가 상승",
+      "summary_ko": "6개 주요 통화에 대한 미국 달러 (USD) 의 가치를 측정하는 미국 달러 지수 (DXY) 는 월요일 아시아 시간 동안 약 98.10 에 거래되는 전날 소폭 손실 후 이익을 보유하고 있습니다."
     },
     {
-      "title": "EUR/USD edges lower to near 1.1750 as Trump rejects new Iran peace offer",
-      "link": "https://www.fxstreet.com/news/eur-usd-edges-lower-to-near-11750-as-trump-rejects-new-iran-peace-offer-202605102337",
-      "summary": "The EUR/USD pair loses momentum to around 1.1765 during the early Asian session on Monday. The Euro (EUR) softens against the US Dollar (USD) amid a cautious mood after US President Donald Trump and Iran rejected each ot",
-      "title_ko": "트럼프가 새로운 이란 평화 제안을 거부함에 따라 EUR/USD 가장자리가 1.1750 근처로 낮아졌습니다.",
-      "summary_ko": "EUR/USD 쌍은 월요일의 초기 아시아 세션에서 약 1.1765로 모멘텀을 잃습니다. 도널드 트럼프 미국 대통령과 이란이 각 OT를 거부한 후 신중한 분위기 속에서 유로 (EUR) 는 미국 달러 (USD) 대비 완화됩니다."
-    },
-    {
-      "title": "When are the CPI, PPI and how could they affect AUD/USD?",
-      "link": "https://www.fxstreet.com/news/when-are-the-cpi-ppi-and-how-could-they-affect-aud-usd-202605102313",
-      "summary": "The National Bureau of Statistics of China (NBS) will publish its data for April at 01.30 GMT. The Consumer Price Index (CPI) is expected to show an increase of 0.8% YoY in April, compared to 1.0% in March.",
-      "title_ko": "CPI, PPI는 언제이며 어떻게 AUD/USD에 영향을 미칠 수 있습니까?",
-      "summary_ko": "중국 국가 통계국 (NBS) 은 4월 01.30 GMT에 데이터를 발표할 예정입니다. 소비자물가지수 (CPI) 는 3월 1.0% 대비 4월에는 전년 동기 대비 0.8% 증가할 것으로 예상된다."
-    },
-    {
-      "title": "US President Donald Trump rejects new Iran peace proposal as ‘totally unacceptable’",
-      "link": "https://www.fxstreet.com/news/us-president-donald-trump-rejects-new-iran-peace-proposal-as-totally-unacceptable-202605102255",
-      "summary": "US President Donald Trump and Iran rejected each other’s latest peace proposals to bring an end to the war in the Middle East as the two sides struggle to maintain a fragile ceasefire, Bloomberg reported on Sunday.",
-      "title_ko": "도널드 트럼프 미국 대통령은 이란의 새로운 평화 제안을 ‘완전히 받아들일 수 없다‘ 고 거부했습니다.",
-      "summary_ko": "블룸버그 통신은 도널드 트럼프 미국 대통령과 이란이 양측이 취약한 휴전을 유지하기 위해 고군분투하면서 중동 전쟁을 종식시키기 위한 최근의 평화 제안을 거부했다고 보도했다."
+      "title": "China’s Gold-buying spree continues with Hong Kong ETFs hitting records",
+      "link": "https://www.fxstreet.com/news/chinas-gold-buying-spree-continues-with-hong-kong-etfs-hitting-records-202605110300",
+      "summary": "China continued to lead Asia’s push into Gold buying via Exchange-Traded Funds (ETFs) in April, with Hong Kong registering its highest inflows ever, as Gold prices stabilized after a major pullback in March.",
+      "title_ko": "홍콩 상장지수펀드 (ETF) 가 사상 최고치를 경신하며 중국의 금 매수세가 이어지고 있다.",
+      "summary_ko": "중국은 지난 4월 거래소 상장지수펀드 (ETF) 를 통해 아시아의 금 매입을 주도했으며, 홍콩은 3월 대규모 철수 이후 금 가격이 안정화됨에 따라 사상 최고 유입을 기록했다."
     }
   ]
 }

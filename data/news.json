@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-05-12 00:00:07 UTC",
+  "updated_at_utc": "2026-05-12 04:22:53 UTC",
   "items": [
     {
-      "title": "Byron Allen to buy majority stake in BuzzFeed for $120 million, shares nearly triple",
-      "link": "https://www.investing.com/news/stock-market-news/byron-allen-to-buy-majority-stake-in-buzzfeed-for-120-million-shares-nearly-triple-4678697",
+      "title": "Ibiden shares surge on strong annual earnings, guidance",
+      "link": "https://www.investing.com/news/stock-market-news/ibiden-shares-surge-on-strong-annual-earnings-guidance-4678950",
       "summary": "",
-      "title_ko": "Byron Allen이 BuzzFeed의 대주주 지분을 1억 2천만 달러 ($) 에 매입, 주식은 거의 3배 증가",
+      "title_ko": "이비덴 주식, 연간 강력한 수익에 대한 급등, 지침",
       "summary_ko": ""
     },
     {
-      "title": "Hims &amp; Hers misses revenue estimates as strategy shift hits sales",
-      "link": "https://www.investing.com/news/stock-market-news/hims--hers-misses-revenue-estimates-as-strategy-shift-hits-sales-4678803",
+      "title": "GOP lawmakers scrutinize Sam Altman’s business dealings ahead of OpenAI IPO - WSJ",
+      "link": "https://www.investing.com/news/stock-market-news/gop-lawmakers-scrutinize-sam-altmans-business-dealings-ahead-of-openai-ipo--wsj-4678947",
       "summary": "",
-      "title_ko": "Hims &amp; Hers는 전략 전환으로 매출을 달성할 때 매출 추정치를 놓칩니다.",
+      "title_ko": "GOP 의원들은 OpenAI IPO에 앞서 Sam Altman의 비즈니스 거래를 면밀히 조사합니다 - WSJ",
       "summary_ko": ""
     },
     {
-      "title": "LOT Polish Airlines says Boeing hid 737 MAX safety concerns to sell jets",
-      "link": "https://www.investing.com/news/stock-market-news/lot-polish-airlines-says-boeing-hid-737-max-safety-concerns-to-sell-jets-4678745",
+      "title": "Trump delays order to suspend beef import tariffs- WSJ",
+      "link": "https://www.investing.com/news/stock-market-news/trump-delays-order-to-suspend-beef-import-tariffs-wsj-93CH-4678945",
       "summary": "",
-      "title_ko": "LOT Polish Airlines는 보잉이 제트기를 판매하기 위해 737 MAX 안전 문제를 숨겼다고 밝혔습니다.",
+      "title_ko": "트럼프, 쇠고기 수입 관세 유예 명령 지연- WSJ",
       "summary_ko": ""
     },
     {
-      "title": "GitLab announces restructuring plan, shares slide",
-      "link": "https://www.investing.com/news/stock-market-news/gitlab-announces-restructuring-plan-shares-slide-4678673",
+      "title": "Hedge funds record decade-high weekly buying in Korea, Japan, Taiwan equities, Morgan Stanley says",
+      "link": "https://www.investing.com/news/stock-market-news/hedge-funds-record-decadehigh-weekly-buying-in-korea-japan-taiwan-equities-morgan-stanley-says-4678942",
       "summary": "",
-      "title_ko": "GitLab, 구조조정 계획 발표, 슬라이드 공유",
+      "title_ko": "모건스탠리는 헤지펀드가 한국, 일본, 대만 주식에서 10년간 높은 주간 매수율을 기록했다고 밝혔습니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Australia business confidence shaken as costs climb, survey shows",
+      "link": "https://www.investing.com/news/economic-indicators/australia-business-confidence-shaken-as-costs-climb-survey-shows-4678921",
+      "summary": "",
+      "title_ko": "비용 상승으로 흔들리는 호주 비즈니스 신뢰, 설문 조사 결과",
       "summary_ko": ""
     },
     {
@@ -51,25 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "U.S. Existing Home Sales Edge Up, Slightly Missing Forecasts",
-      "link": "https://www.investing.com/news/economic-indicators/us-existing-home-sales-edge-up-slightly-missing-forecasts-93CH-4676897",
-      "summary": "",
-      "title_ko": "미국 기존 주택 판매 엣지 업, 약간 누락된 예측",
-      "summary_ko": ""
+      "title": "Gold eases from three-week top as Iran tensions and hawkish Fed bets support USD",
+      "link": "https://www.fxstreet.com/news/gold-eases-from-three-week-top-as-iran-tensions-and-hawkish-fed-bets-support-usd-202605120321",
+      "summary": "Gold (XAU/USD) retreats from a three-week high, touched during the Asian session on Tuesday, as traders await the release of the latest US consumer inflation figures before positioning for the next leg of a directional m",
+      "title_ko": "이란의 긴장과 매파적인 연준 베팅이 USD를 지원하기 때문에 금은 3주 만에 완화됩니다.",
+      "summary_ko": "금 (XAU/USD) 은 화요일 아시아 세션에서 만진 3 주 최고치에서 후퇴합니다. 거래자들은 방향의 다음 레그에 대한 포지셔닝 전에 최신 미국 소비자 인플레이션 수치의 발표를 기다리고 있습니다."
     },
     {
-      "title": "US President Donald Trump says US-Iran ceasefire on ‘massive life support’",
-      "link": "https://www.fxstreet.com/news/us-president-donald-trump-says-us-iran-ceasefire-on-massive-life-support-202605112319",
-      "summary": "US President Donald Trump said the ceasefire between the United States (US) and Iran is on “massive life support” after he rejected Tehran’s latest peace offer, which he called “simply unacceptable,” Bloomberg reported o",
-      "title_ko": "도널드 트럼프 미국 대통령, ‘막대한 생명 유지‘ 에 대한 미국-이란 휴전 선언",
-      "summary_ko": "도널드 트럼프 (Donald Trump) 미국 대통령은 테헤란의 최근 평화 제안을 거부 한 후 미국 (미국) 과 이란 간의 휴전이 \"엄청난 생명 유지\" 에 있다고 말했다. 블룸버그 통신은"
-    },
-    {
-      "title": "Gold drifts higher to near $4,750 ahead of US CPI inflation release",
-      "link": "https://www.fxstreet.com/news/gold-drifts-higher-to-near-4-750-ahead-of-us-cpi-inflation-release-202605112308",
-      "summary": "Gold price (XAU/USD) trades in positive territory around $4,750 during the early Asian session on Tuesday. The precious metal edges higher as traders assess developments in the United States (US)-Iran diplomacy and await",
-      "title_ko": "금은 미국 CPI 인플레이션 출시를 앞두고 거의 $ 4,750까지 상승합니다.",
-      "summary_ko": "금 가격 (XAU/USD) 은 화요일 초기 아시아 세션에서 약 $ 4,750의 긍정적 영토에서 거래됩니다. 거래자가 미국 (미국) 의 발전을 평가함에 따라 더 높은 귀금속 가장자리 - 이란 외교 및 대기"
+      "title": "Silver Price Forecast: XAG/USD trades firmly near two-month high of $86.50 ahead of US CPI",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-trades-firmly-near-two-month-high-of-8650-ahead-of-us-cpi-202605120315",
+      "summary": "Silver price (XAG/USD) holds onto its almost week-long rally to near $86.50 during the Asian trading session on Tuesday. The white metal trades firmly even as oil prices are broadly stable amid fears that military action",
+      "title_ko": "실버 가격 예측: XAG/USD, 미국 CPI보다 $ 86.50 높은 2개월 가까이 견고하게 거래",
+      "summary_ko": "실버 가격 (XAG/USD) 은 화요일 아시아 거래 세션에서 거의 일주일 동안 거의 $ 86.50 까지 상승했습니다. 화이트 메탈은 군사 행동에 대한 두려움 속에서 유가가 광범위하게 안정되어 있음에도 불구하고 확고하게 거래됩니다."
     }
   ]
 }

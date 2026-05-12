@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-05-12 19:56:19 UTC",
+  "updated_at_utc": "2026-05-12 21:23:17 UTC",
   "items": [
     {
-      "title": "Apple to introduce customizable Camera app in iOS 27 update - Bloomberg",
-      "link": "https://www.investing.com/news/stock-market-news/apple-to-introduce-customizable-camera-app-in-ios-27-update--bloomberg-93CH-4682125",
+      "title": "TrueBlue stock jumps 6% on HireQuest’s $105M segment offer",
+      "link": "https://www.investing.com/news/stock-market-news/trueblue-stock-jumps-6-on-hirequests-105m-segment-offer-93CH-4682471",
       "summary": "",
-      "title_ko": "Apple, iOS 27 업데이트에 맞춤형 카메라 앱 도입 - Bloomberg",
+      "title_ko": "TrueBlue 주식이 HireQuest의 $ 105M 세그먼트 오퍼에서 6% 뛰어오릅니다",
       "summary_ko": ""
     },
     {
-      "title": "Brown-Forman stock slips after rejecting Sazerac bid",
-      "link": "https://www.investing.com/news/stock-market-news/brownforman-stock-slips-after-rejecting-sazerac-bid-93CH-4682123",
+      "title": "FCC approves $40 billion sale of EchoStar spectrum to SpaceX, AT&amp;T",
+      "link": "https://www.investing.com/news/stock-market-news/fcc-approves-echostar-sales-of-65-megahertz-spectrum-to-spacex-50-megahertz-to-att-4682012",
       "summary": "",
-      "title_ko": "Sazerac 입찰 거절 후 Brown-Forman 주가 하락",
+      "title_ko": "FCC, SpaceX, AT&amp;T에 EchoStar 스펙트럼 $ 400억 판매 승인",
       "summary_ko": ""
     },
     {
-      "title": "Intel foundry hype grows on Wall Street after reports of Apple, SK hynix  talks",
-      "link": "https://www.investing.com/news/stock-market-news/intel-foundry-hype-grows-on-wall-street-after-reports-of-apple-sk-hynix--talks-4682109",
+      "title": "US budget watchdog estimates Golden Dome will cost $1.2 trillion, dwarfing Pentagon’s $185 billion estimate",
+      "link": "https://www.investing.com/news/stock-market-news/us-budget-watchdog-estimates-golden-dome-will-cost-12-trillion-well-above-initial-185-billion-estimate-4681898",
       "summary": "",
-      "title_ko": "인텔 파운드리 과대 광고는 애플, SK hynix 회담의 보고 후 월스트리트에서 성장",
+      "title_ko": "미국 예산 감시단 (US budget watchdog) 은 골든 돔 (Golden Dome) 이 1조 2천억 달러 ($ 1.2 trillion) 의 비용이 들 것으로 추정하고 있으며, 이는 펜타곤 (Pentagon) 의 $ 185억 추정치를 왜소하게 만든다",
       "summary_ko": ""
     },
     {
-      "title": "SpaceX clears FCC hurdle to deploy next-generation direct-to-device network",
-      "link": "https://www.investing.com/news/stock-market-news/spacex-clears-fcc-hurdle-to-deploy-nextgeneration-directtodevice-network-93CH-4682100",
+      "title": "Meta seeks to avoid EU fine with free WhatsApp access for rival AI chatbots",
+      "link": "https://www.investing.com/news/stock-market-news/meta-offers-rival-ai-chatbots-free-access-to-whatsapp-for-a-month-4681967",
       "summary": "",
-      "title_ko": "SpaceX, 차세대 D2D (Direct-to-Device) 네트워크 구축을 위한 FCC 장애물 제거",
+      "title_ko": "",
+      "summary_ko": ""
+    },
+    {
+      "title": "Oil inventories decline but miss forecast, signaling mixed demand",
+      "link": "https://www.investing.com/news/economic-indicators/oil-inventories-decline-but-miss-forecast-signaling-mixed-demand-93CH-4682492",
+      "summary": "",
+      "title_ko": "석유 재고는 감소하지만 미스 예측, 혼합 수요 신호",
       "summary_ko": ""
     },
     {
@@ -51,25 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Trump administration is ’fine-tuning’ executive actions to ease US beef shortages, White House official says",
-      "link": "https://www.investing.com/news/economic-indicators/trump-administration-is-finetuning-executive-actions-to-ease-us-beef-shortages-white-house-official-says-4681068",
-      "summary": "",
-      "title_ko": "백악관 관계자는 트럼프 행정부가 미국산 쇠고기 부족을 완화하기 위한 행정 조치를 ’미세 조정’ 하고 있다고 말했다.",
-      "summary_ko": ""
+      "title": "Europe: Export to US slump and tariff risks – Standard Chartered",
+      "link": "https://www.fxstreet.com/news/europe-export-to-us-slump-and-tariff-risks-standard-chartered-202605122051",
+      "summary": "Standard Chartered’s Christopher Graham notes that European Union (EU) exports to the United States (US) are now contracting at rates comparable to COVID and GFC (Great Financial Crisis) periods, potentially reflecting b",
+      "title_ko": "유럽: 미국 수출 부진 및 관세 위험 – 스탠다드차타드",
+      "summary_ko": "스탠다드 차타드 (Standard Chartered) 의 크리스토퍼 그레이엄 (Christopher Graham) 은 유럽 연합 (EU) 의 미국 (US) 수출이 현재 COVID 및 GFC (Great Financial Crisis) 기간과 비슷한 비율로 계약되고 있으며 이는 잠재적으로 B를 반영한다고 지적합니다."
     },
     {
-      "title": "Forex Today: Hot US CPI boosts US Dollar as Treasury yields climb",
-      "link": "https://www.fxstreet.com/news/forex-today-hot-us-cpi-boosts-us-dollar-as-treasury-yields-climb-202605121946",
-      "summary": "The US Dollar Index (DXY) rallied toward the 98.30 region on Tuesday as hotter-than-expected United States (US) inflation data boosted Treasury yields and reinforced expectations that the Federal Reserve (Fed) may keep i",
-      "title_ko": "포렉스 투데이: 뜨거운 미국 CPI, 국채 수익률이 상승함에 따라 미국 달러 상승",
-      "summary_ko": "미국 달러 지수 (DXY) 는 예상보다 더 뜨거운 미국 (US) 인플레이션 데이터가 국채 수익률을 높이고 연방 준비 제도 이사회 (Fed) 가 기대치를 유지할 수 있다는 기대를 강화함에 따라 화요일에 98.30 지역을 향해 상승했습니다."
-    },
-    {
-      "title": "Fed: Neutral stance as inflation stabilizes – TD Securities",
-      "link": "https://www.fxstreet.com/news/fed-neutral-stance-as-inflation-stabilizes-td-securities-202605121940",
-      "summary": "TD Securities economists judge that April Consumer Price Index (CPI) strength was driven by shelter and energy, but see core Personal Consumption Expenditures (PCE) Price Index running softer than CPI. They argue tariff ",
-      "title_ko": "Fed: 인플레이션 안정화에 따른 중립 입장 – TD Securities",
-      "summary_ko": "TD증권 경제학자들은 4월 소비자물가지수 (CPI) 강세가 피난처와 에너지에 의해 주도되었다고 판단하지만, 핵심적인 개인소비지출 (PCE) 물가지수가 CPI보다 부드럽게 진행되는 것을 볼 수 있다. 그들은 관세를 주장한다."
+      "title": "Aluminium: EU ETS reform raises cost risks – Commerzbank",
+      "link": "https://www.fxstreet.com/news/aluminium-eu-ets-reform-raises-cost-risks-commerzbank-202605122028",
+      "summary": "Commerzbank’s Norman Liebke highlights that EU ETS reform, including new benchmark calculations, could significantly raise costs for European Aluminium recyclers and refineries.",
+      "title_ko": "알루미늄: EU ETS 개혁으로 비용 위험 증가 – Commerzbank",
+      "summary_ko": "Commerzbank의 Norman Liebke는 새로운 벤치마크 계산을 포함한 EU ETS 개혁이 유럽 알루미늄 재활용 업체 및 정유 업체의 비용을 크게 높일 수 있다고 강조합니다."
     }
   ]
 }

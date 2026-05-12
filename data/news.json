@@ -1,32 +1,53 @@
 {
-  "updated_at_utc": "2026-05-12 07:22:27 UTC",
+  "updated_at_utc": "2026-05-12 10:03:50 UTC",
   "items": [
     {
-      "title": "Japan stocks higher at close of trade; Nikkei 225 up 0.44%",
-      "link": "https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-044-4679050",
+      "title": "Jenoptik surges on strong order intake, beating estimates",
+      "link": "https://www.investing.com/news/stock-market-news/jenoptik-reports-74-jump-in-firstquarter-order-intake-93CH-4679079",
       "summary": "",
-      "title_ko": "일본은 교역 마감 시점에서 더 높은 주식을 보유하고 있으며, Nikkei 225는 0.44% 상승했습니다.",
+      "title_ko": "Jenoptik, 강력한 주문 접수율로 예상치보다 높음",
       "summary_ko": ""
     },
     {
-      "title": "Greggs Maintains Annual Guidance After First Quarter Sales Rise",
-      "link": "https://www.investing.com/news/stock-market-news/greggs-maintains-annual-guidance-after-first-quarter-sales-rise-93CH-4679046",
+      "title": "Shares of Rheinmetall are at a 52-week low. Here’s why",
+      "link": "https://www.investing.com/news/stock-market-news/shares-of-rheinmetall-are-at-a-52week-low-heres-why-93CH-4679364",
       "summary": "",
-      "title_ko": "Greggs는 1분기 매출 상승 후 연간 지침을 유지합니다.",
+      "title_ko": "라인메탈의 주가는 52주 최저치를 기록하고 있습니다. 그 이유는 다음과 같습니다.",
       "summary_ko": ""
     },
     {
-      "title": "Gedeon Richter reports Q1 revenue miss on timing impacts, reiterates full-year outlook",
-      "link": "https://www.investing.com/news/stock-market-news/gedeon-richter-reports-q1-revenue-miss-on-timing-impacts-reiterates-fullyear-outlook-93CH-4679044",
+      "title": "Why is Bayer stock surging today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-bayer-stock-surging-today-93CH-4679353",
       "summary": "",
-      "title_ko": "Gedeon Richter는 타이밍 영향에 대한 1분기 매출 누락을 보고하고 전체 연도 전망을 반복합니다.",
+      "title_ko": "오늘날 Bayer 재고가 급증하는 이유는 무엇입니까?",
       "summary_ko": ""
     },
     {
-      "title": "Netflix sued by Texas for allegedly spying on children, addicting users",
-      "link": "https://www.investing.com/news/stock-market-news/netflix-sued-by-texas-for-allegedly-spying-on-consumers-4677472",
+      "title": "Jefferies raises 2026 commodity inflation forecast on Middle East tensions",
+      "link": "https://www.investing.com/news/stock-market-news/jefferies-raises-2026-commodity-inflation-forecast-on-middle-east-tensions-93CH-4679349",
       "summary": "",
-      "title_ko": "Netflix는 텍사스가 어린이를 감시하고 사용자를 중독시킨 혐의로 고소했습니다.",
+      "title_ko": "제프리스, 중동 긴장에 대한 2026년 원자재 인플레이션 전망",
+      "summary_ko": ""
+    },
+    {
+      "title": "South Africa’s official unemployment rate rises to 32.7% in first quarter",
+      "link": "https://www.investing.com/news/economic-indicators/south-africas-official-unemployment-rate-rises-to-327-in-first-quarter-4679254",
+      "summary": "",
+      "title_ko": "남아프리카공화국의 공식 실업률은 1분기에 32.7% 로 상승합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Italy industry output posts solid gain in March as Iran war impact awaited",
+      "link": "https://www.investing.com/news/economic-indicators/italy-industry-output-posts-solid-gain-in-march-as-iran-war-impact-awaited-4679251",
+      "summary": "",
+      "title_ko": "이탈리아 산업 생산량은 이란 전쟁의 영향이 기다리고 있는 3월에 견고한 이득을 올립니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "German inflation edges up to 2.9% in April",
+      "link": "https://www.investing.com/news/economic-indicators/german-inflation-edges-up-to-29-in-april-93CH-4679214",
+      "summary": "",
+      "title_ko": "4월 독일 인플레이션 에지 최대 2.9%",
       "summary_ko": ""
     },
     {
@@ -37,39 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Japan March household spending falls 2.9% year/year",
-      "link": "https://www.investing.com/news/economic-indicators/japan-march-household-spending-falls-29-yearyear-4678806",
-      "summary": "",
-      "title_ko": "일본 3월 가계 지출, 전년 대비 2.9% 감소",
-      "summary_ko": ""
+      "title": "Euro dips below 1.1750 amid mixed Economic Sentiment data, growing geopolitical risks",
+      "link": "https://www.fxstreet.com/news/euro-dips-below-11750-amid-mixed-economic-sentiment-data-growing-geopolitical-risks-202605120951",
+      "summary": "The Euro (EUR) is heading lower against the Dollar (USD) on Tuesday, trading below 1.1750 at the time of writing, after another rejection at the 1.1790 area on Monday.",
+      "title_ko": "혼합된 Economic Sentiment 데이터로 인해 지정학적 위험이 증가하는 가운데 1.1750 미만의 유로화 하락",
+      "summary_ko": "유로 (EUR) 는 화요일에 달러 (USD) 에 대해 낮아지고 있으며, 월요일에 1.1790 지역에서 다시 거부 된 후 서면 작성시 1.1750 미만으로 거래되고 있습니다."
     },
     {
-      "title": "UK consumers cut spending for first time since late 2024, Barclays card data shows",
-      "link": "https://www.investing.com/news/economic-indicators/uk-consumers-cut-spending-for-first-time-since-late-2024-barclays-card-data-shows-4678759",
-      "summary": "",
-      "title_ko": "영국 소비자들이 2024년 후반 이후 처음으로 지출을 줄였다고 Barclays 카드 데이터에 따르면",
-      "summary_ko": ""
-    },
-    {
-      "title": "US existing home sales increase less than expected in April",
-      "link": "https://www.investing.com/news/economic-indicators/us-existing-home-sales-increase-less-than-expected-in-april-4676934",
-      "summary": "",
-      "title_ko": "미국의 기존 주택 판매 증가율은 4월 예상보다 낮습니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Gold slips below $4,700 as Iran tensions and Fed hike bets support USD ahead of US CPI",
-      "link": "https://www.fxstreet.com/news/gold-eases-from-three-week-top-as-iran-tensions-and-hawkish-fed-bets-support-usd-202605120321",
-      "summary": "Gold (XAU/USD) extends its intraday retracement slide from a three-week top set earlier this Tuesday, and slips below the $4,700 mark heading into the European session. The downside, however, remains cushioned as traders",
-      "title_ko": "이란의 긴장과 연준의 하이킹 베팅이 미국 CPI를 앞세워 USD를 지원함에 따라 금은 $ 4,700 미만으로 미끄러집니다.",
-      "summary_ko": "Gold (XAU/USD) 는 이번 화요일 초 3주간의 탑 세트에서 일중 회귀 슬라이드를 확장하고 유럽 세션으로 향하는 $ 4,700 마크 아래로 미끄러집니다. 그러나 단점은 거래자로서 쿠션이 남아 있습니다."
-    },
-    {
-      "title": "Gold: Path higher hinges on Fed easing – ING",
-      "link": "https://www.fxstreet.com/news/gold-path-higher-hinges-on-fed-easing-ing-202605120650",
-      "summary": "ING’s Commodities Strategist Ewa Manthey explains why Gold has dropped about 12% since the Iran conflict began, despite its reputation as a safe haven. She argues the move reflects macro headwinds from higher Oil prices,",
-      "title_ko": "골드: Fed easing – ing에서 더 높은 힌지 경로",
-      "summary_ko": "ING의 상품 전략가 Ewa Manthey는 이란 분쟁이 시작된 이후 금이 안전한 피난처라는 명성에도 불구하고 약 12% 하락한 이유를 설명합니다. 그녀는 이 움직임이 더 높은 유가에서 오는 거시적인 역풍을 반영한다고 주장합니다."
+      "title": "Silver: Tentative breakout above resistance – OCBC",
+      "link": "https://www.fxstreet.com/news/silver-tentative-breakout-above-resistance-ocbc-202605120943",
+      "summary": "OCBC’s Christopher Wong highlights a strong Silver rally, up over 7% and breaking the 83–84 resistance zone in what looks like a cleaner technical breakout. He attributes the move to momentum, short-covering, structural ",
+      "title_ko": "실버: 저항 이상의 잠정적인 브레이크아웃 – OCBC",
+      "summary_ko": "OCBC의 크리스토퍼 웡 (Christopher Wong) 은 7% 이상 상승한 강력한 실버 랠리를 강조하며 더 깨끗한 기술적 분열처럼 보이는 83–84 저항 영역을 깨뜨립니다. 그는 추진력, 쇼트 커버링, 구조적 이동을"
     }
   ]
 }

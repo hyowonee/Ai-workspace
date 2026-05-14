@@ -1,32 +1,53 @@
 {
-  "updated_at_utc": "2026-05-14 10:56:22 UTC",
+  "updated_at_utc": "2026-05-14 12:56:34 UTC",
   "items": [
     {
-      "title": "US cancer clinics scramble to get experimental Revolution Medicines pancreatic cancer drug",
-      "link": "https://www.investing.com/news/stock-market-news/us-cancer-clinics-scramble-to-get-experimental-revolution-medicines-pancreatic-cancer-drug-4687632",
+      "title": "Stabilis Solutions stock gains on insider buying activity",
+      "link": "https://www.investing.com/news/stock-market-news/stabilis-solutions-stock-gains-on-insider-buying-activity-93CH-4688518",
       "summary": "",
-      "title_ko": "미국 암 클리닉은 실험적인 Revolution Medicines 췌장암 약물을 얻기 위해 뒤죽박죽입니다.",
+      "title_ko": "내부자 구매 활동에 대한 Stabilis Solutions 주식 이익",
       "summary_ko": ""
     },
     {
-      "title": "Why is Doximity stock collapsing today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-doximity-stock-collapsing-today-93CH-4687777",
+      "title": "Baltic dry bulk freight index hits five-month high on panamax gains",
+      "link": "https://www.investing.com/news/stock-market-news/baltic-dry-bulk-freight-index-hits-fivemonth-high-on-panamax-gains-93CH-4688517",
       "summary": "",
-      "title_ko": "오늘 독시미티 재고가 무너지는 이유는 무엇인가요?",
+      "title_ko": "발트 건식 벌크 화물 지수가 파나막스 이득에서 5개월 최고를 기록했습니다",
       "summary_ko": ""
     },
     {
-      "title": "Why is Cisco stock surging today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-cisco-stock-surging-today-93CH-4687775",
+      "title": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 0.22%",
+      "link": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-022-4688506",
       "summary": "",
-      "title_ko": "오늘날 Cisco 주식이 급등하는 이유는 무엇입니까?",
+      "title_ko": "사우디아라비아 주식 거래 마감 시점 낮아짐, 타다울 전체 점유율 0.22% 하락",
       "summary_ko": ""
     },
     {
-      "title": "Why is Trend Micro stock sliding today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-trend-micro-stock-sliding-today-93CH-4687773",
+      "title": "White House scrambles for gas-price relief as Iran war drags on",
+      "link": "https://www.investing.com/news/stock-market-news/white-house-has-few-tools-for-gasprice-relief-as-iran-war-drags-on-4687589",
       "summary": "",
-      "title_ko": "오늘 Trend Micro 주식이 미끄러지는 이유는 무엇입니까?",
+      "title_ko": "이란 전쟁이 계속되는 가운데 백악관이 가스 가격 인하를 요구하고 나섰다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "US retail sales increase again in April, partly lifted by higher prices",
+      "link": "https://www.investing.com/news/economic-indicators/us-retail-sales-increase-again-in-april-partly-lifted-by-higher-prices-4688502",
+      "summary": "",
+      "title_ko": "4월에 미국 소매 판매가 다시 증가, 부분적으로 더 높은 가격에 상승",
+      "summary_ko": ""
+    },
+    {
+      "title": "U.S. Initial Jobless Claims Rise, Exceeding Forecasts",
+      "link": "https://www.investing.com/news/economic-indicators/us-initial-jobless-claims-rise-exceeding-forecasts-93CH-4688455",
+      "summary": "",
+      "title_ko": "미국 초기 실직 보험금 증가, 예측치 초과",
+      "summary_ko": ""
+    },
+    {
+      "title": "Retail sales hold steady, meeting expectations and signaling stable consumer spending",
+      "link": "https://www.investing.com/news/economic-indicators/retail-sales-hold-steady-meeting-expectations-and-signaling-stable-consumer-spending-93CH-4688422",
+      "summary": "",
+      "title_ko": "소매 판매는 꾸준히 유지되어 기대에 부응하고 안정적인 소비자 지출을 나타냅니다.",
       "summary_ko": ""
     },
     {
@@ -37,39 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "India’s wholesale inflation quickens to 3-1/2-year high of 8.3% as energy costs soar",
-      "link": "https://www.investing.com/news/economic-indicators/indias-april-wholesale-prices-rise-83-yearonyear-4687164",
-      "summary": "",
-      "title_ko": "인도의 도매 인플레이션은 에너지 비용이 급증함에 따라 3-1/2 년 최고 8.3% 로 빠르게 증가합니다.",
-      "summary_ko": ""
+      "title": "Japanese Yen: Higher yields support prospects for BoJ hike – MUFG",
+      "link": "https://www.fxstreet.com/news/japanese-yen-higher-yields-support-prospects-for-boj-hike-mufg-202605141149",
+      "summary": "MUFG’s Lee Hardman notes that rising long-term JGB yields, driven by inflation risks linked to the Middle East conflict and hawkish BoJ commentary, are reinforcing expectations for a near-term policy rate increase.",
+      "title_ko": "일본 엔화: BOJ 하이킹에 대한 높은 수익률 지원 전망 – MUFG",
+      "summary_ko": "MUFG의 리 하드먼 (Lee Hardman) 은 중동 분쟁과 매파적인 BOJ 논평과 관련된 인플레이션 위험으로 인한 장기 JGB 수익 증가가 단기 정책 금리 인상에 대한 기대를 강화하고 있다고 지적했다."
     },
     {
-      "title": "Polish economy grows 3.4% in first quarter amid energy challenges",
-      "link": "https://www.investing.com/news/economic-indicators/polish-economy-grows-34-in-first-quarter-amid-energy-challenges-93CH-4687246",
-      "summary": "",
-      "title_ko": "폴란드 경제는 에너지 문제 속에서 1분기에 3.4% 성장합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "UK economy posts strong Q1, but Iran war casts shadow over outlook",
-      "link": "https://www.investing.com/news/economic-indicators/uk-economy-shows-unexpected-growth-of-03-in-march-4687135",
-      "summary": "",
-      "title_ko": "영국 경제는 1분기에 강세를 보이지만 이란 전쟁은 전망보다 그림자를 드리운다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "US Dollar Index: Range-bound outlook with fiscal risks – BBH",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-range-bound-outlook-with-fiscal-risks-bbh-202605141001",
-      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad notes the Dollar index (DXY) is consolidating near its 200-day moving average and is expected to stay within the 96.00-100.00 range.",
-      "title_ko": "미국 달러 지수: 재정 위험이 있는 범위 제한 전망 – BBH",
-      "summary_ko": "Brown Brothers Harriman (BBH) 의 Elias Haddad는 달러 지수 (DXY) 가 200일 이동 평균에 가깝게 통합되고 있으며 96.00-100.00 범위 내에서 유지될 것으로 예상합니다."
-    },
-    {
-      "title": "Canadian Dollar: BoC tone tilts mildly hawkish – TD Securities",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-boc-tone-tilts-mildly-hawkish-td-securities-202605140951",
-      "summary": "TD Securities strategists note the Bank of Canada’s (BoC) April Summary of Deliberations balanced US trade risks with inflation concerns.",
-      "title_ko": "캐나다 달러: BoC 톤이 경미하게 기울어짐 – TD 증권",
-      "summary_ko": "TD 증권 전략가들은 캐나다 은행 (BoC) 의 4월 심의 요약이 미국 무역 리스크와 인플레이션 우려의 균형을 맞췄다고 지적합니다."
+      "title": "USD/CHF Price Forecast: Dollar holds above 0.7800 with bullish momentum building up",
+      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-dollar-holds-above-07800-with-bullish-momentum-building-up-202605141145",
+      "summary": "The US Dollar (USD) is trading flat, right above 0.7800 against the Swiss Franc on Thursday as investors bid their time awaiting the outcome of US President Trump’s visit to China.",
+      "title_ko": "USD/CHF 가격 예측: 달러는 0.7800을 상회하며 강세 모멘텀이 형성됩니다.",
+      "summary_ko": "미국 달러 (USD) 는 트럼프 미국 대통령의 중국 방문 결과를 기다리는 투자자들의 입찰에 따라 목요일 스위스 프랑에 대해 0.7800을 상회하는 평평한 거래를 하고 있다."
     }
   ]
 }

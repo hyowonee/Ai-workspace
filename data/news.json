@@ -1,32 +1,32 @@
 {
-  "updated_at_utc": "2026-05-15 22:29:41 UTC",
+  "updated_at_utc": "2026-05-15 23:30:41 UTC",
   "items": [
+    {
+      "title": "Fitch changes Goldman Sachs BDC’s ratings outlook to negative",
+      "link": "https://www.investing.com/news/stock-market-news/fitch-changes-goldman-sachs-bdcs-ratings-outlook-to-negative-4694264",
+      "summary": "",
+      "title_ko": "FITCH, 골드만삭스 BDC의 평가 전망을 부정적으로 변경",
+      "summary_ko": ""
+    },
+    {
+      "title": "Arm Holdings to face US antitrust probe over chip tech, Bloomberg News reports",
+      "link": "https://www.investing.com/news/stock-market-news/arm-holdings-to-face-us-antitrust-probe-over-chip-tech-bloomberg-news-reports-4694244",
+      "summary": "",
+      "title_ko": "블룸버그 뉴스 (Bloomberg News) 는 칩 기술에 대한 미국의 반독점 프로브에 맞서기 위해 홀딩스를 무장 시켰다고 보도했다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "John Delaney’s Forbright discloses higher revenue in US IPO filing",
+      "link": "https://www.investing.com/news/stock-market-news/john-delaneys-forbright-files-for-us-ipo-4694159",
+      "summary": "",
+      "title_ko": "John Delaney's Forbright, 미국 IPO 신고에서 더 높은 수익 공개",
+      "summary_ko": ""
+    },
     {
       "title": "Trump says China to buy 200 Boeing jets, order could rise up to 750",
       "link": "https://www.investing.com/news/stock-market-news/trump-says-china-to-potentially-buy-750-boeing-planes-4691924",
       "summary": "",
       "title_ko": "트럼프 대통령은 중국이 보잉 제트기 200대를 구매하면 주문이 최대 750대까지 증가할 수 있다고 말했습니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Berkshire buys Delta, more Alphabet; sheds Amazon, UnitedHealth, Visa and Mastercard",
-      "link": "https://www.investing.com/news/stock-market-news/berkshire-invests-in-delta-sheds-several-stocks-including-amazon-unitedhealth-4693996",
-      "summary": "",
-      "title_ko": "버크셔는 델타, 더 많은 알파벳을 구입; 아마존, UnitedHealth, 비자 및 마스터 카드를 흘린다",
-      "summary_ko": ""
-    },
-    {
-      "title": "John Delaney’s Forbright files for US IPO",
-      "link": "https://www.investing.com/news/stock-market-news/john-delaneys-forbright-files-for-us-ipo-4694159",
-      "summary": "",
-      "title_ko": "미국 IPO를 위한 John Delaney의 Forbright 파일",
-      "summary_ko": ""
-    },
-    {
-      "title": "Mexico stocks lower at close of trade; S&amp;P/BMV IPC down 1.78%",
-      "link": "https://www.investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-178-4694103",
-      "summary": "",
-      "title_ko": "멕시코 주식은 거래 종료 시점에 하락, S&amp;P/BMV IPC는 1.78% 하락",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
+      "title": "Taiwan: Tech exports sustain strong growth – ING",
+      "link": "https://www.fxstreet.com/news/taiwan-tech-exports-sustain-strong-growth-ing-202605152204",
+      "summary": "ING analysts see Taiwan’s external demand remaining a key growth driver, led by technology exports. They expect export orders to stay very strong, even as the year-on-year rate moderates.",
+      "title_ko": "대만: 기술 수출, 강력한 성장 지속 – ING",
+      "summary_ko": "ING 분석가들은 대만의 외부 수요가 기술 수출이 주도하는 핵심 성장 동력으로 남아 있다고 보고 있습니다. 그들은 수출 주문이 전년 대비 금리가 보통일지라도 매우 강세를 유지할 것으로 기대합니다."
+    },
+    {
       "title": "Singapore: NODX gains extend on AI cycle – DBS",
       "link": "https://www.fxstreet.com/news/singapore-nodx-gains-extend-on-ai-cycle-dbs-202605152117",
       "summary": "DBS economists Taimur Baig and Radhika Rao anticipate Singapore’s April 2026 non-oil domestic exports to rise 11.5% year-on-year, marking an eighth consecutive month of expansion after 15.3% in March.",
       "title_ko": "싱가포르: NODX 이익, AI 사이클 연장 – DBS",
       "summary_ko": "DBS 경제학자 타이무르 바이그 (Taimur Baig) 와 라디카 라오 (Radhika Rao) 는 싱가포르의 2026년 4월 비석유 내수 수출이 전년 대비 11.5% 증가하여 3월 15.3% 이후 8개월 연속 증가세를 기록할 것으로 예상했다."
-    },
-    {
-      "title": "Japan: Energy shock lifts inflation more than GDP – ING",
-      "link": "https://www.fxstreet.com/news/japan-energy-shock-lifts-inflation-more-than-gdp-ing-202605152036",
-      "summary": "ING’s Min Joo Kang expects Japan’s economy to maintain similar growth to the previous quarter, with first-quarter Gross Domestic Product (GDP) seen rising 0.3% quarter-on-quarter.",
-      "title_ko": "일본: 에너지 충격으로 인플레이션이 GDP보다 높아짐 – ING",
-      "summary_ko": "ING의 강민주는 일본 경제가 1분기 국내총생산 (GDP) 이 분기 대비 0.3% 증가하면서 전 분기와 비슷한 성장세를 유지할 것으로 예상했다."
     }
   ]
 }

@@ -1,6 +1,27 @@
 {
-  "updated_at_utc": "2026-05-18 20:52:10 UTC",
+  "updated_at_utc": "2026-05-18 22:03:55 UTC",
   "items": [
+    {
+      "title": "BP fails to reach deal with union as Indiana refinery lockout drags on",
+      "link": "https://www.investing.com/news/stock-market-news/bp-fails-to-reach-deal-with-union-as-indiana-refinery-lockout-drags-on-4697134",
+      "summary": "",
+      "title_ko": "인디애나 정유소 봉쇄로 인해 BP가 노조와의 거래에 도달하지 못함",
+      "summary_ko": ""
+    },
+    {
+      "title": "Mexico stocks higher at close of trade; S&amp;P/BMV IPC up 0.63%",
+      "link": "https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-063-4697132",
+      "summary": "",
+      "title_ko": "멕시코는 거래 마감 시점에서 더 높은 주식을 보유하고 있으며, S&amp;P/BMV IPC는 0.63% 상승",
+      "summary_ko": ""
+    },
+    {
+      "title": "Russia stocks higher at close of trade; MOEX Russia Index up 1.32%",
+      "link": "https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-132-4697106",
+      "summary": "",
+      "title_ko": "러시아는 교역 마감 시점에서 더 높은 주식을 보유하고 있으며, MOEX 러시아 지수는 1.32% 상승했습니다.",
+      "summary_ko": ""
+    },
     {
       "title": "Judge denies accused CEO killer Mangione’s bid to toss gun, notebook evidence",
       "link": "https://www.investing.com/news/stock-market-news/luigi-mangione-due-in-court-for-ruling-on-backpack-evidence-in-ceo-killing-case-4694989",
@@ -9,24 +30,10 @@
       "summary_ko": ""
     },
     {
-      "title": "Trump administration ends civil, criminal cases against Adani after $10 billion investment promise",
-      "link": "https://www.investing.com/news/stock-market-news/us-treasury-announces-275-million-settlement-with-indias-adani-enterprises-4696263",
+      "title": "Japan, China lead declines in foreign holdings of Treasuries in March, data shows",
+      "link": "https://www.investing.com/news/economic-indicators/japan-china-lead-declines-in-foreign-holdings-of-treasuries-in-march-data-shows-4697073",
       "summary": "",
-      "title_ko": "트럼프 행정부, $ 100억 투자 약속 후 아다니에 대한 민사, 형사 소송 종료",
-      "summary_ko": ""
-    },
-    {
-      "title": "XP Inc stock falls on CFO succession announcement",
-      "link": "https://www.investing.com/news/stock-market-news/xp-inc-stock-falls-on-cfo-succession-announcement-93CH-4696962",
-      "summary": "",
-      "title_ko": "XP Inc 주식, CFO 승계 발표에 하락",
-      "summary_ko": ""
-    },
-    {
-      "title": "U.S. stocks mixed at close of trade; Dow Jones Industrial Average up 0.32%",
-      "link": "https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-up-032-4696930",
-      "summary": "",
-      "title_ko": "미국 증시는 교역 마감 시점에서 혼조, 다우존스 산업평균지수 0.32% 상승",
+      "title_ko": "3월 일본, 중국 국채 해외보유액 감소 주도, 데이터는",
       "summary_ko": ""
     },
     {
@@ -51,13 +58,6 @@
       "summary_ko": ""
     },
     {
-      "title": "China April factory output, retail sales miss forecasts amid weak domestic demand",
-      "link": "https://www.investing.com/news/economic-indicators/china-april-factory-output-retail-sales-miss-forecasts-amid-weak-domestic-demand-4694607",
-      "summary": "",
-      "title_ko": "중국 4월 공장 생산량, 내수 약세 속 소매판매 누락 전망",
-      "summary_ko": ""
-    },
-    {
       "title": "China: Trade support offsets weak demand – DBS",
       "link": "https://www.fxstreet.com/news/china-trade-support-offsets-weak-demand-dbs-202605182026",
       "summary": "DBS Group Research economists led by Mo Ji assess recent China data, highlighting strong external trade but subdued domestic demand across consumption, investment and credit. They note resilient exports, soft industrial ",
@@ -67,9 +67,9 @@
     {
       "title": "British Pound rises as Burnham reassures, Starmer pressure mounts",
       "link": "https://www.fxstreet.com/news/british-pound-rises-as-burnham-reassures-starmer-pressure-mounts-202605182014",
-      "summary": "The British Pound extended its gains on Monday as political pressure over Prime Minister (PM) Keir Starmer increased. At the same time, Andy Burnham—the challenger to succeed Starmer—ruled out changing Chancellor Reeves’",
+      "summary": "The British Pound (GBP) extends its gains on Monday as political pressure over Prime Minister Keir Starmer increases. At the same time, Andy Burnham, the challenger to succeed Starmer, ruled out changing Chancellor Rache",
       "title_ko": "Burnham이 안심하면 영국 파운드가 상승하고 Starmer 압력 마운트가 상승합니다.",
-      "summary_ko": "영국 파운드화는 월요일 Keir Starmer 총리에 대한 정치적 압력이 증가함에 따라 이익을 연장했다. 동시에 스타머의 뒤를 이을 도전자인 앤디 번햄은 변화하는 수상 리브스를 배제했다."
+      "summary_ko": "영국 파운드 (GBP) 는 Keir Starmer 총리에 대한 정치적 압력이 증가함에 따라 월요일에 이익을 연장합니다. 동시에 Starmer의 뒤를 이을 도전자인 Andy Burnham은 변화하는 수상 Rache를 배제했습니다."
     }
   ]
 }

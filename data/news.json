@@ -1,32 +1,46 @@
 {
-  "updated_at_utc": "2026-05-18 23:35:53 UTC",
+  "updated_at_utc": "2026-05-19 03:49:43 UTC",
   "items": [
     {
-      "title": "SEC readies plan for trading crypto versions of stocks, Bloomberg News reports",
-      "link": "https://www.investing.com/news/stock-market-news/sec-readies-plan-for-trading-crypto-versions-of-stocks-bloomberg-news-reports-4697253",
+      "title": "RBA flags potential pause after 75 bps of rate hikes; Iran uncertainty remains, minutes show",
+      "link": "https://www.investing.com/news/stock-market-news/rba-flags-potential-pause-after-75-bps-of-rate-hikes-iran-uncertainty-remains-minutes-show-93CH-4697425",
       "summary": "",
-      "title_ko": "SEC, 암호화폐 버전 주식 거래 계획 준비, 블룸버그 뉴스 보도",
+      "title_ko": "RBA는 75 bps의 금리 인상 후 잠재적인 일시 중지를 표시합니다. 이란의 불확실성은 여전히 남아 있습니다. 분 표시",
       "summary_ko": ""
     },
     {
-      "title": "Exclusive-Meta lays out details of May 20 restructuring in internal document",
-      "link": "https://www.investing.com/news/stock-market-news/exclusivemeta-lays-out-plans-for-may-20-layoffs-restructuring-internal-document-says-4696710",
+      "title": "Analog Devices in talks to buy Empower Semiconductor for $1.5 billion, Bloomberg News reports",
+      "link": "https://www.investing.com/news/stock-market-news/analog-devices-in-talks-to-buy-empower-semiconductor-for-15-billion-bloomberg-news-reports-4697418",
       "summary": "",
-      "title_ko": "Exclusive-Meta는 내부 문서에 5월 20일 구조 조정에 대한 세부 사항을 명시합니다.",
+      "title_ko": "블룸버그 뉴스는 아날로그 디바이스가 15억 달러 ($) 에 임파워 세미컨덕터 (Empower Semiconductor) 를 인수하기 위해 회담 중이라고 보도",
       "summary_ko": ""
     },
     {
-      "title": "Anthropic to let partners share Mythos cybersecurity findings with others",
-      "link": "https://www.investing.com/news/stock-market-news/anthropic-to-let-partners-share-mythos-cybersecurity-findings-with-others-4697228",
+      "title": "Google, Blackstone to launch AI cloud venture to meet data centre demand",
+      "link": "https://www.investing.com/news/stock-market-news/google-blackstone-to-create-new-ai-cloud-company-wsj-reports-4697320",
       "summary": "",
-      "title_ko": "파트너가 Mythos 사이버 보안 조사 결과를 다른 사람들과 공유하도록 하는 Anthropic",
+      "title_ko": "Google, Blackstone, 데이터 센터 수요 충족을 위한 AI 클라우드 벤처 출범",
       "summary_ko": ""
     },
     {
-      "title": "Vida Global closes IPO raising $15 million",
-      "link": "https://www.investing.com/news/stock-market-news/vida-global-closes-ipo-raising-15-million-432SI-4697177",
+      "title": "Japan’s Takeda engaged in antitrust scheme to delay generic constipation drug, US jury finds",
+      "link": "https://www.investing.com/news/stock-market-news/japans-takeda-engaged-in-antitrust-scheme-to-delay-generic-constipation-drug-us-jury-finds-4697414",
       "summary": "",
-      "title_ko": "VIDA Global, 1,500만 달러 규모의 IPO 성사",
+      "title_ko": "일본의 다케다 (Takeda) 는 일반 변비 약물을 지연시키기 위해 독점 금지 계획에 참여했으며, 미국 배심원은",
+      "summary_ko": ""
+    },
+    {
+      "title": "Australia consumer sentiment improves in May but pessimism persists: Westpac",
+      "link": "https://www.investing.com/news/economic-indicators/australia-consumer-sentiment-improves-in-may-but-pessimism-persists-westpac-4697403",
+      "summary": "",
+      "title_ko": "5월 호주 소비심리는 개선되지만 비관론 지속: Westpac",
+      "summary_ko": ""
+    },
+    {
+      "title": "Japan’s economy expands annualised 2.1% in Q1, above forecast",
+      "link": "https://www.investing.com/news/economic-indicators/japans-economy-expands-annualised-21-in-q1-above-forecast-4697299",
+      "summary": "",
+      "title_ko": "일본 경제, 1분기 연간 2.1% 성장 전망치 상회",
       "summary_ko": ""
     },
     {
@@ -44,32 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Swiss economy grows 0.5% in first quarter, accelerating from prior period",
-      "link": "https://www.investing.com/news/economic-indicators/swiss-economy-grows-05-in-first-quarter-accelerating-from-prior-period-93CH-4695387",
-      "summary": "",
-      "title_ko": "스위스 경제는 1분기에 0.5% 성장하여 이전 기간보다 가속화됩니다.",
-      "summary_ko": ""
+      "title": "Swiss Franc weakens as USD receives support from rising odds of Fed hawkish stance",
+      "link": "https://www.fxstreet.com/news/swiss-franc-weakens-as-usd-receives-support-from-rising-odds-of-fed-hawkish-stance-202605190320",
+      "summary": "USD/CHF recovers its recent losses registered in the previous day, trading around 0.7860 during the Asian hours on Tuesday. The pair appreciates as the US Dollar (USD) draws support from expectations of a more hawkish ou",
+      "title_ko": "미국 달러 (USD) 가 연준의 매파적 입장을 지지함에 따라 스위스 프랑 약세",
+      "summary_ko": "USD/CHF는 화요일 아시아 시간 동안 약 0.7860에 거래되어 전일에 등록된 최근 손실을 회수합니다. 이 쌍은 미국 달러 (USD) 가 더 매파적인 ou에 대한 기대에서 지지를 얻음에 감사한다."
     },
     {
-      "title": "China’s home price falls narrow, but recovery may be months away",
-      "link": "https://www.investing.com/news/economic-indicators/china-new-home-prices-fall-at-slowest-monthly-pace-in-a-year-in-april-4694601",
-      "summary": "",
-      "title_ko": "중국 집값이 폭락하지만 회복이 몇 달 앞으로 다가왔을 수 있습니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "US President Donald Trump: If a deal prevents nuclear weapons, we will likely be satisfied",
-      "link": "https://www.fxstreet.com/news/us-president-donald-trump-if-a-deal-prevents-nuclear-weapons-we-will-likely-be-satisfied-202605182319",
-      "summary": "US President Donald Trump said that the United States (US) would be “probably satisfied” if it could reach an agreement with Iran that prevents Tehran from obtaining a nuclear weapon, the Guardian reported on Monday.",
-      "title_ko": "도널드 트럼프 미국 대통령: 만약 협상이 핵무기를 막는다면, 우리는 만족할 것입니다.",
-      "summary_ko": "도널드 트럼프 미국 대통령은 이란과 테헤란이 핵무기를 획득하는 것을 막는 합의에 도달할 수 있다면 미국이 \"아마도 만족할 것\" 이라고 말했다고 가디언이 월요일 보도했다."
-    },
-    {
-      "title": "Pound Sterling rides the gilt rout while Westminster wobbles",
-      "link": "https://www.fxstreet.com/news/pound-sterling-rides-the-gilt-rout-while-westminster-wobbles-202605182254",
-      "summary": "Cable bottomed at the 1.33 handle in Asian trade and ground higher through London and New York to close back above the 1.34 handle, a session range of roughly 150 pips and a textbook reclaim of the 200-day exponential mo",
-      "title_ko": "파운드 스털링 (Pound Sterling) 이 금박을 타고 웨스트민스터 (Westminster) 가 흔들리는 동안",
-      "summary_ko": "아시아 무역에서 1.33 핸들에 바닥을 내고 런던과 뉴욕을 통해 1.34 핸들 위로 닫을 수 있는 케이블, 약 150핍의 세션 범위, 200일간의 지수 월에 대한 교과서 회수"
+      "title": "New Zealand Dollar declines against US Dollar despite hopes of US-Iran deal",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-declines-against-us-dollar-despite-hopes-of-us-iran-deal-202605190318",
+      "summary": "The New Zealand Dollar (NZD) resumes its downside journey against the US Dollar (USD) on Tuesday after a recovering move the previous day, trading 0.33% lower to near 0.5855 during the Asian trading session.",
+      "title_ko": "뉴질랜드 달러, 미국-이란 거래 희망에도 불구하고 미국 달러 대비 하락",
+      "summary_ko": "뉴질랜드 달러 (NZD) 는 전날 회복 움직임이 있은 후 화요일에 미국 달러 (USD) 에 대한 하방 여정을 재개하여 아시아 거래 세션 동안 0.5855 근처로 0.33% 하락했습니다."
     }
   ]
 }

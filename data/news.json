@@ -1,32 +1,46 @@
 {
-  "updated_at_utc": "2026-05-20 00:08:56 UTC",
+  "updated_at_utc": "2026-05-20 04:46:12 UTC",
   "items": [
     {
-      "title": "Goldman Sachs to be named lead banker in SpaceX IPO- WSJ",
-      "link": "https://www.investing.com/news/stock-market-news/goldman-sachs-to-be-named-lead-banker-in-spacex-ipo-wsj-4699993",
+      "title": "Singapore urges financial firms to use AI to create better jobs",
+      "link": "https://www.investing.com/news/stock-market-news/singapore-urges-financial-firms-to-use-ai-to-create-better-jobs-4700187",
       "summary": "",
-      "title_ko": "Goldman Sachs, SpaceX IPO- WSJ의 리드 뱅커로 선정",
+      "title_ko": "싱가포르는 금융 회사들이 AI를 사용하여 더 나은 일자리를 창출할 것을 촉구합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Google DeepMind hires staff from Contextual AI in licensing deal, source says",
-      "link": "https://www.investing.com/news/stock-market-news/google-deepmind-hires-staff-from-contextual-ai-in-licensing-deal-bloomberg-news-reports-4699426",
+      "title": "Kokusai Electric slides after KKR says it will sell remaining stake",
+      "link": "https://www.investing.com/news/stock-market-news/kokusai-electric-slides-after-kkr-says-it-will-sell-remaining-stake-4700186",
       "summary": "",
-      "title_ko": "소식통에 따르면 Google DeepMind는 라이센스 거래에서 Contextual AI의 직원을 고용합니다.",
+      "title_ko": "KKR이 잔여 지분을 매각하겠다고 밝힌 후 Kokusai Electric 슬라이드",
       "summary_ko": ""
     },
     {
-      "title": "Investment bank Lincoln International raises $421 million in US IPO",
-      "link": "https://www.investing.com/news/stock-market-news/investment-bank-lincoln-international-raises-421-million-in-us-ipo-4699986",
+      "title": "Samsung Elec set to face major strike on Thursday after union talks collapse",
+      "link": "https://www.investing.com/news/stock-market-news/samsung-elec-fails-to-clinch-deal-with-union-major-strike-to-begin-on-thursday-4700160",
       "summary": "",
-      "title_ko": "투자 은행 링컨 인터내셔널 (Lincoln International), 미국 기업공개 (IPO) 에서 4억 2100만 달러 ($) 모금",
+      "title_ko": "삼성전자는 노조 회담 붕괴 이후 목요일 대규모 파업에 돌입했다.",
       "summary_ko": ""
     },
     {
-      "title": "Goldman Sachs set to be named lead left underwriter for SpaceX IPO, source says",
-      "link": "https://www.investing.com/news/stock-market-news/goldman-sachs-set-to-be-named-lead-left-underwriter-for-spacex-ipo-source-says-4699983",
+      "title": "HSBC CEO says AI will destroy and create new jobs, urges staff to embrace change",
+      "link": "https://www.investing.com/news/stock-market-news/hsbc-ceo-says-ai-will-destroy-and-create-new-jobs-urges-staff-to-embrace-change-4700162",
       "summary": "",
-      "title_ko": "Goldman Sachs가 SpaceX IPO를 위한 선임 좌측 인수자로 지명될 예정이라고 소식통이 전합니다.",
+      "title_ko": "HSBC CEO는 AI가 새로운 일자리를 파괴하고 창출할 것이라고 말하며 직원들에게 변화를 수용할 것을 촉구합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "EU paves way to finalise US trade deal and avoid Trump tariff hike",
+      "link": "https://www.investing.com/news/economic-indicators/eu-paves-way-to-finalise-us-trade-deal-and-avoid-trump-tariff-hike-4700151",
+      "summary": "",
+      "title_ko": "EU는 미국과의 무역 협상을 마무리하고 트럼프 관세 인상을 피할 수 있는 길을 열어준다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "China keeps loan prime rate unchanged for 12th straight month in May",
+      "link": "https://www.investing.com/news/economic-indicators/china-keeps-loan-prime-rate-unchanged-for-12th-straight-month-in-may-4700091",
+      "summary": "",
+      "title_ko": "중국, 5월 12개월 연속 대출 프라임 금리 변동 없음",
       "summary_ko": ""
     },
     {
@@ -44,32 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "US pending home sales  increase further; higher mortgage rates remain a constraint",
-      "link": "https://www.investing.com/news/economic-indicators/us-pending-home-sales-increase-for-third-straight-month-4698962",
-      "summary": "",
-      "title_ko": "보류 중인 미국 주택 판매는 더 증가하고, 높은 모기지 이자율은 여전히 제약 사항입니다.",
-      "summary_ko": ""
+      "title": "Gold drops to fresh low since late March on firmer USD and hawkish Fed bets",
+      "link": "https://www.fxstreet.com/news/gold-drops-to-fresh-low-since-late-march-on-firmer-usd-and-hawkish-fed-bets-202605200351",
+      "summary": "Gold (XAU/USD) drops to a fresh low since March 30 following an Asian session uptick to levels just above the $4,500 mark on Wednesday, and seems vulnerable to a further decline amid a bullish US Dollar (USD).",
+      "title_ko": "금은 더 확고한 USD와 매파적인 연준 베팅으로 3월 말 이후 신선한 최저치로 떨어집니다.",
+      "summary_ko": "금 (XAU/USD) 은 수요일에 아시아 세션이 4,500 달러를 상회하는 수준으로 상승한 후 3 월 30 일 이후 신선한 최저치로 하락했으며, 강세 인 미국 달러 ($) 의 추가 하락에 취약한 것으로 보입니다."
     },
     {
-      "title": "Pending home sales rise but miss forecasted expectations",
-      "link": "https://www.investing.com/news/economic-indicators/pending-home-sales-rise-but-miss-forecasted-expectations-93CH-4698943",
-      "summary": "",
-      "title_ko": "보류 중인 주택 매매가 상승하지만 예상치 못함",
-      "summary_ko": ""
-    },
-    {
-      "title": "US President Donald Trump says US may strike Iran again if there’s no deal soon",
-      "link": "https://www.fxstreet.com/news/us-president-donald-trump-says-us-may-strike-iran-again-if-theres-no-deal-soon-202605192326",
-      "summary": "US President Donald Trump threatened to resume attacks on Iran in “two or three days” as part of the push for a deal to end the war, after he said he had just called off a US attack, Bloomberg reported on Tuesday.",
-      "title_ko": "도널드 트럼프 미국 대통령은 조만간 협상이 결렬되면 미국이 이란을 다시 공격할 수도 있다고 말했습니다.",
-      "summary_ko": "블룸버그 통신은 도널드 트럼프 미국 대통령이 미국의 공격을 막 중단했다고 말한 후 전쟁을 끝내기 위한 협상의 일환으로 \"2 ~ 3일\" 내에 이란에 대한 공격을 재개하겠다고 위협했다고 화요일 보도했다."
-    },
-    {
-      "title": "Fed's Paulson: Rate cuts require progress on inflation",
-      "link": "https://www.fxstreet.com/news/feds-paulson-rate-cuts-require-progress-on-inflation-202605192315",
-      "summary": "Federal Reserve (Fed) Bank of Philadelphia President Anna Paulson said that she favored leaving interest rates unchanged and conditioned lower borrowing costs on making sustained progress on inflation, Bloomberg reported",
-      "title_ko": "Fed의 Paulson: 금리 인하를 위해서는 인플레이션에 대한 진전이 필요합니다.",
-      "summary_ko": "블룸버그는 연방준비제도 (Fed) 의 애나 폴슨 (Anna Paulson) 은행장이 금리를 변경하지 않고 인플레이션에 대한 지속적인 진전을 이루기 위해 낮은 차입 비용을 조건으로 두는 것을 선호한다고 말했다고 보도했다."
+      "title": "WTI drifts lower below $103.50 as traders weigh mixed signals from Trump",
+      "link": "https://www.fxstreet.com/news/wti-drifts-lower-below-10350-as-traders-weigh-mixed-signals-from-trump-202605200350",
+      "summary": "West Texas Intermediate (WTI), the US crude oil benchmark, is trading around $103.20 during the Asian trading hours on Wednesday. The WTI price trades with mild losses as traders weigh mixed signals from US President Don",
+      "title_ko": "거래자들이 트럼프의 혼합 신호에 무게를 실으면서 WTI는 $ 103.50 아래로 떨어집니다.",
+      "summary_ko": "미국 원유 벤치마크인 West Texas Intermediate (WTI) 는 수요일 아시아 거래 시간 동안 약 $ 103.20에 거래되고 있습니다. WTI 가격은 거래자들이 Don 미국 대통령의 혼합된 신호에 무게를 두기 때문에 가벼운 손실로 거래됩니다."
     }
   ]
 }

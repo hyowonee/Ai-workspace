@@ -1,6 +1,13 @@
 {
-  "updated_at_utc": "2026-05-19 22:44:29 UTC",
+  "updated_at_utc": "2026-05-20 00:08:56 UTC",
   "items": [
+    {
+      "title": "Goldman Sachs to be named lead banker in SpaceX IPO- WSJ",
+      "link": "https://www.investing.com/news/stock-market-news/goldman-sachs-to-be-named-lead-banker-in-spacex-ipo-wsj-4699993",
+      "summary": "",
+      "title_ko": "Goldman Sachs, SpaceX IPO- WSJ의 리드 뱅커로 선정",
+      "summary_ko": ""
+    },
     {
       "title": "Google DeepMind hires staff from Contextual AI in licensing deal, source says",
       "link": "https://www.investing.com/news/stock-market-news/google-deepmind-hires-staff-from-contextual-ai-in-licensing-deal-bloomberg-news-reports-4699426",
@@ -9,24 +16,17 @@
       "summary_ko": ""
     },
     {
-      "title": "US Senator Warner, Democrat and ex-telecom exec, questions Trump Mobile’s claims",
-      "link": "https://www.investing.com/news/stock-market-news/democratic-senator-says-trump-mobile-is-making-misleading-claims-4699360",
+      "title": "Investment bank Lincoln International raises $421 million in US IPO",
+      "link": "https://www.investing.com/news/stock-market-news/investment-bank-lincoln-international-raises-421-million-in-us-ipo-4699986",
       "summary": "",
-      "title_ko": "워너 미 상원의원, 민주당 의원 및 전직 텔레콤 임원, 트럼프 모바일의 주장에 의문 제기",
+      "title_ko": "투자 은행 링컨 인터내셔널 (Lincoln International), 미국 기업공개 (IPO) 에서 4억 2100만 달러 ($) 모금",
       "summary_ko": ""
     },
     {
-      "title": "Mexico stocks higher at close of trade; S&amp;P/BMV IPC up 0.22%",
-      "link": "https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-022-4699835",
+      "title": "Goldman Sachs set to be named lead left underwriter for SpaceX IPO, source says",
+      "link": "https://www.investing.com/news/stock-market-news/goldman-sachs-set-to-be-named-lead-left-underwriter-for-spacex-ipo-source-says-4699983",
       "summary": "",
-      "title_ko": "멕시코는 거래 마감 시점에서 더 높은 주식을 보유하고 있으며, S&amp;P/BMV IPC는 0.22% 상승",
-      "summary_ko": ""
-    },
-    {
-      "title": "Colombia stocks higher at close of trade; COLCAP up 0.43%",
-      "link": "https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-043-4699830",
-      "summary": "",
-      "title_ko": "콜롬비아는 거래 종료 시점에 더 높은 주식을 보유하고 있으며, COLCAP는 0.43% 상승",
+      "title_ko": "Goldman Sachs가 SpaceX IPO를 위한 선임 좌측 인수자로 지명될 예정이라고 소식통이 전합니다.",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "NZD/USD weakens amid strong US labor data and Trump’s Iran comments",
-      "link": "https://www.fxstreet.com/news/nzd-usd-weakens-amid-strong-us-labor-data-and-trumps-iran-comments-202605192153",
-      "summary": "The NZD/USD pair falls toward the 0.5830 region on Wednesday as the United States (US) Dollar (USD) strengthens following upbeat labor-market data and renewed tensions linked to Iran.",
-      "title_ko": "NZD/USD는 강력한 미국 노동 데이터와 트럼프의 이란 발언으로 약화",
-      "summary_ko": "NZD/USD 쌍은 미국 (미국) 달러 (USD) 가 낙관적 인 노동 시장 데이터와 이란과 연결된 긴장 완화에 따라 강화됨에 따라 수요일 0.5830 지역으로 하락한다."
+      "title": "US President Donald Trump says US may strike Iran again if there’s no deal soon",
+      "link": "https://www.fxstreet.com/news/us-president-donald-trump-says-us-may-strike-iran-again-if-theres-no-deal-soon-202605192326",
+      "summary": "US President Donald Trump threatened to resume attacks on Iran in “two or three days” as part of the push for a deal to end the war, after he said he had just called off a US attack, Bloomberg reported on Tuesday.",
+      "title_ko": "도널드 트럼프 미국 대통령은 조만간 협상이 결렬되면 미국이 이란을 다시 공격할 수도 있다고 말했습니다.",
+      "summary_ko": "블룸버그 통신은 도널드 트럼프 미국 대통령이 미국의 공격을 막 중단했다고 말한 후 전쟁을 끝내기 위한 협상의 일환으로 \"2 ~ 3일\" 내에 이란에 대한 공격을 재개하겠다고 위협했다고 화요일 보도했다."
     },
     {
-      "title": "Euro dives as US yields overpower ECB hike bets",
-      "link": "https://www.fxstreet.com/news/euro-dives-as-us-yields-overpower-ecb-hike-bets-202605192148",
-      "summary": "EUR/USD drops near 1.1600 on Tuesday as the Greenback recovers some ground, supported by soaring US Treasury yields, even though ECB officials opened the door to rate hikes at the June meeting. The pair trades with losse",
-      "title_ko": "미국이 ECB 하이킹 베팅을 제압함에 따라 유로 다이빙",
-      "summary_ko": "유럽중앙은행 (ECB) 관계자들이 6월 회의에서 인상을 평가하기 위해 문을 열었음에도 불구하고 그린백이 급등한 미국 국채 수익률에 힘입어 일부 지반을 회복함에 따라 화요일 EUR/USD는 1.1600 근처로 떨어졌다. 쌍은 패자와 거래합니다"
+      "title": "Fed's Paulson: Rate cuts require progress on inflation",
+      "link": "https://www.fxstreet.com/news/feds-paulson-rate-cuts-require-progress-on-inflation-202605192315",
+      "summary": "Federal Reserve (Fed) Bank of Philadelphia President Anna Paulson said that she favored leaving interest rates unchanged and conditioned lower borrowing costs on making sustained progress on inflation, Bloomberg reported",
+      "title_ko": "Fed의 Paulson: 금리 인하를 위해서는 인플레이션에 대한 진전이 필요합니다.",
+      "summary_ko": "블룸버그는 연방준비제도 (Fed) 의 애나 폴슨 (Anna Paulson) 은행장이 금리를 변경하지 않고 인플레이션에 대한 지속적인 진전을 이루기 위해 낮은 차입 비용을 조건으로 두는 것을 선호한다고 말했다고 보도했다."
     }
   ]
 }

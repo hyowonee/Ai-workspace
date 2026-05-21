@@ -1,11 +1,25 @@
 {
-  "updated_at_utc": "2026-05-21 15:33:18 UTC",
+  "updated_at_utc": "2026-05-21 18:01:56 UTC",
   "items": [
     {
-      "title": "SpaceX’s road to landmark IPO filing",
-      "link": "https://www.investing.com/news/stock-market-news/spacexs-road-to-landmark-ipo-filing-4704536",
+      "title": "H.B. Fuller reportedly bids over £600 million for Advanced Medical Solutions",
+      "link": "https://www.investing.com/news/stock-market-news/hb-fuller-reportedly-bids-over-600-million-for-advanced-medical-solutions-93CH-4704758",
       "summary": "",
-      "title_ko": "랜드마크 IPO 제출을 위한 SpaceX의 길",
+      "title_ko": "H.B. Fuller는 Advanced Medical Solutions에 6억 £ 이상을 입찰했다고 합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Stocks spike higher after final draft of U.S.-Iran peace deal said to be reached",
+      "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-slip-after-nvidia-earnings-beat-walmart-results-on-tap-4702843",
+      "summary": "",
+      "title_ko": "미국-이란 평화협정 최종안 이후 주가 급등",
+      "summary_ko": ""
+    },
+    {
+      "title": "Why is Energizer stock climbing today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-energizer-stock-climbing-today-93CH-4704730",
+      "summary": "",
+      "title_ko": "오늘 에너자이저 주가가 오르는 이유는 무엇인가요?",
       "summary_ko": ""
     },
     {
@@ -13,20 +27,6 @@
       "link": "https://www.investing.com/news/stock-market-news/analysisspacex-ipo-bets-2-trillion-on-musks-ambitious-rocketstoai-vision-4703460",
       "summary": "",
       "title_ko": "Analysis-SpaceX IPO는 Musk의 야심찬 로켓 대 AI 비전에 2조 $ 를 베팅합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Analysis-Why SpaceX’s mega IPO may not signal a broader rebound in listings",
-      "link": "https://www.investing.com/news/stock-market-news/analysiswhy-spacexs-mega-ipo-may-not-signal-a-broader-rebound-in-listings-4703918",
-      "summary": "",
-      "title_ko": "분석 - SpaceX의 대규모 IPO가 리스팅에서 더 넓은 반등을 신호하지 않을 수 있는 이유",
-      "summary_ko": ""
-    },
-    {
-      "title": "Kroger plans price cuts as new CEO looks to regain shoppers",
-      "link": "https://www.investing.com/news/stock-market-news/kroger-plans-price-cuts-as-new-ceo-looks-to-regain-shoppers-4704528",
-      "summary": "",
-      "title_ko": "Kroger는 새로운 CEO가 쇼핑객을 되찾으려고 할 때 가격 인하를 계획합니다.",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Canada: Gold price surge supports exports – RBC",
-      "link": "https://www.fxstreet.com/news/canada-gold-price-surge-supports-exports-rbc-202605211459",
-      "summary": "Royal Bank of Canada economist Salim Zanzana notes that higher Gold prices and expanded access to foreign markets helped cushion Canada’s exports in the face of U.S. tariff pressures.",
-      "title_ko": "캐나다: 금 가격 급등으로 수출 지원 – RBC",
-      "summary_ko": "캐나다 로얄 뱅크 (Royal Bank of Canada) 의 경제학자 살림 잔자나 (Salim Zanzana) 는 금 가격 상승과 해외 시장 진출 확대가 미국의 관세 압박에 직면한 캐나다의 수출을 완화하는 데 도움이 되었다고 지적했다."
+      "title": "British Pound: Political volatility and fiscal clarity – ABN AMRO",
+      "link": "https://www.fxstreet.com/news/british-pound-political-volatility-and-fiscal-clarity-abn-amro-202605211717",
+      "summary": "ABN AMRO’s Georgette Boele notes that Sterling has weakened alongside the Euro versus the US Dollar, with energy prices a key driver. She argues UK political uncertainty could temporarily lift volatility in Sterling and ",
+      "title_ko": "영국 파운드: 정치적 변동성과 재정 명확성 – ABN AMRO",
+      "summary_ko": "ABN AMRO의 Georgette Boele는 스털링이 유로화와 함께 미국 달러화 대비 약세를 보였으며, 에너지 가격이 주요 동력이 되었다고 언급했습니다. 그녀는 영국의 정치적 불확실성이 일시적으로 스털링과 스털링의 변동성을 높일 수 있다고 주장한다."
     },
     {
-      "title": "Gold slips as Iran uranium demands complicate US-Iran negotiations",
-      "link": "https://www.fxstreet.com/news/gold-slips-as-iran-uranium-demands-complicate-us-iran-negotiations-202605211229",
-      "summary": "Gold (XAU/USD) trades with a downside bias on Thursday, struggling to build on the previous day’s rebound from seven-week lows as markets digest fresh headlines surrounding the US-Iran war. At the time of writing, XAU/US",
-      "title_ko": "이란 우라늄 요구로 미국-이란 협상이 복잡해지면서 금이 미끄러짐",
-      "summary_ko": "금 (XAU/USD) 은 미국-이란 전쟁을 둘러싼 새로운 헤드라인을 소화하면서 전날의 7주 최저치에서 반등하기 위해 고군분투하며 목요일에 하방 편향으로 거래됩니다. 서면 작성 시 XAU/US"
+      "title": "Banxico minutes flag upside inflation risks from Middle East conflict",
+      "link": "https://www.fxstreet.com/news/banxico-minutes-flag-upside-inflation-risks-from-middle-east-conflict-202605211644",
+      "summary": "Banco de Mexico (Banxico) released its latest meeting minutes on Thursday, in which the Middle East conflict dominated the board's discussion.",
+      "title_ko": "반치코 회의록은 중동 분쟁으로 인한 거꾸로 된 인플레이션 위험을 표시합니다.",
+      "summary_ko": "Banco de Mexico (Banxico) 는 중동 분쟁이 이사회의 논의를 지배하는 최신 회의록을 목요일에 발표했다."
     }
   ]
 }

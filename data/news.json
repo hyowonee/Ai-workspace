@@ -1,32 +1,46 @@
 {
-  "updated_at_utc": "2026-05-21 03:58:31 UTC",
+  "updated_at_utc": "2026-05-21 08:00:09 UTC",
   "items": [
     {
-      "title": "Softbank shares surge 20% on OpenAI, SB Energy IPO cheer",
-      "link": "https://www.investing.com/news/stock-market-news/softbank-shares-surge-20-on-openai-sb-energy-ipo-cheer-4702927",
+      "title": "FTSE 100: Stocks edge lower as Iran uncertainty offsets oil retreat",
+      "link": "https://www.investing.com/news/stock-market-news/ftse-100-stocks-edge-lower-as-iran-uncertainty-offsets-oil-retreat-4703070",
       "summary": "",
-      "title_ko": "소프트뱅크, OpenAI, SB Energy IPO에 20% 급등",
+      "title_ko": "FTSE 100: 이란 불확실성이 석유 후퇴를 상쇄함에 따라 주식 우위 하락",
       "summary_ko": ""
     },
     {
-      "title": "Australia’s Arafura approves $1.6 billion rare earths project",
-      "link": "https://www.investing.com/news/stock-market-news/australias-arafura-approves-16-billion-rare-earths-project-4702922",
+      "title": "European stocks subdued amid Nvidia results, Iran war developments",
+      "link": "https://www.investing.com/news/stock-market-news/european-stocks-subdued-amid-nvidia-results-iran-war-developments-4703068",
       "summary": "",
-      "title_ko": "호주 아라푸라, 16억 달러 규모의 희토류 프로젝트 승인 ($ 16 billion rare earths project)",
+      "title_ko": "엔비디아의 실적 속에서 유럽 증시는 굴복했고, 이란 전쟁은 전개되었다.",
       "summary_ko": ""
     },
     {
-      "title": "Trump administration pressures Palestinian UN envoy to drop General Assembly vice presidency bid",
-      "link": "https://www.investing.com/news/stock-market-news/trump-administration-pressures-palestinian-un-envoy-to-drop-general-assembly-vice-presidency-bid-4702916",
+      "title": "European equities ease as investors await Mideast peace updates",
+      "link": "https://www.investing.com/news/stock-market-news/european-equities-ease-as-investors-await-mideast-peace-updates-4703061",
       "summary": "",
-      "title_ko": "트럼프 행정부, 팔레스타인 유엔 특사에게 총회 부회장 입찰 철회 압박",
+      "title_ko": "투자자들이 중동 평화 업데이트를 기다리는 동안 유럽 주식이 완화됩니다.",
       "summary_ko": ""
     },
     {
-      "title": "Trump to sign order on AI oversight as security fears mount among supporters",
-      "link": "https://www.investing.com/news/stock-market-news/trump-to-sign-order-on-ai-oversight-as-security-fears-mount-among-supporters-4702720",
+      "title": "As cocoa prices melt down, real chocolate is making a comeback",
+      "link": "https://www.investing.com/news/stock-market-news/as-cocoa-prices-melt-down-real-chocolate-is-making-a-comeback-4701828",
       "summary": "",
-      "title_ko": "트럼프, 지지자들 사이에서 보안 우려가 커짐에 따라 AI 감독에 대한 명령에 서명",
+      "title_ko": "코코아 가격이 녹으면서 진짜 초콜릿이 다시 돌아오고 있습니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "German private sector contracts for second month running, PMI shows",
+      "link": "https://www.investing.com/news/economic-indicators/german-private-sector-contracts-for-second-month-running-pmi-shows-4703088",
+      "summary": "",
+      "title_ko": "두 번째 달에 대한 독일 민간 부문 계약, PMI 쇼",
+      "summary_ko": ""
+    },
+    {
+      "title": "French economic activity contracts at fastest pace in 5-1/2 years in May, PMI shows",
+      "link": "https://www.investing.com/news/economic-indicators/french-economic-activity-contracts-at-fastest-pace-in-512-years-in-may-pmi-shows-4703081",
+      "summary": "",
+      "title_ko": "프랑스 경제 활동이 5월에 5-1/2 년 만에 가장 빠른 속도로 계약됨을 PMI는 보여줍니다.",
       "summary_ko": ""
     },
     {
@@ -44,32 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Japan factory activity slows as expected in May; composite PMI hits 5-mth low",
-      "link": "https://www.investing.com/news/economic-indicators/japan-factory-activity-slows-as-expected-in-may-composite-pmi-hits-5mth-low-4702880",
-      "summary": "",
-      "title_ko": "5월에 일본 공장 활동이 예상대로 둔화됩니다. 복합 PMI는 5개월 최저치를 기록합니다.",
-      "summary_ko": ""
+      "title": "Swiss Franc remains steady, despite downbeat Industrial Production figures",
+      "link": "https://www.fxstreet.com/news/swiss-franc-remains-steady-despite-downbeat-industrial-production-figures-202605210717",
+      "summary": "The Swiss Franc (CHF) is trading flat against the US Dollar (USD) on Thursday, so far unfazed by the sharp decline in Swiss Industrial Production.",
+      "title_ko": "스위스 프랑은 낙후된 산업 생산 수치에도 불구하고 꾸준하게 유지되고 있습니다.",
+      "summary_ko": "스위스 프랑 (CHF) 은 목요일에 미국 달러 (USD) 에 대해 평평하게 거래되고 있으며, 지금까지 스위스 산업 생산의 급격한 감소에 놀라지 않았습니다."
     },
     {
-      "title": "Japan’s factory activity expands at slower pace, cost pressures surge",
-      "link": "https://www.investing.com/news/economic-indicators/japans-factory-activity-expands-at-slower-pace-cost-pressures-surge-4702864",
-      "summary": "",
-      "title_ko": "일본의 공장 활동은 느린 속도로 확대되고 비용 압박은 급증합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "USD/JPY Price Forecast: Trades flat near 159.00 as investors seek fresh developments on Iran war",
-      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-trades-flat-near-15900-as-investors-seek-fresh-developments-on-iran-war-202605210321",
-      "summary": "The USD/JPY pair trades calmly around 159.00 during the Asian trading session on Thursday. The pair turns sideways as investors await fresh developments regarding negotiations between the United States (US) and Iran, aft",
-      "title_ko": "USD/JPY 가격 예측: 투자자들이 이란 전쟁에서 새로운 발전을 모색함에 따라 159.00 근처에서 평평하게 거래됨",
-      "summary_ko": "USD/JPY 쌍은 목요일 아시아 거래 세션 동안 159.00 주위에서 침착하게 거래됩니다. 투자자들이 미국 (미국) 과 이란 간의 협상에 관한 새로운 발전을 기다리면서 두 사람은 옆으로 방향을 틀었다."
-    },
-    {
-      "title": "US Dollar Index hovers around 99.00 due to US-Iran peace hopes",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-hovers-around-9900-due-to-us-iran-peace-hopes-202605210259",
-      "summary": "The US Dollar Index (DXY), which measures the value of the US Dollar (USD) against six major currencies, is remaining steady after registering modest losses in the previous day and hovering around 99.10 during the Asian ",
-      "title_ko": "미국 달러 인덱스는 미국과 이란의 평화 희망으로 인해 99.00 주위를 맴돌고 있습니다.",
-      "summary_ko": "6개 주요 통화에 대한 미국 달러 (USD) 의 가치를 측정하는 미국 달러 지수 (DXY) 는 전날 소폭의 손실을 기록한 후 아시아 기간 동안 99.10 주위를 맴돌며 꾸준하게 유지되고 있습니다."
+      "title": "USD/JPY Price Forecast: Remains close to 159.00, descending channel top",
+      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-remains-close-to-15900-descending-channel-top-202605210715",
+      "summary": "USD/JPY remains subdued for the second successive day, trading around 158.90 during the early European hours on Thursday. The currency pair is holding a constructive bullish bias as spot remains above both the nine-day a",
+      "title_ko": "USD/JPY 가격 예측: 159.00 가까이 유지, 내림차순 채널 상단",
+      "summary_ko": "USD/JPY는 목요일 이른 유럽 시간 동안 약 158.90에 거래되는 두 번째 연속 일 동안 계속 정복되고 있습니다. 통화 쌍이 건설적인 강세 편향을 유지하고 있습니다. 9 일 a보다 높은 자리가 남아 있기 때문입니다."
     }
   ]
 }

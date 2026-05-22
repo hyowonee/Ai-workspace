@@ -1,6 +1,27 @@
 {
-  "updated_at_utc": "2026-05-22 15:34:45 UTC",
+  "updated_at_utc": "2026-05-22 17:53:53 UTC",
   "items": [
+    {
+      "title": "Workday shares jump as AI demand eases investor concerns",
+      "link": "https://www.investing.com/news/stock-market-news/workday-shares-jump-as-ai-demand-eases-investor-concerns-4705945",
+      "summary": "",
+      "title_ko": "인공지능 수요가 투자자의 우려를 완화함에 따라 Workday 주식이 급증합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Why is Energizer stock climbing today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-energizer-stock-climbing-today-93CH-4707233",
+      "summary": "",
+      "title_ko": "오늘 에너자이저 주가가 오르는 이유는 무엇인가요?",
+      "summary_ko": ""
+    },
+    {
+      "title": "DHL, FedEx and UPS warn EU of supply chain risks from new duty rules",
+      "link": "https://www.investing.com/news/stock-market-news/dhl-fedex-and-ups-warn-eu-of-supply-chain-risks-from-new-duty-rules-93CH-4707219",
+      "summary": "",
+      "title_ko": "DHL, FedEx 및 UPS는 새로운 관세 규칙으로 인한 공급망 위험에 대해 EU에 경고합니다.",
+      "summary_ko": ""
+    },
     {
       "title": "Wall Street set for best weekly win streak since December 2023",
       "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-gain-after-record-dow-close-us-iran-remain-divided-on-key-issues-4705671",
@@ -9,31 +30,10 @@
       "summary_ko": ""
     },
     {
-      "title": "Endava downgraded on weak demand and execution risks",
-      "link": "https://www.investing.com/news/stock-market-news/endava-downgraded-on-weak-demand-and-execution-risks-4707076",
-      "summary": "",
-      "title_ko": "Endava는 약한 수요 및 실행 위험으로 다운그레이드되었습니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Morocco stocks higher at close of trade; Moroccan All Shares up 0.35%",
-      "link": "https://www.investing.com/news/stock-market-news/morocco-stocks-higher-at-close-of-trade-moroccan-all-shares-up-035-4707065",
-      "summary": "",
-      "title_ko": "모로코 주식은 거래 종료 시점에 더 높습니다. 모로코 모든 주식은 0.35% 증가합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Why is Figma stock rallying today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-figma-stock-rallying-today-93CH-4707064",
-      "summary": "",
-      "title_ko": "오늘날 Figma 주식이 랠리하는 이유는 무엇입니까?",
-      "summary_ko": ""
-    },
-    {
-      "title": "US consumer sentiment plumbs record lows in May; inflation expectations increase",
+      "title": "Angst over rising cost of living pushes US consumer sentiment to record low",
       "link": "https://www.investing.com/news/economic-indicators/us-consumer-sentiment-plumbs-record-lows-in-may-inflation-expectations-increase-4706968",
       "summary": "",
-      "title_ko": "미국 소비심리 급락, 5월 최저치 기록, 인플레이션 기대치 상승",
+      "title_ko": "생활비 상승에 대한 불안은 미국 소비심리를 낮은 수준으로 밀어붙인다.",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "US Dollar: Supported into holiday as risk stays contained – Scotiabank",
-      "link": "https://www.fxstreet.com/news/us-dollar-supported-into-holiday-as-risk-stays-contained-scotiabank-202605221451",
-      "summary": "Scotiabank’s global FX strategy team highlights the Dollar is ending the week on the offensive, with modest gains against most G10 currencies as markets focus on US–Iran developments and the swearing-in of Fed Chair Kevi",
-      "title_ko": "미국 달러: 위험이 수반됨에 따라 휴가에 지원 – Scotiabank",
-      "summary_ko": "Scotiabank의 글로벌 FX 전략 팀은 시장이 미국-이란 개발과 연준 의장 Kevi의 선서에 집중함에 따라 대부분의 G10 통화에 대한 소폭의 이익으로 달러가 공세에서 이번 주를 끝내고 있다고 강조합니다."
+      "title": "Dow Jones Industrial Average shrugs off a hawkish new Fed chair to set a record",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-shrugs-off-a-hawkish-new-fed-chair-to-set-a-record-202605221715",
+      "summary": "There is confident, and then there is Friday. The Dow Jones Industrial Average (DJIA) ground out a fresh all-time high, up around a quarter of a percent, on a day that gave it nothing to celebrate.",
+      "title_ko": "다우 존스 산업 평균지수는 기록을 세우기 위해 매파적인 새로운 연준 의자를 으쓱합니다.",
+      "summary_ko": "자신감이 있고 금요일이 있습니다. 다우 존스 산업 평균 지수 (Dow Jones Industrial Average, DJIA) 는 축하할 것이 없는 날에 약 1/4% 상승한 사상 최고치를 기록했습니다."
     },
     {
-      "title": "Japanese Yen: Tokyo CPI and intervention data watched – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/japanese-yen-tokyo-cpi-and-intervention-data-watched-deutsche-bank-202605221434",
-      "summary": "Deutsche Bank analysts expect Japan’s Tokyo Consumer Price Index (CPI) to show a slight acceleration, with core CPI ex fresh food seen at 1.6% YoY and core-core at 2.0%. Industrial production is forecast to rise 0.2% MoM",
-      "title_ko": "일본 엔화: 도쿄 CPI 및 중재 데이터 관찰 – Deutsche Bank",
-      "summary_ko": "도이치뱅크 애널리스트들은 일본 도쿄 소비자 물가 지수 (CPI) 가 전년 대비 1.6%, 코어 코어가 2.0% 로 소폭 가속화될 것으로 예상하고 있다. 산업 생산은 전월 대비 0.2% 증가할 것으로 예상됩니다."
+      "title": "Fed's Warsh says he will lead reform at the Fed",
+      "link": "https://www.fxstreet.com/news/feds-warsh-says-he-will-lead-reform-at-the-fed-202605221624",
+      "summary": "Freshly-minted Federal Reserve (Fed) Chair Kevin Warsh delivered his first public speech as head of the Fed on Friday, delivering his key talking points after being sworn in.",
+      "title_ko": "Fed's Warsh는 Fed에서 개혁을 이끌 것이라고 말합니다.",
+      "summary_ko": "케빈 워시 (Kevin Warsh) 갓 주조된 연방준비제도 (Fed) 의장은 금요일에 연준의 수장으로서 첫 공개 연설을 하면서 선서 후 주요 논점을 전달했다."
     }
   ]
 }

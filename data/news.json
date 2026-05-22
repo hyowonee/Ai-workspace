@@ -1,20 +1,6 @@
 {
-  "updated_at_utc": "2026-05-22 21:13:04 UTC",
+  "updated_at_utc": "2026-05-22 22:34:12 UTC",
   "items": [
-    {
-      "title": "Lantheus weighs potential $7 billion sale after Curium’s offer, Bloomberg News reports",
-      "link": "https://www.investing.com/news/stock-market-news/lantheus-weighs-potential-7-billion-sale-bloomberg-news-reports-4707545",
-      "summary": "",
-      "title_ko": "블룸버그 뉴스는 란테우스가 퀴리움의 제안 이후 $ 70억의 잠재적 판매량을 기록했다고 보도했다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "OceanPal stock falls after Nasdaq delisting warning",
-      "link": "https://www.investing.com/news/stock-market-news/oceanpal-stock-falls-after-nasdaq-delisting-warning-93CH-4707566",
-      "summary": "",
-      "title_ko": "OceanPal 주식, 나스닥 상장폐지 경고 후 하락",
-      "summary_ko": ""
-    },
     {
       "title": "Wall Street rises, Dow hits record high as Middle East hopes lift sentiment",
       "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-rise-as-markets-monitor-usiran-peace-talks-4705988",
@@ -23,10 +9,24 @@
       "summary_ko": ""
     },
     {
-      "title": "U.S. stocks higher at close of trade; Dow Jones Industrial Average up 0.58%",
-      "link": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-058-4707516",
+      "title": "Stocks climb, yields dip as investors focus on some progress in US-Iran talks",
+      "link": "https://www.investing.com/news/stock-market-news/stocks-rise-dollar-at-sixweek-high-as-focus-remains-on-usiran-talks-4705701",
       "summary": "",
-      "title_ko": "미국 증시는 교역 마감 시점에서 상승, 다우존스 산업평균지수 0.58% 상승",
+      "title_ko": "투자자들이 미국-이란 회담의 일부 진전에 집중함에 따라 주가 상승, 수익률 하락",
+      "summary_ko": ""
+    },
+    {
+      "title": "Lantheus weighs potential $7 billion sale after Curium’s offer, Bloomberg News reports",
+      "link": "https://www.investing.com/news/stock-market-news/lantheus-weighs-potential-7-billion-sale-bloomberg-news-reports-4707545",
+      "summary": "",
+      "title_ko": "블룸버그 뉴스는 란테우스가 퀴리움의 제안 이후 $ 70억의 잠재적 판매량을 기록했다고 보도했다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Senior Walmart executives depart amid rejig under new CEO, memo shows",
+      "link": "https://www.investing.com/news/stock-market-news/senior-walmart-executives-depart-amid-reshuffling-under-new-ceo-wsj-reports-4707353",
+      "summary": "",
+      "title_ko": "고위 Walmart 경영진은 새로운 CEO, 메모 쇼에서 rejig 가운데 출발합니다.",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "AUD/USD Price Forecast: Stuck between key SMAs, RSI turns bearish",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-stuck-between-key-smas-rsi-turns-bearish-202605222007",
-      "summary": "The AUD/USD edges lower during the North American session, poised to remain sideways within key technical support and resistance levels, with the 20-day Simple Moving Average (SMA) at 0.7187 and the 50-day SMA at 0.7095.",
-      "title_ko": "AUD/USD 가격 예측: 주요 SMA 사이에 갇혀 RSI가 약세로 전환",
-      "summary_ko": "북미 세션 동안 AUD/USD 가장자리가 낮아져 주요 기술 지원 및 저항 수준 내에서 옆으로 유지될 수 있었으며, 20일 단순 이동 평균 (SMA) 은 0.7187이고 50일 SMA는 0.7095입니다."
+      "title": "Singapore Dollar: Mild bullish against US Dollar within tight range – UOB",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-mild-bullish-against-us-dollar-within-tight-range-uob-202605222112",
+      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann expect USD/SGD to edge lower intraday toward 1.2760, though a sustained break is seen as unlikely, with major support at 1.2730 intact.",
+      "title_ko": "싱가포르 달러: 타이트한 범위 내에서 미국 달러에 대한 가벼운 강세 – UOB",
+      "summary_ko": "United Overseas Bank (UOB) 의 Quek Ser Leang과 Lee Sue Ann은 USD/SGD가 1.2760으로 낮아질 것으로 예상하지만 1.2730의 주요 지원으로 지속적인 휴식은 가능하지 않은 것으로 보입니다."
     },
     {
-      "title": "ASEAN-6 inflation: Pipeline pressures and rate risks – DBS",
-      "link": "https://www.fxstreet.com/news/asean-6-inflation-pipeline-pressures-and-rate-risks-dbs-202605221951",
-      "summary": "DBS Group Research economists Radhika Rao and Chua Han Teng highlight that ASEAN-6 economies are experiencing asymmetric inflation outcomes despite a common energy shock. Indonesia and Malaysia show relatively contained ",
-      "title_ko": "ASEAN-6 인플레이션: 파이프라인 압력 및 금리 위험 – DBS",
-      "summary_ko": "DBS Group Research 경제학자 Radhika Rao와 Chua Han Teng은 ASEAN-6 경제가 일반적인 에너지 충격에도 불구하고 비대칭 인플레이션 결과를 경험하고 있다고 강조합니다. 인도네시아와 말레이시아는 상대적으로"
+      "title": "AUD/USD Price Forecast: Stuck between key SMAs as RSI turns bearish",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-stuck-between-key-smas-rsi-turns-bearish-202605222007",
+      "summary": "The AUD/USD pair edges lower during the North American session on Friday, poised to remain sideways within key technical support and resistance levels, with the 20-day Simple Moving Average (SMA) at 0.7187 and the 50-day",
+      "title_ko": "AUD/USD 가격 예측: RSI가 약세로 전환됨에 따라 주요 SMA 사이에 갇힘",
+      "summary_ko": "금요일 북미 세션에서 AUD/USD 쌍 가장자리가 낮아져 주요 기술 지원 및 저항 수준 내에서 옆으로 유지될 수 있었으며, 20일 단순 이동 평균 (SMA) 은 0.7187, 50일"
     }
   ]
 }

@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-05-22 01:29:19 UTC",
+  "updated_at_utc": "2026-05-22 05:45:18 UTC",
   "items": [
     {
-      "title": "SpaceX scrubs launch of upgraded Starship from Texas, to retry Friday",
-      "link": "https://www.investing.com/news/stock-market-news/spacex-scrubs-thursday-launch-of-starship-v3-from-texas-4705630",
+      "title": "DeepSeek prioritizes AGI over commercialization in funding talks - Bloomberg",
+      "link": "https://www.investing.com/news/stock-market-news/deepseek-prioritizes-agi-over-commercialization-in-funding-talks--bloomberg-4705755",
       "summary": "",
-      "title_ko": "SpaceX, 금요일에 재시도하기 위해 텍사스에서 업그레이드된 우주선 출시",
+      "title_ko": "DeepSeek, 자금 조달 강연에서 상용화보다 AGI를 우선시하다 - Bloomberg",
       "summary_ko": ""
     },
     {
-      "title": "Princeton Digital Group to sell China data center assets for up to $1 bln- FT",
-      "link": "https://www.investing.com/news/stock-market-news/princeton-digital-group-to-sell-china-data-center-assets-for-up-to-1-bln-ft-93CH-4705673",
+      "title": "Europe’s AI stocks shine through gloom of Iran war",
+      "link": "https://www.investing.com/news/stock-market-news/europes-ai-stocks-shine-through-gloom-of-iran-war-4705749",
       "summary": "",
-      "title_ko": "프린스턴 디지털 그룹, 중국 데이터 센터 자산 최대 $ 1 bln- FT에 매각 예정",
+      "title_ko": "유럽의 AI 주식은 이란 전쟁의 암울함을 뚫고 빛난다.",
       "summary_ko": ""
     },
     {
-      "title": "Wall St futures gain after record Dow close; US, Iran remain divided on key issues",
-      "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-gain-after-record-dow-close-us-iran-remain-divided-on-key-issues-4705671",
+      "title": "Analysis-ECB, banks rift hampers Europe’s efforts to loosen reliance on US payments giants",
+      "link": "https://www.investing.com/news/stock-market-news/analysisecb-banks-rift-hampers-europes-efforts-to-loosen-reliance-on-us-payments-giants-4705753",
       "summary": "",
-      "title_ko": "기록적인 다우 마감 후 Wall St 선물 이득; 미국, 이란은 주요 이슈에 대해 분열되어 있습니다.",
+      "title_ko": "분석-ECB, 은행 균열은 미국 지불 거인에 대한 의존도를 완화하려는 유럽의 노력을 저해합니다.",
       "summary_ko": ""
     },
     {
-      "title": "US House Republicans postpone Iran war powers vote until June",
-      "link": "https://www.investing.com/news/stock-market-news/us-house-republicans-postpone-iran-war-powers-vote-until-june-93CH-4705669",
+      "title": "PCG Power eyes Hong Kong IPO filing as early as August- Reuters",
+      "link": "https://www.investing.com/news/stock-market-news/pcg-power-eyes-hong-kong-ipo-filing-as-early-as-august-reuters-93CH-4705752",
       "summary": "",
-      "title_ko": "미국 하원 공화당, 이란 전쟁 권한 투표 6월까지 연기",
+      "title_ko": "PCG 파워아이즈 홍콩 IPO 8월 초 출원- 로이터",
+      "summary_ko": ""
+    },
+    {
+      "title": "APEC trade envoys gather in China to discuss trade imbalances, supply chain resilience",
+      "link": "https://www.investing.com/news/economic-indicators/apec-trade-envoys-gather-in-china-to-discuss-trade-imbalances-supply-chain-resilience-4705754",
+      "summary": "",
+      "title_ko": "APEC 무역 사절단이 중국에 모여 무역 불균형, 공급망 탄력성에 대해 논의합니다.",
       "summary_ko": ""
     },
     {
@@ -51,25 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "U.S. business activity holds steady in May amid Iran-linked input cost surge",
-      "link": "https://www.investing.com/news/economic-indicators/us-business-activity-holds-steady-in-may-amid-iranlinked-input-cost-surge-4704369",
-      "summary": "",
-      "title_ko": "이란과 연계된 투입 비용 급증 속에서 미국 비즈니스 활동은 5월에도 꾸준하게 유지되고 있습니다.",
-      "summary_ko": ""
+      "title": "Euro weakens against British Pound ahead of Germany IFO Business Survey",
+      "link": "https://www.fxstreet.com/news/euro-weakens-against-british-pound-ahead-of-germany-ifo-business-survey-202605220450",
+      "summary": "EUR/GBP extends its winning streak for the fifth consecutive day, trading around 0.8650 during the Asian hours on Friday.",
+      "title_ko": "유로화는 독일 IFO 비즈니스 설문 조사에 앞서 영국 파운드화 대비 약세",
+      "summary_ko": "EUR/GBP는 금요일 아시아 시간 동안 약 0.8650에 거래되며 5일 연속으로 연승 행진을 연장합니다."
     },
     {
-      "title": "WTI remains below $97.00 as US-Iran peace hopes rise",
-      "link": "https://www.fxstreet.com/news/wti-remains-below-9700-as-us-iran-peace-hopes-rise-202605220035",
-      "summary": "West Texas Intermediate (WTI) oil price extends its losses for the third successive day, trading around $96.80 per barrel during the Asian hours on Friday. Crude oil prices decline as supply concerns ease amid growing op",
-      "title_ko": "미국과 이란의 평화 희망이 높아짐에 따라 WTI는 $ 97.00 미만으로 유지됩니다.",
-      "summary_ko": "서부 텍사스 중급 (WTI) 유가는 금요일 아시아 시간 동안 배럴당 약 $ 96.80 에 거래되는 3 일 연속 손실을 연장합니다. 증가하는 운영 상황에서 공급 우려가 완화됨에 따라 원유 가격이 하락합니다."
-    },
-    {
-      "title": "Iranian official says no deal has been reached yet, but gaps have narrowed",
-      "link": "https://www.fxstreet.com/news/iranian-official-says-no-deal-has-been-reached-yet-but-gaps-have-narrowed-202605220006",
-      "summary": "Senior Iranian officials said that no deal has been reached with the United States (US), but gaps have been narrowed, Reuters reported on Friday.",
-      "title_ko": "이란 관리는 아직 합의에 이르지 못했지만 격차가 좁아졌다고 말했습니다.",
-      "summary_ko": "로이터는 이란 고위 관리들이 미국과의 합의는 이뤄지지 않았지만 격차는 좁혀졌다고 금요일 보도했다."
+      "title": "WTI Price Forecast: 200-SMA on H4/trend line confluence near $95.00 holds the key",
+      "link": "https://www.fxstreet.com/news/wti-price-forecast-200-sma-on-h4-trend-line-confluence-near-9500-holds-the-key-202605220441",
+      "summary": "West Texas Intermediate (WTI) – the benchmark US Crude Oil price – remains on the back foot for the third consecutive day and trades around mid-$96.00s during the Asian session on Friday.",
+      "title_ko": "WTI 가격 예측: $ 95.00 근처의 H4/추세선 합류점의 200-SMA가 핵심입니다.",
+      "summary_ko": "미국 원유 가격의 벤치마크인 서부 텍사스 중급 (West Texas Intermediate, WTI) 은 3일 연속 하락세를 유지하고 있으며 금요일 아시아 세션에서는 $ 96.00 초 중반에 거래됩니다."
     }
   ]
 }

@@ -1,6 +1,20 @@
 {
-  "updated_at_utc": "2026-05-23 14:08:47 UTC",
+  "updated_at_utc": "2026-05-23 15:42:05 UTC",
   "items": [
+    {
+      "title": "Uber and DoorDash hold talks with Delivery Hero over potential buyout",
+      "link": "https://www.investing.com/news/stock-market-news/uber-and-doordash-hold-talks-with-delivery-hero-over-potential-buyout-4708057",
+      "summary": "",
+      "title_ko": "Uber와 DoorDash, 배달 파트너와 잠재적 구매 대비 간담회 개최",
+      "summary_ko": ""
+    },
+    {
+      "title": "Delivery Hero confirms takeover offer from Uber",
+      "link": "https://www.investing.com/news/stock-market-news/delivery-hero-confirms-takeover-offer-from-uber-4708055",
+      "summary": "",
+      "title_ko": "Delivery Hero가 Uber의 인수 제안을 확인합니다.",
+      "summary_ko": ""
+    },
     {
       "title": "Uber and DoorDash sound out investors for Delivery Hero bid, FT reports",
       "link": "https://www.investing.com/news/stock-market-news/uber-and-doordash-sound-out-investors-for-delivery-hero-bid-ft-reports-4708049",
@@ -13,20 +27,6 @@
       "link": "https://www.investing.com/news/stock-market-news/chinas-deepseek-to-make-permanent-75-price-cut-on-flagship-v4pro-ai-model-4708051",
       "summary": "",
       "title_ko": "중국의 DeepSeek, 주력 V4 ‑ Pro AI 모델에서 75% 가격 영구 인하",
-      "summary_ko": ""
-    },
-    {
-      "title": "Where to invest when markets are at all-time highs, according to UBS",
-      "link": "https://www.investing.com/news/stock-market-news/where-to-invest-when-markets-are-at-alltime-highs-according-to-ubs-4708045",
-      "summary": "",
-      "title_ko": "UBS에 따르면 시장이 사상 최고치를 기록할 때 어디에 투자해야 할까요?",
-      "summary_ko": ""
-    },
-    {
-      "title": "Nvidia CEO calls for stricter compliance as Super Micro exports face scrutiny",
-      "link": "https://www.investing.com/news/stock-market-news/nvidia-ceo-calls-for-stricter-compliance-as-super-micro-exports-face-scrutiny-4708044",
-      "summary": "",
-      "title_ko": "Nvidia CEO는 Super Micro 수출에 대한 면밀한 조사가 진행됨에 따라 보다 엄격한 규정 준수를 요구합니다.",
       "summary_ko": ""
     },
     {
@@ -56,6 +56,20 @@
       "summary": "",
       "title_ko": "경제적인 우려가 커지면서 미시간 소비심리 위축",
       "summary_ko": ""
+    },
+    {
+      "title": "Singapore Dollar: Mild bullish against US Dollar within tight range – UOB",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-mild-bullish-against-us-dollar-within-tight-range-uob-202605222112",
+      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann expect USD/SGD to edge lower intraday toward 1.2760, though a sustained break is seen as unlikely, with major support at 1.2730 intact.",
+      "title_ko": "싱가포르 달러: 타이트한 범위 내에서 미국 달러에 대한 가벼운 강세 – UOB",
+      "summary_ko": "United Overseas Bank (UOB) 의 Quek Ser Leang과 Lee Sue Ann은 USD/SGD가 1.2760으로 낮아질 것으로 예상하지만 1.2730의 주요 지원으로 지속적인 휴식은 가능하지 않은 것으로 보입니다."
+    },
+    {
+      "title": "AUD/USD Price Forecast: Stuck between key SMAs as RSI turns bearish",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-stuck-between-key-smas-rsi-turns-bearish-202605222007",
+      "summary": "The AUD/USD pair edges lower during the North American session on Friday, poised to remain sideways within key technical support and resistance levels, with the 20-day Simple Moving Average (SMA) at 0.7187 and the 50-day",
+      "title_ko": "AUD/USD 가격 예측: RSI가 약세로 전환됨에 따라 주요 SMA 사이에 갇힘",
+      "summary_ko": "금요일 북미 세션에서 AUD/USD 쌍 가장자리가 낮아져 주요 기술 지원 및 저항 수준 내에서 옆으로 유지될 수 있었으며, 20일 단순 이동 평균 (SMA) 은 0.7187, 50일"
     }
   ]
 }

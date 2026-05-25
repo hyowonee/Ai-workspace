@@ -1,6 +1,13 @@
 {
-  "updated_at_utc": "2026-05-24 22:33:11 UTC",
+  "updated_at_utc": "2026-05-25 00:01:38 UTC",
   "items": [
+    {
+      "title": "Stocks rise, oil and dollar slide on Middle East peace hopes",
+      "link": "https://www.investing.com/news/stock-market-news/stocks-rise-oil-and-dollar-slide-on-middle-east-peace-hopes-4708247",
+      "summary": "",
+      "title_ko": "중동 평화 희망에 대한 증시 상승, 석유 및 달러 슬라이드",
+      "summary_ko": ""
+    },
     {
       "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
       "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4708236",
@@ -20,13 +27,6 @@
       "link": "https://www.investing.com/news/stock-market-news/uber-weighs-higher-bid-for-delivery-hero-ft-reports-4708228",
       "summary": "",
       "title_ko": "FT 보고서에 따르면 Uber는 Delivery Hero에 대한 더 높은 입찰가를 제시합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Most Middle East markets gain on expectations for U.S.-Iran peace deal",
-      "link": "https://www.investing.com/news/stock-market-news/most-middle-east-markets-gain-on-expectations-for-usiran-peace-deal-4708229",
-      "summary": "",
-      "title_ko": "대부분의 중동 시장은 미국과 이란의 평화 협정에 대한 기대를 바탕으로 성장합니다.",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Australian Dollar gains momentum above 0.7150 on US-Iran peace deal hopes",
-      "link": "https://www.fxstreet.com/news/australian-dollar-gains-momentum-above-07150-on-us-iran-peace-deal-hopes-202605242223",
-      "summary": "The AUD/USD pair gains momentum to near 0.7160 during the early Asian session on Monday.",
-      "title_ko": "호주 달러, 미국-이란 평화 협상 희망에 대해 0.7150 이상의 모멘텀 확보",
-      "summary_ko": "AUD/USD 쌍은 월요일의 초기 아시아 세션에서 0.7160에 가까운 모멘텀을 얻습니다."
+      "title": "Gold climbs above $4,550 on US‑Iran deal hopes",
+      "link": "https://www.fxstreet.com/news/gold-climbs-above-4-550-on-us-iran-deal-hopes-202605242317",
+      "summary": "Gold price (XAU/USD) rises to near $4,570 during the early Asian trading hours on Monday. The precious metal attracts some buyers on weaker US Dollar (USD) after the reports that the United States (US) and Iran are closi",
+      "title_ko": "금, 미국-이란 거래 희망에 $ 4,550 이상 상승",
+      "summary_ko": "금 가격 (XAU/USD) 은 월요일 아시아 초기 거래 시간 동안 거의 $ 4,570까지 상승합니다. 귀금속은 미국 (미국) 과 이란이 밀접하다는 보고 이후 미국 달러 (USD) 약세로 일부 구매자를 끌어들입니다."
     },
     {
-      "title": "Middle East War updates: Trump says US-Iran peace deal ‘isn’t even fully negotiated yet’",
-      "link": "https://www.fxstreet.com/news/middle-east-war-updates-trump-says-us-iran-peace-deal-isnt-even-fully-negotiated-yet-202605242217",
-      "summary": "Here’s a brief recap of the key developments in the Middle East war that occurred over the weekend, which are expected to have a significant impact on markets in the upcoming week.",
-      "title_ko": "중동 전쟁 업데이트: 트럼프 대통령은 미국과 이란의 평화 협상이 ‘아직 완전히 협상되지도 않았다’ 고 말했습니다.",
-      "summary_ko": "다음 주에 시장에 큰 영향을 미칠 것으로 예상되는 주말에 발생한 중동 전쟁의 주요 발전에 대한 간략한 요약입니다."
+      "title": "WTI tumbles 5% on renewed hopes of the Strait of Hormuz reopening",
+      "link": "https://www.fxstreet.com/news/wti-tumbles-5-on-renewed-hopes-of-the-strait-of-hormuz-reopening-202605242258",
+      "summary": "West Texas Intermediate (WTI) – the US oil benchmark – has witnessed a steep bearish opening gap on Monday, now losing nearly 5%, on its way to surrendering the $90 threshold.",
+      "title_ko": "WTI, 호르무즈 해협 재개에 대한 새로운 희망에 5% 하락",
+      "summary_ko": "미국 석유 벤치 마크 인 West Texas Intermediate (WTI) 는 월요일에 가파른 약세 갭을 목격했으며, 현재 거의 5% 를 잃어 $ 90 임계 값을 포기하는 길에 있습니다."
     }
   ]
 }

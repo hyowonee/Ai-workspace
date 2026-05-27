@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-05-27 21:01:50 UTC",
+  "updated_at_utc": "2026-05-27 22:56:29 UTC",
   "items": [
     {
-      "title": "Perella Weinberg set to reduce 10% of workforce - Bloomberg",
-      "link": "https://www.investing.com/news/stock-market-news/perella-weinberg-set-to-reduce-10-of-workforce--bloomberg-93CH-4713182",
+      "title": "Wells Fargo CEO sees mid-teens growth in investment banking, trading",
+      "link": "https://www.investing.com/news/stock-market-news/wells-fargo-ceo-sees-midteens-growth-in-investment-banking-trading-4713366",
       "summary": "",
-      "title_ko": "Perella Weinberg, 직원 10% 감축 - Bloomberg",
+      "title_ko": "Wells Fargo CEO는 투자 은행, 거래에서 10대 중반의 성장을 보고 있습니다.",
       "summary_ko": ""
     },
     {
-      "title": "Snowflake raises annual product revenue forecast, strikes $6 billion AWS deal",
-      "link": "https://www.investing.com/news/stock-market-news/snowflake-raises-annual-product-revenue-forecast-as-enterprises-ramp-up-ai-workloads-4713038",
+      "title": "US, Mexico set three rounds of trade deal talks without Canada",
+      "link": "https://www.investing.com/news/stock-market-news/us-mexico-set-three-rounds-of-trade-deal-talks-without-canada-4712769",
       "summary": "",
-      "title_ko": "Snowflake는 연간 제품 매출 예측을 높이고 $ 60억 규모의 AWS 거래를 성사시킵니다.",
+      "title_ko": "미국, 멕시코, 캐나다 없이 3차 무역협상 타결",
       "summary_ko": ""
     },
     {
-      "title": "Synopsys raises annual forecast on demand for AI chip design software",
-      "link": "https://www.investing.com/news/stock-market-news/synopsys-raises-annual-forecast-on-demand-for-ai-chip-design-software-4713155",
+      "title": "Bayer sued for allegedly monopolizing US market for GMO corn seeds",
+      "link": "https://www.investing.com/news/stock-market-news/bayer-sued-for-allegedly-monopolizing-us-market-for-gmo-corn-seeds-4713347",
       "summary": "",
-      "title_ko": "Synopsys는 AI 칩 설계 소프트웨어에 대한 수요에 대한 연간 예측을 제기합니다.",
+      "title_ko": "Bayer는 GMO 옥수수 종자에 대한 미국 시장을 독점했다고 주장하여 소송을 제기했습니다.",
       "summary_ko": ""
     },
     {
-      "title": "After-Hours Stock Movers: CRM, MRVL, SNOW, HPQ, DDOG, MDB, P, SNPS, BRZE, NCNO",
-      "link": "https://www.investing.com/news/stock-market-news/afterhours-stock-movers-crm-mrvl-snow-hpq-ddog-mdb-p-snps-brze-ncno-432SI-4713133",
+      "title": "Amazon puts Amwell co-founder in charge of healthcare unit; longtime executive to depart",
+      "link": "https://www.investing.com/news/stock-market-news/amazon-puts-amwell-cofounder-in-charge-of-healthcare-unit-longtime-executive-to-depart-4713348",
       "summary": "",
-      "title_ko": "애프터아워 스톡 무버: CRM, MRVL, SNOW, HPQ, DDOG, MDB, P, SNPS, BRZE, NCNO",
+      "title_ko": "아마존은 Amwell 공동 창립자를 헬스케어 부서의 책임자로 임명하고, 오랜 임원을 떠나게 합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Oil inventories fall less than expected, impacting crude prices",
+      "link": "https://www.investing.com/news/economic-indicators/oil-inventories-fall-less-than-expected-impacting-crude-prices-93CH-4713217",
+      "summary": "",
+      "title_ko": "석유 재고가 예상보다 적게 떨어져 원유 가격에 영향을 미칩니다.",
       "summary_ko": ""
     },
     {
@@ -51,25 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Analysis-Canada turns from US to Europe as Iran war propels aluminium higher",
-      "link": "https://www.investing.com/news/economic-indicators/analysiscanada-turns-from-us-to-europe-as-iran-war-propels-aluminium-higher-4712698",
-      "summary": "",
-      "title_ko": "이란 전쟁이 알루미늄을 더 높게 추진함에 따라 Analysis-Canada는 미국에서 유럽으로 변모합니다.",
-      "summary_ko": ""
+      "title": "Aussie cracks as cool CPI meets a stubborn Kiwi",
+      "link": "https://www.fxstreet.com/news/aussie-cracks-as-cool-cpi-meets-a-stubborn-kiwi-202605272146",
+      "summary": "The Aussie Dollar finally tripped on Wednesday, dropping nearly 2% against the New Zealand Dollar. AUD/NZD had been grinding to generational highs near 1.2300, fuelled by a story of relative central bank divergence that ",
+      "title_ko": "호주는 시원한 CPI가 완고한 키위를 만나면서 균열이 생깁니다.",
+      "summary_ko": "호주 달러는 수요일에 뉴질랜드 달러에 대해 거의 2% 하락하면서 마침내 하락했습니다. AUD/NZD는 1.2300 근처에서 세대 최고치로 갈아치우고 있었는데, 이는 상대적인 중앙 은행의 분기점에 대한 이야기에 힘입어"
     },
     {
-      "title": "Fed Cook: Warns rate hike possible as inflation worsens",
-      "link": "https://www.fxstreet.com/news/fed-cook-warns-rate-hike-possible-as-inflation-worsens-202605272035",
-      "summary": "Fed Governor Lisa Cook crossed the wires, saying the right course of action is to keep rates steady due to upside risks to inflation, which is moving in the “wrong direction.”",
-      "title_ko": "Fed Cook: 인플레이션이 악화됨에 따라 금리 인상을 경고",
-      "summary_ko": "리사 쿡 연준 총재는 \"잘못된 방향\" 으로 가고 있는 인플레이션에 대한 거꾸로 된 위험으로 인해 금리를 일정하게 유지하는 것이 올바른 조치라고 말하며 전선을 넘었다."
-    },
-    {
-      "title": "Banxico slashes 2026 GDP forecast, sees inflation rising",
-      "link": "https://www.fxstreet.com/news/banxico-slashes-2026-gdp-forecast-sees-inflation-rising-202605272026",
-      "summary": "The Bank of Mexico (Banxico) released its Q1 2026 report on Wednesday, revising down 2026 GDP growth from 1.6% to 1.1%. The Mexican institution blamed a “considerably weaker” first-quarter performance, warning that inves",
-      "title_ko": "반치코, 2026년 GDP 전망을 무너뜨리고 인플레이션 상승",
-      "summary_ko": "멕시코 은행 (Banxico) 은 2026년 1분기 보고서를 발표하여 2026년 GDP 성장률을 1.6% 에서 1.1% 로 수정했습니다. 멕시코 기관은 \"상당히 약한\" 1 분기 실적을 비난하며 경고했다."
+      "title": "RBNZ's Breman talks hike, votes hold",
+      "link": "https://www.fxstreet.com/news/breman-talks-hike-votes-hold-202605272128",
+      "summary": "Reserve Bank of New Zealand (RBNZ) Governor Anna Breman's commentary was exactly what you'd expect from a central banker who just held rates while half her own committee voted to hike: a tidy list of reasons the bank is ",
+      "title_ko": "RBNZ의 브레만 회담 하이킹, 투표 보류",
+      "summary_ko": "뉴질랜드 준비 은행 (RBNZ) 안나 브레만 (Anna Breman) 총재의 논평은 방금 금리를 보유한 중앙 은행가에게 기대했던 것과 정확히 같았으며, 절반의위원회는 인상에 투표했습니다. 은행이 정돈 된 이유 목록"
     }
   ]
 }

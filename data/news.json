@@ -1,32 +1,46 @@
 {
-  "updated_at_utc": "2026-05-27 18:31:03 UTC",
+  "updated_at_utc": "2026-05-27 21:01:50 UTC",
   "items": [
     {
-      "title": "Meta shares rise over on premium subscription rollout",
-      "link": "https://www.investing.com/news/stock-market-news/meta-shares-rise-over-on-premium-subscription-rollout-93CH-4712901",
+      "title": "Perella Weinberg set to reduce 10% of workforce - Bloomberg",
+      "link": "https://www.investing.com/news/stock-market-news/perella-weinberg-set-to-reduce-10-of-workforce--bloomberg-93CH-4713182",
       "summary": "",
-      "title_ko": "프리미엄 구독 출시 시 메타 주식 상승",
+      "title_ko": "Perella Weinberg, 직원 10% 감축 - Bloomberg",
       "summary_ko": ""
     },
     {
-      "title": "JPMorgan CEO sees expenses climbing; eyes up to $20 billion M&amp;A opportunity",
-      "link": "https://www.investing.com/news/stock-market-news/jpmorgan-ceo-sees-investment-banking-fees-rising-10-or-more-in-second-quarter-4712577",
+      "title": "Snowflake raises annual product revenue forecast, strikes $6 billion AWS deal",
+      "link": "https://www.investing.com/news/stock-market-news/snowflake-raises-annual-product-revenue-forecast-as-enterprises-ramp-up-ai-workloads-4713038",
       "summary": "",
-      "title_ko": "JP모건 CEO는 경비 상승을 목격했습니다. 최대 200억 달러의 M&amp;A 기회에 주목하십시오 ($ 200억 달러).",
+      "title_ko": "Snowflake는 연간 제품 매출 예측을 높이고 $ 60억 규모의 AWS 거래를 성사시킵니다.",
       "summary_ko": ""
     },
     {
-      "title": "Stocks make small moves, S&amp;P 500 and Nasdaq muted while Dow scales record high",
-      "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-steady-after-sp-500-nasdaq-hit-record-highs-iran-tensions-weigh-4711046",
+      "title": "Synopsys raises annual forecast on demand for AI chip design software",
+      "link": "https://www.investing.com/news/stock-market-news/synopsys-raises-annual-forecast-on-demand-for-ai-chip-design-software-4713155",
       "summary": "",
-      "title_ko": "주식은 작은 움직임을 보이고, S&amp;P 500과 나스닥은 음소거되며, 다우 저울은 최고치를 기록합니다.",
+      "title_ko": "Synopsys는 AI 칩 설계 소프트웨어에 대한 수요에 대한 연간 예측을 제기합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Qualcomm, Arm among market cap stock movers on Wednesday",
-      "link": "https://www.investing.com/news/stock-market-news/qualcomm-arm-among-market-cap-stock-movers-on-wednesday-93CH-4712879",
+      "title": "After-Hours Stock Movers: CRM, MRVL, SNOW, HPQ, DDOG, MDB, P, SNPS, BRZE, NCNO",
+      "link": "https://www.investing.com/news/stock-market-news/afterhours-stock-movers-crm-mrvl-snow-hpq-ddog-mdb-p-snps-brze-ncno-432SI-4713133",
       "summary": "",
-      "title_ko": "Qualcomm, 수요일 시가 총액 주식 이동자 중 Arm",
+      "title_ko": "애프터아워 스톡 무버: CRM, MRVL, SNOW, HPQ, DDOG, MDB, P, SNPS, BRZE, NCNO",
+      "summary_ko": ""
+    },
+    {
+      "title": "Fed’s Cook says she is prepared to raise rates if inflation doesn’t ease",
+      "link": "https://www.investing.com/news/economic-indicators/feds-cook-says-she-is-prepared-to-raise-rates-if-inflation-doesnt-ease-4712992",
+      "summary": "",
+      "title_ko": "Fed의 Cook은 인플레이션이 완화되지 않으면 금리를 인상할 준비가 되어 있다고 말합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "New Zealand plans austere budget in election year as Iran war fans economic risks",
+      "link": "https://www.investing.com/news/economic-indicators/new-zealand-plans-austere-budget-in-election-year-as-iran-war-fans-economic-risks-4712936",
+      "summary": "",
+      "title_ko": "뉴질랜드는 이란 전쟁 팬의 경제적 위험으로 선거 연도에 엄격한 예산을 계획하고 있습니다.",
       "summary_ko": ""
     },
     {
@@ -44,32 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Peronist leaders in Argentina seek broad alliance as Milei loses support",
-      "link": "https://www.investing.com/news/economic-indicators/peronist-leaders-in-argentina-seek-broad-alliance-as-milei-loses-support-4711926",
-      "summary": "",
-      "title_ko": "아르헨티나의 페론주의 지도자들은 밀레이가 지지를 잃으면서 광범위한 동맹을 모색하고 있다.",
-      "summary_ko": ""
+      "title": "Fed Cook: Warns rate hike possible as inflation worsens",
+      "link": "https://www.fxstreet.com/news/fed-cook-warns-rate-hike-possible-as-inflation-worsens-202605272035",
+      "summary": "Fed Governor Lisa Cook crossed the wires, saying the right course of action is to keep rates steady due to upside risks to inflation, which is moving in the “wrong direction.”",
+      "title_ko": "Fed Cook: 인플레이션이 악화됨에 따라 금리 인상을 경고",
+      "summary_ko": "리사 쿡 연준 총재는 \"잘못된 방향\" 으로 가고 있는 인플레이션에 대한 거꾸로 된 위험으로 인해 금리를 일정하게 유지하는 것이 올바른 조치라고 말하며 전선을 넘었다."
     },
     {
-      "title": "China’s industrial profits rise 24.7% in April on energy prices",
-      "link": "https://www.investing.com/news/economic-indicators/chinas-industrial-profits-rise-247-in-april-on-energy-prices-93CH-4711357",
-      "summary": "",
-      "title_ko": "중국의 산업 이익은 에너지 가격에서 4월에 24.7% 상승합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Emerging Markets: Food producers gain on inflation story – BNY",
-      "link": "https://www.fxstreet.com/news/emerging-markets-food-producers-gain-on-inflation-story-bny-202605271749",
-      "summary": "BNY’s Geoff Yu highlights strong flows into EM food producers as supply disruptions through the Strait of Hormuz and higher fertilizer and energy costs push food prices up policymakers’ agendas.",
-      "title_ko": "신흥 시장: 식량 생산자가 인플레이션 스토리에서 얻는 이득 – BNY",
-      "summary_ko": "BNY의 제프 유 (Geoff Yu) 는 호르무즈 해협 (Strait of Hormuz) 을 통한 공급 중단과 더 높은 비료 및 에너지 비용으로 인해 식량 가격이 정책 입안자의 의제를 밀어 올리면서 EM 식량 생산 업체로 유입되는 강력한 흐름을 강조합니다."
-    },
-    {
-      "title": "Gold sinks to two-month lows as doubts on Middle East deal revive USD demand",
-      "link": "https://www.fxstreet.com/news/gold-sinks-to-two-month-lows-as-doubts-on-middle-east-deal-revive-usd-demand-202605271728",
-      "summary": "Gold (XAU/USD) plungesmore than 1% on Wednesday as the Greenback recovers some ground, pairing some of its earlier losses, while risk appetite shifted to neutral amid speculation that US-Iran negotiations could stall. At",
-      "title_ko": "금은 중동 거래에 대한 의구심으로 2 개월 최저치로 떨어지며 USD 수요를 되살립니다.",
-      "summary_ko": "금 (XAU/USD) 은 그린백이 일부 지반을 회복함에 따라 수요일에 1% 이상 급락하여 이전의 손실 중 일부가 짝을 이루는 반면, 미국-이란 협상이 중단될 수 있다는 추측 속에서 위험의 욕구가 중립으로 전환되었습니다. At"
+      "title": "Banxico slashes 2026 GDP forecast, sees inflation rising",
+      "link": "https://www.fxstreet.com/news/banxico-slashes-2026-gdp-forecast-sees-inflation-rising-202605272026",
+      "summary": "The Bank of Mexico (Banxico) released its Q1 2026 report on Wednesday, revising down 2026 GDP growth from 1.6% to 1.1%. The Mexican institution blamed a “considerably weaker” first-quarter performance, warning that inves",
+      "title_ko": "반치코, 2026년 GDP 전망을 무너뜨리고 인플레이션 상승",
+      "summary_ko": "멕시코 은행 (Banxico) 은 2026년 1분기 보고서를 발표하여 2026년 GDP 성장률을 1.6% 에서 1.1% 로 수정했습니다. 멕시코 기관은 \"상당히 약한\" 1 분기 실적을 비난하며 경고했다."
     }
   ]
 }

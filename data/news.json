@@ -1,46 +1,39 @@
 {
-  "updated_at_utc": "2026-05-28 00:03:43 UTC",
+  "updated_at_utc": "2026-05-28 04:49:53 UTC",
   "items": [
     {
-      "title": "Wall Street indexes post closing record highs, AI rally pauses",
-      "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-rise-on-ai-optimism-investors-optimistic-on-mideast-truce-4711468",
+      "title": "Toyota sales drop for third month on declines in China, Middle East",
+      "link": "https://www.investing.com/news/stock-market-news/toyota-sales-drop-for-third-month-on-declines-in-china-middle-east-4713599",
       "summary": "",
-      "title_ko": "월스트리트 인덱스 마감 후 사상 최고치 기록, AI 랠리 일시 중지",
+      "title_ko": "중국, 중동의 하락으로 도요타 판매가 3개월째 하락",
       "summary_ko": ""
     },
     {
-      "title": "Salesforce revenue forecast disappoints amid AI disruption fears",
-      "link": "https://www.investing.com/news/stock-market-news/salesforce-beats-firstquarter-revenue-estimates-4713034",
+      "title": "China’s auto industry is unlikely to return to ’golden era,’ NIO CEO says",
+      "link": "https://www.investing.com/news/stock-market-news/chinas-auto-industry-is-unlikely-to-return-to-golden-era-nio-ceo-says-4713583",
       "summary": "",
-      "title_ko": "AI 중단 우려로 인해 Salesforce 수익 예측이 실망스러움",
+      "title_ko": "NIO CEO는 중국의 자동차 산업이 ’황금 시대’ 로 돌아갈 것 같지 않다고 말합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Eleven feared dead in Washington state chemical vat rupture, operation moves to recovery effort",
-      "link": "https://www.investing.com/news/stock-market-news/contamination-entered-columbia-river-official-says-after-chemical-tank-rupture-in-washington-state-4713279",
+      "title": "Trump Administration in Talks to Fund US Drone Companies- WSJ",
+      "link": "https://www.investing.com/news/stock-market-news/trump-administration-in-talks-to-fund-us-drone-companies-wsj-93CH-4713593",
       "summary": "",
-      "title_ko": "워싱턴 주 화학물질 배트 파열로 사망한 11명의 두려움, 운영은 복구 노력으로 이동",
+      "title_ko": "트럼프 행정부, 미국 드론 기업 자금 지원 협상 - WSJ",
       "summary_ko": ""
     },
     {
-      "title": "Snowflake boosts forecast, signs $6 billion AWS deal as enterprise AI adoption grows",
-      "link": "https://www.investing.com/news/stock-market-news/snowflake-raises-annual-product-revenue-forecast-as-enterprises-ramp-up-ai-workloads-4713038",
+      "title": "Meituan shares hit 2-yr low after denying massive layoff plans",
+      "link": "https://www.investing.com/news/stock-market-news/meituan-shares-hit-2yr-low-after-denying-massive-layoff-plans-4713590",
       "summary": "",
-      "title_ko": "눈송이는 기업 AI 채택이 증가함에 따라 예측을 높이고 $ 60억 규모의 AWS 거래에 서명합니다.",
+      "title_ko": "메이투안 주식은 대규모 정리해고 계획을 부인한 후 2년 만에 최저치를 기록했습니다.",
       "summary_ko": ""
     },
     {
-      "title": "UK consumer services sector sentiment falls to lowest in over a year",
-      "link": "https://www.investing.com/news/economic-indicators/uk-consumer-services-sector-sentiment-falls-to-lowest-in-over-a-year-4713419",
+      "title": "NZ shuns ’sugar hits’ in budget, slashes growth forecast as Iran war jolts economy",
+      "link": "https://www.investing.com/news/economic-indicators/new-zealand-forecasts-narrower-budget-deficit-for-202526-4713568",
       "summary": "",
-      "title_ko": "영국 소비자 서비스 부문 정서, 1년여 만에 최저 수준으로 하락",
-      "summary_ko": ""
-    },
-    {
-      "title": "Oil inventories fall less than expected, impacting crude prices",
-      "link": "https://www.investing.com/news/economic-indicators/oil-inventories-fall-less-than-expected-impacting-crude-prices-93CH-4713217",
-      "summary": "",
-      "title_ko": "석유 재고가 예상보다 적게 떨어져 원유 가격에 영향을 미칩니다.",
+      "title_ko": "뉴질랜드는 예산에서 ’설탕 타격’ 을 피하고 이란 전쟁이 경제를 요동치면서 성장 예측을 줄입니다.",
       "summary_ko": ""
     },
     {
@@ -51,25 +44,32 @@
       "summary_ko": ""
     },
     {
-      "title": "New Zealand plans austere budget in election year as Iran war fans economic risks",
-      "link": "https://www.investing.com/news/economic-indicators/new-zealand-plans-austere-budget-in-election-year-as-iran-war-fans-economic-risks-4712936",
+      "title": "Australia business investment jumps 6.5% in Q1 on data rush",
+      "link": "https://www.investing.com/news/economic-indicators/australia-business-investment-jumps-65-in-q1-on-data-rush-4713563",
       "summary": "",
-      "title_ko": "뉴질랜드는 이란 전쟁 팬의 경제적 위험으로 선거 연도에 엄격한 예산을 계획하고 있습니다.",
+      "title_ko": "호주 사업 투자, 데이터 러시로 1분기 6.5% 급증",
       "summary_ko": ""
     },
     {
-      "title": "US military carries out new strikes on an Iranian military site — Reuters",
-      "link": "https://www.fxstreet.com/news/us-military-carries-out-new-strikes-on-an-iranian-military-site-reuters-202605272351",
-      "summary": "The US military carried out ‌new strikes in Iran targeting a military site that posed a threat to US forces and commercial traffic in the Strait of Hormuz, Reuters ‌reported on Wednesday.",
-      "title_ko": "미군이 이란의 군사 기지에 새로운 공격을 가하고 있다 — 로이터",
-      "summary_ko": "미군은 수요일 호르무즈 해협에서 미군과 상업적 교통에 위협이 되는 군사 기지를 겨냥하여 이란에서 새로운 공격을 수행했다고 로이터 통신이 보도했다."
+      "title": "Australia household spending falls 1.1% in April, after March jump",
+      "link": "https://www.investing.com/news/economic-indicators/australia-household-spending-falls-11-in-april-after-march-jump-4713556",
+      "summary": "",
+      "title_ko": "호주 가계 지출은 3월 점프 이후 4월에 1.1% 감소합니다.",
+      "summary_ko": ""
     },
     {
-      "title": "US President Donald Trump says he won’t rush Iran deal because he doesn’t care about the midterms",
-      "link": "https://www.fxstreet.com/news/us-president-donald-trump-says-he-wont-rush-iran-deal-because-he-doesnt-care-about-the-midterms-202605272318",
-      "summary": "US President Donald Trump said that he won’t be rushed into a deal, warning that Iran’s efforts to outlast him won’t work because he doesn’t “care about the midterms,” CNN reported on Wednesday.",
-      "title_ko": "도널드 트럼프 미국 대통령은 중간고사를 신경 쓰지 않기 때문에 이란과의 거래를 서두르지 않겠다고 말했습니다.",
-      "summary_ko": "CNN은 도널드 트럼프 미국 대통령이 \"중간 고사에 신경 쓰지 않기 때문에 이란의 노력이 효과가 없을 것\" 이라고 경고하면서 거래에 서두르지 않을 것이라고 말했다고 수요일 보도했다."
+      "title": "Breaking: $4,400 key support broken as Gold drops to two-month low on fresh Iran escalation",
+      "link": "https://www.fxstreet.com/news/breaking-4-400-key-support-broken-as-gold-drops-to-two-month-low-on-fresh-iran-escalation-202605280355",
+      "summary": "Gold (XAU/USD) remains under some selling pressure for the third straight day and drops to sub-$4,400 levels or a fresh two-month low during the Asian session on Thursday.",
+      "title_ko": "깨짐: 새로운 이란 이관으로 금이 2개월 낮아짐에 따라 $ 4,400의 주요 지원이 깨짐",
+      "summary_ko": "금 (XAU/USD) 은 3 일 연속 판매 압력을 받고 목요일 아시아 세션에서 $ 4,400 수준 이하 또는 신선한 2 개월 최저 수준으로 하락합니다."
+    },
+    {
+      "title": "US Dollar Index jumps to near 99.50 as Iran’s retaliation threats US-Iran deal optimism",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-jumps-to-near-9950-as-irans-retaliation-threats-us-iran-deal-optimism-202605280351",
+      "summary": "The US Dollar (USD) attracts significant bids in the Asian trading session on Thursday, as Iran retaliates against the United States (US) attack near Bandar Abbas airport, Tasnim agency reported.",
+      "title_ko": "이란의 보복이 미국-이란 거래 낙관론을 위협함에 따라 미국 달러 지수는 99.50 근처로 뛰어 올랐다.",
+      "summary_ko": "이란이 반다르 압바스 공항 근처에서 미국 (US) 의 공격에 보복하면서 미국 달러 (USD) 가 목요일 아시아 무역 세션에서 상당한 입찰을 유치했다고 타스님 기관이 보도했다."
     }
   ]
 }

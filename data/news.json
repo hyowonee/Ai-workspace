@@ -1,39 +1,46 @@
 {
-  "updated_at_utc": "2026-05-28 16:39:27 UTC",
+  "updated_at_utc": "2026-05-28 19:36:28 UTC",
   "items": [
     {
-      "title": "Energy use forcing rethink of AI chip design, TSMC says",
-      "link": "https://www.investing.com/news/stock-market-news/energy-use-forcing-rethink-of-ai-chip-design-tsmc-says-4715097",
+      "title": "Anthropic valued at $965 billion after raising $65 billion in latest round",
+      "link": "https://www.investing.com/news/stock-market-news/anthropic-raises-65-billion-now-valued-at-965-billion-4715214",
       "summary": "",
-      "title_ko": "TSMC는 에너지 사용으로 인해 AI 칩 설계에 대한 재고가 필요하다고 말합니다.",
+      "title_ko": "최근 라운드에서 $ 65 billion을 모금한 후 $ 965 billion으로 평가되는 Anthropic",
       "summary_ko": ""
     },
     {
-      "title": "Sig Sauer must face NY police detective’s lawsuit claiming gun fired on its own",
-      "link": "https://www.investing.com/news/stock-market-news/sig-sauer-must-face-ny-police-detectives-lawsuit-claiming-gun-fired-on-its-own-4715094",
+      "title": "Canada’s South Bow flags need for durable US permit before Keystone XL restart",
+      "link": "https://www.investing.com/news/stock-market-news/south-bow-delays-keystone-xl-restart-until-us-permit-assured-4715224",
       "summary": "",
-      "title_ko": "Sig Sauer는 스스로 총을 발사했다고 주장하는 NY 경찰 형사의 소송에 직면해야합니다.",
+      "title_ko": "Keystone XL이 재시작되기 전에 캐나다의 South Bow 플래그는 내구성 있는 미국 허가가 필요합니다",
       "summary_ko": ""
     },
     {
-      "title": "Best Buy forecasts upbeat sales as AI gadgets boost demand; shares rise",
-      "link": "https://www.investing.com/news/stock-market-news/best-buy-forecasts-upbeat-sales-on-steady-gadgets-demand-ads-and-marketplace-growth-4714059",
+      "title": "Baton Rouge to Melbourne: Iran war and rising prices upend jet fuel trade",
+      "link": "https://www.investing.com/news/stock-market-news/baton-rouge-to-melbourne-iran-war-and-rising-prices-upend-jet-fuel-trade-4714350",
       "summary": "",
-      "title_ko": "베스트 바이 (Best Buy) 는 인공지능 (AI) 가젯이 수요를 높이고 주식이 증가함에 따라 낙관적인 매출을 예측합니다.",
+      "title_ko": "배턴루지 출발 멜버른 도착: 이란 전쟁과 가격 상승으로 제트 연료 거래 증가",
       "summary_ko": ""
     },
     {
-      "title": "TSX trades higher despite fresh U.S.-Iran hostilities; U.S. inflation data",
-      "link": "https://www.investing.com/news/stock-market-news/tsx-futures-edge-lower-amid-fresh-usiran-hostilities-us-inflation-data-4714478",
+      "title": "MediaTek stock remains Morgan Stanley top pick on cloud AI strength",
+      "link": "https://www.investing.com/news/stock-market-news/mediatek-stock-remains-morgan-stanley-top-pick-on-cloud-ai-strength-93CH-4715250",
       "summary": "",
-      "title_ko": "TSX는 신선한 미국-이란 적대 행위에도 불구하고 더 높은 거래를 합니다. 미국 인플레이션 데이터",
+      "title_ko": "MediaTek 주식은 클라우드 AI 강도에서 Morgan Stanley TOP PICK으로 유지됩니다.",
       "summary_ko": ""
     },
     {
-      "title": "Crude oil inventories fall less than forecasted, pressuring prices",
-      "link": "https://www.investing.com/news/economic-indicators/crude-oil-inventories-fall-less-than-forecasted-pressuring-prices-93CH-4715059",
+      "title": "Costlier flights, hotels divide US summer travel into haves and have-nots",
+      "link": "https://www.investing.com/news/economic-indicators/costlier-flights-hotels-divide-us-summer-travel-into-haves-and-havenots-4713882",
       "summary": "",
-      "title_ko": "원유 재고는 예상보다 적게 하락하여 가격을 압박합니다.",
+      "title_ko": "값비싼 항공편, 호텔이 미국 여름 여행을 하브와 해브로 나눕니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "US weekly jobless claims increase marginally amid low layoffs",
+      "link": "https://www.investing.com/news/economic-indicators/us-weekly-jobless-claims-increase-marginally-amid-low-layoffs-4714434",
+      "summary": "",
+      "title_ko": "해고율이 낮은 가운데 미국 주간 실직 보험금이 소폭 증가했습니다.",
       "summary_ko": ""
     },
     {
@@ -44,32 +51,25 @@
       "summary_ko": ""
     },
     {
-      "title": "Natural gas storage report shows lower-than-expected build",
-      "link": "https://www.investing.com/news/economic-indicators/natural-gas-storage-report-shows-lowerthanexpected-build-93CH-4714852",
+      "title": "Brazil creates fewer formal jobs than expected in April",
+      "link": "https://www.investing.com/news/economic-indicators/brazil-creates-fewer-formal-jobs-than-expected-in-april-4715199",
       "summary": "",
-      "title_ko": "천연 가스 저장 보고서에 따르면 예상보다 낮은 빌드가 표시됨",
+      "title_ko": "브라질은 4월에 예상보다 적은 공식 일자리를 창출합니다.",
       "summary_ko": ""
     },
     {
-      "title": "New home sales fall short of expectations, signaling potential market cooling",
-      "link": "https://www.investing.com/news/economic-indicators/new-home-sales-fall-short-of-expectations-signaling-potential-market-cooling-93CH-4714735",
-      "summary": "",
-      "title_ko": "신규 주택 판매가 기대에 미치지 못해 시장 냉각 가능성이 있다는 신호",
-      "summary_ko": ""
+      "title": "Japanese Yen strengthens as US-Iran truce headlines pressure the US Dollar",
+      "link": "https://www.fxstreet.com/news/japanese-yen-strengthens-as-us-iran-truce-headlines-pressure-the-us-dollar-202605281833",
+      "summary": "The Japanese Yen (JPY) strengthens against the US Dollar (USD) on Thursday, with USD/JPY snapping a five-day winning streak as the Greenback loses traction following reports that the US and Iran had reached a preliminary",
+      "title_ko": "일본 엔화, 미국-이란 휴전으로 미국 달러 압박",
+      "summary_ko": "일본 엔화 (JPY) 는 목요일 미국 달러 (USD) 대비 강세를 보이며, 미국과 이란이 예선전에 진출했다는 보고에 따라 그린백이 견인력을 잃음에 따라 USD/JPY는 5일 연속으로 우승을 차지했습니다."
     },
     {
-      "title": "Gold rebounds from two-month low US Dollar eases on fresh US-Iran truce headlines",
-      "link": "https://www.fxstreet.com/news/gold-drops-to-fresh-two-month-low-as-markets-focus-on-inflation-risks-us-pce-data-202605281207",
-      "summary": "Gold (XAU/USD) stages a rebound on Thursday as the US Dollar (USD) edges lower following fresh headlines surrounding a potential US-Iran peace deal and softer US inflation data.",
-      "title_ko": "금은 신선한 미국-이란 휴전 헤드라인에 대한 2개월간의 낮은 미국 달러화 완화로 반등",
-      "summary_ko": "금 (XAU/USD) 은 미국 달러 (USD) 가 잠재적인 미국-이란 평화 협정과 더 부드러운 미국 인플레이션 데이터를 둘러싼 새로운 헤드라인에 따라 낮아짐에 따라 목요일에 반등했다."
-    },
-    {
-      "title": "Fed’s Musalem: Rate hikes loom if disinflation stalls",
-      "link": "https://www.fxstreet.com/news/feds-musalem-rate-hikes-loom-if-disinflation-stalls-202605281518",
-      "summary": "The St. Louis Federal Reserve (Fed) President, Alberto Musalem, crossed the wires on Thursday, and said that rate hikes may be needed if inflation doesn’t ease, at a Central Bank of Iceland and Northwestern University ec",
-      "title_ko": "Fed's Musalem: 디스인플레이션이 멈추면 금리 인상",
-      "summary_ko": "세인트루이스 연방준비제도 (Fed) 의 알베르토 무살렘 (Alberto Musalem) 대통령은 목요일 전선을 넘어가면서 인플레이션이 완화되지 않으면 금리 인상이 필요할 수 있다고 말했다. 아이슬란드 중앙은행과 노스웨스턴 대학 EC"
+      "title": "China: Trade resilience with rising risks – ABN AMRO",
+      "link": "https://www.fxstreet.com/news/china-trade-resilience-with-rising-risks-abn-amro-202605281826",
+      "summary": "ABN AMRO notes that China benefits from solid foreign trade linked to the global tech and AI boom, but is still affected by the Iran conflict. April data show broad weakening, with sharply higher producer prices but low ",
+      "title_ko": "중국: 리스크 증가에 따른 무역 회복력 – ABN AMRO",
+      "summary_ko": "ABN AMRO는 중국이 글로벌 기술 및 AI 호황과 연계된 견고한 대외 무역의 혜택을 누리고 있지만 여전히 이란 분쟁의 영향을 받고 있다고 지적했다. 4월 데이터는 생산자 가격이 급격히 높지만 낮은 폭의 약세를 보여준다."
     }
   ]
 }

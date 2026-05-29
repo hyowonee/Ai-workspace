@@ -1,39 +1,53 @@
 {
-  "updated_at_utc": "2026-05-29 13:46:28 UTC",
+  "updated_at_utc": "2026-05-29 17:34:43 UTC",
   "items": [
     {
-      "title": "AST SpaceMobile stock falls after Blue Origin rocket explosion",
-      "link": "https://www.investing.com/news/stock-market-news/ast-spacemobile-stock-falls-after-blue-origin-rocket-explosion-93CH-4716801",
+      "title": "Lucid to recall over 2,000 vehicles in US due to drive power issues",
+      "link": "https://www.investing.com/news/stock-market-news/lucid-to-recall-over-2000-vehicles-in-us-due-to-drive-power-issues-4716014",
       "summary": "",
-      "title_ko": "블루 오리진 로켓 폭발 후 AST 스페이스모바일 주가 하락",
+      "title_ko": "운전 전력 문제로 인해 미국에서 2,000대 이상의 차량을 리콜할 예정",
       "summary_ko": ""
     },
     {
-      "title": "European stocks tick higher amid reports of U.S.-Iran deal to extend ceasefire",
-      "link": "https://www.investing.com/news/stock-market-news/european-stocks-tick-higher-amid-reports-of-usiran-deal-to-extend-ceasefire-4715988",
+      "title": "Exclusive-Meta tool to track employee mouse clicks on collision course with EU privacy rules",
+      "link": "https://www.investing.com/news/stock-market-news/exclusivemeta-tool-to-track-employee-mouse-clicks-on-collision-course-with-eu-privacy-rules-4717071",
       "summary": "",
-      "title_ko": "휴전 연장을 위한 미국-이란 거래가 보고되는 가운데 유럽 증시가 상승세를 보이고 있다.",
+      "title_ko": "EU 개인 정보 보호 규칙을 사용하여 충돌 과정에 대한 직원 마우스 클릭을 추적하는 독점 메타 도구",
       "summary_ko": ""
     },
     {
-      "title": "Hong Kong reportedly eyes tax waiver on fund managers’ performance bonuses",
-      "link": "https://www.investing.com/news/stock-market-news/hong-kong-reportedly-eyes-tax-waiver-on-fund-managers-performance-bonuses-93CH-4716770",
+      "title": "How would the reopening of Hormuz reshape markets?",
+      "link": "https://www.investing.com/news/stock-market-news/how-would-the-reopening-of-hormuz-reshape-markets-4717096",
       "summary": "",
-      "title_ko": "홍콩, 펀드 매니저의 성과 보너스에 대한 세금 면제 눈길",
+      "title_ko": "호르무즈의 재개는 시장을 어떻게 재편할 것인가?",
       "summary_ko": ""
     },
     {
-      "title": "Japanese automakers see mixed April production results",
-      "link": "https://www.investing.com/news/stock-market-news/japanese-automakers-see-mixed-april-production-results-93CH-4716769",
+      "title": "US FDA approves MannKind’s inhaled insulin for children",
+      "link": "https://www.investing.com/news/stock-market-news/us-fda-approves-mannkinds-inhaled-insulin-for-children-4717076",
       "summary": "",
-      "title_ko": "일본 자동차 제조사, 4월 생산 실적 혼재",
+      "title_ko": "미국 FDA, MannKind의 어린이용 흡입 인슐린 승인",
       "summary_ko": ""
     },
     {
-      "title": "US goods trade deficit narrows in April on strong exports",
+      "title": "Euro zone bond yields steady amid mixed inflation data",
+      "link": "https://www.investing.com/news/economic-indicators/euro-zone-bond-yields-steady-amid-mixed-inflation-data-93CH-4717070",
+      "summary": "",
+      "title_ko": "유로존 채권은 혼합된 인플레이션 데이터 속에서 안정적인 수익률을 나타냅니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Rising exports lower US goods trade deficit in April",
       "link": "https://www.investing.com/news/economic-indicators/us-goods-trade-deficit-narrows-in-april-on-strong-exports-4716700",
       "summary": "",
-      "title_ko": "4월 수출 호조에 따른 미국 상품 무역 적자 폭 축소",
+      "title_ko": "4월 수출 증가로 미국 상품 무역 적자 감소",
+      "summary_ko": ""
+    },
+    {
+      "title": "Chicago PMI Surges, Signaling Robust Manufacturing Expansion",
+      "link": "https://www.investing.com/news/economic-indicators/chicago-pmi-surges-signaling-robust-manufacturing-expansion-93CH-4716847",
+      "summary": "",
+      "title_ko": "시카고 PMI 급증, 강력한 제조 확장 시그널링",
       "summary_ko": ""
     },
     {
@@ -44,32 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Colombians head to the polls with peace efforts, economy on agenda",
-      "link": "https://www.investing.com/news/economic-indicators/colombians-head-to-the-polls-with-peace-efforts-economy-on-agenda-4716473",
-      "summary": "",
-      "title_ko": "콜롬비아인들은 평화와 경제를 위한 노력으로 여론조사에 나선다.",
-      "summary_ko": ""
+      "title": "Japanese Yen muted amid steady US PCE data",
+      "link": "https://www.fxstreet.com/news/japanese-yen-muted-amid-steady-us-pce-data-202605291635",
+      "summary": "The USD/JPY pair trades in a muted fashion toward the 159.20 region on Friday as the United States Dollar (USD) finds support following the latest inflation data, while the Japanese Yen (JPY) remains pressured amid uncer",
+      "title_ko": "꾸준한 미국 PCE 데이터 속에서 일본 엔화 음소거",
+      "summary_ko": "USD/JPY 쌍은 미국 달러 (USD) 가 최신 인플레이션 데이터를 따르는 지원을 찾음에 따라 금요일에 159.20 지역으로 음소거 방식으로 거래하는 반면 일본 엔 (JPY) 은 압력을 받고 있습니다."
     },
     {
-      "title": "Italy first quarter growth revised up as exports shine",
-      "link": "https://www.investing.com/news/economic-indicators/italy-first-quarter-growth-revised-up-as-exports-shine-4716443",
-      "summary": "",
-      "title_ko": "이탈리아의 1분기 성장률은 수출이 빛을 발함에 따라 상향 조정되었습니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Iran's Top Negotiator Qalibaf: We have no trust in guarantees or words",
-      "link": "https://www.fxstreet.com/news/irans-top-negotiator-qalibaf-we-have-no-trust-in-guarantees-or-words-202605291300",
-      "summary": "In a post published on X on Friday, Iran's top negotiator Mohammad Baqer Qalibaf said they have no trust in guarantees or words, and added \"only actions are the measures, no action will be taken before the other side act",
-      "title_ko": "이란의 최고 협상가 칼리바프: 우리는 보증이나 말을 신뢰하지 않습니다.",
-      "summary_ko": "이란의 최고 협상가인 모하마드 바케르 칼리바프 (Mohammad Baqer Qalibaf) 는 금요일 X에 게시한 글에서 자신들은 보장이나 말에 대한 신뢰가 없다며, \"오직 조치만이 조치이며, 상대방의 조치 이전에 어떠한 조치도 취하지 않을 것\" 이라고 덧붙였다."
-    },
-    {
-      "title": "Oil: Supply surge weighs on prices – DBS",
-      "link": "https://www.fxstreet.com/news/oil-supply-surge-weighs-on-prices-dbs-202605291248",
-      "summary": "DBS Group Research’s Philip Wee notes that Brent and WTI have fallen sharply, as markets anticipate abundant supply from the Gulf.",
-      "title_ko": "석유: 공급 탄력요금제가 가격에 무게를 둡니다 – DBS",
-      "summary_ko": "DBS 그룹 리서치의 필립 위 (Philip Wee) 는 브렌트와 WTI가 급격히 하락했다고 지적하며, 이는 시장이 걸프만의 풍부한 공급을 예상하기 때문입니다."
+      "title": "Dow Jones Industrial Average buys the Iran deal Trump described, not the one being negotiated",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-buys-the-iran-deal-trump-described-not-the-one-being-negotiated-202605291624",
+      "summary": "The Dow Jones Industrial Average (DJIA) punched out a fresh intraday record near 51,050 with the bid traceable to a Truth Social post in which President Donald Trump declared he would be in the Situation Room making a \"f",
+      "title_ko": "다우 존스 산업 평균 지수는 협상 대상이 아닌 트럼프가 설명한 이란 거래를 매수합니다.",
+      "summary_ko": "다우존스 산업평균지수 (DJIA) 는 도널드 트럼프 대통령이 상황실에 있을 것이라고 선언한 트루스 소셜 (Truth Social) 게시물에 대한 추적이 가능한 입찰로 51,050 근처의 신선한 일중 기록을 냈다."
     }
   ]
 }

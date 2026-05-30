@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-05-30 06:47:47 UTC",
+  "updated_at_utc": "2026-05-30 09:20:17 UTC",
   "indices": {
     "spx": {
       "Symbol": "^SPX",
@@ -56,11 +56,11 @@
     "ym": {
       "Symbol": "YM.F",
       "Date": "2026-05-29",
-      "Time": "22:58:54",
+      "Time": "23:00:00",
       "Open": "50750",
-      "High": "51139",
-      "Low": "50704",
-      "Close": "51050",
+      "High": "51140",
+      "Low": "50703",
+      "Close": "51077",
       "Volume": ""
     }
   },

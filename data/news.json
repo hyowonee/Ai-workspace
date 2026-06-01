@@ -1,11 +1,25 @@
 {
-  "updated_at_utc": "2026-05-31 23:01:36 UTC",
+  "updated_at_utc": "2026-06-01 01:39:09 UTC",
   "items": [
     {
-      "title": "Dell unveils $699 XPS 13 laptop in challenge to Apple’s MacBook Neo",
-      "link": "https://www.investing.com/news/stock-market-news/dell-unveils-699-xps-13-laptop-in-challenge-to-apples-macbook-neo-4717952",
+      "title": "US takes step to halt Nvidia AI chip shipments to Chinese firms outside China",
+      "link": "https://www.investing.com/news/stock-market-news/us-takes-step-to-halt-nvidia-ai-chip-shipments-to-chinese-firms-outside-china-4717939",
       "summary": "",
-      "title_ko": "델, 애플 맥북 네오에 도전하는 $ 699 XPS 13 노트북 공개",
+      "title_ko": "미국, 중국 이외의 중국 기업에 대한 엔비디아 AI 칩 출하 중단 조치",
+      "summary_ko": ""
+    },
+    {
+      "title": "Berkshire Hathaway to acquire homebuilder Taylor Morrison for $6.8 bln",
+      "link": "https://www.investing.com/news/stock-market-news/berkshire-hathaway-to-acquire-homebuilder-taylor-morrison-for-68-bln-4717977",
+      "summary": "",
+      "title_ko": "Berkshire Hathaway, 주택 건설업자 Taylor Morrison을 $ 6.8 bln에 인수",
+      "summary_ko": ""
+    },
+    {
+      "title": "Asia stocks count on AI boom to offset Gulf risks",
+      "link": "https://www.investing.com/news/stock-market-news/asia-stocks-count-on-ai-boom-to-offset-gulf-risks-4717975",
+      "summary": "",
+      "title_ko": "아시아 증시는 걸프 리스크를 상쇄하기 위해 AI 호황을 기대하고 있습니다.",
       "summary_ko": ""
     },
     {
@@ -16,60 +30,46 @@
       "summary_ko": ""
     },
     {
-      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-      "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4717947",
+      "title": "South Korea export growth hits four-decade high as chip sales hit record on AI boom",
+      "link": "https://www.investing.com/news/economic-indicators/south-korea-export-growth-hits-fourdecade-high-as-chip-sales-hit-record-on-ai-boom-4717976",
       "summary": "",
-      "title_ko": "러시아 주식은 교역 마감 시점보다 낮습니다. MOEX 러시아 지수는 변동이 없습니다.",
+      "title_ko": "칩 판매량이 AI 호황을 기록하면서 한국 수출 성장률은 40년 만에 최고치를 기록했습니다.",
       "summary_ko": ""
     },
     {
-      "title": "Berkshire Hathaway to buy US homebuilder Taylor Morrison for $8.5 billion",
-      "link": "https://www.investing.com/news/stock-market-news/berkshire-hathaway-to-buy-us-homebuilder-taylor-morrison-for-85-billion-4717945",
+      "title": "Japan’s factory growth slows as cost pressures surge, PMI shows",
+      "link": "https://www.investing.com/news/economic-indicators/japans-factory-growth-slows-as-cost-pressures-surge-pmi-shows-4717968",
       "summary": "",
-      "title_ko": "Berkshire Hathaway, 미국 주택 건설업자 Taylor Morrison을 $ 85억에 매입",
+      "title_ko": "일본의 공장 성장은 비용 압력이 급증함에 따라 둔화됩니다. PMI는",
       "summary_ko": ""
     },
     {
-      "title": "Is the Bank of Korea getting ready for a multi-hike cycle?",
-      "link": "https://www.investing.com/news/economic-indicators/is-the-bank-of-korea-getting-ready-for-a-multihike-cycle-4717625",
+      "title": "South Korea factory activity growth hits over 5-year high, PMI shows",
+      "link": "https://www.investing.com/news/economic-indicators/south-korea-factory-activity-growth-hits-over-5year-high-pmi-shows-4717969",
       "summary": "",
-      "title_ko": "한국은행은 멀티 하이킹 사이클을 준비하고 있습니까?",
+      "title_ko": "한국 공장 활동 성장률, 5년 최고치 기록, PMI 쇼",
       "summary_ko": ""
     },
     {
-      "title": "US, Mexico conclude first round of trade deal talks on autos, metals, security",
-      "link": "https://www.investing.com/news/economic-indicators/us-mexico-conclude-first-round-of-trade-deal-talks-on-autos-metals-security-4717366",
+      "title": "UK businesses stay downbeat about economy, surveys show",
+      "link": "https://www.investing.com/news/economic-indicators/uk-businesses-stay-downbeat-about-economy-surveys-show-4717954",
       "summary": "",
-      "title_ko": "미국, 멕시코, 자동차, 금속, 보안 관련 1차 무역협상 타결",
+      "title_ko": "영국 기업들은 경제에 대해 낙관적 인 태도를 유지하고 있으며, 설문 조사에 따르면",
       "summary_ko": ""
     },
     {
-      "title": "Colombians head to the polls with peace efforts, economy on agenda",
-      "link": "https://www.investing.com/news/economic-indicators/colombians-head-to-the-polls-with-peace-efforts-economy-on-agenda-4716473",
-      "summary": "",
-      "title_ko": "콜롬비아인들은 평화와 경제를 위한 노력으로 여론조사에 나선다.",
-      "summary_ko": ""
+      "title": "PBOC sets USD/CNY reference rate at 6.8167 vs. 6.8176 previous",
+      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-68167-vs-68176-previous-202606010115",
+      "summary": "On Monday, the People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead at 6.8167 compared to Friday's fix of 6.8176 and 6.7643 Reuters estimate.",
+      "title_ko": "PBOC는 USD/CNY 기준 금리를 6.8167 대 6.8176 이전으로 설정합니다.",
+      "summary_ko": "월요일, 중국 인민은행 (PBOC) 은 금요일 고정금리인 6.8176 및 6.7643 로이터 추정치와 비교하여 앞으로의 거래 세션에 대한 USD/CNY 중앙 금리를 6.8167로 설정합니다."
     },
     {
-      "title": "Euro zone bond yields steady amid mixed inflation data",
-      "link": "https://www.investing.com/news/economic-indicators/euro-zone-bond-yields-steady-amid-mixed-inflation-data-93CH-4717070",
-      "summary": "",
-      "title_ko": "유로존 채권은 혼합된 인플레이션 데이터 속에서 안정적인 수익률을 나타냅니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Forecasting the upcoming week: The US Dollar fell as ceasefire hopes supported risk sentiment",
-      "link": "https://www.fxstreet.com/news/forecasting-the-upcoming-week-the-us-dollar-fell-as-ceasefire-hopes-supported-risk-sentiment-202605292007",
-      "summary": "The US Dollar Index (DXY) fell toward the 98.90 region on Friday as improving market sentiment linked to developments in the Middle East reduces demand for safe-haven assets.",
-      "title_ko": "다가오는 주 예측: 휴전으로 인해 미국 달러는 하락했으며, 리스크 감정이 뒷받침되기를 희망합니다.",
-      "summary_ko": "미국 달러 지수 (DXY) 는 중동의 발전과 관련된 시장 정서 개선으로 안전 자산에 대한 수요가 감소함에 따라 금요일에 98.90 지역으로 하락했다."
-    },
-    {
-      "title": "Silver Price Forecast: XAG consolidates near $75.50 as bears eye 200-day SMA",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-consolidates-near-7550-as-bears-eye-200-day-sma-202605291924",
-      "summary": "Silver (XAG/USD) price retreats 0.16% on Friday, consolidating around the $75.00-$76.00 area and is virtually unchanged, near the 50-day Simple Moving Average (SMA) at $75.70.",
-      "title_ko": "실버 가격 예측: XAG는 200일 SMA의 눈으로 $ 75.50 근처를 통합합니다",
-      "summary_ko": "실버 (XAG/USD) 가격은 금요일에 0.16% 후퇴하여 $ 75.00 - $ 76.00 지역을 중심으로 통합되며 50일 단순 이동 평균 (SMA) $ 75.70 근처에서 사실상 변동이 없습니다."
+      "title": "British Pound holds steady near 1.3450 amid US-Iran deal uncertainty",
+      "link": "https://www.fxstreet.com/news/british-pound-holds-steady-near-13450-amid-us-iran-deal-uncertainty-202606010108",
+      "summary": "The GBP/USD pair trades on a flat note near 1.3450 during the early Asian trading hours on Monday. The British Pound (GBP) stabilizes in a sideways consolidation mode following a highly volatile week.",
+      "title_ko": "영국 파운드는 미국-이란 거래 불확실성 속에서 1.3450 근처에서 안정적으로 유지되고 있습니다.",
+      "summary_ko": "GBP/USD 쌍은 월요일 아시아 초기 거래 시간 동안 1.3450 근처의 평평한 어음으로 거래됩니다. 영국 파운드 (GBP) 는 변동성이 큰 주에 이어 측면 통합 모드에서 안정화됩니다."
     }
   ]
 }

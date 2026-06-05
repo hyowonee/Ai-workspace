@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-06-04 23:10:30 UTC",
+  "updated_at_utc": "2026-06-05 01:37:05 UTC",
   "items": [
     {
-      "title": "S&amp;P Global keeps fast entry proposal unchanged as SpaceX listing looms",
+      "title": "US officials discuss taking stakes in AI firms, NOTUS report says",
+      "link": "https://www.investing.com/news/stock-market-news/us-officials-discuss-taking-stakes-in-ai-firms-notus-report-says-4727799",
+      "summary": "",
+      "title_ko": "NOTUS 보고서에 따르면 미국 관리들은 AI 기업의 지분을 인수하는 것에 대해 논의하고 있습니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "US Supreme Court backs FCC in clash with wireless carriers over fines",
+      "link": "https://www.investing.com/news/stock-market-news/us-supreme-court-sides-with-fcc-in-clash-with-wireless-carriers-over-fines-4726995",
+      "summary": "",
+      "title_ko": "미국 연방대법원은 FCC가 무선 통신사와 벌금을 두고 충돌하는 것을 지지한다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "SpaceX blocked from early US benchmark index entry as S&amp;P reaffirms existing rules",
       "link": "https://www.investing.com/news/stock-market-news/sp-global-keeps-fast-entry-proposal-unchanged-as-spacex-listing-looms-4727700",
       "summary": "",
-      "title_ko": "S&amp;P Global은 SpaceX 상장 직전에 빠른 진입 제안을 변경하지 않습니다.",
+      "title_ko": "S&amp;P가 기존 규칙을 재확인함에 따라 SpaceX가 초기 미국 벤치마크 지수 진입에서 차단됨",
       "summary_ko": ""
     },
     {
-      "title": "Lululemon cuts forecasts amid persistent sales slump in key US market, shares drop",
-      "link": "https://www.investing.com/news/stock-market-news/lululemon-cuts-annual-revenue-forecast-4727379",
+      "title": "Wall Street giants tout SpaceX in glitzy pre-IPO investor events",
+      "link": "https://www.investing.com/news/stock-market-news/wall-street-banks-and-ceos-promote-spacexin-flashy-events-with-bofa-morgan-stanley-jpm-events-planned-4727204",
       "summary": "",
-      "title_ko": "룰루레몬은 미국 주요 시장에서 지속적인 매출 부진이 지속되는 가운데 주가가 하락할 것이라는 전망을 내놓았다.",
+      "title_ko": "월스트리트 자이언츠, 화려한 상장 전 투자자 이벤트에서 SpaceX를 홍보하다",
       "summary_ko": ""
     },
     {
-      "title": "Exclusive-SpaceX tells banks it won’t move its $135-a-share IPO price",
-      "link": "https://www.investing.com/news/stock-market-news/exclusivespacex-tells-banks-it-wont-move-its-135ashare-ipo-price-4727657",
+      "title": "China’s solar majors charge into batteries as panel sales falter",
+      "link": "https://www.investing.com/news/economic-indicators/chinas-solar-majors-charge-into-batteries-as-panel-sales-falter-4727761",
       "summary": "",
-      "title_ko": "Exclusive-SpaceX는 은행에 $ 135-a-share IPO 가격을 움직이지 않을 것이라고 말합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Insperity stock jumps 4.9% on insider purchase",
-      "link": "https://www.investing.com/news/stock-market-news/insperity-stock-jumps-49-on-insider-purchase-93CH-4727667",
-      "summary": "",
-      "title_ko": "내부자 구매 시 Insperity 주가 4.9% 뛰어오름",
+      "title_ko": "중국의 태양열 메이저는 패널 판매가 흔들리면서 배터리에 충전됩니다.",
       "summary_ko": ""
     },
     {
@@ -51,25 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "US weekly jobless claims increase more than expected; labor market remains stable",
-      "link": "https://www.investing.com/news/economic-indicators/us-weekly-jobless-claims-increase-more-than-expected-labor-market-remains-stable-4726703",
-      "summary": "",
-      "title_ko": "미국 주간 실업 보험금 청구는 예상보다 더 많이 증가하며, 노동 시장은 안정적으로 유지됩니다.",
-      "summary_ko": ""
+      "title": "Euro flatlines as traders await US jobs report",
+      "link": "https://www.fxstreet.com/news/euro-flatlines-as-traders-await-us-jobs-report-202606050125",
+      "summary": "The EUR/USD pair holds steady around 1.1620 during the early Asian session on Friday. Traders prefer to wait on the sidelines ahead of the key US economic data. The US jobs data for May will be the highlight later in the",
+      "title_ko": "트레이더가 미국 일자리 보고서를 기다리는 동안 유로 플랫라인",
+      "summary_ko": "EUR/USD 쌍은 금요일 초기 아시아 세션에서 약 1.1620을 꾸준히 유지하고 있습니다. 트레이더는 미국의 주요 경제 데이터보다 앞서 사이드라인을 기다리는 것을 선호합니다. 5월의 미국 일자리 데이터가 하이라이트가 될 것입니다."
     },
     {
-      "title": "Euro grinds higher as jobless claims clip USD before NFP",
-      "link": "https://www.fxstreet.com/news/euro-grinds-higher-as-jobless-claims-clip-usd-before-nfp-202606042147",
-      "summary": "The Euro registers modest gains of 0.12% as traders remain optimistic about the outcome of US-Iran talks, which had been uninterrupted, as revealed by the Pakistani Foreign Minister to journalist Mallick.",
-      "title_ko": "유로화는 NFP 전에 실업 보험금 클립 USD로 더 높게 그라인딩",
-      "summary_ko": "유로화는 파키스탄 외무장관이 말릭 기자에게 밝힌 바와 같이 중단되지 않았던 미국-이란 회담의 결과에 대해 무역상들이 여전히 낙관하고 있기 때문에 0.12% 의 소폭의 이익을 등록하고 있다."
-    },
-    {
-      "title": "Indonesian Rupiah: Policy risks and energy shock pressure IDR – BBH",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-policy-risks-and-energy-shock-pressure-idr-bbh-202606042137",
-      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad reports USD/IDR has hit a fresh record high above 18,000, while Indonesian equities have slumped to multi-year lows.",
-      "title_ko": "인도네시아 루피아: 정책 위험 및 에너지 충격 압력 IDR – BBH",
-      "summary_ko": "Brown Brothers Harriman (BBH) 의 Elias Haddad는 USD/IDR이 18,000을 상회하는 신기록을 달성한 반면 인도네시아 주식은 다년 만에 최저치를 기록했다고 보고했습니다."
+      "title": "WTI declines below $91.00 despite Iran threats",
+      "link": "https://www.fxstreet.com/news/wti-declines-below-9100-despite-iran-threats-202606050038",
+      "summary": "West Texas Intermediate (WTI), the US crude oil benchmark, is trading around $90.85 during the early Asian trading hours on Friday. The WTI price trades with mild losses as traders continue to assess the developments sur",
+      "title_ko": "이란의 위협에도 불구하고 WTI는 $ 91.00 이하로 하락",
+      "summary_ko": "미국 원유 벤치마크인 West Texas Intermediate (WTI) 는 금요일 아시아 초기 거래 시간 동안 약 $ 90.85 에 거래되고 있습니다. 거래자가 개발을 계속 평가함에 따라 WTI 가격은 가벼운 손실로 거래됩니다."
     }
   ]
 }

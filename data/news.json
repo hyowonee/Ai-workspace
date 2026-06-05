@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-06-05 18:24:42 UTC",
+  "updated_at_utc": "2026-06-05 20:25:56 UTC",
   "items": [
     {
-      "title": "Arm, Marvell among market cap stock movers on Friday",
-      "link": "https://www.investing.com/news/stock-market-news/arm-marvell-among-market-cap-stock-movers-on-friday-93CH-4729040",
+      "title": "Chip selloff erases over $1 trillion in stock market value",
+      "link": "https://www.investing.com/news/stock-market-news/chip-selloff-erases-over-1-trillion-in-stock-market-value-4729116",
       "summary": "",
-      "title_ko": "금요일에 시가 총액 주식 이동자들 사이에서 ARM, MARVEL",
+      "title_ko": "칩 매도는 주식 시장 가치에서 $ 1조 이상을 지웁니다",
       "summary_ko": ""
     },
     {
-      "title": "Light economic calendar ahead for Monday with employment trends data",
-      "link": "https://www.investing.com/news/stock-market-news/light-economic-calendar-ahead-for-monday-with-employment-trends-data-93CH-4729034",
+      "title": "Trump administration and OpenAI discuss potential U.S. equity stake, CNBC reports",
+      "link": "https://www.investing.com/news/stock-market-news/trump-administration-and-openai-discuss-potential-us-equity-stake-cnbc-reports-4729107",
       "summary": "",
-      "title_ko": "고용 동향 데이터와 함께 월요일을 위한 가벼운 경제 달력",
+      "title_ko": "트럼프 행정부와 오픈에이 (OpenAI) 가 잠재적인 미국 주식 지분에 대해 논의한다고 CNBC가 보도했다.",
       "summary_ko": ""
     },
     {
-      "title": "New York passes bill banning prices based on personal data",
-      "link": "https://www.investing.com/news/stock-market-news/new-york-passes-bill-banning-prices-based-on-personal-data-4728985",
+      "title": "Nasdaq craters 4% as chip rally careens to a halt, May jobs data boosts yields",
+      "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-fall-as-tech-remains-skittish-nonfarm-payrolls-on-tap-4727781",
       "summary": "",
-      "title_ko": "뉴욕, 개인 데이터에 기반한 가격 금지 법안 통과",
+      "title_ko": "칩 랠리가 중단됨에 따라 나스닥 분화구 4%, 5월 일자리 데이터 증가 수율",
       "summary_ko": ""
     },
     {
-      "title": "BofA cuts S&amp;P 500 target to 7100, cites rising market risks, \"Take Profits",
-      "link": "https://www.investing.com/news/stock-market-news/bofa-cuts-sp-500-target-to-7100-cites-rising-market-risks-take-profits-93CH-4729014",
+      "title": "Marvell Technology options trading surges to 605,010 contracts",
+      "link": "https://www.investing.com/news/stock-market-news/marvell-technology-options-trading-surges-to-605010-contracts-93CH-4729101",
       "summary": "",
-      "title_ko": "BofA는 시장 위험 증가를 인용하여 S&amp;P 500 목표를 7100으로 낮춥니다. \"이익 챙기기",
+      "title_ko": "Marvell Technology 옵션 거래가 605,010 계약으로 급증",
+      "summary_ko": ""
+    },
+    {
+      "title": "Consumer credit rises to $20.73B, surpassing forecasts",
+      "link": "https://www.investing.com/news/economic-indicators/consumer-credit-rises-to-2073b-surpassing-forecasts-93CH-4729083",
+      "summary": "",
+      "title_ko": "소비자 신용은 $ 20.73 B로 상승하여 예측을 뛰어 넘습니다.",
       "summary_ko": ""
     },
     {
@@ -51,25 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Nonfarm payrolls surpass expectations, signaling resilient job market",
-      "link": "https://www.investing.com/news/economic-indicators/nonfarm-payrolls-surpass-expectations-signaling-resilient-job-market-93CH-4728518",
-      "summary": "",
-      "title_ko": "비농업 급여가 예상을 뛰어넘어 탄력적인 취업 시장을 알립니다.",
-      "summary_ko": ""
+      "title": "Indonesia: Policy focus on stability as BI mandate widens – DBS",
+      "link": "https://www.fxstreet.com/news/indonesia-policy-focus-on-stability-as-bi-mandate-widens-dbs-202606051924",
+      "summary": "DBS Group Research economist Radhika Rao highlights that Indonesia’s onshore markets are under pressure, with the Rupiah at record lows and equities near six‑year lows.",
+      "title_ko": "인도네시아: BI 의무가 확대됨에 따라 안정성에 중점을 둔 정책 – DBS",
+      "summary_ko": "DBS 그룹 리서치 경제학자 라디카 라오 (Radhika Rao) 는 인도네시아의 역내 시장이 압박을 받고 있으며, 루피아는 사상 최저치와 6년 최저치에 근접한 주가를 기록하고 있다고 강조합니다."
     },
     {
-      "title": "Chinese Yuan: Gradual appreciation expected versus Dollar – Nordea",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-gradual-appreciation-expected-versus-dollar-nordea-202606051736",
-      "summary": "Nordea’s Kristian Nummelin highlights that the Chinese yuan has been the best-performing Asian currency this year, appreciating against both the Dollar and the Euro despite widening US–China yield spreads.",
-      "title_ko": "중국 위안화: 달러 대비 점진적인 가치 상승 예상 – Nordea",
-      "summary_ko": "노르데아의 크리스티안 눔멜린 (Kristian Nummelin) 은 중국 위안이 올해 최고의 성과를 거둔 아시아 통화임을 강조하며, 미국과 중국의 수익률 스프레드가 확대되었음에도 불구하고 달러와 유로 모두에 대해 높이 평가했다."
-    },
-    {
-      "title": "Gold melts down as blowout NFP sends DXY above 100",
-      "link": "https://www.fxstreet.com/news/gold-melts-down-as-blowout-nfp-sends-dxy-above-100-202606051716",
-      "summary": "Gold (XAU/USD) price collapses during the North American session on Friday as the latest Nonfarm Payrolls report in the US smashed forecasts, with figures for the last three months upwardly revised, increasing the chance",
-      "title_ko": "NFP가 DXY를 100 이상으로 보내면 금이 녹습니다",
-      "summary_ko": "미국의 최신 비농장 급여 보고서가 예측을 무너뜨리면서 금요일 북미 세션에서 금 (XAU/USD) 가격이 하락했으며, 지난 3개월 동안의 수치가 상향 조정되어 기회가 증가했습니다."
+      "title": "Forecasting the upcoming week: US Dollar ends week higher after strong NFP",
+      "link": "https://www.fxstreet.com/news/forecasting-the-upcoming-week-us-dollar-ends-week-higher-after-strong-nfp-202606051921",
+      "summary": "The US Dollar (USD) rallied to near 100.10 on Friday, rising from a daily low of 99.16, after the US Nonfarm Payrolls (NFP) report showed the economy added 172K jobs in May, well above the 85K expected, reinforcing expec",
+      "title_ko": "다가오는 주 예측: 미국 달러는 NFP 강세 이후 더 높은 주 종료",
+      "summary_ko": "미국 비농장 급여 (NFP) 보고서에 따르면 5월에 경제가 172,000개의 일자리를 추가했으며, 이는 예상치인 85,000개를 훨씬 상회하여 expec을 강화한 것으로 나타난 후, 미국 달러 (USD) 는 금요일에 100.10 근처까지 상승하여 일일 최저치인 99.16 에서 상승했습니다."
     }
   ]
 }

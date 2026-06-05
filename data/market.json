@@ -1,9 +1,9 @@
 {
-  "updated_at_utc": "2026-06-05 18:24:42 UTC",
+  "updated_at_utc": "2026-06-05 20:25:56 UTC",
   "indices": {
     "spx": {
-      "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"robots\" content=\"noindex": "(async()=>{const c=\"AAAAAGojFGuPUug1DCbAoNa6AaxCeyGIrMvDBDFF-btYx7T7rEkIKd8yXME\"",
-      "nofollow\"></head><body><noscript>This site requires JavaScript to verify your browser. Please enable JavaScript and reload.</noscript><script nonce=\"0Wjv2xf5nYqcBgYa8PeaXQ\">": "d=4",
+      "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"robots\" content=\"noindex": "(async()=>{const c=\"AAAAAGojMNV8fj2An8qzMfidxnsCN3A_FDcvFBlrTGZdBX44jo_xIVhhrE4\"",
+      "nofollow\"></head><body><noscript>This site requires JavaScript to verify your browser. Please enable JavaScript and reload.</noscript><script nonce=\"7k6s4Jj8Gh--Yg3f4C7yZA\">": "d=4",
       "null": [
         "t=\"0\".repeat(d)",
         "e=new TextEncoder;let n=0;while(1){const h=await crypto.subtle.digest(\"SHA-256\"",
@@ -17,18 +17,23 @@
       ]
     },
     "ndq": {
-      "Symbol": "^NDQ",
-      "Date": "2026-06-05",
-      "Time": "20:24:30",
-      "Open": "26521.777",
-      "High": "26540.324",
-      "Low": "25885.598",
-      "Close": "25906.697",
-      "Volume": "3827093366"
+      "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"robots\" content=\"noindex": "(async()=>{const c=\"AAAAAGojMNUL0iWAwbBAigzOTz7xvzTVFDcvFO8PEuwqFLoY7_-tVMl_h_g\"",
+      "nofollow\"></head><body><noscript>This site requires JavaScript to verify your browser. Please enable JavaScript and reload.</noscript><script nonce=\"-pV7Vnz96YNlxpfDYMZy3Q\">": "d=4",
+      "null": [
+        "t=\"0\".repeat(d)",
+        "e=new TextEncoder;let n=0;while(1){const h=await crypto.subtle.digest(\"SHA-256\"",
+        "e.encode(c+n))",
+        "x=Array.from(new Uint8Array(h)).map(b=>b.toString(16).padStart(2",
+        "0)).join(\"\");if(x.startsWith(t))break;n++}const r=await fetch(\"/__verify\"",
+        "{method:\"POST\"",
+        "headers:{\"Content-Type\":\"application/x-www-form-urlencoded\"}",
+        "body:\"c=\"+encodeURIComponent(c)+\"&n=\"+n",
+        "credentials:\"same-origin\"});if(r.ok)location.reload()})();"
+      ]
     },
     "dji": {
-      "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"robots\" content=\"noindex": "(async()=>{const c=\"AAAAAGojFGz98PuztMi-7AACYWyvGTLbrMvDBP2Dun8qpuR1hV3N987z0Qo\"",
-      "nofollow\"></head><body><noscript>This site requires JavaScript to verify your browser. Please enable JavaScript and reload.</noscript><script nonce=\"OC1WpFlWqEGUz3Yls1hLBg\">": "d=4",
+      "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"robots\" content=\"noindex": "(async()=>{const c=\"AAAAAGojMNbQzbuv67g_XiFff1U5PVyEFDcvFELKl-yoAE7KJGpjQlC3isk\"",
+      "nofollow\"></head><body><noscript>This site requires JavaScript to verify your browser. Please enable JavaScript and reload.</noscript><script nonce=\"JuHvGodPJT60DsReDY4hgQ\">": "d=4",
       "null": [
         "t=\"0\".repeat(d)",
         "e=new TextEncoder;let n=0;while(1){const h=await crypto.subtle.digest(\"SHA-256\"",
@@ -46,31 +51,31 @@
     "es": {
       "Symbol": "ES.F",
       "Date": "2026-06-05",
-      "Time": "20:14:38",
+      "Time": "22:15:54",
       "Open": "7589",
       "High": "7590.25",
-      "Low": "7447.25",
-      "Close": "7447.5",
+      "Low": "7364.75",
+      "Close": "7369.75",
       "Volume": ""
     },
     "nq": {
       "Symbol": "NQ.F",
       "Date": "2026-06-05",
-      "Time": "20:14:40",
+      "Time": "22:15:54",
       "Open": "30402.75",
       "High": "30421.5",
-      "Low": "29315",
-      "Close": "29315",
+      "Low": "28818.75",
+      "Close": "28850",
       "Volume": ""
     },
     "ym": {
       "Symbol": "YM.F",
       "Date": "2026-06-05",
-      "Time": "20:14:42",
+      "Time": "22:15:56",
       "Open": "51661",
       "High": "51808",
-      "Low": "51143",
-      "Close": "51169",
+      "Low": "50773",
+      "Close": "50787",
       "Volume": ""
     }
   },

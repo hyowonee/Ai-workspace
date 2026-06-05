@@ -1,61 +1,9 @@
 {
-  "updated_at_utc": "2026-06-05 16:30:01 UTC",
+  "updated_at_utc": "2026-06-05 18:24:42 UTC",
   "indices": {
     "spx": {
-      "Symbol": "^SPX",
-      "Date": "2026-06-05",
-      "Time": "18:29:26",
-      "Open": "7535.6",
-      "High": "7540.7",
-      "Low": "7459.2",
-      "Close": "7461.4",
-      "Volume": "822917182"
-    },
-    "ndq": {
-      "Symbol": "^NDQ",
-      "Date": "2026-06-05",
-      "Time": "18:29:52",
-      "Open": "26521.777",
-      "High": "26540.324",
-      "Low": "26104.781",
-      "Close": "26113.021",
-      "Volume": "2737646777"
-    },
-    "dji": {
-      "Symbol": "^DJI",
-      "Date": "2026-06-05",
-      "Time": "18:29:49",
-      "Open": "51596.7",
-      "High": "51605.6",
-      "Low": "51160.2",
-      "Close": "51160.8",
-      "Volume": "125121517"
-    }
-  },
-  "futures": {
-    "es": {
-      "Symbol": "ES.F",
-      "Date": "2026-06-05",
-      "Time": "18:19:57",
-      "Open": "7589",
-      "High": "7590.25",
-      "Low": "7470.75",
-      "Close": "7472",
-      "Volume": ""
-    },
-    "nq": {
-      "Symbol": "NQ.F",
-      "Date": "2026-06-05",
-      "Time": "18:20:00",
-      "Open": "30402.75",
-      "High": "30421.5",
-      "Low": "29542",
-      "Close": "29545",
-      "Volume": ""
-    },
-    "ym": {
-      "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"robots\" content=\"noindex": "(async()=>{const c=\"AAAAAGoi-Y1UBF9EzaWZAhSK8F4z4LUfFKlM2Du-wp1NzBnF1FyXEJUTf-k\"",
-      "nofollow\"></head><body><noscript>This site requires JavaScript to verify your browser. Please enable JavaScript and reload.</noscript><script nonce=\"dOlEKmN4OddZTiCgpfpp5g\">": "d=4",
+      "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"robots\" content=\"noindex": "(async()=>{const c=\"AAAAAGojFGuPUug1DCbAoNa6AaxCeyGIrMvDBDFF-btYx7T7rEkIKd8yXME\"",
+      "nofollow\"></head><body><noscript>This site requires JavaScript to verify your browser. Please enable JavaScript and reload.</noscript><script nonce=\"0Wjv2xf5nYqcBgYa8PeaXQ\">": "d=4",
       "null": [
         "t=\"0\".repeat(d)",
         "e=new TextEncoder;let n=0;while(1){const h=await crypto.subtle.digest(\"SHA-256\"",
@@ -67,6 +15,63 @@
         "body:\"c=\"+encodeURIComponent(c)+\"&n=\"+n",
         "credentials:\"same-origin\"});if(r.ok)location.reload()})();"
       ]
+    },
+    "ndq": {
+      "Symbol": "^NDQ",
+      "Date": "2026-06-05",
+      "Time": "20:24:30",
+      "Open": "26521.777",
+      "High": "26540.324",
+      "Low": "25885.598",
+      "Close": "25906.697",
+      "Volume": "3827093366"
+    },
+    "dji": {
+      "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"robots\" content=\"noindex": "(async()=>{const c=\"AAAAAGojFGz98PuztMi-7AACYWyvGTLbrMvDBP2Dun8qpuR1hV3N987z0Qo\"",
+      "nofollow\"></head><body><noscript>This site requires JavaScript to verify your browser. Please enable JavaScript and reload.</noscript><script nonce=\"OC1WpFlWqEGUz3Yls1hLBg\">": "d=4",
+      "null": [
+        "t=\"0\".repeat(d)",
+        "e=new TextEncoder;let n=0;while(1){const h=await crypto.subtle.digest(\"SHA-256\"",
+        "e.encode(c+n))",
+        "x=Array.from(new Uint8Array(h)).map(b=>b.toString(16).padStart(2",
+        "0)).join(\"\");if(x.startsWith(t))break;n++}const r=await fetch(\"/__verify\"",
+        "{method:\"POST\"",
+        "headers:{\"Content-Type\":\"application/x-www-form-urlencoded\"}",
+        "body:\"c=\"+encodeURIComponent(c)+\"&n=\"+n",
+        "credentials:\"same-origin\"});if(r.ok)location.reload()})();"
+      ]
+    }
+  },
+  "futures": {
+    "es": {
+      "Symbol": "ES.F",
+      "Date": "2026-06-05",
+      "Time": "20:14:38",
+      "Open": "7589",
+      "High": "7590.25",
+      "Low": "7447.25",
+      "Close": "7447.5",
+      "Volume": ""
+    },
+    "nq": {
+      "Symbol": "NQ.F",
+      "Date": "2026-06-05",
+      "Time": "20:14:40",
+      "Open": "30402.75",
+      "High": "30421.5",
+      "Low": "29315",
+      "Close": "29315",
+      "Volume": ""
+    },
+    "ym": {
+      "Symbol": "YM.F",
+      "Date": "2026-06-05",
+      "Time": "20:14:42",
+      "Open": "51661",
+      "High": "51808",
+      "Low": "51143",
+      "Close": "51169",
+      "Volume": ""
     }
   },
   "fx": {

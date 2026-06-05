@@ -1,51 +1,61 @@
 {
-  "updated_at_utc": "2026-06-05 13:51:55 UTC",
+  "updated_at_utc": "2026-06-05 16:30:01 UTC",
   "indices": {
     "spx": {
       "Symbol": "^SPX",
       "Date": "2026-06-05",
-      "Time": "15:51:43",
+      "Time": "18:29:26",
       "Open": "7535.6",
       "High": "7540.7",
-      "Low": "7507.9",
-      "Close": "7508.7",
-      "Volume": "79230873"
+      "Low": "7459.2",
+      "Close": "7461.4",
+      "Volume": "822917182"
     },
     "ndq": {
       "Symbol": "^NDQ",
       "Date": "2026-06-05",
-      "Time": "15:51:40",
+      "Time": "18:29:52",
       "Open": "26521.777",
       "High": "26540.324",
-      "Low": "26402.184",
-      "Close": "26403.928",
-      "Volume": "146457043"
+      "Low": "26104.781",
+      "Close": "26113.021",
+      "Volume": "2737646777"
     },
     "dji": {
       "Symbol": "^DJI",
       "Date": "2026-06-05",
-      "Time": "15:51:44",
+      "Time": "18:29:49",
       "Open": "51596.7",
       "High": "51605.6",
-      "Low": "51380.1",
-      "Close": "51414",
-      "Volume": "13074011"
+      "Low": "51160.2",
+      "Close": "51160.8",
+      "Volume": "125121517"
     }
   },
   "futures": {
     "es": {
       "Symbol": "ES.F",
       "Date": "2026-06-05",
-      "Time": "15:41:51",
+      "Time": "18:19:57",
       "Open": "7589",
       "High": "7590.25",
-      "Low": "7533.5",
-      "Close": "7533.5",
+      "Low": "7470.75",
+      "Close": "7472",
       "Volume": ""
     },
     "nq": {
-      "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"robots\" content=\"noindex": "(async()=>{const c=\"AAAAAGoi1H3C2hITKZrIuvlHd4gMgFERFGaGYIw7Kqcu0GmdIyhNV927-G8\"",
-      "nofollow\"></head><body><noscript>This site requires JavaScript to verify your browser. Please enable JavaScript and reload.</noscript><script nonce=\"C0R9n-do2qnPUjsGE60jtw\">": "d=4",
+      "Symbol": "NQ.F",
+      "Date": "2026-06-05",
+      "Time": "18:20:00",
+      "Open": "30402.75",
+      "High": "30421.5",
+      "Low": "29542",
+      "Close": "29545",
+      "Volume": ""
+    },
+    "ym": {
+      "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"robots\" content=\"noindex": "(async()=>{const c=\"AAAAAGoi-Y1UBF9EzaWZAhSK8F4z4LUfFKlM2Du-wp1NzBnF1FyXEJUTf-k\"",
+      "nofollow\"></head><body><noscript>This site requires JavaScript to verify your browser. Please enable JavaScript and reload.</noscript><script nonce=\"dOlEKmN4OddZTiCgpfpp5g\">": "d=4",
       "null": [
         "t=\"0\".repeat(d)",
         "e=new TextEncoder;let n=0;while(1){const h=await crypto.subtle.digest(\"SHA-256\"",
@@ -57,16 +67,6 @@
         "body:\"c=\"+encodeURIComponent(c)+\"&n=\"+n",
         "credentials:\"same-origin\"});if(r.ok)location.reload()})();"
       ]
-    },
-    "ym": {
-      "Symbol": "YM.F",
-      "Date": "2026-06-05",
-      "Time": "15:41:48",
-      "Open": "51661",
-      "High": "51808",
-      "Low": "51529",
-      "Close": "51541",
-      "Volume": ""
     }
   },
   "fx": {

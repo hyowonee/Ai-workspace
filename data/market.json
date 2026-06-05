@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-06-05 06:25:38 UTC",
+  "updated_at_utc": "2026-06-05 10:32:31 UTC",
   "indices": {
     "spx": {
       "Symbol": "^SPX",
@@ -12,18 +12,23 @@
       "Volume": "3236024605"
     },
     "ndq": {
-      "Symbol": "^NDQ",
-      "Date": "2026-06-04",
-      "Time": "23:00:00",
-      "Open": "26579.3",
-      "High": "26923.7",
-      "Low": "26554.24",
-      "Close": "26830.96",
-      "Volume": "5069233333"
+      "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"robots\" content=\"noindex": "(async()=>{const c=\"AAAAAGoipcD55HEsGUKmcWHWb25yvezirLjTVBs5T4Pntf3Tx5FEoo1fz2Q\"",
+      "nofollow\"></head><body><noscript>This site requires JavaScript to verify your browser. Please enable JavaScript and reload.</noscript><script nonce=\"U6Vdz36ow8qhXNi9o956Ew\">": "d=4",
+      "null": [
+        "t=\"0\".repeat(d)",
+        "e=new TextEncoder;let n=0;while(1){const h=await crypto.subtle.digest(\"SHA-256\"",
+        "e.encode(c+n))",
+        "x=Array.from(new Uint8Array(h)).map(b=>b.toString(16).padStart(2",
+        "0)).join(\"\");if(x.startsWith(t))break;n++}const r=await fetch(\"/__verify\"",
+        "{method:\"POST\"",
+        "headers:{\"Content-Type\":\"application/x-www-form-urlencoded\"}",
+        "body:\"c=\"+encodeURIComponent(c)+\"&n=\"+n",
+        "credentials:\"same-origin\"});if(r.ok)location.reload()})();"
+      ]
     },
     "dji": {
-      "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"robots\" content=\"noindex": "(async()=>{const c=\"AAAAAGoia-NgY5DytP68uXl8PMTSI6_eNKEzMWMzHg7_IvhQed1VJ82QmwE\"",
-      "nofollow\"></head><body><noscript>This site requires JavaScript to verify your browser. Please enable JavaScript and reload.</noscript><script nonce=\"rzW7hvbF4Jy1dT1fVV80HA\">": "d=4",
+      "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"robots\" content=\"noindex": "(async()=>{const c=\"AAAAAGoipcGuliMmVsNVWIhb0HjbfF03rLjTVJKTB_XZrYgb04C6NNgjtbs\"",
+      "nofollow\"></head><body><noscript>This site requires JavaScript to verify your browser. Please enable JavaScript and reload.</noscript><script nonce=\"w2qEXoHQjRCivKJJI7ZjlQ\">": "d=4",
       "null": [
         "t=\"0\".repeat(d)",
         "e=new TextEncoder;let n=0;while(1){const h=await crypto.subtle.digest(\"SHA-256\"",
@@ -39,23 +44,18 @@
   },
   "futures": {
     "es": {
-      "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"robots\" content=\"noindex": "(async()=>{const c=\"AAAAAGoia-QINowZdt1C_-8UhfjpOOi-NKEzMeEUcmb6c761rZ3Poi_YS24\"",
-      "nofollow\"></head><body><noscript>This site requires JavaScript to verify your browser. Please enable JavaScript and reload.</noscript><script nonce=\"ll3Fz0xqrOklmE3xKm8aAA\">": "d=4",
-      "null": [
-        "t=\"0\".repeat(d)",
-        "e=new TextEncoder;let n=0;while(1){const h=await crypto.subtle.digest(\"SHA-256\"",
-        "e.encode(c+n))",
-        "x=Array.from(new Uint8Array(h)).map(b=>b.toString(16).padStart(2",
-        "0)).join(\"\");if(x.startsWith(t))break;n++}const r=await fetch(\"/__verify\"",
-        "{method:\"POST\"",
-        "headers:{\"Content-Type\":\"application/x-www-form-urlencoded\"}",
-        "body:\"c=\"+encodeURIComponent(c)+\"&n=\"+n",
-        "credentials:\"same-origin\"});if(r.ok)location.reload()})();"
-      ]
+      "Symbol": "ES.F",
+      "Date": "2026-06-05",
+      "Time": "12:22:29",
+      "Open": "7589",
+      "High": "7590.25",
+      "Low": "7547",
+      "Close": "7572.25",
+      "Volume": ""
     },
     "nq": {
-      "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"robots\" content=\"noindex": "(async()=>{const c=\"AAAAAGoia-U1GJoBWwQVjBFTJMsFhgm-NKEzMeSTlpHDWP-TXwzZzaoeN78\"",
-      "nofollow\"></head><body><noscript>This site requires JavaScript to verify your browser. Please enable JavaScript and reload.</noscript><script nonce=\"o2WU71gMu3H3kx1mDPv1Ew\">": "d=4",
+      "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"robots\" content=\"noindex": "(async()=>{const c=\"AAAAAGoipcLkBHQoIt3slYudNNA2CTq_rLjTVMwkyNqxU9aoopne8qn4VYo\"",
+      "nofollow\"></head><body><noscript>This site requires JavaScript to verify your browser. Please enable JavaScript and reload.</noscript><script nonce=\"SAfTudb4gzLUutIkKGvg2w\">": "d=4",
       "null": [
         "t=\"0\".repeat(d)",
         "e=new TextEncoder;let n=0;while(1){const h=await crypto.subtle.digest(\"SHA-256\"",
@@ -69,8 +69,8 @@
       ]
     },
     "ym": {
-      "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"robots\" content=\"noindex": "(async()=>{const c=\"AAAAAGoia-Ukve41N-wsOryWpzFq1j04NKEzMeXsPbRjc2rjKaSll7svd0s\"",
-      "nofollow\"></head><body><noscript>This site requires JavaScript to verify your browser. Please enable JavaScript and reload.</noscript><script nonce=\"-9f_gxSgP0UH7V-Ut20Fug\">": "d=4",
+      "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"robots\" content=\"noindex": "(async()=>{const c=\"AAAAAGoipcMYfQ1IZ4gp5-ZQYv73oaCLrLjTVPKoqrKOv3WlgX_CB5MSnD4\"",
+      "nofollow\"></head><body><noscript>This site requires JavaScript to verify your browser. Please enable JavaScript and reload.</noscript><script nonce=\"De8XzrE3VEXgs86xZl5rAw\">": "d=4",
       "null": [
         "t=\"0\".repeat(d)",
         "e=new TextEncoder;let n=0;while(1){const h=await crypto.subtle.digest(\"SHA-256\"",

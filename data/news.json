@@ -1,18 +1,25 @@
 {
-  "updated_at_utc": "2026-06-05 01:37:05 UTC",
+  "updated_at_utc": "2026-06-05 06:25:38 UTC",
   "items": [
     {
-      "title": "US officials discuss taking stakes in AI firms, NOTUS report says",
-      "link": "https://www.investing.com/news/stock-market-news/us-officials-discuss-taking-stakes-in-ai-firms-notus-report-says-4727799",
+      "title": "Taiwan stocks higher at close of trade; Taiwan Weighted up 1.98%",
+      "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-198-4727839",
       "summary": "",
-      "title_ko": "NOTUS 보고서에 따르면 미국 관리들은 AI 기업의 지분을 인수하는 것에 대해 논의하고 있습니다.",
+      "title_ko": "거래 종결 시 대만 주식이 더 높음, 대만 가중치 1.98% 증가",
       "summary_ko": ""
     },
     {
-      "title": "US Supreme Court backs FCC in clash with wireless carriers over fines",
-      "link": "https://www.investing.com/news/stock-market-news/us-supreme-court-sides-with-fcc-in-clash-with-wireless-carriers-over-fines-4726995",
+      "title": "Boeing weighs 737 ramp-up to approach Airbus production targets, Air Current reports",
+      "link": "https://www.investing.com/news/stock-market-news/boeing-weighs-737-rampup-to-approach-airbus-production-targets-air-current-reports-4727612",
       "summary": "",
-      "title_ko": "미국 연방대법원은 FCC가 무선 통신사와 벌금을 두고 충돌하는 것을 지지한다.",
+      "title_ko": "Air Current는 보잉이 에어버스 생산 목표에 접근하기 위해 737의 무게를 증가시켰다고 보도했습니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Rajesh Exports shares slide after Indian regulator alleges $158 bln in overstated",
+      "link": "https://www.investing.com/news/stock-market-news/rajesh-exports-shares-slide-after-indian-regulator-alleges-158-bln-in-overstated-4727837",
+      "summary": "",
+      "title_ko": "인도 규제 당국이 과장된 $ 158 bln을 주장한 후 Rajesh Exports 주식 슬라이드",
       "summary_ko": ""
     },
     {
@@ -20,13 +27,6 @@
       "link": "https://www.investing.com/news/stock-market-news/sp-global-keeps-fast-entry-proposal-unchanged-as-spacex-listing-looms-4727700",
       "summary": "",
       "title_ko": "S&amp;P가 기존 규칙을 재확인함에 따라 SpaceX가 초기 미국 벤치마크 지수 진입에서 차단됨",
-      "summary_ko": ""
-    },
-    {
-      "title": "Wall Street giants tout SpaceX in glitzy pre-IPO investor events",
-      "link": "https://www.investing.com/news/stock-market-news/wall-street-banks-and-ceos-promote-spacexin-flashy-events-with-bofa-morgan-stanley-jpm-events-planned-4727204",
-      "summary": "",
-      "title_ko": "월스트리트 자이언츠, 화려한 상장 전 투자자 이벤트에서 SpaceX를 홍보하다",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Euro flatlines as traders await US jobs report",
-      "link": "https://www.fxstreet.com/news/euro-flatlines-as-traders-await-us-jobs-report-202606050125",
-      "summary": "The EUR/USD pair holds steady around 1.1620 during the early Asian session on Friday. Traders prefer to wait on the sidelines ahead of the key US economic data. The US jobs data for May will be the highlight later in the",
-      "title_ko": "트레이더가 미국 일자리 보고서를 기다리는 동안 유로 플랫라인",
-      "summary_ko": "EUR/USD 쌍은 금요일 초기 아시아 세션에서 약 1.1620을 꾸준히 유지하고 있습니다. 트레이더는 미국의 주요 경제 데이터보다 앞서 사이드라인을 기다리는 것을 선호합니다. 5월의 미국 일자리 데이터가 하이라이트가 될 것입니다."
+      "title": "Gold slumps as lack of US‑Iran ceasefire progress weigh ahead US jobs data",
+      "link": "https://www.fxstreet.com/news/gold-declines-below-4-500-on-stalled-us-iran-ceasefire-talks-us-nfp-data-looms-202606042307",
+      "summary": "Gold price (XAU/USD) attracts some sellers to near weekly low during the early European session on Friday. The precious metal remains volatile amid ongoing geopolitical turmoil.",
+      "title_ko": "미국-이란 휴전 진전 부족으로 금 부진이 미국 일자리 데이터를 앞질렀다.",
+      "summary_ko": "금 가격 (XAU/USD) 은 금요일 이른 유럽 세션에서 일부 판매자를 거의 매주 최저 수준으로 끌어들입니다. 귀금속은 계속되는 지정학적 혼란 속에서 휘발성을 유지합니다."
     },
     {
-      "title": "WTI declines below $91.00 despite Iran threats",
-      "link": "https://www.fxstreet.com/news/wti-declines-below-9100-despite-iran-threats-202606050038",
-      "summary": "West Texas Intermediate (WTI), the US crude oil benchmark, is trading around $90.85 during the early Asian trading hours on Friday. The WTI price trades with mild losses as traders continue to assess the developments sur",
-      "title_ko": "이란의 위협에도 불구하고 WTI는 $ 91.00 이하로 하락",
-      "summary_ko": "미국 원유 벤치마크인 West Texas Intermediate (WTI) 는 금요일 아시아 초기 거래 시간 동안 약 $ 90.85 에 거래되고 있습니다. 거래자가 개발을 계속 평가함에 따라 WTI 가격은 가벼운 손실로 거래됩니다."
+      "title": "Canada Unemployment Rate expected to remain at 6.9% in May",
+      "link": "https://www.fxstreet.com/news/canada-unemployment-rate-expected-to-remain-at-69-in-may-202606050600",
+      "summary": "Statistics Canada will release its Labour Force Survey on Friday, and markets are bracing for quite a steady print. The Unemployment Rate is expected to remain at 6.9% in May, while the Net Change in Employment is foreca",
+      "title_ko": "캐나다 실업률은 5월에도 6.9% 를 유지할 것으로 예상됩니다.",
+      "summary_ko": "캐나다 통계청은 금요일에 노동력 조사를 발표할 예정이며, 시장은 꾸준한 인쇄를 위해 노력하고 있습니다. 5월 실업률은 6.9% 를 유지할 것으로 예상되는 반면, 고용의 순변화는 포레카"
     }
   ]
 }

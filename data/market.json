@@ -1,9 +1,9 @@
 {
-  "updated_at_utc": "2026-06-05 23:17:51 UTC",
+  "updated_at_utc": "2026-06-06 01:28:29 UTC",
   "indices": {
     "spx": {
-      "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"robots\" content=\"noindex": "(async()=>{const c=\"AAAAAGojWSAl4jV_lx7MjoXOiGBRYv4vBOytFZcgIsLcsWd7c3mFqr7FFcQ\"",
-      "nofollow\"></head><body><noscript>This site requires JavaScript to verify your browser. Please enable JavaScript and reload.</noscript><script nonce=\"YE4mZLB_bSyMvQJnZgU82A\">": "d=4",
+      "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"robots\" content=\"noindex": "(async()=>{const c=\"AAAAAGojd9GxsnAxV58V6A67iKLlI0gNkYRnQm2Xwkyl9nSfKEvICFkSPP4\"",
+      "nofollow\"></head><body><noscript>This site requires JavaScript to verify your browser. Please enable JavaScript and reload.</noscript><script nonce=\"j1aYMaXcSCyAMdWPBfaTtA\">": "d=4",
       "null": [
         "t=\"0\".repeat(d)",
         "e=new TextEncoder;let n=0;while(1){const h=await crypto.subtle.digest(\"SHA-256\"",
@@ -17,18 +17,23 @@
       ]
     },
     "ndq": {
-      "Symbol": "^NDQ",
-      "Date": "2026-06-05",
-      "Time": "23:00:00",
-      "Open": "26536.59",
-      "High": "26572.25",
-      "Low": "25648.47",
-      "Close": "25709.43",
-      "Volume": "5405134934"
+      "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"robots\" content=\"noindex": "(async()=>{const c=\"AAAAAGojd-YLzpq_QrL2pvcK7ZnbdCrmkYRnQqp8wHv4KYWN9Uvj41vAD2c\"",
+      "nofollow\"></head><body><noscript>This site requires JavaScript to verify your browser. Please enable JavaScript and reload.</noscript><script nonce=\"fBDFzI7PJSRBWko2RSi_kw\">": "d=4",
+      "null": [
+        "t=\"0\".repeat(d)",
+        "e=new TextEncoder;let n=0;while(1){const h=await crypto.subtle.digest(\"SHA-256\"",
+        "e.encode(c+n))",
+        "x=Array.from(new Uint8Array(h)).map(b=>b.toString(16).padStart(2",
+        "0)).join(\"\");if(x.startsWith(t))break;n++}const r=await fetch(\"/__verify\"",
+        "{method:\"POST\"",
+        "headers:{\"Content-Type\":\"application/x-www-form-urlencoded\"}",
+        "body:\"c=\"+encodeURIComponent(c)+\"&n=\"+n",
+        "credentials:\"same-origin\"});if(r.ok)location.reload()})();"
+      ]
     },
     "dji": {
-      "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"robots\" content=\"noindex": "(async()=>{const c=\"AAAAAGojWSCjPfWnyjVTcdBqaB_yCfL0BOytFRJZhI7LxtzyGML0IT_br4Y\"",
-      "nofollow\"></head><body><noscript>This site requires JavaScript to verify your browser. Please enable JavaScript and reload.</noscript><script nonce=\"Q9ZrT9sRqjJxlok7j3jqNA\">": "d=4",
+      "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"robots\" content=\"noindex": "(async()=>{const c=\"AAAAAGojd_qSaSKI00b2OWZF72bNGHwDkYRnQp3LM5Xo3xFj970eYqrzlYg\"",
+      "nofollow\"></head><body><noscript>This site requires JavaScript to verify your browser. Please enable JavaScript and reload.</noscript><script nonce=\"bcSymWlh0fGmAxtU8F4BCg\">": "d=4",
       "null": [
         "t=\"0\".repeat(d)",
         "e=new TextEncoder;let n=0;while(1){const h=await crypto.subtle.digest(\"SHA-256\"",
@@ -44,28 +49,38 @@
   },
   "futures": {
     "es": {
-      "Symbol": "ES.F",
-      "Date": "2026-06-05",
-      "Time": "22:58:57",
-      "Open": "7589",
-      "High": "7590.25",
-      "Low": "7359.75",
-      "Close": "7367.75",
-      "Volume": ""
+      "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"robots\" content=\"noindex": "(async()=>{const c=\"AAAAAGojeA-6xt2Ow5dBznJadHeBKduLkYRnQpVIvJwhMrACXvKCZ2rxdn0\"",
+      "nofollow\"></head><body><noscript>This site requires JavaScript to verify your browser. Please enable JavaScript and reload.</noscript><script nonce=\"uiyegRYsbi6W2Gg8Q-3bqw\">": "d=4",
+      "null": [
+        "t=\"0\".repeat(d)",
+        "e=new TextEncoder;let n=0;while(1){const h=await crypto.subtle.digest(\"SHA-256\"",
+        "e.encode(c+n))",
+        "x=Array.from(new Uint8Array(h)).map(b=>b.toString(16).padStart(2",
+        "0)).join(\"\");if(x.startsWith(t))break;n++}const r=await fetch(\"/__verify\"",
+        "{method:\"POST\"",
+        "headers:{\"Content-Type\":\"application/x-www-form-urlencoded\"}",
+        "body:\"c=\"+encodeURIComponent(c)+\"&n=\"+n",
+        "credentials:\"same-origin\"});if(r.ok)location.reload()})();"
+      ]
     },
     "nq": {
-      "Symbol": "NQ.F",
-      "Date": "2026-06-05",
-      "Time": "22:58:54",
-      "Open": "30402.75",
-      "High": "30421.5",
-      "Low": "28789.25",
-      "Close": "28830.25",
-      "Volume": ""
+      "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"robots\" content=\"noindex": "(async()=>{const c=\"AAAAAGojeA-wN5StuE-PmRSP_XR3iBlCkYRnQp6VVrWUG66Mxx8QK0D84zk\"",
+      "nofollow\"></head><body><noscript>This site requires JavaScript to verify your browser. Please enable JavaScript and reload.</noscript><script nonce=\"5lV6_qIOcYlTIbmwKhTylw\">": "d=4",
+      "null": [
+        "t=\"0\".repeat(d)",
+        "e=new TextEncoder;let n=0;while(1){const h=await crypto.subtle.digest(\"SHA-256\"",
+        "e.encode(c+n))",
+        "x=Array.from(new Uint8Array(h)).map(b=>b.toString(16).padStart(2",
+        "0)).join(\"\");if(x.startsWith(t))break;n++}const r=await fetch(\"/__verify\"",
+        "{method:\"POST\"",
+        "headers:{\"Content-Type\":\"application/x-www-form-urlencoded\"}",
+        "body:\"c=\"+encodeURIComponent(c)+\"&n=\"+n",
+        "credentials:\"same-origin\"});if(r.ok)location.reload()})();"
+      ]
     },
     "ym": {
-      "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"robots\" content=\"noindex": "(async()=>{const c=\"AAAAAGojWSHkCD2UmXKsLBZf4ic8m1EhBOytFfNY95rODrIzdMD9CMrFKu8\"",
-      "nofollow\"></head><body><noscript>This site requires JavaScript to verify your browser. Please enable JavaScript and reload.</noscript><script nonce=\"Nm2zAEN7lUkSKy2BY0fjOw\">": "d=4",
+      "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"robots\" content=\"noindex": "(async()=>{const c=\"AAAAAGojeBDUke5R-qpXkEcsAa7qqmIjkYRnQockstz-tnY08SNKH--ACTY\"",
+      "nofollow\"></head><body><noscript>This site requires JavaScript to verify your browser. Please enable JavaScript and reload.</noscript><script nonce=\"1gqdXeevVYI79UwvtYke3Q\">": "d=4",
       "null": [
         "t=\"0\".repeat(d)",
         "e=new TextEncoder;let n=0;while(1){const h=await crypto.subtle.digest(\"SHA-256\"",
@@ -81,8 +96,8 @@
   },
   "fx": {
     "usdkrw": {
-      "rate": 1532.415441,
-      "time_last_update_utc": "Fri, 05 Jun 2026 00:02:31 +0000"
+      "rate": 1545.291482,
+      "time_last_update_utc": "Sat, 06 Jun 2026 00:02:32 +0000"
     }
   }
 }

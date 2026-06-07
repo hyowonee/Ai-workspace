@@ -1,9 +1,9 @@
 {
-  "updated_at_utc": "2026-06-07 15:37:41 UTC",
+  "updated_at_utc": "2026-06-07 17:20:17 UTC",
   "indices": {
     "spx": {
-      "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"robots\" content=\"noindex": "(async()=>{const c=\"AAAAAGolkEQ_dc3cwB8LPOB_pJHfVRkgRJo2ah7rjlNIeWyrYSpf-sG5-3Q\"",
-      "nofollow\"></head><body><noscript>This site requires JavaScript to verify your browser. Please enable JavaScript and reload.</noscript><script nonce=\"iutv-rNKFaCrGhIG5OmQIQ\">": "d=4",
+      "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"robots\" content=\"noindex": "(async()=>{const c=\"AAAAAGolqE_FMtPc9CkALVWq8SA0_c9VNKEyJf9V9SME036Udnno6jnfmKw\"",
+      "nofollow\"></head><body><noscript>This site requires JavaScript to verify your browser. Please enable JavaScript and reload.</noscript><script nonce=\"Lc0si3FJo144YR5mvc2vXw\">": "d=4",
       "null": [
         "t=\"0\".repeat(d)",
         "e=new TextEncoder;let n=0;while(1){const h=await crypto.subtle.digest(\"SHA-256\"",
@@ -17,8 +17,8 @@
       ]
     },
     "ndq": {
-      "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"robots\" content=\"noindex": "(async()=>{const c=\"AAAAAGolkEXYLEnIEPtcPJbZaN0aJme1RJo2arpnA4Tup_-0UhOQQvdVNBg\"",
-      "nofollow\"></head><body><noscript>This site requires JavaScript to verify your browser. Please enable JavaScript and reload.</noscript><script nonce=\"_zWnSnA83aR25iMUpKyjRg\">": "d=4",
+      "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"robots\" content=\"noindex": "(async()=>{const c=\"AAAAAGolqE-vSavAGPjxAGkPC20VQA8nNKEyJdEatCAXMQDXIKeKo1Ybzo8\"",
+      "nofollow\"></head><body><noscript>This site requires JavaScript to verify your browser. Please enable JavaScript and reload.</noscript><script nonce=\"pVIQi7Q0jM0BqM4qbUcOWg\">": "d=4",
       "null": [
         "t=\"0\".repeat(d)",
         "e=new TextEncoder;let n=0;while(1){const h=await crypto.subtle.digest(\"SHA-256\"",
@@ -32,8 +32,8 @@
       ]
     },
     "dji": {
-      "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"robots\" content=\"noindex": "(async()=>{const c=\"AAAAAGolkETUxo2H2kx7VI-gWlYOrcCGRJo2ak81TtIHEidnWrJvnoxiHpc\"",
-      "nofollow\"></head><body><noscript>This site requires JavaScript to verify your browser. Please enable JavaScript and reload.</noscript><script nonce=\"OCQHCawKcrneO-EOvVWAyQ\">": "d=4",
+      "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"robots\" content=\"noindex": "(async()=>{const c=\"AAAAAGolqFD9lNwPKLxtyPQbpUQ5DypYNKEyJWzgqWp2uSmHJBfCaLpbEnQ\"",
+      "nofollow\"></head><body><noscript>This site requires JavaScript to verify your browser. Please enable JavaScript and reload.</noscript><script nonce=\"JjMfglXO2r1N9MnslSn7_w\">": "d=4",
       "null": [
         "t=\"0\".repeat(d)",
         "e=new TextEncoder;let n=0;while(1){const h=await crypto.subtle.digest(\"SHA-256\"",
@@ -49,8 +49,8 @@
   },
   "futures": {
     "es": {
-      "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"robots\" content=\"noindex": "(async()=>{const c=\"AAAAAGolkEVb8RP8yuPd9ps6DESWcFvVRJo2ahynxrEf_ClLd0GfLatjtX0\"",
-      "nofollow\"></head><body><noscript>This site requires JavaScript to verify your browser. Please enable JavaScript and reload.</noscript><script nonce=\"pB7sIsJBfy6ocISSByKw_Q\">": "d=4",
+      "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"robots\" content=\"noindex": "(async()=>{const c=\"AAAAAGolqFFsuBv5lDIxos-O2FGBDDiKNKEyJY1GhmXtVsYSC5Uzi2V30Sc\"",
+      "nofollow\"></head><body><noscript>This site requires JavaScript to verify your browser. Please enable JavaScript and reload.</noscript><script nonce=\"ybwm2GMeqKFOJVoDdbeIeA\">": "d=4",
       "null": [
         "t=\"0\".repeat(d)",
         "e=new TextEncoder;let n=0;while(1){const h=await crypto.subtle.digest(\"SHA-256\"",
@@ -64,8 +64,8 @@
       ]
     },
     "nq": {
-      "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"robots\" content=\"noindex": "(async()=>{const c=\"AAAAAGolkEZOqL0EQtf6mwuoRfjwgOC-RJo2ao9LqRxpS6WtL_f3rAdr48k\"",
-      "nofollow\"></head><body><noscript>This site requires JavaScript to verify your browser. Please enable JavaScript and reload.</noscript><script nonce=\"Xr9Litln9Bk4zhx27QXJkA\">": "d=4",
+      "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"robots\" content=\"noindex": "(async()=>{const c=\"AAAAAGolqFMNjYtYktcLeHLiDULjg2ARNKEyJVCTFzwO528Jv82lDzw2YBc\"",
+      "nofollow\"></head><body><noscript>This site requires JavaScript to verify your browser. Please enable JavaScript and reload.</noscript><script nonce=\"n1UIL-bTxpR5S7P-6IrtVw\">": "d=4",
       "null": [
         "t=\"0\".repeat(d)",
         "e=new TextEncoder;let n=0;while(1){const h=await crypto.subtle.digest(\"SHA-256\"",
@@ -79,8 +79,8 @@
       ]
     },
     "ym": {
-      "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"robots\" content=\"noindex": "(async()=>{const c=\"AAAAAGolkEbOxls9Y4gOqnP-ykLtbo9tRJo2akA0ELnH-iI72lT0xOAM3GM\"",
-      "nofollow\"></head><body><noscript>This site requires JavaScript to verify your browser. Please enable JavaScript and reload.</noscript><script nonce=\"HLin1V387MlM9oO0PqjflQ\">": "d=4",
+      "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"robots\" content=\"noindex": "(async()=>{const c=\"AAAAAGolqFMPbxohi1iRGZNXiRY8KuSkNKEyJbWTIMJ1lNLD3d5MFjPEF1I\"",
+      "nofollow\"></head><body><noscript>This site requires JavaScript to verify your browser. Please enable JavaScript and reload.</noscript><script nonce=\"2Re3BBL4ESMbrKwVbLwX9A\">": "d=4",
       "null": [
         "t=\"0\".repeat(d)",
         "e=new TextEncoder;let n=0;while(1){const h=await crypto.subtle.digest(\"SHA-256\"",

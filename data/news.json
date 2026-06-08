@@ -1,32 +1,53 @@
 {
-  "updated_at_utc": "2026-06-07 23:07:45 UTC",
+  "updated_at_utc": "2026-06-08 01:40:14 UTC",
   "items": [
     {
-      "title": "Airbus notifies A320neo series customers of delays on jets due in 2027 and 2028, Bloomberg News reports",
-      "link": "https://www.investing.com/news/stock-market-news/airbus-notifies-a320neo-series-customers-of-delays-on-jets-due-in-2027-and-2028-bloomberg-news-reports-4729699",
+      "title": "Screwworm border closure fuels beef boom in Mexico, gloom in Texas",
+      "link": "https://www.investing.com/news/stock-market-news/screwworm-border-closure-fuels-beef-boom-in-mexico-gloom-in-texas-4729734",
       "summary": "",
-      "title_ko": "블룸버그 뉴스는 에어버스가 A320neo 시리즈 고객에게 2027년과 2028년에 예정된 제트기 지연에 대해 통지한다고 보도했습니다.",
+      "title_ko": "Screwworm 국경 폐쇄는 멕시코의 쇠고기 붐과 텍사스의 어둠에 연료를 공급합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-      "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4729698",
+      "title": "Bouygues-led consortium signs $23.44 billion deal to buy SFR from Altice France",
+      "link": "https://www.investing.com/news/stock-market-news/bouyguesled-consortium-signs-2344-billion-deal-to-buy-sfr-from-altice-france-4729738",
       "summary": "",
-      "title_ko": "러시아 주식은 교역 마감 시점보다 낮습니다. MOEX 러시아 지수는 변동이 없습니다.",
+      "title_ko": "부이그가 이끄는 컨소시엄, 알티스 프랑스로부터 SFR을 매입하기 위해 234억 4천만 $ 규모의 계약 체결",
       "summary_ko": ""
     },
     {
-      "title": "LATAM CEO sees more airline capacity cuts if fuel shock persists",
-      "link": "https://www.investing.com/news/stock-market-news/latam-ceo-sees-more-airline-capacity-cuts-if-fuel-shock-persists-4729692",
+      "title": "Airline chiefs grapple with fuel shock, fare test at Rio summit",
+      "link": "https://www.investing.com/news/stock-market-news/airline-chiefs-grapple-with-fuel-shock-fare-test-at-rio-summit-4729737",
       "summary": "",
-      "title_ko": "LATAM CEO, 연료 충격이 지속될 경우 더 많은 항공사 용량 삭감",
+      "title_ko": "항공사 수장들이 리우 정상 회담에서 연료 충격, 요금 테스트와 씨름하다",
       "summary_ko": ""
     },
     {
-      "title": "How durable is the impact of the World Cup on stocks?",
-      "link": "https://www.investing.com/news/stock-market-news/how-durable-is-the-impact-of-the-world-cup-on-stocks-4729697",
+      "title": "Saving Siri: After two years of stumbles, is Apple’s AI moment here?",
+      "link": "https://www.investing.com/news/stock-market-news/saving-siri-after-two-years-of-stumbles-is-apples-ai-moment-here-4729736",
       "summary": "",
-      "title_ko": "월드컵이 주식에 미치는 영향은 얼마나 내구성이 있습니까?",
+      "title_ko": "시리 구하기: 2년간의 비틀거림 끝에 애플의 인공지능 순간이 왔나요?",
+      "summary_ko": ""
+    },
+    {
+      "title": "Japan Q1 GDP revised lower on weak business spending, M.East headwinds",
+      "link": "https://www.investing.com/news/economic-indicators/japan-q1-gdp-revised-lower-on-weak-business-spending-meast-headwinds-4729725",
+      "summary": "",
+      "title_ko": "일본 1분기 국내총생산 (GDP) 이 미약한 비즈니스 지출에 대해 낮게 수정됨, M. 동풍",
+      "summary_ko": ""
+    },
+    {
+      "title": "Japan’s economy cools on weak capex in Q1, revised data shows",
+      "link": "https://www.investing.com/news/economic-indicators/japan-revises-q1-gdp-down-to-annualised-18-expansion-4729721",
+      "summary": "",
+      "title_ko": "일본 경제, 1분기 약세장 냉각, 수정된 데이터에 따르면",
+      "summary_ko": ""
+    },
+    {
+      "title": "UK firms pause hiring as Iran war stings, REC survey shows",
+      "link": "https://www.investing.com/news/economic-indicators/uk-firms-pause-hiring-as-iran-war-stings-rec-survey-shows-4729706",
+      "summary": "",
+      "title_ko": "REC 설문 조사에 따르면 영국 기업은 이란이 전쟁에 휘말리면서 고용을 일시 중지했습니다.",
       "summary_ko": ""
     },
     {
@@ -37,39 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Putin says he currently sees no reason to meet Ukraine’s Zelenskiy",
-      "link": "https://www.investing.com/news/economic-indicators/putin-says-he-currently-sees-no-reason-to-meet-ukraines-zelenskiy-4728943",
-      "summary": "",
-      "title_ko": "푸틴 대통령은 현재 우크라이나의 젤렌스키를 만날 이유가 없다고 말했습니다.",
-      "summary_ko": ""
+      "title": "WTI holds gains near $90.50 as Iran launches missiles toward Israel",
+      "link": "https://www.fxstreet.com/news/wti-holds-gains-near-9050-as-iran-launches-missiles-toward-israel-202606080104",
+      "summary": "West Texas Intermediate (WTI) oil price edges lower after opening at a bullish gap, remaining in the positive territory and trading around $90.50 per barrel during the Asian hours on Monday.",
+      "title_ko": "이란이 이스라엘을 향해 미사일을 발사함에 따라 WTI는 약 $ 90.50 의 이익을 보유하고 있습니다.",
+      "summary_ko": "서부 텍사스 중급 (WTI) 유가는 강세 갭에서 개장 후 낮아져 긍정적 인 영역에 남아 월요일 아시아 시간 동안 배럴당 $ 90.50 정도 거래됩니다."
     },
     {
-      "title": "Canada’s Ivey PMI rises to eight-month high in May",
-      "link": "https://www.investing.com/news/economic-indicators/canadas-ivey-pmi-rises-to-eightmonth-high-in-may-4728782",
-      "summary": "",
-      "title_ko": "캐나다의 Ivey PMI, 5월에 8개월 최고치로 상승",
-      "summary_ko": ""
-    },
-    {
-      "title": "U.S. economy adds 172,000 jobs in May, topping expectations",
-      "link": "https://www.investing.com/news/economic-indicators/us-economy-adds-172000-jobs-in-may-4728533",
-      "summary": "",
-      "title_ko": "미국 경제는 5월에 172,000개의 일자리를 추가하여 기대치를 상회합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Philippine Peso: BSP tightening path supports PHP – UOB",
-      "link": "https://www.fxstreet.com/news/philippine-peso-bsp-tightening-path-supports-php-uob-202606052122",
-      "summary": "UOB economists Julia Goh and Loke Siew Ting note that Philippine inflation unexpectedly eased in May but remains above the Bangko Sentral ng Pilipinas (BSP) target, keeping risks tilted to the upside.",
-      "title_ko": "필리핀 페소: BSP 조임 경로, PHP 지원 – UOB",
-      "summary_ko": "UOB 경제학자 줄리아 고 (Julia Goh) 와 로크 시에 팅 (Loke Siew Ting) 은 필리핀 인플레이션이 예기치 않게 5월에 완화되었지만 방코 센트럴 NG 필리피나스 (Bangko Sentral ng Pilipinas, BSP) 목표 이상으로 유지되어 위험을 거꾸로 기울였다고 지적했다."
-    },
-    {
-      "title": "New Zealand Dollar plunges to two-month lows after upbeat US NFP report",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-plunges-to-two-month-lows-after-upbeat-us-nfp-report-202606052044",
-      "summary": "NZD/USD falls sharply towards the 0.5790 region on Friday as the US Dollar (USD) strengthened following a stronger-than-expected Nonfarm Payrolls (NFP) report, while the New Zealand Dollar (NZD) struggled to attract buye",
-      "title_ko": "뉴질랜드 달러는 낙관적인 미국 NFP 보고서 이후 2개월 만에 최저치로 급락했습니다.",
-      "summary_ko": "NZD/USD는 예상보다 강한 비농장 급여 (NFP) 보고서에 따라 미국 달러 (USD) 가 강화됨에 따라 금요일 0.5790 지역으로 급격히 하락한 반면, 뉴질랜드 달러 (NZD) 는 구매를 유치하기 위해 고군분투했습니다."
+      "title": "OPEC+ agrees fourth oil output quota hike in July",
+      "link": "https://www.fxstreet.com/news/opec-agrees-fourth-oil-output-quota-hike-in-july-202606080057",
+      "summary": "The Organization of the Petroleum Exporting Countries and its allies (OPEC+) agreed on Sunday to increase production by 188,000 barrels per day (bpd) in July despite the continued closure of the Strait of Hormuz.",
+      "title_ko": "OPEC +, 7월 네 번째 석유 생산 할당량 인상 합의",
+      "summary_ko": "석유 수출국기구와 그 동맹국 (OPEC +) 은 호르무즈 해협의 지속적인 폐쇄에도 불구하고 7 월에 하루 188,000 배럴 (bpd) 의 생산을 늘리기로 일요일에 합의했다."
     }
   ]
 }

@@ -1,32 +1,46 @@
 {
-  "updated_at_utc": "2026-06-10 08:13:01 UTC",
+  "updated_at_utc": "2026-06-10 11:52:38 UTC",
   "items": [
     {
-      "title": "Why is Kongsberg stock sliding 3% today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-kongsberg-stock-sliding-3-today-93CH-4734454",
+      "title": "Why is Alibaba ADR stock sliding today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-alibaba-adr-stock-sliding-today-93CH-4734994",
       "summary": "",
-      "title_ko": "오늘날 콩스베리 주가가 3% 미끄러지는 이유는 무엇입니까?",
+      "title_ko": "오늘 알리바바 ADR 주가가 미끄러지는 이유는 무엇입니까?",
       "summary_ko": ""
     },
     {
-      "title": "Why is Soitec stock tumbling today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-soitec-stock-tumbling-today-93CH-4734452",
+      "title": "Why is Oscar Health stock rallying 3.60% today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-oscar-health-stock-rallying-360-today-93CH-4734980",
       "summary": "",
-      "title_ko": "오늘 Soitec 주가가 폭락하는 이유는 무엇입니까?",
+      "title_ko": "오늘날 오스카 헬스 주식이 3.60% 상승한 이유는 무엇입니까?",
       "summary_ko": ""
     },
     {
-      "title": "Why is Lenovo stock tumbling today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-lenovo-stock-tumbling-today-93CH-4734450",
+      "title": "Porsche won’t produce fully electric 911, dpa cites CEO as saying",
+      "link": "https://www.investing.com/news/stock-market-news/porsche-wont-produce-fully-electric-911-dpa-cites-ceo-as-saying-4734973",
       "summary": "",
-      "title_ko": "오늘 Lenovo 재고가 떨어지는 이유는 무엇입니까?",
+      "title_ko": "포르쉐는 완전 전기 911을 생산하지 않을 것이라고 dpa는 CEO가 말했습니다.",
       "summary_ko": ""
     },
     {
-      "title": "Why is Asics stock slipping today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-asics-stock-slipping-today-93CH-4734447",
+      "title": "Visa, Mastercard $38 billion swipe fee settlement wins US judge’s approval",
+      "link": "https://www.investing.com/news/stock-market-news/us-judge-oks-visa-mastercard-38-billion-swipe-fee-settlement-4733778",
       "summary": "",
-      "title_ko": "오늘 아식스 주가가 하락하는 이유는 무엇인가요?",
+      "title_ko": "Visa, Mastercard $ 380억 스와이프 수수료 정산, 미국 판사 승인 획득",
+      "summary_ko": ""
+    },
+    {
+      "title": "Italy’s industrial output unexpectedly rises in April despite Iran war",
+      "link": "https://www.investing.com/news/economic-indicators/italys-industrial-output-unexpectedly-rises-in-april-despite-iran-war-4734586",
+      "summary": "",
+      "title_ko": "이탈리아의 산업 생산량은 이란 전쟁에도 불구하고 4월에 예기치 않게 증가합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Italy’s industrial output rises 0.5% in April, beating forecasts",
+      "link": "https://www.investing.com/news/economic-indicators/italys-industrial-output-rises-05-in-april-beating-forecasts-93CH-4734555",
+      "summary": "",
+      "title_ko": "이탈리아의 산업 생산량은 4월에 0.5% 증가하여 예상을 뛰어넘습니다.",
       "summary_ko": ""
     },
     {
@@ -44,32 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Sweden’s GDP rises 0.5% in April from previous month",
-      "link": "https://www.investing.com/news/economic-indicators/swedens-gdp-rises-05-in-april-from-previous-month-93CH-4734366",
-      "summary": "",
-      "title_ko": "스웨덴의 4월 국내총생산 (GDP) 은 전월보다 0.5% 증가했다.",
-      "summary_ko": ""
+      "title": "BoC set to hold interest rate as inflation remains high and the economy weakens",
+      "link": "https://www.fxstreet.com/news/boc-set-to-hold-interest-rate-as-inflation-remains-high-but-economy-wobbles-202606100900",
+      "summary": "The Bank of Canada (BoC) is widely expected to keep its policy rate unchanged at 2.25% on Wednesday. This would be the fifth consecutive gathering with the bank keeping its hand steady.",
+      "title_ko": "인플레이션이 높게 유지되고 경기가 약화됨에 따라 BoC가 금리를 보유하도록 설정됨",
+      "summary_ko": "캐나다 은행 (BoC) 은 수요일에 정책 금리를 2.25% 로 변경하지 않을 것으로 예상됩니다. 이것은 은행이 손을 흔들지 않고 있는 다섯 번째 연속 모임이 될 것이다."
     },
     {
-      "title": "German retailers expect only modest boost from World Cup",
-      "link": "https://www.investing.com/news/economic-indicators/german-retailers-expect-only-modest-boost-from-world-cup-4734363",
-      "summary": "",
-      "title_ko": "독일 소매 업체는 월드컵에서 약간의 부스트 만 기대합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Copper: Mixed China signals and positioning shifts – ING",
-      "link": "https://www.fxstreet.com/news/copper-mixed-china-signals-and-positioning-shifts-ing-202606100733",
-      "summary": "ING’s Warren Patterson and Ewa Manthey say China’s latest trade data for Copper are mixed, with higher unwrought Copper imports in May but lower year-to-date volumes due to stronger domestic refined output.",
-      "title_ko": "구리: 혼합 중국 신호 및 포지셔닝 시프트 – ING",
-      "summary_ko": "ING의 워런 패터슨 (Warren Patterson) 과 에와 만테이 (Ewa Manthey) 는 중국의 구리 관련 최신 무역 데이터가 혼합되어 있으며, 5월에는 가공되지 않은 구리 수입이 증가했지만 국내 정제 생산량이 강해지면서 전년 대비 거래량이 감소했다고 말합니다."
-    },
-    {
-      "title": "Euro remains near two-month lows with all eyes on US CPI release",
-      "link": "https://www.fxstreet.com/news/euro-remains-near-two-month-lows-with-all-eyes-on-us-cpi-release-202606100722",
-      "summary": "The Euro (EUR) ticks up for the third consecutive day against the US Dollar (USD) on Wednesday, but remains capped below a previous support zone at 1.1575, with the two-month lows, in the 1.1500 area, at hand.",
-      "title_ko": "유로화는 미국 CPI 릴리스에 대한 모든 시선으로 2개월 최저치에 가깝게 유지됩니다.",
-      "summary_ko": "유로 (EUR) 는 수요일에 미국 달러 (USD) 에 대해 3 일 연속 상승했지만 1.1500 지역에서 2 개월 저점을 기록한 1.1575에서 이전 지원 지역 아래로 상한선을 유지하고 있습니다."
+      "title": "WTI Oil holds near seven-week lows sub-$87 despite US-Iran tensions",
+      "link": "https://www.fxstreet.com/news/wti-oil-holds-near-seven-week-lows-sub-87-despite-us-iran-tensions-202606101056",
+      "summary": "Crude prices are trading lower for the fifth consecutive day on Wednesday, with the US benchmark West Texas Intermediate (WTI) barrel trading at $86.60 at the time of writing, more than $4 down so far this week.",
+      "title_ko": "WTI 오일은 미국과 이란의 긴장에도 불구하고 7주 최저치인 $ 87를 유지하고 있습니다.",
+      "summary_ko": "원유 가격은 수요일에 5 일 연속으로 거래되고 있으며, 미국 벤치 마크 웨스트 텍사스 중급 (WTI) 배럴 거래는 서면 작성 당시 $ 86.60 로 이번 주까지 $ 4 이상 하락했습니다."
     }
   ]
 }

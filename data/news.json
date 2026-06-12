@@ -1,32 +1,46 @@
 {
-  "updated_at_utc": "2026-06-12 11:02:25 UTC",
+  "updated_at_utc": "2026-06-12 14:19:29 UTC",
   "items": [
     {
-      "title": "Why is Medline stock sliding today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-medline-stock-sliding-today-93CH-4739353",
+      "title": "Why is Cintas stock sliding today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-cintas-stock-sliding-today-93CH-4739860",
       "summary": "",
-      "title_ko": "오늘날 Medline 재고가 미끄러지는 이유는 무엇입니까?",
+      "title_ko": "오늘 신타스 주가가 미끄러지는 이유는 무엇인가요?",
       "summary_ko": ""
     },
     {
-      "title": "AMD “emerging as a legit second source in the GPU market” says Citi",
-      "link": "https://www.investing.com/news/stock-market-news/amd-emerging-as-a-legit-second-source-in-the-gpu-market-says-citi-4739340",
+      "title": "Uber explores asset sales to advance Delivery Hero takeover - Bloomberg",
+      "link": "https://www.investing.com/news/stock-market-news/uber-explores-asset-sales-to-advance-delivery-hero-takeover--bloomberg-93CH-4739858",
       "summary": "",
-      "title_ko": "AMD는 \"GPU 시장에서 합법적인 두 번째 소스로 부상하고 있습니다\" 라고 Citi는 말합니다.",
+      "title_ko": "Uber, Delivery Hero 인수 추진을 위한 자산 판매 방안 모색 - Bloomberg",
       "summary_ko": ""
     },
     {
-      "title": "Why is New Oriental Education &amp; Technology stock rallying 4% today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-new-oriental-education--technology-stock-rallying-4-today-93CH-4739339",
+      "title": "SpaceX trading to kick off after record IPO, set to surge more than 25% at open",
+      "link": "https://www.investing.com/news/stock-market-news/after-record-ipo-musks-spacex-faces-next-test-in-market-debut-4739027",
       "summary": "",
-      "title_ko": "오늘날 새로운 동양 교육 및 기술 주식이 4% 상승한 이유는 무엇입니까?",
+      "title_ko": "기록적인 IPO 이후 킥오프할 SpaceX 거래, 오픈 시 25% 이상 급등하도록 설정",
       "summary_ko": ""
     },
     {
-      "title": "Why is SailPoint stock down 2% today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-sailpoint-stock-down-2-today-93CH-4739327",
+      "title": "Microsoft plunges to oversold RSI 27 in downtrend: Live levels",
+      "link": "https://www.investing.com/news/stock-market-news/microsoft-in-sharp-downtrend-near-408-support-live-levels-93CH-4731055",
       "summary": "",
-      "title_ko": "오늘 SailPoint 주가가 2% 하락한 이유는 무엇인가요?",
+      "title_ko": "Microsoft, 하락 추세에서 RSI 27 초과 판매 급락: 라이브 레벨",
+      "summary_ko": ""
+    },
+    {
+      "title": "US consumer sentiment improves in June",
+      "link": "https://www.investing.com/news/economic-indicators/us-consumer-sentiment-improves-in-june-4739861",
+      "summary": "",
+      "title_ko": "6월 미국 소비심리 개선",
+      "summary_ko": ""
+    },
+    {
+      "title": "Consumer sentiment surpasses expectations, indicating economic optimism",
+      "link": "https://www.investing.com/news/economic-indicators/consumer-sentiment-surpasses-expectations-indicating-economic-optimism-93CH-4739834",
+      "summary": "",
+      "title_ko": "소비심리가 예상을 뛰어넘어 경제적 낙관론을 나타냄",
       "summary_ko": ""
     },
     {
@@ -44,32 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "UK public inflation expectations surged after Iran war, BoE says",
-      "link": "https://www.investing.com/news/economic-indicators/uk-public-inflation-expectations-surged-after-iran-war-boe-says-4739048",
-      "summary": "",
-      "title_ko": "BOE에 따르면 이란 전쟁 이후 영국 대중의 인플레이션 기대가 급증했다.",
-      "summary_ko": ""
+      "title": "WTI Price Forecast: RSI points lower as prices remain below key SMAs",
+      "link": "https://www.fxstreet.com/news/wti-price-forecast-rsi-points-lower-as-prices-remain-below-key-smas-202606121319",
+      "summary": "West Texas Intermediate (WTI) pares some part of earlier losses on Friday as markets seek confirmation of a possible US-Iran agreement, prompting traders to refrain from placing aggressive bearish bets.",
+      "title_ko": "WTI 가격 예측: 주요 SMA보다 가격이 낮아짐에 따라 RSI 포인트가 낮아짐",
+      "summary_ko": "서부 텍사스 중급 (WTI) 은 금요일에 시장이 가능한 미국-이란 계약의 확인을 추구함에 따라 거래자들이 공격적인 약세 베팅을 자제하도록 유도하면서 이전 손실의 일부를 공유합니다."
     },
     {
-      "title": "Bank of England survey shows UK inflation expectations rise",
-      "link": "https://www.investing.com/news/economic-indicators/bank-of-england-survey-shows-uk-inflation-expectations-rise-4739046",
-      "summary": "",
-      "title_ko": "뱅크 오브 잉글랜드 설문 조사에 따르면 영국 인플레이션 기대치가 상승",
-      "summary_ko": ""
-    },
-    {
-      "title": "Silver Price Forecasts: XAG/USD bulls eye $69.00 amid an improved market mood",
-      "link": "https://www.fxstreet.com/news/silver-price-forecasts-xag-usd-bulls-eye-6900-amid-an-improved-market-mood-202606121006",
-      "summary": "Thursday’s EuropeanSilver (XAG/USD) retraces previous losses on Friday's European session, returning to levels in the mid-range of the $67.00s at the time of writing.",
-      "title_ko": "실버 가격 예측: 시장 분위기가 개선되는 가운데 XAG/USD BULLS EYE $ 69.00",
-      "summary_ko": "목요일 EuropeanSilver (XAG/USD) 는 금요일 유럽 세션에서 이전 손실을 되짚어보고 서면 작성 시 $ 67.00 s의 중간 범위로 돌아갑니다."
-    },
-    {
-      "title": "Polish Zloty: Political veto risk weighs on PLN – Commerzbank",
-      "link": "https://www.fxstreet.com/news/polish-zloty-political-veto-risk-weighs-on-pln-commerzbank-202606121001",
-      "summary": "Commerzbank’s Tatha Ghose highlights that President Karol Nawrocki has rapidly accumulated a record number of vetoes, blocking key legislation on crypto assets, taxation and healthcare. Ghose expects Nawrocki to continue",
-      "title_ko": "폴란드 즐로티: 정치적 거부권 위험이 PLN에 가중 – Commerzbank",
-      "summary_ko": "코메르츠방크 (Commerzbank) 의 타타 고스 (Tatha Ghose) 는 카롤 나우로키 (Karol Nawrocki) 대통령이 기록적인 수의 거부권을 신속하게 축적하여 암호화 자산, 과세 및 의료에 대한 주요 법률을 차단했다고 강조합니다. Ghose는 Nawrocki가 계속할 것으로 기대합니다"
+      "title": "June Michigan Sentiment Index expected to reflect the impact of higher inflation",
+      "link": "https://www.fxstreet.com/news/uom-consumer-sentiment-index-expected-to-remain-depressed-near-historical-lows-in-june-202606121100",
+      "summary": "The University of Michigan (UoM) will release the preliminary estimate of June’s Consumer Sentiment Index on Friday.",
+      "title_ko": "6월 미시간 감정 지수는 높은 인플레이션의 영향을 반영할 것으로 예상됩니다",
+      "summary_ko": "미시간 대학교 (UoM) 는 금요일에 6월 소비자 감정 지수의 예비 추정치를 발표할 예정입니다."
     }
   ]
 }

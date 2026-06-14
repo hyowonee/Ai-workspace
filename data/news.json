@@ -1,6 +1,13 @@
 {
-  "updated_at_utc": "2026-06-14 21:14:51 UTC",
+  "updated_at_utc": "2026-06-14 22:41:44 UTC",
   "items": [
+    {
+      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4741115",
+      "summary": "",
+      "title_ko": "러시아 주식은 교역 마감 시점보다 낮습니다. MOEX 러시아 지수는 변동이 없습니다.",
+      "summary_ko": ""
+    },
     {
       "title": "How ‘agentic’ is AI shopping today",
       "link": "https://www.investing.com/news/stock-market-news/how-agentic-is-ai-shopping-today-4741112",
@@ -20,13 +27,6 @@
       "link": "https://www.investing.com/news/stock-market-news/how-spacex-broke-the-space-launch-cost-curve-4741101",
       "summary": "",
       "title_ko": "SpaceX가 우주 발사 비용 곡선을 깨뜨린 방법",
-      "summary_ko": ""
-    },
-    {
-      "title": "Another 3% S&amp;P 500 drop may trigger more systematic selling: BofA",
-      "link": "https://www.investing.com/news/stock-market-news/another-3-sp-500-drop-may-trigger-more-systematic-selling-bofa-4741094",
-      "summary": "",
-      "title_ko": "또 다른 3% S&amp;P 500 하락은 더 체계적인 판매를 유발할 수 있습니다: BofA",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
+      "title": "US and Iran agree on peace deal to end war and reopen Strait of Hormuz",
+      "link": "https://www.fxstreet.com/news/us-and-iran-agree-on-peace-deal-to-end-war-and-reopen-strait-of-hormuz-202606142232",
+      "summary": "Pakistan Prime Minister Shehbaz Sharif said that the United States (US) and Iran have agreed on a deal to bring their nearly four-month war to an end, with both sides declaring the immediate and permanent termination of ",
+      "title_ko": "미국과 이란은 전쟁을 종식하고 호르무즈 해협을 재개하기 위한 평화 협정에 합의했다.",
+      "summary_ko": "셰바즈 샤리프 (Shehbaz Sharif) 파키스탄 총리는 미국과 이란이 거의 4개월 간의 전쟁을 끝내기 위한 협상에 합의했으며, 양측은 즉각적이고 영구적인 종전을 선언했다고 말했다."
+    },
+    {
       "title": "Forecasting the upcoming week: Fed, BoJ, BoE and RBA decisions take center stage",
       "link": "https://www.fxstreet.com/news/forecasting-the-upcoming-week-fed-boj-boe-and-rba-decisions-take-center-stage-202606122039",
       "summary": "The US Dollar Index (DXY) lost ground during the week, down 0.27% to trade near the 99.80 level as investors prepared for a heavy central bank calendar the following week.",
       "title_ko": "다음 주 예측: Fed, BOJ, BOE 및 RBA 결정이 중심이 됨",
       "summary_ko": "미국 달러 지수 (DXY) 는 다음 주에 무거운 중앙 은행 일정을 준비하면서 99.80 수준 근처에서 거래되기 위해 0.27% 하락했다."
-    },
-    {
-      "title": "South Korean Won: Authorities step up FX stabilisation push – Societe Generale",
-      "link": "https://www.fxstreet.com/news/south-korean-won-authorities-step-up-fx-stabilisation-push-societe-generale-202606121957",
-      "summary": "Societe Generale highlights that South Korean authorities have launched a multi-pronged FX stabilisation package to address short-term USD funding stress and speculative pressures on the Korean Won.",
-      "title_ko": "한국 원화: 당국, FX 안정화 추진 강화 – Societe Generale",
-      "summary_ko": "Societe Generale은 한국 당국이 단기 USD 자금 조달 스트레스와 한국 원화에 대한 투기 압력을 해결하기 위해 여러 갈래의 FX 안정화 패키지를 출시했다고 강조합니다."
     }
   ]
 }

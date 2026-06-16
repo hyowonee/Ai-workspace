@@ -1,32 +1,46 @@
 {
-  "updated_at_utc": "2026-06-16 13:13:34 UTC",
+  "updated_at_utc": "2026-06-16 18:16:16 UTC",
   "items": [
     {
-      "title": "J.P. Morgan Identifies Best Utility Opportunities in Uncertain UK Market",
-      "link": "https://www.investing.com/news/stock-market-news/jp-morgan-identifies-best-utility-opportunities-in-uncertain-uk-market-93CH-4744956",
+      "title": "Iran deal includes $300 billion fund, more than half of which already committed, source says",
+      "link": "https://www.investing.com/news/stock-market-news/exclusiveiran-deal-includes-300-billion-fund-more-than-half-of-which-already-committed-source-says-4745500",
       "summary": "",
-      "title_ko": "J.P. Morgan, 불확실한 영국 시장에서 최고의 유틸리티 기회 확인",
+      "title_ko": "소식통에 따르면 이란 거래에는 3천억 달러 ($) 의 기금이 포함되어 있으며, 그 중 절반 이상이 이미 약속되어 있다고 한다.",
       "summary_ko": ""
     },
     {
-      "title": "Eos Energy stock surges 13% on new production facility launch",
-      "link": "https://www.investing.com/news/stock-market-news/eos-energy-stock-surges-13-on-new-production-facility-launch-93CH-4744955",
+      "title": "Rivian trims workforce by about 2% amid profitability push",
+      "link": "https://www.investing.com/news/stock-market-news/rivian-lays-off-hundreds-of-workers-wsj-reports-4745425",
       "summary": "",
-      "title_ko": "신규 생산 설비 출시 시 EOS Energy 재고 13% 급증",
+      "title_ko": "Rivian은 수익성 향상을 위해 인력을 약 2% 다듬습니다.",
       "summary_ko": ""
     },
     {
-      "title": "Amkor Technology stock jumps on TSMC packaging partnership",
-      "link": "https://www.investing.com/news/stock-market-news/amkor-technology-stock-jumps-on-tsmc-packaging-partnership-93CH-4744942",
+      "title": "SpaceX and Moderna among market cap stock movers on Tuesday",
+      "link": "https://www.investing.com/news/stock-market-news/spacex-and-moderna-among-market-cap-stock-movers-on-tuesday-93CH-4745506",
       "summary": "",
-      "title_ko": "Amkor Technology, TSMC 패키징 파트너십으로 재고 점프",
+      "title_ko": "화요일 시가총액 상승자 중 SpaceX와 Moderna",
       "summary_ko": ""
     },
     {
-      "title": "NovaBridge Biosciences stock surges on FDA Fast Track nod",
-      "link": "https://www.investing.com/news/stock-market-news/novabridge-biosciences-stock-surges-on-fda-fast-track-nod-93CH-4744929",
+      "title": "Hacking group claims major hack of Novo Nordisk and attempted $25 million extortion",
+      "link": "https://www.investing.com/news/stock-market-news/hacking-group-claims-major-hack-of-novo-nordisk-and-attempted-25-million-extortion-4745504",
       "summary": "",
-      "title_ko": "FDA 패스트 트랙에서 NovaBridge Biosciences 재고 급증",
+      "title_ko": "해킹 그룹이 Novo Nordisk에 대한 주요 해킹을 주장하고 $ 25,000,000의 강요를 시도했습니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Factbox-Costs to Lebanon of latest Israel-Hezbollah war",
+      "link": "https://www.investing.com/news/economic-indicators/factboxcosts-to-lebanon-of-latest-israelhezbollah-war-4745283",
+      "summary": "",
+      "title_ko": "팩트박스-최신 이스라엘-헤즈볼라 전쟁의 레바논 비용",
+      "summary_ko": ""
+    },
+    {
+      "title": "US single-family housing starts drop to eight-month low in May",
+      "link": "https://www.investing.com/news/economic-indicators/us-singlefamily-housing-starts-drop-to-eightmonth-low-in-may-4745003",
+      "summary": "",
+      "title_ko": "미국 단독 주택은 5월에 8개월 최저치로 떨어지기 시작합니다.",
       "summary_ko": ""
     },
     {
@@ -44,32 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Is the BoE’s hawkish stance here to stay?",
-      "link": "https://www.investing.com/news/economic-indicators/is-the-boes-hawkish-stance-here-to-stay-4744341",
-      "summary": "",
-      "title_ko": "BoE의 매파적인 자세가 여기에 머물러 있습니까?",
-      "summary_ko": ""
+      "title": "Crude Oil sells the Iran peace deal sight unseen, WTI hits 15-week low",
+      "link": "https://www.fxstreet.com/news/crude-oil-sells-the-iran-peace-deal-sight-unseen-wti-hits-15-week-low-202606161646",
+      "summary": "West Texas Intermediate (WTI) Crude Oil is in free fall, and the market is not waiting for confirmation.",
+      "title_ko": "원유는 이란 평화협정 광경을 보이지 않게 팔고, WTI는 15주 최저치를 기록했다.",
+      "summary_ko": "서부 텍사스 중급 (WTI) 원유는 자유 낙하 중이며 시장은 확인을 기다리고 있지 않습니다."
     },
     {
-      "title": "Germany’s RWI institute expects weaker economic recovery as energy shock lifts inflation",
-      "link": "https://www.investing.com/news/economic-indicators/germanys-rwi-institute-expects-weaker-economic-recovery-as-energy-shock-lifts-inflation-4744002",
-      "summary": "",
-      "title_ko": "독일의 RWI 연구소는 에너지 충격으로 인플레이션이 상승함에 따라 경제 회복이 약해질 것으로 예상합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Canadian Dollar: Range trading bias holds – NBC",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-range-trading-bias-holds-nbc-202606161244",
-      "summary": "National Bank of Canada (NBC) expects USD/CAD to remain broadly range-bound, with recent moves reflecting shifting expectations for Federal Reserve and Bank of Canada policy.",
-      "title_ko": "캐나다 달러: 범위 거래 편향 보유 – NBC",
-      "summary_ko": "캐나다 국립 은행 (National Bank of Canada, NBC) 은 USD/CAD가 광범위하게 범위 제한을 유지할 것으로 예상하며, 최근의 움직임은 연방 준비 제도 이사회 (Federal Reserve) 및 캐나다 은행 (Bank of Canada) 정책에 대한 변화하는 기대를 반영합니다."
-    },
-    {
-      "title": "Trump signals progress on Iran deal, eyes full reopening of Hormuz",
-      "link": "https://www.fxstreet.com/news/trump-signals-progress-on-iran-deal-eyes-full-reopening-of-hormuz-202606161238",
-      "summary": "President Donald Trump on Tuesday outlined the next steps in the Iran agreement, saying the deal's text will be released in the coming days and that the Strait of Hormuz should be fully reopened by Friday.",
-      "title_ko": "트럼프, 이란 거래 진전 신호, 호르무즈 전면 재개",
-      "summary_ko": "도널드 트럼프 대통령은 화요일에 이란 협정의 다음 단계를 설명하면서 이 협정의 문서는 며칠 안에 공개될 것이며 금요일까지 호르무즈 해협을 완전히 재개해야 한다고 말했다."
+      "title": "USD/CHF Price Forecast: Upside momentum fades after rejection at 0.8000",
+      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-upside-momentum-fades-after-rejection-at-08000-202606161633",
+      "summary": "USD/CHF extends losses for a second consecutive day on Tuesday as easing tensions between the United States (US) and Iran weigh on demand for the safe-haven US Dollar (USD). At the time of writing, the pair trades around",
+      "title_ko": "USD/CHF 가격 예측: 0.8000에서 거부 후 상승 모멘텀 페이드",
+      "summary_ko": "USD/CHF는 미국 (미국) 과 이란 간의 긴장 완화가 안전 피난처 미국 달러 (USD) 에 대한 수요에 무게를 두고 있기 때문에 화요일에 이틀 연속 손실을 연장합니다. 서면 작성 시 쌍은 주변에서 거래합니다."
     }
   ]
 }

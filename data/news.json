@@ -1,46 +1,39 @@
 {
-  "updated_at_utc": "2026-06-17 18:41:44 UTC",
+  "updated_at_utc": "2026-06-17 21:09:23 UTC",
   "items": [
     {
-      "title": "BMO Capital Highlights Top US Chemicals Stock Pick",
-      "link": "https://www.investing.com/news/stock-market-news/bmo-capital-highlights-top-us-chemicals-stock-pick-93CH-4748055",
+      "title": "Moody’s affirms Hershey stock A1 rating, shifts outlook to stable",
+      "link": "https://www.investing.com/news/stock-market-news/moodys-affirms-hershey-stock-a1-rating-shifts-outlook-to-stable-93CH-4748417",
       "summary": "",
-      "title_ko": "BMO 캐피탈, 미국 최고의 화학물질 주식 선택 강조",
+      "title_ko": "Moody 's는 Hershey 주식 A1 등급을 확인하고 전망을 안정적으로 전환합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Analysis-SPACs are back, thanks to Wall Street’s mega-IPO frenzy",
-      "link": "https://www.investing.com/news/stock-market-news/analysisspacs-are-back-thanks-to-wall-streets-megaipo-frenzy-4747959",
+      "title": "Exclusive-VW investor Qatar complicates plant deal talks with Israeli arms maker, sources say",
+      "link": "https://www.investing.com/news/stock-market-news/exclusivevw-investor-qatar-complicates-plant-deal-talks-with-israeli-arms-maker-sources-say-4747937",
       "summary": "",
-      "title_ko": "분석 - 월스트리트의 거대 IPO 광란 덕분에 스팩이 돌아 왔습니다.",
+      "title_ko": "독점 VW 투자자인 카타르가 이스라엘 무기 제조업체와의 공장 거래 협상을 복잡하게 만든다고 소식통이 전했습니다.",
       "summary_ko": ""
     },
     {
-      "title": "Stocks turn lower after Fed’s updated dot plot implies one rate hike this year",
-      "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-edge-higher-with-fed-rate-decision-in-focus-4746197",
+      "title": "Germany’s Bosch to pay U.S. $36 million for shipments to China’s Huawei",
+      "link": "https://www.investing.com/news/stock-market-news/germanys-bosch-to-pay-us-36-million-for-shipments-to-chinas-huawei-4748241",
       "summary": "",
-      "title_ko": "Fed의 업데이트된 닷 플롯이 올해 한 번의 금리 인상을 암시하는 경우 주가가 낮아집니다.",
+      "title_ko": "독일의 보쉬, 중국 화웨이에 배송비로 미화 3600만 달러 ($) 지불",
       "summary_ko": ""
     },
     {
-      "title": "Trump administration to pay $765 million to scrap four more offshore wind leases",
-      "link": "https://www.investing.com/news/stock-market-news/trump-administration-to-pay-765-million-to-scrap-four-more-offshore-wind-leases-4748001",
+      "title": "Texas Ventures Acquisition IV prices $150M IPO on Nasdaq",
+      "link": "https://www.investing.com/news/stock-market-news/texas-ventures-acquisition-iv-prices-150m-ipo-on-nasdaq-432SI-4748383",
       "summary": "",
-      "title_ko": "트럼프 행정부, 해상풍력 임대차 계약 4건 추가 폐기를 위해 7억 6,500만 달러 ($) 지불",
+      "title_ko": "텍사스 벤처스 인수 IV 가격 나스닥에서 $ 150M IPO",
       "summary_ko": ""
     },
     {
-      "title": "Fed holds steady in Warsh’s debut; analysts see hawkish shift",
+      "title": "Fed holds steady in Warsh’s debut, but hawkish shift fuels bond-market rout",
       "link": "https://www.investing.com/news/economic-indicators/fed-holds-steady-in-warshs-debut-analysts-see-hawkish-shift-4748060",
       "summary": "",
-      "title_ko": "Fed는 Warsh의 데뷔에서 꾸준히 유지하고 있으며, 분석가들은 매파적인 변화를 보고 있습니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Dollar extends gains after Fed holds rates but projects hike later this year",
-      "link": "https://www.investing.com/news/economic-indicators/dollar-extends-gains-after-fed-holds-rates-but-projects-hike-later-this-year-4748045",
-      "summary": "",
-      "title_ko": "달러는 연준이 금리를 보유한 후 이익이 확대되지만 올해 하반기에 프로젝트가 상승합니다.",
+      "title_ko": "Fed는 Warsh의 데뷔에서 꾸준히 유지하고 있지만, 매파 교대 근무는 채권 시장 노선에 연료를 공급합니다.",
       "summary_ko": ""
     },
     {
@@ -51,6 +44,13 @@
       "summary_ko": ""
     },
     {
+      "title": "Dollar extends gains after Fed holds rates but projects hike later this year",
+      "link": "https://www.investing.com/news/economic-indicators/dollar-extends-gains-after-fed-holds-rates-but-projects-hike-later-this-year-4748045",
+      "summary": "",
+      "title_ko": "달러는 연준이 금리를 보유한 후 이익이 확대되지만 올해 하반기에 프로젝트가 상승합니다.",
+      "summary_ko": ""
+    },
+    {
       "title": "Argentina logs $1.34 billion fiscal surplus in May",
       "link": "https://www.investing.com/news/economic-indicators/argentina-logs-134-billion-fiscal-surplus-in-may-4747890",
       "summary": "",
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Euro folds as the Fed trades cuts for hikes",
-      "link": "https://www.fxstreet.com/news/euro-folds-as-the-fed-trades-cuts-for-hikes-202606171818",
-      "summary": "The Federal Reserve (Fed) left the federal funds rate at 3.50% to 3.75% on Wednesday, but the hold was the least interesting part of Kevin Warsh's first meeting as Chair.",
-      "title_ko": "Fed 거래가 하이킹을 위해 삭감됨에 따라 유로화 주름",
-      "summary_ko": "연방준비제도 (Fed) 는 수요일 연방기금 금리를 3.50% 에서 3.75% 로 내렸지만, 이번 보류는 케빈 워시의 첫 의장 회의에서 가장 흥미롭지 않은 부분이었다."
+      "title": "British Pound double-teamed by soft CPI and a hawkish Fed",
+      "link": "https://www.fxstreet.com/news/british-pound-sterling-double-teamed-by-soft-cpi-and-a-hawkish-fed-202606172039",
+      "summary": "The British Pound (GBP) spent Wednesday absorbing blows from both sides of the Atlantic. Softer than expected UK inflation set a heavy tone in the morning, and Kevin Warsh's hawkish first Federal Reserve (Fed) decision f",
+      "title_ko": "부드러운 CPI와 매파 연준이 두 배로 찐 영국 파운드",
+      "summary_ko": "영국 파운드 (GBP) 는 수요일 대서양 양쪽에서 타격을 흡수하면서 보냈다. 예상보다 부드러운 영국 인플레이션은 아침에 무거운 분위기를 조성했고, 케빈 워쉬의 매파적인 첫 연방준비제도 (Fed) 결정은"
     },
     {
-      "title": "US Dollar Index storms back as the Fed turns hawkish",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-storms-back-as-the-fed-turns-hawkish-202606171817",
-      "summary": "The Federal Reserve (Fed) held the federal funds rate at 3.50% to 3.75% on Wednesday, but Kevin Warsh's first meeting as Chair was anything but a placeholder.",
-      "title_ko": "연준이 매파적으로 변하면서 미국 달러 인덱스가 다시 폭풍을 일으키고 있습니다.",
-      "summary_ko": "연방준비제도 (Fed) 는 수요일 연방기금 금리를 3.50% 에서 3.75% 로 유지했지만, 케빈 워시의 의장으로서의 첫 회의는 플레이스홀더에 불과했다."
+      "title": "Australian Dollar folds to a hawkish Fed with no data to lean on",
+      "link": "https://www.fxstreet.com/news/australian-dollar-folds-to-a-hawkish-fed-with-no-data-to-lean-on-202606172038",
+      "summary": "The Australian Dollar went into Kevin Warsh's first Federal Reserve (Fed) decision as a high-beta currency with no domestic shield, and it paid for it.",
+      "title_ko": "호주 달러는 기댈 데이터가 없는 매파 연준으로 접힙니다",
+      "summary_ko": "호주 달러는 국내 방패가 없는 하이 베타 통화로 케빈 워시의 첫 연방준비제도 (Fed) 결정에 들어갔고, 그 대가를 치렀다."
     }
   ]
 }

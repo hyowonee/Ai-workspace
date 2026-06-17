@@ -1,46 +1,32 @@
 {
-  "updated_at_utc": "2026-06-17 12:18:01 UTC",
+  "updated_at_utc": "2026-06-17 16:12:29 UTC",
   "items": [
     {
-      "title": "Hexagon stock rises after executive purchases shares",
-      "link": "https://www.investing.com/news/stock-market-news/hexagon-stock-rises-after-executive-purchases-shares-93CH-4747216",
+      "title": "Spain stocks higher at close of trade; IBEX 35 up 1.31%",
+      "link": "https://www.investing.com/news/stock-market-news/spain-stocks-higher-at-close-of-trade-ibex-35-up-131-4747874",
       "summary": "",
-      "title_ko": "육각형 주식은 경영진이 주식을 매입한 후 상승합니다",
+      "title_ko": "스페인은 거래 마감 시점에서 더 높은 주식을 보유하고 있으며, IBEX 35는 1.31% 상승했습니다.",
       "summary_ko": ""
     },
     {
-      "title": "Exclusive-Iran deal includes $300 billion fund, more than half of which already committed, source says",
-      "link": "https://www.investing.com/news/stock-market-news/exclusiveiran-deal-includes-300-billion-fund-more-than-half-of-which-already-committed-source-says-4745500",
+      "title": "Portugal stocks higher at close of trade; PSI up 0.76%",
+      "link": "https://www.investing.com/news/stock-market-news/portugal-stocks-higher-at-close-of-trade-psi-up-076-4747873",
       "summary": "",
-      "title_ko": "이란 독점 거래에는 $ 3,000억 펀드가 포함되며, 그 중 절반 이상이 이미 약속되어 있다고 소식통은 말합니다.",
+      "title_ko": "포르투갈은 거래 종료 시점에 더 높은 주식을 보유하고 있으며, psi는 0.76% 상승했습니다.",
       "summary_ko": ""
     },
     {
-      "title": "UBS identifies European sectors poised to gain from lower energy costs",
-      "link": "https://www.investing.com/news/stock-market-news/ubs-identifies-european-sectors-poised-to-gain-from-lower-energy-costs-4747197",
+      "title": "Netherlands stocks higher at close of trade; AEX up 1.18%",
+      "link": "https://www.investing.com/news/stock-market-news/netherlands-stocks-higher-at-close-of-trade-aex-up-118-4747872",
       "summary": "",
-      "title_ko": "UBS는 낮은 에너지 비용으로 이익을 얻을 준비가 된 유럽 부문을 식별합니다.",
+      "title_ko": "네덜란드는 교역 마감 시점에서 더 높은 주식을 보유하고 있으며, AEX는 1.18% 상승했습니다.",
       "summary_ko": ""
     },
     {
-      "title": "UK orders Google to improve search transparency to boost competition",
-      "link": "https://www.investing.com/news/stock-market-news/uk-regulator-sets-out-conduct-requirements-for-googles-search-services-4746677",
+      "title": "AI will lead to labour shortages, Bezos says in optimistic talk",
+      "link": "https://www.investing.com/news/stock-market-news/ai-will-lead-to-labour-shortages-jeff-bezos-says-at-vivatech-4746725",
       "summary": "",
-      "title_ko": "영국, Google에 경쟁력 강화를 위한 검색 투명성 개선 명령",
-      "summary_ko": ""
-    },
-    {
-      "title": "Factbox-How Brexit is estimated to have hit the UK economy",
-      "link": "https://www.investing.com/news/economic-indicators/factboxhow-brexit-is-estimated-to-have-hit-the-uk-economy-4746504",
-      "summary": "",
-      "title_ko": "Factbox-브렉시트가 영국 경제에 어떤 타격을 주었는지",
-      "summary_ko": ""
-    },
-    {
-      "title": "Brexit 10 years on: UK exporters still adjusting to life outside the EU",
-      "link": "https://www.investing.com/news/economic-indicators/brexit-10-years-on-uk-exporters-still-adjusting-to-life-outside-the-eu-4746516",
-      "summary": "",
-      "title_ko": "Brexit 10 년: 영국 수출업자들은 여전히 EU 외부 생활에 적응하고 있습니다.",
+      "title_ko": "베조스는 낙관적인 강연에서 AI가 노동력 부족으로 이어질 것이라고 말한다.",
       "summary_ko": ""
     },
     {
@@ -51,25 +37,39 @@
       "summary_ko": ""
     },
     {
-      "title": "Annualized Eurozone inflation accelerates amid Iran-linked energy price jump",
-      "link": "https://www.investing.com/news/economic-indicators/annualized-eurozone-inflation-accelerates-amid-iranlinked-energy-price-jump-4746693",
+      "title": "French economic growth seen at 0.7% in 2026 as oil shock hits consumers, says INSEE",
+      "link": "https://www.investing.com/news/economic-indicators/french-economic-growth-seen-at-07-in-2026-as-oil-shock-hits-consumers-says-insee-4747777",
       "summary": "",
-      "title_ko": "이란 연계 에너지 가격 상승 속에서 연간 유로존 인플레이션 가속화",
+      "title_ko": "오일 쇼크가 소비자를 강타하면서 2026년 0.7% 의 프랑스 경제 성장률을 보였다고 INSEE는 말합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Japanese Yen: Short positions favoured on dovish Fed risk – Societe Generale",
-      "link": "https://www.fxstreet.com/news/japanese-yen-short-positions-favoured-on-dovish-fed-risk-societe-generale-202606171137",
-      "summary": "Societe Generale’s Kit Juckes notes that recent G10 policy moves, including a BOJ hike, have not produced dramatic FX shifts. He argues that a dovish Fed outcome would favour short USD/JPY positions.",
-      "title_ko": "일본 엔화: Dovish Fed 리스크에 유리한 단기 포지션 – Societe Generale",
-      "summary_ko": "Societe Generale의 Kit Juckes는 BOJ 인상을 포함한 최근의 G10 정책 움직임이 극적인 FX 변화를 일으키지 않았다고 지적합니다. 그는 두비시 연준의 결과가 짧은 USD/JPY 포지션을 선호할 것이라고 주장합니다."
+      "title": "US business inventories increase as expected in April",
+      "link": "https://www.investing.com/news/economic-indicators/us-business-inventories-increase-as-expected-in-april-4747717",
+      "summary": "",
+      "title_ko": "4월 미국 사업 재고 증가 예상",
+      "summary_ko": ""
     },
     {
-      "title": "United Kingdom inflation: Services strength offsets goods softness – Societe Generale",
-      "link": "https://www.fxstreet.com/news/united-kingdom-inflation-services-strength-offsets-goods-softness-societe-generale-202606171136",
-      "summary": "Societe Generale’s Sam Cartwright notes that UK Headline CPI stayed at 2.8% year-on-year in May, undershooting both Bloomberg consensus and the BoE’s April MPR projection, while core inflation edged up to 2.6%.",
-      "title_ko": "영국 인플레이션: 서비스 강도 상쇄 상품 부드러움 – Societe Generale",
-      "summary_ko": "소시에테 제네랄 (Societe Generale) 의 샘 카트라이트 (Sam Cartwright) 는 영국 헤드라인 CPI가 5월에 전년 대비 2.8% 를 유지하여 블룸버그 컨센서스와 BOE의 4월 MPR 전망을 모두 밑돌았으며, 코어 인플레이션은 2.6% 까지 상승했다고 언급했다."
+      "title": "Crude Oil Inventories Drop More Than Expected, Impacting Prices",
+      "link": "https://www.investing.com/news/economic-indicators/crude-oil-inventories-drop-more-than-expected-impacting-prices-93CH-4747702",
+      "summary": "",
+      "title_ko": "원유 재고가 예상보다 많이 감소하여 가격에 영향을 미침",
+      "summary_ko": ""
+    },
+    {
+      "title": "Federal Reserve to remain on hold as markets scrutinize new Chair Warsh first moves",
+      "link": "https://www.fxstreet.com/news/federal-reserve-set-to-hold-interest-rates-in-warshs-debut-as-chair-202606171000",
+      "summary": "The United States (US) Federal Reserve (Fed) announces its interest rate decision on Wednesday, another pivotal meeting for markets to gauge the stance of policymakers and new Chair Kevin Warsh as energy prices retreat a",
+      "title_ko": "연방 준비 제도 이사회 (Federal Reserve) 는 시장이 새로운 체어 워시 (Chair Warsh) 의 첫 번째 움직임을 면밀히 조사함에 따라 보류 상태를 유지할",
+      "summary_ko": "미국 연방 준비 제도 이사회 (Fed) 는 에너지 가격이 후퇴함에 따라 정책 입안자와 새로운 케빈 워시 의장의 입장을 측정하기위한 또 다른 중추적 인 회의 인 수요일에 금리 결정을 발표합니다."
+    },
+    {
+      "title": "New Zealand Dollar weakens ahead of Fed decision as  confidence hits lowest since 2023",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-weakens-ahead-of-fed-decision-as-confidence-hits-lowest-since-2023-202606171405",
+      "summary": "NZD/USD trades around 0.5820 on Wednesday at the time of writing, down 0.24% on the day as investors reduce risk exposure ahead of the Federal Reserve (Fed) monetary policy announcement.",
+      "title_ko": "2023년 이후 신뢰도가 가장 낮아짐에 따라 연준 결정에 앞서 뉴질랜드 달러 약세",
+      "summary_ko": "NZD/USD는 서면 작성 당시 수요일 약 0.5820에 거래되며, 투자자들이 연방준비제도 (Fed) 통화 정책 발표에 앞서 위험 노출을 줄임에 따라 당일 0.24% 하락합니다."
     }
   ]
 }

@@ -1,32 +1,46 @@
 {
-  "updated_at_utc": "2026-06-17 16:12:29 UTC",
+  "updated_at_utc": "2026-06-17 18:41:44 UTC",
   "items": [
     {
-      "title": "Spain stocks higher at close of trade; IBEX 35 up 1.31%",
-      "link": "https://www.investing.com/news/stock-market-news/spain-stocks-higher-at-close-of-trade-ibex-35-up-131-4747874",
+      "title": "BMO Capital Highlights Top US Chemicals Stock Pick",
+      "link": "https://www.investing.com/news/stock-market-news/bmo-capital-highlights-top-us-chemicals-stock-pick-93CH-4748055",
       "summary": "",
-      "title_ko": "스페인은 거래 마감 시점에서 더 높은 주식을 보유하고 있으며, IBEX 35는 1.31% 상승했습니다.",
+      "title_ko": "BMO 캐피탈, 미국 최고의 화학물질 주식 선택 강조",
       "summary_ko": ""
     },
     {
-      "title": "Portugal stocks higher at close of trade; PSI up 0.76%",
-      "link": "https://www.investing.com/news/stock-market-news/portugal-stocks-higher-at-close-of-trade-psi-up-076-4747873",
+      "title": "Analysis-SPACs are back, thanks to Wall Street’s mega-IPO frenzy",
+      "link": "https://www.investing.com/news/stock-market-news/analysisspacs-are-back-thanks-to-wall-streets-megaipo-frenzy-4747959",
       "summary": "",
-      "title_ko": "포르투갈은 거래 종료 시점에 더 높은 주식을 보유하고 있으며, psi는 0.76% 상승했습니다.",
+      "title_ko": "분석 - 월스트리트의 거대 IPO 광란 덕분에 스팩이 돌아 왔습니다.",
       "summary_ko": ""
     },
     {
-      "title": "Netherlands stocks higher at close of trade; AEX up 1.18%",
-      "link": "https://www.investing.com/news/stock-market-news/netherlands-stocks-higher-at-close-of-trade-aex-up-118-4747872",
+      "title": "Stocks turn lower after Fed’s updated dot plot implies one rate hike this year",
+      "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-edge-higher-with-fed-rate-decision-in-focus-4746197",
       "summary": "",
-      "title_ko": "네덜란드는 교역 마감 시점에서 더 높은 주식을 보유하고 있으며, AEX는 1.18% 상승했습니다.",
+      "title_ko": "Fed의 업데이트된 닷 플롯이 올해 한 번의 금리 인상을 암시하는 경우 주가가 낮아집니다.",
       "summary_ko": ""
     },
     {
-      "title": "AI will lead to labour shortages, Bezos says in optimistic talk",
-      "link": "https://www.investing.com/news/stock-market-news/ai-will-lead-to-labour-shortages-jeff-bezos-says-at-vivatech-4746725",
+      "title": "Trump administration to pay $765 million to scrap four more offshore wind leases",
+      "link": "https://www.investing.com/news/stock-market-news/trump-administration-to-pay-765-million-to-scrap-four-more-offshore-wind-leases-4748001",
       "summary": "",
-      "title_ko": "베조스는 낙관적인 강연에서 AI가 노동력 부족으로 이어질 것이라고 말한다.",
+      "title_ko": "트럼프 행정부, 해상풍력 임대차 계약 4건 추가 폐기를 위해 7억 6,500만 달러 ($) 지불",
+      "summary_ko": ""
+    },
+    {
+      "title": "Fed holds steady in Warsh’s debut; analysts see hawkish shift",
+      "link": "https://www.investing.com/news/economic-indicators/fed-holds-steady-in-warshs-debut-analysts-see-hawkish-shift-4748060",
+      "summary": "",
+      "title_ko": "Fed는 Warsh의 데뷔에서 꾸준히 유지하고 있으며, 분석가들은 매파적인 변화를 보고 있습니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Dollar extends gains after Fed holds rates but projects hike later this year",
+      "link": "https://www.investing.com/news/economic-indicators/dollar-extends-gains-after-fed-holds-rates-but-projects-hike-later-this-year-4748045",
+      "summary": "",
+      "title_ko": "달러는 연준이 금리를 보유한 후 이익이 확대되지만 올해 하반기에 프로젝트가 상승합니다.",
       "summary_ko": ""
     },
     {
@@ -37,39 +51,25 @@
       "summary_ko": ""
     },
     {
-      "title": "French economic growth seen at 0.7% in 2026 as oil shock hits consumers, says INSEE",
-      "link": "https://www.investing.com/news/economic-indicators/french-economic-growth-seen-at-07-in-2026-as-oil-shock-hits-consumers-says-insee-4747777",
+      "title": "Argentina logs $1.34 billion fiscal surplus in May",
+      "link": "https://www.investing.com/news/economic-indicators/argentina-logs-134-billion-fiscal-surplus-in-may-4747890",
       "summary": "",
-      "title_ko": "오일 쇼크가 소비자를 강타하면서 2026년 0.7% 의 프랑스 경제 성장률을 보였다고 INSEE는 말합니다.",
+      "title_ko": "아르헨티나는 5월에 13억 4천만 $ 의 재정 흑자를 기록했습니다.",
       "summary_ko": ""
     },
     {
-      "title": "US business inventories increase as expected in April",
-      "link": "https://www.investing.com/news/economic-indicators/us-business-inventories-increase-as-expected-in-april-4747717",
-      "summary": "",
-      "title_ko": "4월 미국 사업 재고 증가 예상",
-      "summary_ko": ""
+      "title": "Euro folds as the Fed trades cuts for hikes",
+      "link": "https://www.fxstreet.com/news/euro-folds-as-the-fed-trades-cuts-for-hikes-202606171818",
+      "summary": "The Federal Reserve (Fed) left the federal funds rate at 3.50% to 3.75% on Wednesday, but the hold was the least interesting part of Kevin Warsh's first meeting as Chair.",
+      "title_ko": "Fed 거래가 하이킹을 위해 삭감됨에 따라 유로화 주름",
+      "summary_ko": "연방준비제도 (Fed) 는 수요일 연방기금 금리를 3.50% 에서 3.75% 로 내렸지만, 이번 보류는 케빈 워시의 첫 의장 회의에서 가장 흥미롭지 않은 부분이었다."
     },
     {
-      "title": "Crude Oil Inventories Drop More Than Expected, Impacting Prices",
-      "link": "https://www.investing.com/news/economic-indicators/crude-oil-inventories-drop-more-than-expected-impacting-prices-93CH-4747702",
-      "summary": "",
-      "title_ko": "원유 재고가 예상보다 많이 감소하여 가격에 영향을 미침",
-      "summary_ko": ""
-    },
-    {
-      "title": "Federal Reserve to remain on hold as markets scrutinize new Chair Warsh first moves",
-      "link": "https://www.fxstreet.com/news/federal-reserve-set-to-hold-interest-rates-in-warshs-debut-as-chair-202606171000",
-      "summary": "The United States (US) Federal Reserve (Fed) announces its interest rate decision on Wednesday, another pivotal meeting for markets to gauge the stance of policymakers and new Chair Kevin Warsh as energy prices retreat a",
-      "title_ko": "연방 준비 제도 이사회 (Federal Reserve) 는 시장이 새로운 체어 워시 (Chair Warsh) 의 첫 번째 움직임을 면밀히 조사함에 따라 보류 상태를 유지할",
-      "summary_ko": "미국 연방 준비 제도 이사회 (Fed) 는 에너지 가격이 후퇴함에 따라 정책 입안자와 새로운 케빈 워시 의장의 입장을 측정하기위한 또 다른 중추적 인 회의 인 수요일에 금리 결정을 발표합니다."
-    },
-    {
-      "title": "New Zealand Dollar weakens ahead of Fed decision as  confidence hits lowest since 2023",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-weakens-ahead-of-fed-decision-as-confidence-hits-lowest-since-2023-202606171405",
-      "summary": "NZD/USD trades around 0.5820 on Wednesday at the time of writing, down 0.24% on the day as investors reduce risk exposure ahead of the Federal Reserve (Fed) monetary policy announcement.",
-      "title_ko": "2023년 이후 신뢰도가 가장 낮아짐에 따라 연준 결정에 앞서 뉴질랜드 달러 약세",
-      "summary_ko": "NZD/USD는 서면 작성 당시 수요일 약 0.5820에 거래되며, 투자자들이 연방준비제도 (Fed) 통화 정책 발표에 앞서 위험 노출을 줄임에 따라 당일 0.24% 하락합니다."
+      "title": "US Dollar Index storms back as the Fed turns hawkish",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-storms-back-as-the-fed-turns-hawkish-202606171817",
+      "summary": "The Federal Reserve (Fed) held the federal funds rate at 3.50% to 3.75% on Wednesday, but Kevin Warsh's first meeting as Chair was anything but a placeholder.",
+      "title_ko": "연준이 매파적으로 변하면서 미국 달러 인덱스가 다시 폭풍을 일으키고 있습니다.",
+      "summary_ko": "연방준비제도 (Fed) 는 수요일 연방기금 금리를 3.50% 에서 3.75% 로 유지했지만, 케빈 워시의 의장으로서의 첫 회의는 플레이스홀더에 불과했다."
     }
   ]
 }

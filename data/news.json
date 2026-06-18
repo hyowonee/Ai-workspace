@@ -1,32 +1,53 @@
 {
-  "updated_at_utc": "2026-06-18 16:36:02 UTC",
+  "updated_at_utc": "2026-06-18 19:30:46 UTC",
   "items": [
     {
-      "title": "Why is Navan stock rallying today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-navan-stock-rallying-today-93CH-4750391",
+      "title": "Microsoft near 52-week low in strong downtrend: Hourly levels",
+      "link": "https://www.investing.com/news/stock-market-news/microsoft-bear-flag-eyes-411418-resistance-live-levels-93CH-4742482",
       "summary": "",
-      "title_ko": "왜 오늘 나반 주식이 집결하는 걸까요?",
+      "title_ko": "마이크로소프트, 52주 가까이 강세장 하향: 시급",
       "summary_ko": ""
     },
     {
-      "title": "Why is Belden stock surging today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-belden-stock-surging-today-93CH-4750390",
+      "title": "Tesla stuck in bear flag near $381 support: Live levels",
+      "link": "https://www.investing.com/news/stock-market-news/tesla-rangebound-between-405419-live-hourly-levels-93CH-4742476",
       "summary": "",
-      "title_ko": "오늘날 벨덴의 재고가 급증하는 이유는 무엇입니까?",
+      "title_ko": "$ 381 지원 근처에서 곰 깃발에 갇힌 테슬라: 라이브 레벨",
       "summary_ko": ""
     },
     {
-      "title": "Why is Life360 stock gaining today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-life360-stock-gaining-today-93CH-4750389",
+      "title": "Wall Street jumps 1% as U.S.-Iran peace deal boosts sentiment",
+      "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-surge-after-trump-signs-iran-deal-markets-digest-hawkish-fed-4748826",
       "summary": "",
-      "title_ko": "Life360의 주가가 오늘 상승하는 이유는 무엇입니까?",
+      "title_ko": "미국-이란 평화 협상이 정서를 고조시키면서 월스트리트는 1% 점프",
       "summary_ko": ""
     },
     {
-      "title": "TSX falls as U.S., Iran peace hopes counter hawkish Fed outlook",
-      "link": "https://www.investing.com/news/stock-market-news/tsx-futures-edge-higher-as-us-iran-peace-hopes-counter-hawkish-fed-outlook-4749788",
+      "title": "Defense contractors drop as U.S. and Iran sign interim war deal",
+      "link": "https://www.investing.com/news/stock-market-news/defense-contractors-drop-as-us-and-iran-sign-interim-war-deal-93CH-4750529",
       "summary": "",
-      "title_ko": "TSX는 미국, 이란의 평화가 호크스 연준 전망에 대응하기를 희망함에 따라 하락합니다.",
+      "title_ko": "미국과 이란이 임시전쟁 협정에 서명함에 따라 방위산업체들이 철수함",
+      "summary_ko": ""
+    },
+    {
+      "title": "Argentina logs $3.5 billion trade surplus in May, topping expectations",
+      "link": "https://www.investing.com/news/economic-indicators/argentina-logs-35-billion-trade-surplus-in-may-topping-expectations-4750540",
+      "summary": "",
+      "title_ko": "아르헨티나는 5월에 35억 달러 ($) 의 무역 흑자를 기록하여 기대치를 상회했습니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "EU leaders weigh tougher measures to combat China trade imbalance",
+      "link": "https://www.investing.com/news/economic-indicators/eu-leaders-to-strive-for-unity-on-china-trade-imbalance-4749692",
+      "summary": "",
+      "title_ko": "EU 지도자들은 중국 무역 불균형에 대처하기 위해 더 강력한 조치를 취하고 있다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Cuban lawmakers to vote on Castro-backed economic reforms amid US stranglehold",
+      "link": "https://www.investing.com/news/economic-indicators/cuban-lawmakers-to-vote-on-castrobacked-economic-reforms-amid-us-stranglehold-4750394",
+      "summary": "",
+      "title_ko": "쿠바 의원들, 미국 교살 속에서 카스트로 지지 경제 개혁에 투표",
       "summary_ko": ""
     },
     {
@@ -37,39 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "U.S. Initial Jobless Claims Edge Higher, Slightly Above Forecast",
-      "link": "https://www.investing.com/news/economic-indicators/us-initial-jobless-claims-edge-higher-slightly-above-forecast-93CH-4749891",
-      "summary": "",
-      "title_ko": "미국 초기 실업 보험금 청구 엣지 높음, 예상보다 약간 높음",
-      "summary_ko": ""
+      "title": "ECB’s Escriva sees energy inflation passing through to other sectors",
+      "link": "https://www.fxstreet.com/news/ecbs-escriva-sees-energy-inflation-passing-through-to-other-sectors-202606181833",
+      "summary": "European Central Bank (ECB) policymaker José Luis Escrivá said on Thursday that higher energy costs are spreading to services and transport, while warning that the inflation outlook remains highly uncertain for the Europ",
+      "title_ko": "ECB의 에스크리바는 에너지 인플레이션이 다른 부문으로 전달되는 것을 봅니다.",
+      "summary_ko": "유럽 중앙 은행 (ECB) 정책 입안자 호세 루이스 에스크리바 (José Luis Escrivá) 는 목요일에 높은 에너지 비용이 서비스 및 운송으로 확산되고 있다고 말하면서 인플레이션 전망이 여전히 매우 불확실하다고 경고했다."
     },
     {
-      "title": "Philadelphia Fed Manufacturing Index Surges Beyond Expectations",
-      "link": "https://www.investing.com/news/economic-indicators/philadelphia-fed-manufacturing-index-surges-beyond-expectations-93CH-4749876",
-      "summary": "",
-      "title_ko": "필라델피아 연방준비제도 (Fed) 제조업 지수, 기대 이상으로 급등",
-      "summary_ko": ""
-    },
-    {
-      "title": "EU leaders to strive for unity on China trade imbalance",
-      "link": "https://www.investing.com/news/economic-indicators/eu-leaders-to-strive-for-unity-on-china-trade-imbalance-4749692",
-      "summary": "",
-      "title_ko": "중국 무역 불균형에 대한 단합을 위해 노력하는 EU 지도자들",
-      "summary_ko": ""
-    },
-    {
-      "title": "Euro weakens to two-month low as Fed rate bets lift US Dollar",
-      "link": "https://www.fxstreet.com/news/euro-weakens-to-two-month-low-as-fed-rate-bets-lift-us-dollar-202606181608",
-      "summary": "EUR/USD trades around 1.1470 on Thursday at the time of writing, down 0.22% on the day and hovering near its lowest level in two months.",
-      "title_ko": "연준 금리 베팅이 미국 달러를 인상함에 따라 유로화는 2개월 최저치로 약세",
-      "summary_ko": "EUR/USD는 서면 작성 당시 목요일 약 1.1470에 거래되며, 당일 0.22% 하락하고 2개월 만에 가장 낮은 수준에 근접합니다."
-    },
-    {
-      "title": "Australian Dollar firms as US Jobless Claims point to steady labor market",
-      "link": "https://www.fxstreet.com/news/australian-dollar-firms-as-us-jobless-claims-point-to-steady-labor-market-202606181534",
-      "summary": "The AUD/USD pair trades in a muted range near 0.7030 on Thursday, as the Australian Dollar (AUD) struggles to extend gains while the US Dollar (USD) remains supported by the latest United States (US) labor market data.",
-      "title_ko": "미국 Jobless Claims가 꾸준한 노동 시장을 지적함에 따라 호주 달러 기업",
-      "summary_ko": "호주 달러 (AUD) 가 미국 달러 (USD) 가 최신 미국 (US) 노동 시장 데이터에 의해 지원되는 동안 호주 달러 (AUD) 가 이익을 연장하는 데 어려움을 겪고 있기 때문에 AUD/USD 쌍은 목요일 0.7030 근처에서 음소거 범위에서 거래됩니다."
+      "title": "Dow Jones Industrial Average nurses its Warsh hangover",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-nurses-its-warsh-hangover-202606181828",
+      "summary": "Wall Street's blue-chip index spent Thursday picking up the pieces of Wednesday's hawkish Federal Reserve (Fed) selloff, and not even a roaring chip trade could coax it back into the green.",
+      "title_ko": "다우 존스 산업 평균 간호사 그것의 워시 숙취",
+      "summary_ko": "월 스트리트의 블루 칩 지수는 목요일에 수요일의 매파적인 연방 준비 제도 이사회 (Fed) 매각의 조각을 집어 들었고, 울부 짖는 칩 거래조차 녹색으로 되돌릴 수 없었다."
     }
   ]
 }

@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-06-18 12:55:37 UTC",
+  "updated_at_utc": "2026-06-18 16:36:02 UTC",
   "items": [
     {
-      "title": "European stocks sputter as markets digest hawkish Fed",
-      "link": "https://www.investing.com/news/stock-market-news/european-stocks-ease-as-markets-digest-hawkish-fed-4748999",
+      "title": "Why is Navan stock rallying today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-navan-stock-rallying-today-93CH-4750391",
       "summary": "",
-      "title_ko": "유럽 증시는 시장이 호크 연준을 소화함에 따라 스퍼터링합니다.",
+      "title_ko": "왜 오늘 나반 주식이 집결하는 걸까요?",
       "summary_ko": ""
     },
     {
-      "title": "Eos Energy stock jumps 9% on Redbird project order",
-      "link": "https://www.investing.com/news/stock-market-news/eos-energy-stock-jumps-9-on-redbird-project-order-93CH-4749965",
+      "title": "Why is Belden stock surging today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-belden-stock-surging-today-93CH-4750390",
       "summary": "",
-      "title_ko": "Redbird 프로젝트 주문에서 Eos Energy 주가가 9% 뛰어오름",
+      "title_ko": "오늘날 벨덴의 재고가 급증하는 이유는 무엇입니까?",
       "summary_ko": ""
     },
     {
-      "title": "Exclusive: National Vision’s CEO on why the market got post-Q1 selloff wrong",
-      "link": "https://www.investing.com/news/stock-market-news/exclusive-national-visions-ceo-on-why-the-market-got-postq1-selloff-wrong-4749964",
+      "title": "Why is Life360 stock gaining today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-life360-stock-gaining-today-93CH-4750389",
       "summary": "",
-      "title_ko": "독점: 1분기 이후 매각이 잘못된 이유에 대한 National Vision의 CEO",
+      "title_ko": "Life360의 주가가 오늘 상승하는 이유는 무엇입니까?",
       "summary_ko": ""
     },
     {
-      "title": "SocGen raises equity allocation, says investors should buy the dip in gold",
-      "link": "https://www.investing.com/news/stock-market-news/socgen-raises-equity-allocation-says-investors-should-buy-the-dip-in-gold-4749959",
+      "title": "TSX falls as U.S., Iran peace hopes counter hawkish Fed outlook",
+      "link": "https://www.investing.com/news/stock-market-news/tsx-futures-edge-higher-as-us-iran-peace-hopes-counter-hawkish-fed-outlook-4749788",
       "summary": "",
-      "title_ko": "SocGen은 지분 배분을 올리고, 투자자들은 금으로 딥을 매수해야 한다고 말합니다.",
+      "title_ko": "TSX는 미국, 이란의 평화가 호크스 연준 전망에 대응하기를 희망함에 따라 하락합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Natural gas storage report reveals bullish inventory data",
+      "link": "https://www.investing.com/news/economic-indicators/natural-gas-storage-report-reveals-bullish-inventory-data-93CH-4750236",
+      "summary": "",
+      "title_ko": "천연 가스 저장 보고서에 강세 재고 데이터가 표시됨",
       "summary_ko": ""
     },
     {
@@ -51,25 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Bank of Spain sees steady quarterly growth, keeps 2026 forecast",
-      "link": "https://www.investing.com/news/economic-indicators/bank-of-spain-sees-steady-quarterly-growth-keeps-2026-forecast-4749500",
-      "summary": "",
-      "title_ko": "뱅크오브스페인은 분기별 꾸준한 성장세를 보이고 있으며, 2026년 전망을 유지하고 있습니다.",
-      "summary_ko": ""
+      "title": "Euro weakens to two-month low as Fed rate bets lift US Dollar",
+      "link": "https://www.fxstreet.com/news/euro-weakens-to-two-month-low-as-fed-rate-bets-lift-us-dollar-202606181608",
+      "summary": "EUR/USD trades around 1.1470 on Thursday at the time of writing, down 0.22% on the day and hovering near its lowest level in two months.",
+      "title_ko": "연준 금리 베팅이 미국 달러를 인상함에 따라 유로화는 2개월 최저치로 약세",
+      "summary_ko": "EUR/USD는 서면 작성 당시 목요일 약 1.1470에 거래되며, 당일 0.22% 하락하고 2개월 만에 가장 낮은 수준에 근접합니다."
     },
     {
-      "title": "Swiss Franc: SNB steady with FX intervention option – Nomura",
-      "link": "https://www.fxstreet.com/news/swiss-franc-snb-steady-with-fx-intervention-option-nomura-202606181159",
-      "summary": "Nomura reports that the Swiss National Bank kept its policy rate at 0.00% in June and reiterated an increased willingness to intervene in FX markets if necessary to curb Swiss Franc strength.",
-      "title_ko": "스위스 프랑: SNB 꾸준한 FX 개입 옵션 – 노무라",
-      "summary_ko": "Nomura는 스위스 국립 은행이 6월에 정책 금리를 0.00% 로 유지했으며 스위스 프랑 강세를 억제하기 위해 필요한 경우 외환 시장에 개입할 의지가 높아졌다고 재차 강조했습니다."
-    },
-    {
-      "title": "Euro rallies against the British Pound as BoE leaves rates unchanged",
-      "link": "https://www.fxstreet.com/news/euro-rallies-against-the-british-pound-as-boe-leaves-rates-unchanged-202606181154",
-      "summary": "The Euro (EUR) accelerated its recovery against a weaker British Pound (GBP) on Thursday, following the Bank of England’s (BoE) decision to leave interest rates unchanged.",
-      "title_ko": "BoE가 요금을 변경하지 않기 때문에 영국 파운드에 대한 유로 집결",
-      "summary_ko": "유로 (EUR) 는 목요일 영국 은행 (BOE) 의 금리 변경 결정에 따라 약세인 영국 파운드 (GBP) 에 대한 회복을 가속화했다."
+      "title": "Australian Dollar firms as US Jobless Claims point to steady labor market",
+      "link": "https://www.fxstreet.com/news/australian-dollar-firms-as-us-jobless-claims-point-to-steady-labor-market-202606181534",
+      "summary": "The AUD/USD pair trades in a muted range near 0.7030 on Thursday, as the Australian Dollar (AUD) struggles to extend gains while the US Dollar (USD) remains supported by the latest United States (US) labor market data.",
+      "title_ko": "미국 Jobless Claims가 꾸준한 노동 시장을 지적함에 따라 호주 달러 기업",
+      "summary_ko": "호주 달러 (AUD) 가 미국 달러 (USD) 가 최신 미국 (US) 노동 시장 데이터에 의해 지원되는 동안 호주 달러 (AUD) 가 이익을 연장하는 데 어려움을 겪고 있기 때문에 AUD/USD 쌍은 목요일 0.7030 근처에서 음소거 범위에서 거래됩니다."
     }
   ]
 }

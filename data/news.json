@@ -1,32 +1,32 @@
 {
-  "updated_at_utc": "2026-06-19 16:58:05 UTC",
+  "updated_at_utc": "2026-06-19 19:02:14 UTC",
   "items": [
+    {
+      "title": "Fed Governor Waller speech and CFTC positioning data due Monday",
+      "link": "https://www.investing.com/news/stock-market-news/fed-governor-waller-speech-and-cftc-positioning-data-due-monday-93CH-4751554",
+      "summary": "",
+      "title_ko": "월요일에 마감되는 월러 연준 총재 연설 및 CFTC 포지셔닝 데이터",
+      "summary_ko": ""
+    },
+    {
+      "title": "Charles Schwab working with Cboe to enter prediction market, WSJ reports",
+      "link": "https://www.investing.com/news/stock-market-news/charles-schwab-working-with-cboe-to-enter-prediction-market-wsj-reports-4751553",
+      "summary": "",
+      "title_ko": "WSJ는 예측 시장에 진입하기 위해 Cboe와 협력하는 Charles Schwab을 보고합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Alimentation Couche-Tard and more set to report earnings Friday",
+      "link": "https://www.investing.com/news/stock-market-news/alimentation-couchetard-and-more-set-to-report-earnings-friday-93CH-4751552",
+      "summary": "",
+      "title_ko": "Alimentation Couche-Tard 등이 금요일에 수입을 보고하도록 설정됨",
+      "summary_ko": ""
+    },
     {
       "title": "European stocks tick lower as mining losses weigh",
       "link": "https://www.investing.com/news/stock-market-news/european-stocks-muted-as-usiran-peace-talks-called-off-4751369",
       "summary": "",
       "title_ko": "채굴 손실 중량에 따라 유럽 증시가 하락세로 돌아섭니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 0.31%",
-      "link": "https://www.investing.com/news/stock-market-news/uk-stocks-lower-at-close-of-trade-investingcom-united-kingdom-100-down-031-4751545",
-      "summary": "",
-      "title_ko": "영국 주식은 거래 마감 시점에 하락; Investing.com 영국 100 하락 0.31%",
-      "summary_ko": ""
-    },
-    {
-      "title": "Spain stocks lower at close of trade; IBEX 35 down 0.29%",
-      "link": "https://www.investing.com/news/stock-market-news/spain-stocks-lower-at-close-of-trade-ibex-35-down-029-4751544",
-      "summary": "",
-      "title_ko": "스페인 주식은 거래 마감 시점에 하락, IBEX 35는 0.29% 하락",
-      "summary_ko": ""
-    },
-    {
-      "title": "Portugal stocks higher at close of trade; PSI up 0.69%",
-      "link": "https://www.investing.com/news/stock-market-news/portugal-stocks-higher-at-close-of-trade-psi-up-069-4751543",
-      "summary": "",
-      "title_ko": "포르투갈은 거래 종료 시점에 더 높은 주식을 보유하고 있으며, psi는 0.69% 상승했습니다.",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Japanese Yen pares losses as US Dollar momentum fades despite hawkish Fed stance",
-      "link": "https://www.fxstreet.com/news/japanese-yen-pares-losses-as-us-dollar-momentum-fades-despite-hawkish-fed-stance-202606191637",
-      "summary": "The USD/JPY pair trades near 161.00 on Friday, easing slightly after reaching a two-year high of 161.81 on Thursday, and breaking a five-day winning streak for the US Dollar (USD).The Japanese Yen (JPY) remains fragile a",
-      "title_ko": "매파적인 연방준비제도 (Fed) 입장에도 불구하고 미국 달러 모멘텀이 희미해지면서 일본 엔화가 손실을 보았습니다.",
-      "summary_ko": "USD/JPY 쌍은 금요일 161.00 근처에서 거래되며, 목요일 161.81의 2 년 최고치를 기록한 후 약간 완화되고 미국 달러 (USD) 의 5 일 연속 우승을 돌파했습니다. 일본 엔 (JPY) 은 여전히 취약합니다."
+      "title": "USD/CAD Price Forecast: Uptrend intact as bulls eye 1.4200",
+      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-uptrend-intact-as-bulls-eye-14200-202606191830",
+      "summary": "The USD/CAD rises during the North American session, up by 0.27% on Friday and by over 1.34% in the week, with the pair staying upward biased and set to test higher prices seen last year. At the time of writing, the pair",
+      "title_ko": "USD/CAD 가격 예측: BULLS EYE 1.4200로 그대로 상승",
+      "summary_ko": "북미 세션에서 USD/CAD는 금요일에는 0.27%, 주중에는 1.34% 이상 상승했으며, 두 사람은 상향 편향된 상태를 유지하며 작년에 비해 높은 가격을 테스트했습니다. 글을 쓸 때, 두 사람은"
     },
     {
-      "title": "Swiss Franc sinks by design, not by peace",
-      "link": "https://www.fxstreet.com/news/swiss-franc-sinks-by-design-not-by-peace-202606191630",
-      "summary": "The Swiss Franc is the weakest major into the weekly close, dragging USD/CHF to a fresh high for the year. The tidy explanation is a wartime safe-haven bid unwinding now that the US and Iran have struck a deal; the troub",
-      "title_ko": "스위스 프랑은 평화가 아닌 설계에 의해 가라앉는다",
-      "summary_ko": "스위스 프랑은 주간 마감에 가장 약한 메이저로, 올해 USD/CHF를 신선한 최고치로 끌어 올렸습니다. 깔끔한 설명은 미국과 이란이 거래를 성사시킨 지금 풀고 있는 전시 안전 피난처 입찰입니다."
+      "title": "Australian Dollar trades little changed as hawkish Fed and RBA outlooks collide",
+      "link": "https://www.fxstreet.com/news/australian-dollar-trades-little-changed-as-hawkish-fed-and-rba-outlooks-collide-202606191824",
+      "summary": "AUD/USD trades little changed on Friday as hawkish policy signals from both the Federal Reserve (Fed) and the Reserve Bank of Australia (RBA) offset each other, keeping the pair range-bound despite a modest pullback in t",
+      "title_ko": "매파 연준과 RBA 전망이 충돌하면서 호주 달러 거래는 거의 변하지 않았습니다.",
+      "summary_ko": "AUD/USD 거래는 금요일에 연방 준비 제도 이사회 (Fed) 와 호주 준비 은행 (RBA) 의 매파적인 정책 신호가 서로 상쇄됨에 따라 거의 변하지 않았습니다."
     }
   ]
 }

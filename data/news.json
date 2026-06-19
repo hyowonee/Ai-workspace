@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-06-19 19:02:14 UTC",
+  "updated_at_utc": "2026-06-19 20:51:31 UTC",
   "items": [
     {
-      "title": "Fed Governor Waller speech and CFTC positioning data due Monday",
-      "link": "https://www.investing.com/news/stock-market-news/fed-governor-waller-speech-and-cftc-positioning-data-due-monday-93CH-4751554",
+      "title": "Canada stocks lower at close of trade; S&amp;P/TSX Composite down 0.32%",
+      "link": "https://www.investing.com/news/stock-market-news/canada-stocks-lower-at-close-of-trade-sptsx-composite-down-032-4751562",
       "summary": "",
-      "title_ko": "월요일에 마감되는 월러 연준 총재 연설 및 CFTC 포지셔닝 데이터",
+      "title_ko": "캐나다 주식은 거래 종료 시점에 하락, S&amp;P/TSX 복합재는 0.32% 하락",
       "summary_ko": ""
     },
     {
-      "title": "Charles Schwab working with Cboe to enter prediction market, WSJ reports",
-      "link": "https://www.investing.com/news/stock-market-news/charles-schwab-working-with-cboe-to-enter-prediction-market-wsj-reports-4751553",
+      "title": "Brazil stocks higher at close of trade; Bovespa up 0.03%",
+      "link": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-003-4751561",
       "summary": "",
-      "title_ko": "WSJ는 예측 시장에 진입하기 위해 Cboe와 협력하는 Charles Schwab을 보고합니다.",
+      "title_ko": "브라질은 거래 마감 시점에서 더 높은 주식을 보유하고 있으며, 보베스파는 0.03% 상승",
       "summary_ko": ""
     },
     {
-      "title": "Alimentation Couche-Tard and more set to report earnings Friday",
-      "link": "https://www.investing.com/news/stock-market-news/alimentation-couchetard-and-more-set-to-report-earnings-friday-93CH-4751552",
+      "title": "Trump unveils Qatari 747 ahead of joining Air Force One fleet",
+      "link": "https://www.investing.com/news/stock-market-news/trump-unveils-qatari-747-ahead-of-joining-air-force-one-fleet-4751559",
       "summary": "",
-      "title_ko": "Alimentation Couche-Tard 등이 금요일에 수입을 보고하도록 설정됨",
+      "title_ko": "트럼프, 에어포스원 함대 합류 앞두고 카타르 747 공개",
       "summary_ko": ""
     },
     {
-      "title": "European stocks tick lower as mining losses weigh",
-      "link": "https://www.investing.com/news/stock-market-news/european-stocks-muted-as-usiran-peace-talks-called-off-4751369",
+      "title": "Trump tells Axios he no longer views Anthropic as national security threat",
+      "link": "https://www.investing.com/news/stock-market-news/trump-tells-axios-he-no-longer-views-anthropic-as-national-security-threat-4751558",
       "summary": "",
-      "title_ko": "채굴 손실 중량에 따라 유럽 증시가 하락세로 돌아섭니다.",
+      "title_ko": "트럼프는 Axios에게 Anthropic을 더 이상 국가 안보 위협으로 보지 않는다고 말합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Cubans greet sweeping market reforms with hope, doubt and fatigue",
+      "link": "https://www.investing.com/news/economic-indicators/cubans-greet-sweeping-market-reforms-with-hope-doubt-and-fatigue-4751557",
+      "summary": "",
+      "title_ko": "쿠바인들은 시장 개혁을 희망, 의심, 피로로 맞이합니다.",
       "summary_ko": ""
     },
     {
@@ -51,18 +58,11 @@
       "summary_ko": ""
     },
     {
-      "title": "UK retail sales rose 1.2% in May, beating forecasts",
-      "link": "https://www.investing.com/news/economic-indicators/uk-retail-sales-rose-12-in-may-beating-forecasts-4751336",
-      "summary": "",
-      "title_ko": "5월 영국 소매 판매는 1.2% 증가하여 예상을 뛰어넘었습니다.",
-      "summary_ko": ""
-    },
-    {
       "title": "USD/CAD Price Forecast: Uptrend intact as bulls eye 1.4200",
       "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-uptrend-intact-as-bulls-eye-14200-202606191830",
-      "summary": "The USD/CAD rises during the North American session, up by 0.27% on Friday and by over 1.34% in the week, with the pair staying upward biased and set to test higher prices seen last year. At the time of writing, the pair",
+      "summary": "The USD/CAD pair rises during the North American session, up 0.27% on Friday and over 1.34% for the week, with the pair remaining upward-biased and set to test higher prices seen last year. At the time of writing, the pa",
       "title_ko": "USD/CAD 가격 예측: BULLS EYE 1.4200로 그대로 상승",
-      "summary_ko": "북미 세션에서 USD/CAD는 금요일에는 0.27%, 주중에는 1.34% 이상 상승했으며, 두 사람은 상향 편향된 상태를 유지하며 작년에 비해 높은 가격을 테스트했습니다. 글을 쓸 때, 두 사람은"
+      "summary_ko": "USD/CAD 쌍은 북미 세션 동안 상승하여 금요일에는 0.27%, 주중에는 1.34% 이상 상승했으며, 쌍은 상향 편향된 상태를 유지하고 작년보다 높은 가격을 테스트하도록 설정되었습니다. 서면 작성 시, PA는"
     },
     {
       "title": "Australian Dollar trades little changed as hawkish Fed and RBA outlooks collide",

@@ -1,6 +1,27 @@
 {
-  "updated_at_utc": "2026-06-18 22:11:34 UTC",
+  "updated_at_utc": "2026-06-19 00:09:25 UTC",
   "items": [
+    {
+      "title": "Exclusive-Meta lobbies Congress for protection from child-harm lawsuits",
+      "link": "https://www.investing.com/news/stock-market-news/exclusivemeta-lobbies-congress-for-protection-from-childharm-lawsuits-4750621",
+      "summary": "",
+      "title_ko": "아동 피해 소송으로부터 보호를 위한 특별-메타 로비 의회",
+      "summary_ko": ""
+    },
+    {
+      "title": "U.S. court rules Ohio can restrict children’s use of social media",
+      "link": "https://www.investing.com/news/stock-market-news/us-court-rules-ohio-can-restrict-childrens-use-of-social-media-4751093",
+      "summary": "",
+      "title_ko": "미국 법원 규정 오하이오는 어린이의 소셜 미디어 사용을 제한할 수 있습니다",
+      "summary_ko": ""
+    },
+    {
+      "title": "Intel taps industry veteran Seok-Hee Lee to lead foundry packaging push",
+      "link": "https://www.investing.com/news/stock-market-news/intel-taps-industry-veteran-seokhee-lee-to-lead-foundry-packaging-push-4751083",
+      "summary": "",
+      "title_ko": "인텔은 업계 베테랑인 이석희 (Seok-Hee Lee) 를 눌러 파운드리 패키징 푸시를 주도합니다.",
+      "summary_ko": ""
+    },
     {
       "title": "Akanda stock tumbles on Nasdaq compliance notice",
       "link": "https://www.investing.com/news/stock-market-news/akanda-stock-tumbles-on-nasdaq-compliance-notice-93CH-4751063",
@@ -9,28 +30,7 @@
       "summary_ko": ""
     },
     {
-      "title": "BTQ Technologies stock falls on C$150M share sale program",
-      "link": "https://www.investing.com/news/stock-market-news/btq-technologies-stock-falls-on-c150m-share-sale-program-93CH-4751059",
-      "summary": "",
-      "title_ko": "BTQ Technologies 주식, C $ 150M 주식 매각 프로그램에 하락",
-      "summary_ko": ""
-    },
-    {
-      "title": "Team Inc stock falls after CFO transition announcement",
-      "link": "https://www.investing.com/news/stock-market-news/team-inc-stock-falls-after-cfo-transition-announcement-93CH-4751055",
-      "summary": "",
-      "title_ko": "CFO 전환 발표 후 Team Inc 주가 하락",
-      "summary_ko": ""
-    },
-    {
-      "title": "Standard Nuclear files for IPO to fuel advanced reactors",
-      "link": "https://www.investing.com/news/stock-market-news/standard-nuclear-files-for-ipo-to-fuel-advanced-reactors-93CH-4751045",
-      "summary": "",
-      "title_ko": "첨단 원자로에 연료를 공급하기 위한 IPO용 표준 원자력 파일",
-      "summary_ko": ""
-    },
-    {
-      "title": "Cuba proposes sweeping reforms to socialist model amid U.S. pressure",
+      "title": "Cuba proposes sweeping reforms to socialist model amid US pressure",
       "link": "https://www.investing.com/news/economic-indicators/cuban-lawmakers-to-vote-on-castrobacked-economic-reforms-amid-us-stranglehold-4750394",
       "summary": "",
       "title_ko": "쿠바는 미국의 압력 속에서 사회주의 모델에 대한 전면적인 개혁을 제안한다.",
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Forex Today: US Dollar touches one-year high, Pound slips on BoE hold",
-      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-touches-one-year-high-pound-slips-on-boe-hold-202606182026",
-      "summary": "The US Dollar Index (DXY) firmed near 100.80 on Thursday, a level it hadn’t seen since May 2025, after the Federal Reserve (Fed) left interest rates unchanged in the 3.50%-3.75% range in Kevin Warsh’s first policy meetin",
-      "title_ko": "포렉스 투데이: 미국 달러, 1년 최고치 경신, BOE 보유 파운드화 하락",
-      "summary_ko": "미국 달러 지수 (DXY) 는 케빈 워시의 첫 번째 정책 회의에서 연방 준비 제도 이사회 (Fed) 가 3.50% -3.75% 범위에서 금리를 변경하지 않은 후 2025년 5월 이후로 보지 못한 수준인 목요일 100.80 근처에서 상승했습니다."
+      "title": "BoJ Minutes: Members want more time to assess Middle East impact on Japan’s economy, prices",
+      "link": "https://www.fxstreet.com/news/boj-minutes-members-want-more-time-to-assess-middle-east-impact-on-japans-economy-prices-202606182353",
+      "summary": "The Bank of Japan (BoJ) board members shared their views on the monetary policy outlook on Thursday, per the BoJ Minutes of the April meeting.",
+      "title_ko": "BOJ 회의록: 회원들은 중동이 일본 경제에 미치는 영향과 가격을 평가할 수 있는 더 많은 시간을 원합니다.",
+      "summary_ko": "일본은행 (BOJ) 이사회는 4월 회의록에 따라 목요일 통화 정책 전망에 대한 견해를 공유했다."
     },
     {
-      "title": "USD/CHF Price Forecast: US Dollar hits new YTD high past 0.8050",
-      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-hits-new-ytd-high-past-08050-202606181951",
-      "summary": "The USD/CHF pair rallies on Thursday to a new yearly high of 0.8059, surpassing March’s 31 previous peak of 2026 at 0.8042 as the Greenback stages a recovery amid hawkish Federal Reserve (Fed) policy expectations, which ",
-      "title_ko": "USD/CHF 가격 예측: 미국 달러는 0.8050을 상회하는 새로운 YTD를 기록했습니다.",
-      "summary_ko": "USD/CHF 쌍은 목요일에 0.8059의 새로운 연간 최고치로 상승하여 그린백이 매파적인 연방 준비 제도 이사회 (Fed) 정책 기대에 따라 회복을 단계화함에 따라 0.8042에서 2026 년 3 월 31 일의 이전 피크를 능가합니다."
+      "title": "US ends naval blockade as Iran's supreme leader says Trump made deal 'out of desperation’",
+      "link": "https://www.fxstreet.com/news/us-ends-naval-blockade-as-irans-supreme-leader-says-trump-made-deal-out-of-desperation-202606182342",
+      "summary": "The US-Iran interim peace deal took effect, and shipping started returning to the Strait of Hormuz as the US dropped its naval blockade of Iran, Bloomberg reported on Thursday.",
+      "title_ko": "이란의 최고 지도자가 트럼프가 '절박함에서' 거래를 했다고 말하면서 미국은 해군 봉쇄를 끝낸다.",
+      "summary_ko": "블룸버그 통신은 목요일 미-이란 임시 평화 협정이 발효되고 미국이 이란에 대한 해군 봉쇄를 중단하면서 해운이 호르무즈 해협으로 복귀하기 시작했다고 보도했다."
     }
   ]
 }

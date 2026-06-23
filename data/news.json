@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-06-23 20:33:34 UTC",
+  "updated_at_utc": "2026-06-23 22:15:37 UTC",
   "items": [
     {
-      "title": "US provides Ebola treatment for outbreak in Congo, bringing trials closer",
-      "link": "https://www.investing.com/news/stock-market-news/us-provides-ebola-treatment-for-outbreak-in-congo-bringing-trials-closer-4756163",
+      "title": "Boeing wins $2 billion satellite contract from DoW",
+      "link": "https://www.investing.com/news/stock-market-news/boeing-wins-2-billion-satellite-contract-from-dow-93CH-4756885",
       "summary": "",
-      "title_ko": "미국은 콩고에서 에볼라 발병에 대한 치료를 제공하여 시련을 더 가깝게합니다.",
+      "title_ko": "보잉, DoW로부터 20억 $ 위성 계약 수주",
       "summary_ko": ""
     },
     {
-      "title": "FedEx eyes 11% rise in 2026 revenue after fourth-quarter profit gains on strong pricing",
-      "link": "https://www.investing.com/news/stock-market-news/fedex-eyes-11-rise-in-2026-revenue-after-fourthquarter-profit-gains-on-strong-pricing-4756409",
+      "title": "NatPower, Tesla reach deal on first phase of $5 billion battery storage plan",
+      "link": "https://www.investing.com/news/stock-market-news/natpower-tesla-reach-deal-on-first-phase-of-5-billion-battery-storage-plan-4754809",
       "summary": "",
-      "title_ko": "FedEx, 강력한 가격 책정으로 4분기 이익 증가 후 2026년 매출 11% 증가",
+      "title_ko": "NatPower, $ 50억 배터리 저장 계획의 첫 번째 단계에 대한 Tesla REACH 거래",
       "summary_ko": ""
     },
     {
-      "title": "Nasdaq bleeds more than 2% as South Korea tech bloodbath becomes global sell-off",
-      "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-fall-as-tech-remains-skittish-after-alphabet-spacex-losses-4754471",
+      "title": "Trump tests Rust Belt pitch in Pennsylvania amid Iran, inflation pressures",
+      "link": "https://www.investing.com/news/stock-market-news/trump-to-pay-visit-to-closely-divided-pennsylvania-in-return-to-campaigning-4754911",
       "summary": "",
-      "title_ko": "한국 기술 유혈 사태가 글로벌 매각이 되면서 나스닥은 2% 이상 유혈 사태를 겪고 있습니다.",
+      "title_ko": "트럼프는 이란 가운데 펜실베이니아에서 러스트 벨트 피치를 테스트, 인플레이션 압력",
       "summary_ko": ""
     },
     {
-      "title": "S&amp;P, Nasdaq end lower on semiconductor selloff as AI spending concerns mount",
-      "link": "https://www.investing.com/news/stock-market-news/nasdaq-futures-fall-2-on-tech-worries-fed-hike-bets-4754751",
+      "title": "GameStop CEO Cohen spurns $35 billion pay plan to focus on plan to buy eBay",
+      "link": "https://www.investing.com/news/stock-market-news/gamestop-ceo-foregoes-performance-award-4756575",
       "summary": "",
-      "title_ko": "S&amp;P, 나스닥, AI 지출 우려로 반도체 매도 하락",
+      "title_ko": "GameStop CEO Cohen, eBay 구매 계획에 집중하기 위해 $ 350억 지불 계획 발표",
+      "summary_ko": ""
+    },
+    {
+      "title": "Crude oil inventories see smaller draw than anticipated, hinting at demand shift",
+      "link": "https://www.investing.com/news/economic-indicators/crude-oil-inventories-see-smaller-draw-than-anticipated-hinting-at-demand-shift-93CH-4756583",
+      "summary": "",
+      "title_ko": "원유 재고는 예상보다 적어 수요 이동을 암시합니다.",
       "summary_ko": ""
     },
     {
@@ -51,25 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "U.S. Services PMI Surpasses Expectations, Signals Sector Growth",
-      "link": "https://www.investing.com/news/economic-indicators/us-services-pmi-surpasses-expectations-signals-sector-growth-93CH-4755858",
-      "summary": "",
-      "title_ko": "미국 서비스 PMI, 기대치 뛰어넘어 시그널 부문 성장",
-      "summary_ko": ""
+      "title": "British Pound Sterling bounces into an empty week",
+      "link": "https://www.fxstreet.com/news/british-pound-sterling-bounces-into-an-empty-week-202606232141",
+      "summary": "Sterling spent Tuesday confirming what the macro backdrop already implied, that the United Kingdom has no growth story to sell right now.",
+      "title_ko": "영국 파운드 스털링이 텅 빈 한 주를 보냅니다",
+      "summary_ko": "스털링은 화요일에 영국이 현재 판매할 성장 스토리가 없다는 매크로 배경이 이미 암시하는 것을 확인했습니다."
     },
     {
-      "title": "Swiss Franc falls vs USD, climbs against Euro in mixed trade",
-      "link": "https://www.fxstreet.com/news/swiss-franc-falls-vs-usd-climbs-against-euro-in-mixed-trade-202606231955",
-      "summary": "The Swiss Franc extends its losses for the fifth straight trading day against the Greenback, down 0.15%, as risk appetite sours amid the AI rout and expectations that the Federal Reserve could raise rates later this year",
-      "title_ko": "스위스 프랑 대 USD 하락, 혼합 거래에서 유로 대비 상승",
-      "summary_ko": "스위스 프랑은 올해 말 연방준비제도 (Fed) 가 금리를 인상할 수 있다는 기대와 인공지능 (AI) 노선 속에서 위험 선호도가 높아짐에 따라 0.15% 하락한 그린백에 대해 5거래일 연속 손실을 연장한다."
-    },
-    {
-      "title": "United States Dollar Index climbs to its highest level since May 2025 on Fed hike bets",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-climbs-to-its-highest-level-since-may-2025-on-fed-hike-bets-202606231827",
-      "summary": "The US Dollar Index (DXY), which tracks the Greenback's value against a basket of six major currencies, extends its rally on Tuesday, climbing to its highest level since May 2025. At the time of writing, the index trades",
-      "title_ko": "미국 달러 지수는 연준의 하이크 베팅에서 2025년 5월 이후 가장 높은 수준으로 상승했습니다.",
-      "summary_ko": "6개 주요 통화의 바스켓에 대한 그린백의 가치를 추적하는 미국 달러 지수 (DXY) 는 화요일에 랠리를 연장하여 2025년 5월 이후 최고 수준으로 상승합니다. 작성 시 인덱스는"
+      "title": "Canadian Dollar falls as USD strength, Oil weakness bite",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-falls-as-usd-strength-oil-weakness-bite-202606232139",
+      "summary": "The Loonie registers losses of 0.40% on Tuesday as the US Dollar refreshes year-to-date (YTD) highs, while falling Oil prices weighed on the CAD, with USD/CAD trading above 1.4200 for the first time since April 2025.",
+      "title_ko": "캐나다 달러는 USD 강세, 석유 약세로 하락",
+      "summary_ko": "Loonie는 화요일에 미국 달러가 전년 대비 (YTD) 최고치를 갱신하면서 0.40% 의 손실을 기록했으며, 유가는 2025년 4월 이후 처음으로 USD/CAD가 1.4200을 상회하면서 CAD에 무게를 뒀습니다."
     }
   ]
 }

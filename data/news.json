@@ -1,32 +1,53 @@
 {
-  "updated_at_utc": "2026-06-22 23:21:41 UTC",
+  "updated_at_utc": "2026-06-23 01:30:54 UTC",
   "items": [
     {
-      "title": "Miner Sinda kicks off US IPO roadshow with $1.97 billion valuation target",
-      "link": "https://www.investing.com/news/stock-market-news/miner-sinda-kicks-off-us-ipo-roadshow-with-197-billion-valuation-target-4752469",
+      "title": "BP, Marathon, 7-Eleven, Walmart sued for allegedly using AI to boost California gas prices",
+      "link": "https://www.investing.com/news/stock-market-news/bp-marathon-7eleven-walmartsued-for-allegedly-using-ai-to-boost-california-gas-prices-4754074",
       "summary": "",
-      "title_ko": "채굴자 SINDA, $ 19억 7천만 가치 평가 목표로 미국 IPO 로드쇼 시작",
+      "title_ko": "BP, 마라톤, 세븐일레븐, 월마트가 캘리포니아 주유소 가격을 올리기 위해 AI를 사용한 혐의로 소송을 제기했습니다.",
       "summary_ko": ""
     },
     {
-      "title": "Apollo’s $26 billion private credit fund imposes 5% cap on requests to pull 17%",
-      "link": "https://www.investing.com/news/stock-market-news/apollo-private-credit-fund-limits-investor-withdrawals-after-requests-surge-4754105",
+      "title": "US stock futures fall as tech remains skittish after Alphabet, SpaceX losses",
+      "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-fall-as-tech-remains-skittish-after-alphabet-spacex-losses-4754471",
       "summary": "",
-      "title_ko": "Apollo의 $ 26 billion 민간 신용 기금은 17% 인출 요청에 대해 5% 상한을 부과합니다.",
+      "title_ko": "미국 주식 선물은 알파벳, 스페이스X 손실 이후에도 기술에 치명적인 영향을 미치면서 하락합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Oracle workforce shrinks by about 21,000 employees amid AI adoption",
-      "link": "https://www.investing.com/news/stock-market-news/oracle-workforce-shrinks-by-about-13-4753911",
+      "title": "US opens probe of fatal Tesla crash into Texas home",
+      "link": "https://www.investing.com/news/stock-market-news/us-opens-probe-into-fatal-tesla-crash-into-texas-home-4753604",
       "summary": "",
-      "title_ko": "AI 도입으로 약 21,000명의 직원이 줄어든 오라클 인력",
+      "title_ko": "미국, 텍사스 주택에 치명적인 테슬라 추락 탐사선 개방",
       "summary_ko": ""
     },
     {
-      "title": "First Carolina Financial Services lists on NYSE under ticker FCBM",
-      "link": "https://www.investing.com/news/stock-market-news/first-carolina-financial-services-lists-on-nyse-under-ticker-fcbm-432SI-4754287",
+      "title": "Meta to pause internal mouse-tracking tech while examining data security issues",
+      "link": "https://www.investing.com/news/stock-market-news/meta-to-pause-internal-mousetracking-tech-while-examining-data-security-issues-4754412",
       "summary": "",
-      "title_ko": "퍼스트 캐롤라이나 파이낸셜 서비스 (First Carolina Financial Services) 가 뉴욕증권거래소 (NYSE) 에",
+      "title_ko": "데이터 보안 문제를 검토하는 동안 내부 마우스 추적 기술을 일시 중지하는 메타",
+      "summary_ko": ""
+    },
+    {
+      "title": "Japan factory activity accelerates in June, services return to growth - PMI",
+      "link": "https://www.investing.com/news/economic-indicators/japan-factory-activity-accelerates-in-june-services-return-to-growth--pmi-4754525",
+      "summary": "",
+      "title_ko": "6월 일본 공장 활동 가속화, 서비스 성장 회복 - PMI",
+      "summary_ko": ""
+    },
+    {
+      "title": "Japan’s factory activity expands at faster pace in June as new orders surge",
+      "link": "https://www.investing.com/news/economic-indicators/japans-factory-activity-expands-at-faster-pace-in-june-as-new-orders-surge-4754493",
+      "summary": "",
+      "title_ko": "신규 주문이 급증함에 따라 6월에 일본의 공장 활동이 더 빠른 속도로 확대됩니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "US gasoline prices tumble for sixth straight week",
+      "link": "https://www.investing.com/news/economic-indicators/us-gasoline-prices-tumble-for-sixth-straight-week-4754404",
+      "summary": "",
+      "title_ko": "미국 휘발유 가격이 6주 연속 하락",
       "summary_ko": ""
     },
     {
@@ -37,39 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Poland’s May retail sales rise 3.0% year-on-year",
-      "link": "https://www.investing.com/news/economic-indicators/polands-may-retail-sales-rise-30-yearonyear-93CH-4751847",
-      "summary": "",
-      "title_ko": "폴란드의 5월 소매 판매는 전년 대비 3.0% 증가했습니다.",
-      "summary_ko": ""
+      "title": "WTI seems vulnerable near $74.00 as US lifts Iran oil sanctions amid encouraging talks",
+      "link": "https://www.fxstreet.com/news/wti-seems-vulnerable-near-7400-as-us-lifts-iran-oil-sanctions-amid-encouraging-talks-202606230122",
+      "summary": "West Texas Intermediate (WTI) – the benchmark US Crude Oil price – stalls the previous day's decline and consolidates around the $74.00/barrel mark during the Asian session on Tuesday.",
+      "title_ko": "WTI는 회담을 장려하는 가운데 미국이 이란의 석유 제재를 해제함에 따라 $ 74.00 근처에서 취약해 보입니다.",
+      "summary_ko": "미국 원유 가격의 벤치마크인 서부 텍사스 중급 (West Texas Intermediate, WTI) 은 전날 하락세를 멈추고 화요일 아시아 세션에서 배럴당 $ 74.00 를 기록했다."
     },
     {
-      "title": "Poland corporate wages rise 5.8% in May, miss forecasts",
-      "link": "https://www.investing.com/news/economic-indicators/poland-corporate-wages-rise-58-in-may-miss-forecasts-93CH-4751843",
-      "summary": "",
-      "title_ko": "5월 폴란드 기업 임금은 5.8% 상승, 미스 예측",
-      "summary_ko": ""
-    },
-    {
-      "title": "Poland’s producer prices rise 2.4% in May, meet forecasts",
-      "link": "https://www.investing.com/news/economic-indicators/polands-producer-prices-rise-24-in-may-meet-forecasts-93CH-4751841",
-      "summary": "",
-      "title_ko": "폴란드의 생산자 가격은 5월에 2.4% 상승합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Euro falls as USD gains on Iran optimism, Lagarde tempers ECB hawks",
-      "link": "https://www.fxstreet.com/news/euro-falls-as-usd-gains-on-iran-optimism-lagarde-tempers-ecb-hawks-202606222223",
-      "summary": "The shared currency registered losses of 0.37% against the US Dollar on Monday late in the North American session amid positive news on the US-Iran talks, while comments from ECB President Lagarde surprised investors, wh",
-      "title_ko": "이란 낙관론에 대한 미국 달러의 이익으로 유로화 하락, 라가르드, ECB 매파 성향",
-      "summary_ko": "북미 세션에서 월요일 늦게 미국 달러 대비 0.37% 의 공유 통화 등록 손실은 미국-이란 회담에 대한 긍정적 인 소식이었고, ECB 라가르드 (Lagarde) 회장의 의견은 투자자들을 놀라게했다."
-    },
-    {
-      "title": "Pound Sterling braces for a heavy week as Westminster empties out",
-      "link": "https://www.fxstreet.com/news/pound-sterling-braces-for-a-heavy-week-as-westminster-empties-out-202606222153",
-      "summary": "The British Pound enters the new week on the back foot, having come within a whisker of fresh seven-month lows before steadying into a tentative bounce that has done little to change the bigger picture.",
-      "title_ko": "웨스트민스터가 비우면서 일주일 동안 파운드 스털링 브레이스",
-      "summary_ko": "영국 파운드는 더 큰 그림을 바꾸는 데 거의 도움이되지 않는 잠정적 인 바운스로 안정되기 전에 신선한 7 개월 저점의 수염 안에 들어서면서 뒷발로 새로운 주에 들어갑니다."
+      "title": "Japan’s Katayama reaffirms market coordination with US Treasury Secretary Bessent",
+      "link": "https://www.fxstreet.com/news/japans-katayama-reaffirms-market-coordination-with-us-treasury-secretary-bessent-202606230121",
+      "summary": "Japan’s Finance Minister Satsuki Katayama said that she held virtual talks with US Treasury Secretary Scott Bessent on Monday, discussing global financial markets and Iran conflict effects.",
+      "title_ko": "일본 가타야마, 베센트 미국 재무장관과 시장 조율 재확인",
+      "summary_ko": "가타야마 사츠키 (Satsuki Katayama) 일본 재무장관은 월요일 스콧 베센트 (Scott Bessent) 미국 재무장관과 가상 회담을 갖고 세계 금융 시장과 이란 분쟁 영향에 대해 논의했다고 밝혔다."
     }
   ]
 }

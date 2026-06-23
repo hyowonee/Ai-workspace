@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-06-23 16:09:18 UTC",
+  "updated_at_utc": "2026-06-23 18:20:31 UTC",
   "items": [
     {
-      "title": "Qualcomm investor day to detail data center plans Wednesday",
-      "link": "https://www.investing.com/news/stock-market-news/qualcomm-investor-day-to-detail-data-center-plans-wednesday-4756089",
+      "title": "Galectin Therapeutics stock surges on FDA trial agreement",
+      "link": "https://www.investing.com/news/stock-market-news/galectin-therapeutics-stock-surges-on-fda-trial-agreement-93CH-4756243",
       "summary": "",
-      "title_ko": "퀄컴 투자자의 데이 투 디테일 데이터 센터 플랜 수요일",
+      "title_ko": "FDA 시험 계약에 대한 Galectin Therapeutics 재고 급증",
       "summary_ko": ""
     },
     {
-      "title": "UK tribunal gives go ahead for $4 billion lawsuit against Apple over iCloud services",
-      "link": "https://www.investing.com/news/stock-market-news/uk-tribunal-gives-go-ahead-for-4-billion-lawsuit-against-apple-over-icloud-services-4755473",
+      "title": "SanDisk, Micron among market cap stock movers on Tuesday",
+      "link": "https://www.investing.com/news/stock-market-news/sandisk-micron-among-market-cap-stock-movers-on-tuesday-93CH-4756241",
       "summary": "",
-      "title_ko": "영국 법원은 iCloud 서비스에 대해 Apple을 상대로 40억 달러 ($) 의 소송을 제기합니다.",
+      "title_ko": "SanDisk, 화요일 시가 총액 주식 이동자 중 Micron",
       "summary_ko": ""
     },
     {
-      "title": "Factbox-Top cases on the US Supreme Court’s docket",
-      "link": "https://www.investing.com/news/stock-market-news/factboxtop-cases-on-the-us-supreme-courts-docket-4756087",
+      "title": "Building permits, new home sales, and oil inventories due Wednesday",
+      "link": "https://www.investing.com/news/stock-market-news/building-permits-new-home-sales-and-oil-inventories-due-wednesday-93CH-4756240",
       "summary": "",
-      "title_ko": "Factbox-미국 대법원 소장 사건",
+      "title_ko": "수요일에 마감되는 건축 허가, 신규 주택 판매 및 석유 재고",
       "summary_ko": ""
     },
     {
-      "title": "Sweden stocks lower at close of trade; OMX Stockholm 30 down 1.41%",
-      "link": "https://www.investing.com/news/stock-market-news/sweden-stocks-lower-at-close-of-trade-omx-stockholm-30-down-141-4756085",
+      "title": "SpaceX short interest estimated to be about 5-7% of float, S3 Partners says",
+      "link": "https://www.investing.com/news/stock-market-news/spacex-short-interest-estimated-to-be-about-57-of-float-s3-partners-says-4756230",
       "summary": "",
-      "title_ko": "스웨덴 주식은 거래 마감 시점에 하락; OMX 스톡홀름 30 1.41% 하락",
+      "title_ko": "S3 파트너에 따르면 SpaceX 단기 이자는 플로트의 약 5 ~ 7% 로 추정됩니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Colombia national registrar says final count in presidential runoff is nearly identical to initial count",
+      "link": "https://www.investing.com/news/economic-indicators/colombia-national-registrar-says-final-count-in-presidential-runoff-is-nearly-identical-to-initial-count-4756203",
+      "summary": "",
+      "title_ko": "콜롬비아 국가 등록기관에 따르면 대통령 출마 시 최종 집계는 초기 집계와 거의 동일합니다.",
       "summary_ko": ""
     },
     {
@@ -51,25 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Global imbalances could fuel financial stability risks, says BoC Governor Macklem",
-      "link": "https://www.investing.com/news/economic-indicators/global-imbalances-could-fuel-financial-stability-risks-says-boc-governor-macklem-4755848",
-      "summary": "",
-      "title_ko": "BoC Macklem 총재는 글로벌 불균형이 금융 안정 위험을 부추길 수 있다고 말합니다.",
-      "summary_ko": ""
+      "title": "Gold price slides as AI rout fuels US Dollar flight",
+      "link": "https://www.fxstreet.com/news/gold-price-slides-as-ai-rout-fuels-us-dollar-flight-202606231803",
+      "summary": "Gold price (XAU/USD) erases Monday’s gains, diving over 1.30% on Tuesday, pressured by broad US Dollar strength, driven by a hawkish Federal Reserve, as well as a risk-off mood that is driving flows toward the Greenback'",
+      "title_ko": "AI 노선이 미국 달러 항공편에 연료를 공급함에 따라 금 가격 슬라이드",
+      "summary_ko": "금 가격 (XAU/USD) 은 월요일의 이익을 지우고, 화요일에 1.30% 이상 다이빙하고, 광범위한 미국 달러 강세에 압박을 받고, 매파적인 연방 준비 제도 이사회 (Federal Reserve) 에 의해 추진되며, 그린백 (Greenback) 을 향한 흐름을 주도하는 위험 부담 분위기가 있습니다."
     },
     {
-      "title": "Euro stabilizes against British Pound as weak UK PMIs contrast with resilient Eurozone activity",
-      "link": "https://www.fxstreet.com/news/euro-stabilizes-against-british-pound-as-weak-uk-pmis-contrast-with-resilient-eurozone-activity-202606231554",
-      "summary": "EUR/GBP trades little changed on Tuesday after a sharp slide the previous day, triggered by UK Prime Minister Keir Starmer's resignation, which lifted the British Pound (GBP) across the board.",
-      "title_ko": "유로화는 약한 영국 PMI가 탄력적인 유로존 활동과 대조됨에 따라 영국 파운드에 대해 안정화됩니다.",
-      "summary_ko": "EUR/GBP 거래는 전날 급격한 슬라이드 이후 화요일에 거의 변하지 않았으며, 영국 총리 Keir Starmer의 사임으로 인해 영국 파운드 (GBP) 가 전반적으로 상승했습니다."
-    },
-    {
-      "title": "Japanese Yen trades in neutral zone as investors assess US PMIs and ADP data",
-      "link": "https://www.fxstreet.com/news/japanese-yen-trades-in-neutral-zone-as-investors-assess-us-pmis-and-adp-data-202606231549",
-      "summary": "The USD/JPY pair is trading in a neutral zone on Tuesday as investors digest the latest United States (US) Purchasing Managers Index (PMI) figures and recent ADP employment data, awaiting a stronger catalyst from Federal",
-      "title_ko": "투자자가 미국 PMI 및 ADP 데이터를 평가할 때 일본 엔은 중립 지역에서 거래됩니다.",
-      "summary_ko": "USD/JPY 쌍은 화요일에 투자자들이 최신 미국 (미국) 구매 관리자 지수 (PMI) 수치와 최근 ADP 고용 데이터를 소화하면서 중립 지역에서 거래되고 있으며 연방 정부의 더 강력한 촉매제를 기다리고 있습니다."
+      "title": "South Korean Won: Weak KRW and hawkish BoK expectations – Commerzbank",
+      "link": "https://www.fxstreet.com/news/south-korean-won-weak-krw-and-hawkish-bok-expectations-commerzbank-202606231754",
+      "summary": "Commerzbank highlights strong South Korean export momentum, led by semiconductors and petroleum, but notes that South Korean Won (KRW) remains one of Asia’s weakest currencies versus the Dollar.",
+      "title_ko": "한국 원화: 원화 약세 및 BoK 기대 – Commerzbank",
+      "summary_ko": "코메르츠방크는 반도체와 석유가 주도하는 강력한 한국 수출 모멘텀을 강조하지만, 한국 원화 (KRW) 는 달러 대비 아시아에서 가장 약한 통화 중 하나로 남아 있다고 지적했다."
     }
   ]
 }

@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-06-24 15:41:43 UTC",
+  "updated_at_utc": "2026-06-24 17:56:13 UTC",
   "items": [
     {
-      "title": "Why is CommVault stock rallying today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-commvault-stock-rallying-today-93CH-4758576",
+      "title": "Renault seeks to cut 800 jobs in engineering in France",
+      "link": "https://www.investing.com/news/stock-market-news/renault-seeks-to-cut-800-jobs-in-engineering-in-france-4758752",
       "summary": "",
-      "title_ko": "오늘날 CommVault 주식이 랠리되는 이유는 무엇입니까?",
+      "title_ko": "르노는 프랑스에서 엔지니어링 분야에서 800개의 일자리를 줄이고자 합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Why is Abivax stock sliding today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-abivax-stock-sliding-today-93CH-4758569",
+      "title": "Legal tech firm sues US over order limiting foreign access to top-tier Anthropic models",
+      "link": "https://www.investing.com/news/stock-market-news/legal-tech-firm-sues-us-over-order-limiting-foreign-access-to-toptier-anthropic-models-4756834",
       "summary": "",
-      "title_ko": "오늘 Abivax 주가가 미끄러지는 이유는 무엇입니까?",
+      "title_ko": "법률 기술 회사는 최상위 인류 모델에 대한 해외 접근을 제한하는 명령에 대해 미국을 고소합니다",
       "summary_ko": ""
     },
     {
-      "title": "Paramount ready to sell Universal Pictures JV for Warner deal, source says",
-      "link": "https://www.investing.com/news/stock-market-news/paramount-ready-to-sell-universal-pictures-jv-for-warnerdeal-source-says-4758561",
+      "title": "China’s 360 says it has developed tools to match Anthropic’s Mythos",
+      "link": "https://www.investing.com/news/stock-market-news/chinas-360-says-it-has-developed-tools-to-match-anthropics-mythos-4758034",
       "summary": "",
-      "title_ko": "소식통에 따르면 파라마운트는 유니버설 픽처스 JV를 워너 딜에 판매할 준비가 되었다고 합니다.",
+      "title_ko": "중국의 360은 Anthropic의 신화와 일치하는 도구를 개발했다고 말합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Commvault stock surges on Microsoft Azure partnership",
-      "link": "https://www.investing.com/news/stock-market-news/commvault-stock-surges-on-microsoft-azure-partnership-93CH-4758563",
+      "title": "Tesla sued over fatal Texas crash linked to Autopilot",
+      "link": "https://www.investing.com/news/stock-market-news/tesla-sued-over-fatal-texas-crash-linked-to-autopilot-4758749",
       "summary": "",
-      "title_ko": "Microsoft Azure 파트너십에 대한 Commvault 재고 급증",
+      "title_ko": "테슬라가 자동 조종 장치와 연결된 치명적인 텍사스 충돌에 대해 소송을 제기했습니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "US new single-family home sales post second straight monthly decline",
+      "link": "https://www.investing.com/news/economic-indicators/us-new-home-sales-unexpectedly-fall-in-may-4758457",
+      "summary": "",
+      "title_ko": "월간 2번째 연속 하락 이후 미국 신규 단독 주택 판매",
       "summary_ko": ""
     },
     {
@@ -44,13 +51,6 @@
       "summary_ko": ""
     },
     {
-      "title": "US new home sales unexpectedly fall in May",
-      "link": "https://www.investing.com/news/economic-indicators/us-new-home-sales-unexpectedly-fall-in-may-4758457",
-      "summary": "",
-      "title_ko": "5월 미국 신규 주택 판매 예상치 하락",
-      "summary_ko": ""
-    },
-    {
       "title": "New home sales decline, missing forecasts and previous figures",
       "link": "https://www.investing.com/news/economic-indicators/new-home-sales-decline-missing-forecasts-and-previous-figures-93CH-4758422",
       "summary": "",
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Germany: Ifo survey signals tentative recovery – Commerzbank",
-      "link": "https://www.fxstreet.com/news/germany-ifo-survey-signals-tentative-recovery-commerzbank-202606241446",
-      "summary": "Commerzbank’s Dr. Ralph Solveen notes that Germany’s Ifo Business Climate Index rose slightly in June, mainly on a better assessment of current conditions rather than expectations.",
-      "title_ko": "독일: Ifo 설문 조사가 잠정적인 회복을 나타냄 – Commerzbank",
-      "summary_ko": "코메르츠방크의 랄프 솔베인 (Ralph Solveen) 박사는 독일의 이포 (Ifo) 비즈니스 기후 지수가 6월에 소폭 상승했으며, 이는 주로 기대보다는 현재 상태에 대한 더 나은 평가에 근거한 것이라고 지적했다."
+      "title": "Hungary: Lower CPI supports NBH cuts – Standard Chartered",
+      "link": "https://www.fxstreet.com/news/hungary-lower-cpi-supports-nbh-cuts-standard-chartered-202606241709",
+      "summary": "Standard Chartered’s Saabir Salad emphasizes that subdued inflation, aided by a strong Hungarian Forint (HUF) and government measures, has allowed the National Bank of Hungary (NBH) to turn more dovish.",
+      "title_ko": "헝가리: NBH 삭감을 지원하는 하부 CPI – Standard Chartered",
+      "summary_ko": "스탠다드 차타드 (Standard Chartered) 의 사비르 샐러드 (Saabir Salad) 는 강력한 헝가리 포린트 (Hungarian Forint, HUF) 와 정부 조치의 도움을 받아 헝가리 국립 은행 (National Bank of Hungary, NBH) 이 더 많은 인플레이션을 감당할 수 있게 되었다고 강조합니다."
     },
     {
-      "title": "Gold weakens to a seven-month low as Fed rate-hike bets boost the US Dollar",
-      "link": "https://www.fxstreet.com/news/gold-bears-target-4-000-as-stronger-us-dollar-and-fed-rate-hike-bets-weigh-202606241118",
-      "summary": "Gold (XAU/USD) falls on Wednesday, hitting a fresh seven-month low as hawkish Federal Reserve (Fed) expectations and a stronger US Dollar (USD) keep the precious metal under pressure.",
-      "title_ko": "연준 금리 인상 베팅이 미국 달러를 부양함에 따라 금은 7개월 최저치로 약세",
-      "summary_ko": "금 (XAU/USD) 은 수요일에 하락하여 매파적인 연방 준비 제도 이사회 (Fed) 의 기대치와 더 강한 미국 달러 (USD) 가 귀금속을 압박함에 따라 7개월 만에 최저치를 기록했습니다."
+      "title": "British Pound falls as Starmer's resignation weighs on Sterling",
+      "link": "https://www.fxstreet.com/news/british-pound-falls-as-starmers-resignation-weighs-on-sterling-202606241701",
+      "summary": "The GBP/JPY cross came under pressure near the 213.00 level on Wednesday as the British Pound weakened after United Kingdom (UK) Prime Minister Keir Starmer announced he would stand down as Labour Party leader and Prime ",
+      "title_ko": "스타머의 사임이 스털링에 가중됨에 따라 영국 파운드화 하락",
+      "summary_ko": "영국 총리 키어 스타머 (Keir Starmer) 가 노동당 지도자와 총리로 물러나겠다고 발표한 후 영국 파운드화가 약화됨에 따라 GBP/JPY 십자가는 수요일 213.00 수준 근처에서 압력을 받았다."
     }
   ]
 }

@@ -1,32 +1,46 @@
 {
-  "updated_at_utc": "2026-06-25 04:45:51 UTC",
+  "updated_at_utc": "2026-06-25 08:23:57 UTC",
   "items": [
     {
-      "title": "Aerospace parts maker Doncasters raises $919.3 million in US IPO",
-      "link": "https://www.investing.com/news/stock-market-news/aerospace-parts-maker-doncasters-raises-9193million-in-us-ipo-4759700",
+      "title": "Why is Arteche Lantegi Elkartea stock sliding today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-arteche-lantegi-elkartea-stock-sliding-today-93CH-4759897",
       "summary": "",
-      "title_ko": "항공 우주 부품 메이커 Doncasters, 미국 IPO에서 $ 919.3 백만 모금",
+      "title_ko": "Arteche Lantegi Elkartea 주식이 오늘 미끄러지는 이유는 무엇입니까?",
       "summary_ko": ""
     },
     {
-      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-      "link": "https://www.investing.com/news/stock-market-news/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-4759021",
+      "title": "Why is Trip.com stock tumbling today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-tripcom-stock-tumbling-today-93CH-4759887",
       "summary": "",
-      "title_ko": "Anthropic은 Alibaba가 Claude AI 모델 기능을 불법 추출했다고 말합니다.",
+      "title_ko": "오늘 Trip.com 주식이 폭락하는 이유는 무엇인가요?",
       "summary_ko": ""
     },
     {
-      "title": "Australia’s Worley flags much bigger earnings hit from M.East conflict",
-      "link": "https://www.investing.com/news/stock-market-news/australias-worley-flags-much-bigger-earnings-hit-from-meast-conflict-4759699",
+      "title": "Chemring shares rise as US awards $300 million defense contract",
+      "link": "https://www.investing.com/news/stock-market-news/chemring-shares-rise-as-us-awards-300-million-defense-contract-93CH-4759882",
       "summary": "",
-      "title_ko": "호주의 Worley는 M.East 분쟁으로 인해 훨씬 더 많은 수입을 올렸습니다.",
+      "title_ko": "Chemring 주식은 미국이 3억 달러의 방위 계약 ($ 300 million defense contract) 을 체결함에 따라 상승합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Kioxia to offer U.S. depositary shares in spring 2027, Bloomberg News says",
-      "link": "https://www.investing.com/news/stock-market-news/kioxia-to-offer-us-depositary-shares-in-spring-2027-bloomberg-news-says-4759697",
+      "title": "EasyJet shares jump 5% as board rejects Castlelake’s fourth bid, extends deadline",
+      "link": "https://www.investing.com/news/stock-market-news/easyjet-shares-jump-5-as-board-rejects-castlelakes-fourth-bid-extends-deadline-4759880",
       "summary": "",
-      "title_ko": "블룸버그 뉴스에 따르면 키옥시아는 2027년 봄에 미국 예탁 주식을 제공한다고 합니다.",
+      "title_ko": "이사회가 캐슬레이크의 네 번째 입찰을 거부하고 마감 기한을 연장함에 따라 이지젯 주식은 5% 뛰어오릅니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Spain’s Q1 GDP quarterly growth confirmed at 0.6%",
+      "link": "https://www.investing.com/news/economic-indicators/spains-q1-gdp-quarterly-growth-confirmed-at-06-4759805",
+      "summary": "",
+      "title_ko": "스페인의 1분기 국내총생산 (GDP) 성장률은 0.6% 로 확인되었습니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "German consumer sentiment stabilises heading into July, survey finds",
+      "link": "https://www.investing.com/news/economic-indicators/german-consumer-sentiment-stabilises-heading-into-july-survey-finds-4759756",
+      "summary": "",
+      "title_ko": "설문 조사에 따르면 7월로 향하는 독일 소비심리가 안정되고 있다.",
       "summary_ko": ""
     },
     {
@@ -44,32 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Australian job vacancies fall 2.1% in May quarter",
-      "link": "https://www.investing.com/news/economic-indicators/australian-job-vacancies-fall-21-in-may-quarter-4759620",
-      "summary": "",
-      "title_ko": "5월 호주 구인 공채 2.1% 하락",
-      "summary_ko": ""
+      "title": "US core PCE inflation set to advance as markets price first Fed rate hike in September",
+      "link": "https://www.fxstreet.com/news/us-core-pce-inflation-expected-to-rise-in-may-as-fed-rate-hike-bets-increase-202606250600",
+      "summary": "The United States (US) Bureau of Economic Analysis (BEA) will publish the Personal Consumption Expenditures (PCE) Price Index data for May on Thursday at 12:30 GMT.",
+      "title_ko": "미국 핵심 PCE 인플레이션은 9월 시장 가격 첫 연방준비제도 (Fed) 금리 인상으로 진전될 것으로 예상됩니다.",
+      "summary_ko": "미국 경제 분석국 (BEA) 은 5월의 개인 소비 지출 (PCE) 물가지수 데이터를 목요일 12:30 GMT에 발표할 예정입니다."
     },
     {
-      "title": "Australia jobs rebound in May, unemployment rate unexpectedly dips",
-      "link": "https://www.investing.com/news/economic-indicators/australia-jobs-rebound-in-may-unemployment-rate-unexpectedly-dips-4759598",
-      "summary": "",
-      "title_ko": "5월 호주 일자리 반등, 실업률 예상치 하락",
-      "summary_ko": ""
-    },
-    {
-      "title": "EUR/JPY Price Forecast: Trades near 184.00 after rebounding from symmetrical triangle",
-      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-trades-near-18400-after-rebounding-from-symmetrical-triangle-202606250345",
-      "summary": "EUR/JPY pares its daily losses, remaining in the negative territory and trading around 183.80 during the Asian hours on Thursday.",
-      "title_ko": "EUR/JPY 가격 예측: 대칭 삼각형에서 반등한 후 184.00 근처에서 거래",
-      "summary_ko": "EUR/JPY는 목요일 아시아 시간 동안 마이너스 영토에 남아 있고 약 183.80에 거래되는 일일 손실을 상쇄합니다."
-    },
-    {
-      "title": "Gold retains bearish bias near November 2025 lows; eyes US PCE amid receding Fed hike bets",
-      "link": "https://www.fxstreet.com/news/gold-retains-bearish-bias-near-november-2025-lows-eyes-us-pce-amid-receding-fed-hike-bets-202606250343",
-      "summary": "Gold (XAU/USD) meets with a fresh supply during the Asian session on Thursday and slides back to the lowest level since November 2025, set the previous day.",
-      "title_ko": "금은 2025년 11월 저점 근처에서 약세 편향을 유지합니다. 연준 하이킹 베팅이 물러나는 가운데 미국 PCE의 눈",
-      "summary_ko": "금 (XAU/USD) 은 목요일 아시아 세션에서 신선한 공급과 만나 전날에 설정된 2025년 11월 이후 가장 낮은 수준으로 다시 슬라이드됩니다."
+      "title": "Dow Jones futures rise on tech rally, US PCE inflation awaited",
+      "link": "https://www.fxstreet.com/news/dow-jones-futures-rise-on-tech-rally-us-pce-inflation-awaited-202606250759",
+      "summary": "Dow Jones futures advance 0.15%, trading near 52,350 during the European hours on Thursday. Meanwhile, S&amp;P 500 futures are up by 0.80% near 7,490, and Nasdaq 100 futures rise 2.25%, trading near 30,180 at the time of",
+      "title_ko": "다우 존스 선물은 기술 랠리에 상승, 미국 PCE 인플레이션이 기다리고 있음",
+      "summary_ko": "다우 존스 선물은 0.15% 상승하여 목요일 유럽 시간 동안 52,350 근처에서 거래됩니다. 한편, S&amp;P 500 선물은 7,490원 부근에서 0.80% 상승하고, Nasdaq 100 선물은 2.25% 상승하여 30,180원 부근에서 거래되고 있습니다."
     }
   ]
 }

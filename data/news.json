@@ -1,32 +1,46 @@
 {
-  "updated_at_utc": "2026-06-25 13:36:20 UTC",
+  "updated_at_utc": "2026-06-25 16:27:06 UTC",
   "items": [
     {
-      "title": "Apple raises prices of MacBooks, iPads as memory costs skyrocket",
-      "link": "https://www.investing.com/news/stock-market-news/apple-raises-prices-of-macbooks-ipads-as-memory-costs-skyrocket-4760683",
+      "title": "Why is ServiceTitan stock sliding today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-servicetitan-stock-sliding-today-93CH-4761151",
       "summary": "",
-      "title_ko": "애플, 메모리 비용 급증에 따라 맥북, 아이패드 가격 인상",
+      "title_ko": "오늘 ServiceTitan 재고가 미끄러지는 이유는 무엇입니까?",
       "summary_ko": ""
     },
     {
-      "title": "Condiments maker McCormick tops profit estimates on higher pricing",
-      "link": "https://www.investing.com/news/stock-market-news/mccormick-tops-quarterly-sales-and-profit-estimates-4760173",
+      "title": "Why is Velo3D stock sliding today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-velo3d-stock-sliding-today-93CH-4761150",
       "summary": "",
-      "title_ko": "조미료 제조업체 맥코믹 (McCormick), 더 높은 가격에 대한 이익 추정치 상회",
+      "title_ko": "Velo3D 주가가 오늘 미끄러지는 이유는 무엇입니까?",
       "summary_ko": ""
     },
     {
-      "title": "Penguin Solutions stock jumps on ClusterWareAI software update",
-      "link": "https://www.investing.com/news/stock-market-news/penguin-solutions-stock-jumps-on-clusterwareai-software-update-93CH-4760814",
+      "title": "Thousands feared dead in Venezuela after two major earthquakes",
+      "link": "https://www.investing.com/news/stock-market-news/thousands-feared-dead-after-two-major-earthquakes-strike-venezuela-4759943",
       "summary": "",
-      "title_ko": "ClusterWareAI 소프트웨어 업데이트 시 펭귄 솔루션 재고 점프",
+      "title_ko": "두 차례의 대지진 이후 베네수엘라에서 수천 명이 사망할 것을 우려했다.",
       "summary_ko": ""
     },
     {
-      "title": "TTM Technologies stock rises on Russell 1000 Index inclusion",
-      "link": "https://www.investing.com/news/stock-market-news/ttm-technologies-stock-rises-on-russell-1000-index-inclusion-93CH-4760809",
+      "title": "Why is Polestar stock sliding today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-polestar-stock-sliding-today-93CH-4761143",
       "summary": "",
-      "title_ko": "TTM Technologies, Russell 1000 지수 포함으로 주가 상승",
+      "title_ko": "Polestar 주가가 오늘 미끄러지는 이유는 무엇입니까?",
+      "summary_ko": ""
+    },
+    {
+      "title": "Natural gas storage rise surpasses expectations, impacting prices",
+      "link": "https://www.investing.com/news/economic-indicators/natural-gas-storage-rise-surpasses-expectations-impacting-prices-93CH-4760982",
+      "summary": "",
+      "title_ko": "천연가스 저장량 상승이 예상을 뛰어넘어 가격에 영향을 미침",
+      "summary_ko": ""
+    },
+    {
+      "title": "US first-quarter GDP revised sharply higher; but consumer spending nearly stalls",
+      "link": "https://www.investing.com/news/economic-indicators/us-firstquarter-gdp-revised-sharply-higher-but-consumer-spending-nearly-stalls-4760851",
+      "summary": "",
+      "title_ko": "미국 1분기 국내총생산 (GDP) 은 급격히 증가했지만 소비자 지출은 거의",
       "summary_ko": ""
     },
     {
@@ -44,32 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "U.S. Initial Jobless Claims Fall, Signaling Labor Market Resilience",
-      "link": "https://www.investing.com/news/economic-indicators/us-initial-jobless-claims-fall-signaling-labor-market-resilience-93CH-4760656",
-      "summary": "",
-      "title_ko": "미국 초기 실업 보험금 몰락, 노동 시장 탄력성 신호",
-      "summary_ko": ""
+      "title": "British Pound rebounds as US Dollar bulls fade despite hot Core PCE",
+      "link": "https://www.fxstreet.com/news/british-pound-rebounds-as-usd-bulls-fade-despite-hot-core-pce-202606251546",
+      "summary": "The Pound Sterling (GBP) advances 0.22% against the US Dollar (USD) on Thursday, even though the US economy grew faster than previously reported in Q1, while inflation readings suggest the Federal Reserve (Fed) needs to ",
+      "title_ko": "뜨거운 코어 PCE에도 불구하고 미국 달러 황소가 사라지면서 영국 파운드가 반등했습니다.",
+      "summary_ko": "파운드 스털링 (GBP) 은 미국 경제가 이전에 1분기에 보고된 것보다 빠르게 성장했음에도 불구하고 목요일 미국 달러 (USD) 대비 0.22% 상승한 반면, 인플레이션 수치는 연방준비제도 (Fed) 가"
     },
     {
-      "title": "Durable goods orders decline less than anticipated, easing economic concerns",
-      "link": "https://www.investing.com/news/economic-indicators/durable-goods-orders-decline-less-than-anticipated-easing-economic-concerns-93CH-4760638",
-      "summary": "",
-      "title_ko": "내구재 주문이 예상보다 적게 감소하여 경제적 우려가 완화됨",
-      "summary_ko": ""
-    },
-    {
-      "title": "Thai Baht: Negative bias persists under US yield pressure – MUFG",
-      "link": "https://www.fxstreet.com/news/thai-baht-negative-bias-persists-under-us-yield-pressure-mufg-202606251322",
-      "summary": "MUFG’s Lloyd Chan reports broad Asia FX weakness versus the Dollar, with the Thai Baht underperforming. The Bank of Thailand has kept its policy rate at 1% as growth remains low and uneven and credit conditions soft.",
-      "title_ko": "태국 바트: 미국 항복 압력 하에서 부정적인 편향이 지속됨 – MUFG",
-      "summary_ko": "MUFG의 로이드 챈 (Lloyd Chan) 은 태국 바트의 실적이 저조한 가운데 달러 대비 광범위한 아시아 FX 약세를 보고했다. 태국 은행은 성장률이 낮고 고르지 않으며 신용 상태가 부드러워 정책 금리를 1% 로 유지했습니다."
-    },
-    {
-      "title": "Gold recovers above $4,000 after US PCE data broadly matches expectations",
-      "link": "https://www.fxstreet.com/news/gold-consolidates-near-seven-month-low-ahead-of-us-pce-report-202606251104",
-      "summary": "Gold (XAU/USD) rebounds on Thursday after the US Personal Consumption Expenditures (PCE) Price Index came broadly in line with market expectations. At the time of writing, XAU/USD trades around $4,026 after hitting a mor",
-      "title_ko": "미국 PCE 데이터가 기대치에 크게 부합한 후 금이 $ 4,000 이상 회복",
-      "summary_ko": "금 (XAU/USD) 은 미국 개인 소비 지출 (PCE) 가격 지수가 시장의 기대에 크게 부합한 후 목요일에 반등했습니다. 서면 작성 시 XAU/USD는 MOR을 친 후 약 $ 4,026에 거래됩니다."
+      "title": "Thai Baht: Long policy hold supports fragile recovery – UOB",
+      "link": "https://www.fxstreet.com/news/thai-baht-long-policy-hold-supports-fragile-recovery-uob-202606251529",
+      "summary": "UOB economists Enrico Tanuwidjaja and Sathit Talaengsatya note that the Bank of Thailand (BoT) kept its policy rate at 1.00% and is expected to hold this level through 2027.",
+      "title_ko": "태국 바트: 긴 정책은 취약한 복구를 지원합니다 – UOB",
+      "summary_ko": "UOB 경제학자 Enrico Tanuwidjaja와 Sathit Talaengsatya는 태국은행 (BoT) 이 정책 금리를 1.00% 로 유지했으며 2027년까지 이 수준을 유지할 것으로 예상된다고 언급했다."
     }
   ]
 }

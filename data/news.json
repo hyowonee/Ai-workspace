@@ -1,32 +1,46 @@
 {
-  "updated_at_utc": "2026-06-26 14:28:47 UTC",
+  "updated_at_utc": "2026-06-26 16:32:27 UTC",
   "items": [
     {
-      "title": "Volkswagen declines to comment on reported job cuts",
-      "link": "https://www.investing.com/news/stock-market-news/volkswagen-declines-to-comment-on-reported-job-cuts-4762140",
+      "title": "Spain stocks lower at close of trade; IBEX 35 down 0.45%",
+      "link": "https://www.investing.com/news/stock-market-news/spain-stocks-lower-at-close-of-trade-ibex-35-down-045-4763168",
       "summary": "",
-      "title_ko": "폭스바겐이 보고된 일자리 삭감에 대한 논평을 거부함",
+      "title_ko": "스페인 주식은 거래 마감 시점에 하락, IBEX 35는 0.45% 하락",
       "summary_ko": ""
     },
     {
-      "title": "Foreign rescue teams reaching quake-hit Venezuela where 589 dead, many missing",
-      "link": "https://www.investing.com/news/stock-market-news/rescuers-comb-venezuelan-quake-rubble-thousands-reported-missing-4762206",
+      "title": "Portugal stocks lower at close of trade; PSI down 0.23%",
+      "link": "https://www.investing.com/news/stock-market-news/portugal-stocks-lower-at-close-of-trade-psi-down-023-4763167",
       "summary": "",
-      "title_ko": "지진으로 589명이 사망하고 많은 사람들이 실종된 베네수엘라에 도착한 외국 구조대",
+      "title_ko": "포르투갈 주식은 거래 종료 시점에 하락, psi는 0.23% 하락",
       "summary_ko": ""
     },
     {
-      "title": "Factbox-Airlines resume some Middle East flights but disruption continues",
-      "link": "https://www.investing.com/news/stock-market-news/factboxairlines-resume-some-middle-east-flights-but-disruption-continues-4761098",
+      "title": "Netherlands stocks lower at close of trade; AEX down 0.65%",
+      "link": "https://www.investing.com/news/stock-market-news/netherlands-stocks-lower-at-close-of-trade-aex-down-065-4763165",
       "summary": "",
-      "title_ko": "Factbox-Airlines가 일부 중동 항공편을 재개하지만 중단은 계속됩니다.",
+      "title_ko": "네덜란드 주식은 거래 마감 시점에 하락, AEX는 0.65% 하락",
       "summary_ko": ""
     },
     {
-      "title": "Incyte stock jumps on positive EU review for eczema cream",
-      "link": "https://www.investing.com/news/stock-market-news/incyte-stock-jumps-on-positive-eu-review-for-eczema-cream-93CH-4762997",
+      "title": "FTSE 100 today: Stocks close down as Hormuz attack and tech selloff sour sentiment",
+      "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-falls-as-hormuz-attack-and-tech-selloff-sour-sentiment-4762101",
       "summary": "",
-      "title_ko": "습진 크림에 대한 긍정적 인 EU 검토에 대한 Incyte 재고 점프",
+      "title_ko": "오늘 FTSE 100: Hormuz 공격과 기술 매도 시큼한 감정으로 주식 마감",
+      "summary_ko": ""
+    },
+    {
+      "title": "Argentina’s April economic activity seen up 2% year-on-year: Reuters Poll",
+      "link": "https://www.investing.com/news/economic-indicators/argentinas-april-economic-activity-seen-up-2-yearonyear-reuters-poll-4763097",
+      "summary": "",
+      "title_ko": "아르헨티나의 4월 경제활동은 전년 동기 대비 2% 증가: 로이터 여론조사",
+      "summary_ko": ""
+    },
+    {
+      "title": "US goods trade deficit hits 14-month high in May as imports surge",
+      "link": "https://www.investing.com/news/economic-indicators/us-goods-trade-deficit-widens-sharply-in-may-on-imports-4762810",
+      "summary": "",
+      "title_ko": "수입 급증으로 5월 미국 상품 무역 적자 14개월 만에 최고치 기록",
       "summary_ko": ""
     },
     {
@@ -37,13 +51,6 @@
       "summary_ko": ""
     },
     {
-      "title": "US goods trade deficit widens sharply in May on imports",
-      "link": "https://www.investing.com/news/economic-indicators/us-goods-trade-deficit-widens-sharply-in-may-on-imports-4762810",
-      "summary": "",
-      "title_ko": "5월 수입에 대한 미국 상품 무역 적자 급격히 확대",
-      "summary_ko": ""
-    },
-    {
       "title": "Germany closes €21 billion budget gap for 2027 - report",
       "link": "https://www.investing.com/news/economic-indicators/germany-closes-21-billion-budget-gap-for-2027--report-93CH-4762767",
       "summary": "",
@@ -51,25 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Wholesale inventories remain steady, aligning with forecasts",
-      "link": "https://www.investing.com/news/economic-indicators/wholesale-inventories-remain-steady-aligning-with-forecasts-93CH-4762762",
-      "summary": "",
-      "title_ko": "도매 재고는 예측에 따라 일정하게 유지됩니다.",
-      "summary_ko": ""
+      "title": "British Pound rebounds as US Dollar rally fades, UK politics stabilize",
+      "link": "https://www.fxstreet.com/news/british-pound-rebounds-as-us-dollar-rally-fades-uk-politics-stabilize-202606261600",
+      "summary": "The Pound Sterling gains 0.20% against the Greenback as the latter recoils after hitting year-to-date (YTD) highs, with money markets pricing in a less hawkish Federal Reserve, despite policymakers stating they will focu",
+      "title_ko": "미국 달러 랠리가 퇴색함에 따라 영국 파운드가 반등하고 영국 정치가 안정화됨",
+      "summary_ko": "파운드 스털링은 정책 입안자들이 초점을 맞출 것이라고 밝혔음에도 불구하고 덜 매파적인 연방 준비 제도 이사회 (Federal Reserve) 에서 화폐 시장 가격을 책정하면서 연대 (YTD) 최고치를 기록한 후 반동함에 따라 그린백에 대해 0.20% 의 이익을 얻습니다."
     },
     {
-      "title": "Malaysia: AI boom offsets energy shock risks – HSBC",
-      "link": "https://www.fxstreet.com/news/malaysia-ai-boom-offsets-energy-shock-risks-hsbc-202606261413",
-      "summary": "HSBC strategists describe Malaysia as relatively resilient to elevated Oil prices thanks to its status as a net energy exporter and beneficiary of the AI (Artificial intelligence) hardware cycle.",
-      "title_ko": "말레이시아: AI 붐, 에너지 충격 위험 상쇄 – HSBC",
-      "summary_ko": "HSBC 전략가들은 말레이시아가 AI (인공 지능) 하드웨어 사이클의 순 에너지 수출국이자 수혜국으로서의 지위 덕분에 유가 상승에 상대적으로 탄력적이라고 설명합니다."
-    },
-    {
-      "title": "Indonesian Rupiah : IDR recovery versus bond outflows – BNY",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-idr-recovery-versus-bond-outflows-bny-202606261403",
-      "summary": "Geoff Yu at BNY identifies Indonesia as one of the clearest cross-asset signals in Emerging Markets (EM) APAC (Asia-Pacific).",
-      "title_ko": "인도네시아 루피아: IDR 회복 대 채권 유출 – BNY",
-      "summary_ko": "BNY의 Geoff Yu는 인도네시아를 신흥 시장 (EM) APAC (아시아 태평양) 에서 가장 명확한 교차 자산 신호 중 하나로 식별합니다."
+      "title": "Australian Dollar recovers as US Dollar eases on profit-taking",
+      "link": "https://www.fxstreet.com/news/australian-dollar-recovers-as-us-dollar-eases-on-profit-taking-202606261552",
+      "summary": "AUD/USD is recovering near 0.6900 on Friday as the US Dollar (USD) weakens, with investors taking profits ahead of the end of the semester after a two-week rally in the Greenback. The move helped the Australian Dollar (A",
+      "title_ko": "호주 달러는 미국 달러가 이익 창출을 완화함에 따라 회복",
+      "summary_ko": "AUD/USD는 미국 달러 (USD) 가 약화됨에 따라 금요일 0.6900 근처에서 회복하고 있으며, 투자자들은 그린백에서 2주간의 랠리를 마친 후 학기말을 앞두고 수익을 올리고 있습니다. 이 움직임은 호주 달러 (A"
     }
   ]
 }

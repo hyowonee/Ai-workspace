@@ -1,32 +1,53 @@
 {
-  "updated_at_utc": "2026-06-29 23:00:39 UTC",
+  "updated_at_utc": "2026-06-30 01:30:04 UTC",
   "items": [
     {
-      "title": "Uber, Waymo end robotaxi partnership in Phoenix",
-      "link": "https://www.investing.com/news/stock-market-news/uber-waymo-end-robotaxi-partnership-in-phoenix-4766676",
+      "title": "Exclusive-Apple accuses India of ’copy-pasting’ rivals’ claims in antitrust investigation",
+      "link": "https://www.investing.com/news/stock-market-news/exclusiveapple-accuses-india-of-copypasting-rivals-claims-in-antitrust-investigation-4764589",
       "summary": "",
-      "title_ko": "Uber, Waymo, 피닉스에서 로봇 택시 파트너십 종료",
+      "title_ko": "익스클루시브-애플은 반독점 조사에서 인도가 '카피-페이스팅’ 라이벌의 주장을 하고 있다고 비난합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Digital Realty to pay Blackstone $3.5 billion for stake in Virginia data centers",
-      "link": "https://www.investing.com/news/stock-market-news/digital-realty-to-buy-blackstones-data-center-stake-in-deal-valuing-assets-at-78-billion-4766253",
+      "title": "US stock futures steady with tech rebound, Iran talks in focus",
+      "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-with-tech-rebound-iran-talks-in-focus-4766752",
       "summary": "",
-      "title_ko": "Digital Realty, 버지니아 데이터 센터의 지분에 대해 Blackstone에 $ 35억 지불",
+      "title_ko": "기술 반등과 함께 미국 주식 선물은 안정적, 이란은 집중 회담",
       "summary_ko": ""
     },
     {
-      "title": "French biotech company Ipsen to buy Kartos Therapeutics for $450 million",
-      "link": "https://www.investing.com/news/stock-market-news/french-biotech-company-ipsen-to-buy-kartos-therapeutics-for-450-million-4764404",
+      "title": "Australia’s consumer watchdog sues Amazon over Prime Video ads",
+      "link": "https://www.investing.com/news/stock-market-news/australias-consumer-watchdog-sues-amazon-over-prime-video-ads-4766725",
       "summary": "",
-      "title_ko": "프랑스 생명공학 기업 Ipsen, Kartos Therapeutics를 4억 5천만 달러 ($) 에 매입",
+      "title_ko": "호주의 소비자 감시단 (consumer watchdog) 이 프라임 비디오 광고에 대해 아마존을 고소",
       "summary_ko": ""
     },
     {
-      "title": "US senator asks regulator to reject giant NextEra-Dominion power deal, filing",
-      "link": "https://www.investing.com/news/stock-market-news/us-senator-asks-regulator-to-reject-giant-nexteradominion-power-deal-filing-4766559",
+      "title": "Ares Acquisition Corporation III prices $345M IPO on NYSE",
+      "link": "https://www.investing.com/news/stock-market-news/ares-acquisition-corporation-iii-prices-345m-ipo-on-nyse-432SI-4766723",
       "summary": "",
-      "title_ko": "미국 상원 의원은 규제 당국에 거대한 NextEra-Dominion 전력 거래를 거부하도록 요청합니다.",
+      "title_ko": "ARES Acquisition Corporation III, NYSE에서 $ 345M IPO 가격",
+      "summary_ko": ""
+    },
+    {
+      "title": "Trump calls housing bill ’a big yawn,’ presses voting curbs",
+      "link": "https://www.investing.com/news/economic-indicators/trump-calls-housing-bill-a-big-yawn-presses-voting-curbs-4766683",
+      "summary": "",
+      "title_ko": "트럼프는 주택 법안을 ’큰 하품’ 이라고 부르며 투표 연석을 누릅니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Japan May factory output rises 0.5% month-on-month",
+      "link": "https://www.investing.com/news/economic-indicators/japan-may-factory-output-rises-05-monthonmonth-4766741",
+      "summary": "",
+      "title_ko": "일본 5월 공장 생산량 월 0.5% 증가",
+      "summary_ko": ""
+    },
+    {
+      "title": "UK business morale falls as concerns about cost pressures and economy persist, Lloyds says",
+      "link": "https://www.investing.com/news/economic-indicators/uk-business-morale-falls-as-concerns-about-cost-pressures-and-economy-persist-lloyds-says-4766711",
+      "summary": "",
+      "title_ko": "Lloyds는 비용 압박과 경제에 대한 우려가 지속됨에 따라 영국의 비즈니스 사기가 떨어지고 있다고 말합니다.",
       "summary_ko": ""
     },
     {
@@ -37,39 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Argentina economic activity grows less than expected in April",
-      "link": "https://www.investing.com/news/economic-indicators/argentina-economic-activity-grows-less-than-expected-in-april-4766095",
-      "summary": "",
-      "title_ko": "아르헨티나의 4월 경제 활동은 예상보다 적게 성장합니다.",
-      "summary_ko": ""
+      "title": "PBOC sets USD/CNY reference rate at 6.8109 vs. 6.8175 previous",
+      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-68109-vs-68175-previous-202606300115",
+      "summary": "The People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead on Tuesday at 6.8109 compared to the previous day's fix of 6.8175 and 6.7877 Reuters estimate.",
+      "title_ko": "PBOC는 USD/CNY 기준 금리를 6.8109 대 6.8175로 설정합니다.",
+      "summary_ko": "중국 인민은행 (PBOC) 은 화요일 거래 세션에 대한 USD/CNY 중앙 환율을 전일 고정 환율인 6.8175 및 6.7877과 비교하여 6.8109로 설정합니다."
     },
     {
-      "title": "Serbia’s Vucic eyes new political chapter as he steps down from presidency",
-      "link": "https://www.investing.com/news/economic-indicators/serbias-vucic-eyes-new-political-chapter-as-he-steps-down-from-presidency-4765739",
-      "summary": "",
-      "title_ko": "대통령직에서 물러나는 세르비아의 Vucic eyes new political chapter",
-      "summary_ko": ""
-    },
-    {
-      "title": "Brazil’s central government posts bigger primary deficit in May",
-      "link": "https://www.investing.com/news/economic-indicators/brazils-central-government-posts-bigger-primary-deficit-in-may-4765605",
-      "summary": "",
-      "title_ko": "브라질 중앙정부는 5월에 더 큰 1차 적자를 기록했다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Chinese Yuan: PBoC’s new tool signals mild strength – BNY",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-pbocs-new-tool-signals-mild-strength-bny-202606292148",
-      "summary": "Geoff Yu at BNY highlights that the PBoC’s new overnight liquidity tool was launched at 1.25%, below consensus and the seven-day reverse repo rate, sending a dovish signal. The facility aims to smooth short-end funding a",
-      "title_ko": "중국 위안화: PBoC의 새로운 도구가 경미한 강도를 나타냄 – BNY",
-      "summary_ko": "BNY의 제프 유 (Geoff Yu) 는 PBoC의 새로운 하룻밤 유동성 도구가 컨센서스와 7 일 역 repo 비율보다 낮은 1.25% 로 출시되어 비비시 신호를 보냈다고 강조합니다. 이 시설은 단기 자금 조달을 원활하게 하는 것을 목표로 합니다."
-    },
-    {
-      "title": "GBP/JPY Price Forecast: Ascending triangle puts YTD high in play",
-      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-ascending-triangle-puts-ytd-high-in-play-202606292114",
-      "summary": "The Pound Sterling advances against the Japanese Yen on Monday, up 0.59% amid fears for a possible intervention by Japanese authorities in the foreign exchange markets. At the time of writing, the GBP/JPY trades at 214.7",
-      "title_ko": "GBP/JPY 가격 예측: 오름차순 삼각형으로 YTD가 높아짐",
-      "summary_ko": "파운드 스털링은 외환 시장에 대한 일본 당국의 개입 가능성에 대한 두려움 속에서 월요일 일본 엔화에 대해 0.59% 상승했다. 서면 작성 시 GBP/JPY는 214.7에 거래됩니다."
+      "title": "Japan’s Kihara: Always ready to take necessary action on forex",
+      "link": "https://www.fxstreet.com/news/japans-kihara-always-ready-to-take-necessary-action-on-forex-202606300109",
+      "summary": "Japan’s Chief Cabinet Secretary Minoru Kihara reiterated during a regularly scheduled press conference this Tuesday that officials he is always ready to take necessary action on forex. Kihara, however, refrained from com",
+      "title_ko": "일본의 키하라: 항상 외환에 필요한 조치를 취할 준비가 되어 있습니다.",
+      "summary_ko": "키하라 미노루 (Minoru Kihara) 일본 내각 수석 장관은 이번 화요일 정기 기자 회견에서 관계자들이 항상 외환에 대해 필요한 조치를 취할 준비가되어 있다고 강조했다. 그러나 Kihara는 com을 자제했습니다."
     }
   ]
 }

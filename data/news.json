@@ -1,39 +1,53 @@
 {
-  "updated_at_utc": "2026-07-01 17:28:19 UTC",
+  "updated_at_utc": "2026-07-01 19:19:37 UTC",
   "items": [
     {
-      "title": "Stocks mixed to kick off Q3 and H2, Dow rises and hits new intraday record high",
-      "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-st-logs-stellar-qtr-warsh-speech-awaited-4769302",
+      "title": "Microsoft charges into $394-$408 resistance wall: Live levels",
+      "link": "https://www.investing.com/news/stock-market-news/microsoft-rebounds-from-52week-low-into-resistance-live-levels-93CH-4765667",
       "summary": "",
-      "title_ko": "3분기와 2분기를 시작하기 위해 혼합된 주식, 다우 지수는 상승하여 새로운 일중 최고 기록을 경신합니다.",
+      "title_ko": "Microsoft가 $ 394- $ 408 저항 벽: 라이브 레벨로 청구",
       "summary_ko": ""
     },
     {
-      "title": "Mega-deals fuel record M&amp;A as boards dream big on takeovers",
-      "link": "https://www.investing.com/news/stock-market-news/megadeals-fuel-record-ma-as-boards-dream-big-on-takeovers-4769448",
+      "title": "Tesla tests Fibonacci resistance after 15%+ rally: Live levels",
+      "link": "https://www.investing.com/news/stock-market-news/tesla-hits-397407-resistance-wall-live-hourly-levels-93CH-4765663",
       "summary": "",
-      "title_ko": "인수합병에서 보드가 꿈꾸는 메가 딜 연료 기록 M&amp;A",
+      "title_ko": "테슬라, 15% 이상의 랠리 후 피보나치 내성 테스트: 라이브 레벨",
       "summary_ko": ""
     },
     {
-      "title": "Meta names Alex Schultz first chief data officer",
-      "link": "https://www.investing.com/news/stock-market-news/meta-names-alex-schultz-first-chief-data-officer-4771079",
+      "title": "Alibaba, AUS Merchant Services to pay $600 million to resolve alleged illegal pharmaceuticals sales, DOJ says",
+      "link": "https://www.investing.com/news/stock-market-news/alibaba-aus-merchant-services-to-pay-600-million-to-resolve-alleged-illegal-pharmaceuticals-sales-doj-says-4771326",
       "summary": "",
-      "title_ko": "메타 이름 Alex Schultz 최초의 최고 데이터 책임자",
+      "title_ko": "미국 식품의약국 (DOJ) 은 알리바바가 판매자 서비스를 통해 불법 의약품 판매를 해결하기 위해 6억 달러 ($) 를 지불한다고 밝혔습니다.",
       "summary_ko": ""
     },
     {
-      "title": "Lime shares rise 8% in trading debut after $174 million IPO",
-      "link": "https://www.investing.com/news/stock-market-news/lime-shares-rise-8-in-trading-debut-after-174-million-ipo-93CH-4771071",
+      "title": "Robinhood expands perpetual futures offering in Europe, plans crypto launch in UK",
+      "link": "https://www.investing.com/news/stock-market-news/robinhood-expands-perpetual-futures-offering-in-europe-plans-crypto-launch-in-uk-4771320",
       "summary": "",
-      "title_ko": "Lime 주식은 $ 174,000,000 IPO 후 트레이딩 데뷔에서 8% 상승합니다.",
+      "title_ko": "Robinhood, 유럽에서 영원한 선물 제공 확대, 영국에서 암호화폐 출시 계획",
       "summary_ko": ""
     },
     {
-      "title": "US, Canada, Mexico review trade pact, likely putting it into limbo as Trump demands changes",
+      "title": "US car sales on cruise control despite pressures",
+      "link": "https://www.investing.com/news/economic-indicators/us-car-sales-on-cruise-control-despite-pressures-4769852",
+      "summary": "",
+      "title_ko": "압박에도 불구하고 크루즈 컨트롤에 대한 미국 자동차 판매",
+      "summary_ko": ""
+    },
+    {
+      "title": "US declines to extend North American trade deal, starting clock to end it while seeking changes",
       "link": "https://www.investing.com/news/economic-indicators/us-canada-mexico-review-trade-pact-likely-putting-it-into-limbo-as-trump-demands-changes-4770977",
       "summary": "",
-      "title_ko": "미국, 캐나다, 멕시코는 무역 협정을 검토하고 트럼프가 변화를 요구함에 따라 그것을 림보에 넣을 가능성이 큽니다.",
+      "title_ko": "미국, 북미 무역 협정 연장 거부, 변화 모색 중 종료 시계 시작",
+      "summary_ko": ""
+    },
+    {
+      "title": "US factory activity eases off four-year high; input prices remain elevated",
+      "link": "https://www.investing.com/news/economic-indicators/us-private-payrolls-gains-slow-in-june-planned-layoffs-drop-53-4770429",
+      "summary": "",
+      "title_ko": "미국 공장 활동으로 4년 만에 최고치 경감, 투입 가격 상승 유지",
       "summary_ko": ""
     },
     {
@@ -44,32 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "US construction spending inches up in May, but homebuilding weak",
-      "link": "https://www.investing.com/news/economic-indicators/us-construction-spending-inches-up-in-may-but-homebuilding-weak-4770864",
-      "summary": "",
-      "title_ko": "미국 건설 지출은 5월에 증가했지만 주택 건설은 약세",
-      "summary_ko": ""
+      "title": "Singapore Dollar: Range-bound trade signals consolidation against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-range-bound-trade-signals-consolidation-against-us-dollar-uob-202607011823",
+      "summary": "UOB’s Quek Ser Leang notes USD/SGD is consolidating after Monday’s dip, with intraday momentum flat and the pair expected to hold a narrow 1.2925–1.2955 band. On a 1–3 week horizon, the bank keeps a neutral stance, proje",
+      "title_ko": "싱가포르 달러: 범위 제한 무역 신호 미국 달러 대비 통합 – UOB",
+      "summary_ko": "UOB의 Quek Ser Leang 노트 USD/SGD는 월요일 하락 후 통합되고 있으며, 일중 모멘텀은 평평하고 쌍은 좁은 1.2925-1.2955 밴드를 보유할 것으로 예상됩니다. 1 ~ 3주의 지평선에서 은행은 중립적인 입장을 유지합니다."
     },
     {
-      "title": "US June private payrolls growth misses expectations; layoffs decline",
-      "link": "https://www.investing.com/news/economic-indicators/us-private-payrolls-gains-slow-in-june-planned-layoffs-drop-53-4770429",
-      "summary": "",
-      "title_ko": "미국 6월 개인 급여 성장 기대치 상실, 정리해고 감소",
-      "summary_ko": ""
-    },
-    {
-      "title": "WTI extends losses as recovering Hormuz flows, OPEC+ supply outlook weigh",
-      "link": "https://www.fxstreet.com/news/wti-extends-losses-as-recovering-hormuz-flows-opec-supply-outlook-weigh-202607011628",
-      "summary": "West Texas Intermediate (WTI) crude Oil remains under pressure on Wednesday as improving crude flows through the Strait of Hormuz push prices back to levels seen before the US-Iran war, overshadowing the latest US invent",
-      "title_ko": "WTI는 Hormuz 흐름을 회복함에 따라 손실을 확대하고 OPEC + 공급 전망은",
-      "summary_ko": "서부 텍사스 중급 (WTI) 원유는 수요일에 호르무즈 해협을 통한 원유 흐름 개선으로 미국-이란 전쟁 이전의 수준으로 가격을 밀어 올려 최신 미국 발명품을 뒤덮으면서 압력을 받고 있습니다."
-    },
-    {
-      "title": "Kevin Warsh offers no policy clues: Why markets still got their answer",
-      "link": "https://www.fxstreet.com/news/kevin-warsh-offers-no-policy-clues-why-markets-still-got-their-answer-202607011626",
-      "summary": "Financial markets came to Sintra looking for clues about the Federal Reserve's (Fed) next move. They largely left with confirmation that Fed Chair Kevin Warsh intends to make those clues much harder to find.",
-      "title_ko": "케빈 워시 (Kevin Warsh) 는 정책적 단서를 제공하지 않습니다: 시장이 여전히 답을 얻은 이유",
-      "summary_ko": "금융 시장은 연방준비제도 (Fed) 의 다음 움직임에 대한 단서를 찾기 위해 신트라에 왔습니다. 그들은 대체로 케빈 워시 연준 의장이 그 단서를 찾기가 훨씬 더 어려워질 것이라는 확신을 가지고 떠났습니다."
+      "title": "United States Dollar Index holds above 101.00 amid Fed rate hike bets, NFP in focus",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-holds-above-10100-amid-fed-rate-hike-bets-nfp-in-focus-202607011807",
+      "summary": "The US Dollar Index (DXY) holds firm on Wednesday as traders digest weaker-than-expected US economic data and remarks from Federal Reserve (Fed) Chair Kevin Warsh.",
+      "title_ko": "미국 달러 인덱스는 연준 금리 인상 베팅에서 101.00 이상을 유지하고 있으며, NFP가 집중하고 있습니다.",
+      "summary_ko": "미국 달러 지수 (DXY) 는 수요일에 트레이더들이 예상보다 약한 미국 경제 데이터와 연방 준비 제도 이사회 (Fed) 의장 케빈 워시 (Kevin Warsh) 의 발언을 소화함에 따라 확고하게 유지되고 있습니다."
     }
   ]
 }

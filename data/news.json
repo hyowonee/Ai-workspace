@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-07-01 15:19:10 UTC",
+  "updated_at_utc": "2026-07-01 17:28:19 UTC",
   "items": [
     {
-      "title": "Lionsgate content momentum boosts outlook, but debt and valuation cap upside",
-      "link": "https://www.investing.com/news/stock-market-news/lionsgate-content-momentum-boosts-outlook-but-debt-and-valuation-cap-upside-4770918",
+      "title": "Stocks mixed to kick off Q3 and H2, Dow rises and hits new intraday record high",
+      "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-st-logs-stellar-qtr-warsh-speech-awaited-4769302",
       "summary": "",
-      "title_ko": "라이온스게이트 콘텐츠 모멘텀은 전망을 높이지만 부채와 평가 상한선은 거꾸로",
+      "title_ko": "3분기와 2분기를 시작하기 위해 혼합된 주식, 다우 지수는 상승하여 새로운 일중 최고 기록을 경신합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Deutsche Bank maps revolution in market plumbing: Tokenized cash and collateral",
-      "link": "https://www.investing.com/news/stock-market-news/deutsche-bank-maps-revolution-in-market-plumbing-tokenized-cash-and-collateral-4770917",
+      "title": "Mega-deals fuel record M&amp;A as boards dream big on takeovers",
+      "link": "https://www.investing.com/news/stock-market-news/megadeals-fuel-record-ma-as-boards-dream-big-on-takeovers-4769448",
       "summary": "",
-      "title_ko": "Deutsche Bank는 시장 배관의 혁명을 지도화합니다: 토큰화된 현금 및 담보",
+      "title_ko": "인수합병에서 보드가 꿈꾸는 메가 딜 연료 기록 M&amp;A",
       "summary_ko": ""
     },
     {
-      "title": "GM’s second-quarter US auto sales fall 4%",
-      "link": "https://www.investing.com/news/stock-market-news/gms-secondquarter-us-auto-sales-fall-4-4770915",
+      "title": "Meta names Alex Schultz first chief data officer",
+      "link": "https://www.investing.com/news/stock-market-news/meta-names-alex-schultz-first-chief-data-officer-4771079",
       "summary": "",
-      "title_ko": "GM의 미국 2분기 자동차 판매 4% 감소",
+      "title_ko": "메타 이름 Alex Schultz 최초의 최고 데이터 책임자",
       "summary_ko": ""
     },
     {
-      "title": "Airbus Defence and Space signs partnership with Ukraine’s Brave1",
-      "link": "https://www.investing.com/news/stock-market-news/airbus-defence-and-space-signs-partnership-with-ukraines-brave1-93CH-4770909",
+      "title": "Lime shares rise 8% in trading debut after $174 million IPO",
+      "link": "https://www.investing.com/news/stock-market-news/lime-shares-rise-8-in-trading-debut-after-174-million-ipo-93CH-4771071",
       "summary": "",
-      "title_ko": "Airbus Defence and Space, 우크라이나 Brave1과 파트너십 체결",
+      "title_ko": "Lime 주식은 $ 174,000,000 IPO 후 트레이딩 데뷔에서 8% 상승합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "US, Canada, Mexico review trade pact, likely putting it into limbo as Trump demands changes",
+      "link": "https://www.investing.com/news/economic-indicators/us-canada-mexico-review-trade-pact-likely-putting-it-into-limbo-as-trump-demands-changes-4770977",
+      "summary": "",
+      "title_ko": "미국, 캐나다, 멕시코는 무역 협정을 검토하고 트럼프가 변화를 요구함에 따라 그것을 림보에 넣을 가능성이 큽니다.",
       "summary_ko": ""
     },
     {
@@ -51,25 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Crude Oil Inventories Drop Less Than Expected, Impacting Market Sentiment",
-      "link": "https://www.investing.com/news/economic-indicators/crude-oil-inventories-drop-less-than-expected-impacting-market-sentiment-93CH-4770824",
-      "summary": "",
-      "title_ko": "원유 재고가 예상보다 적게 떨어져 시장 감정에 영향을 미침",
-      "summary_ko": ""
+      "title": "WTI extends losses as recovering Hormuz flows, OPEC+ supply outlook weigh",
+      "link": "https://www.fxstreet.com/news/wti-extends-losses-as-recovering-hormuz-flows-opec-supply-outlook-weigh-202607011628",
+      "summary": "West Texas Intermediate (WTI) crude Oil remains under pressure on Wednesday as improving crude flows through the Strait of Hormuz push prices back to levels seen before the US-Iran war, overshadowing the latest US invent",
+      "title_ko": "WTI는 Hormuz 흐름을 회복함에 따라 손실을 확대하고 OPEC + 공급 전망은",
+      "summary_ko": "서부 텍사스 중급 (WTI) 원유는 수요일에 호르무즈 해협을 통한 원유 흐름 개선으로 미국-이란 전쟁 이전의 수준으로 가격을 밀어 올려 최신 미국 발명품을 뒤덮으면서 압력을 받고 있습니다."
     },
     {
-      "title": "United Kingdom: Balanced inflation and politics risk – HSBC",
-      "link": "https://www.fxstreet.com/news/united-kingdom-balanced-inflation-and-politics-risk-hsbc-202607011431",
-      "summary": "HSBC’s Willem Sels and Lucia Ku note that UK inflation remains above target but see risks as more balanced after the US-Iran interim peace agreement.",
-      "title_ko": "영국: 균형 잡힌 인플레이션과 정치 리스크 – HSBC",
-      "summary_ko": "HSBC의 윌렘 셀스 (Willem Sels) 와 루시아 쿠 (Lucia Ku) 는 영국 인플레이션이 목표치를 상회하지만 미국-이란 임시 평화 협정 이후 위험이 더 균형 잡힌 것으로 보고 있다고 지적했다."
-    },
-    {
-      "title": "Eurozone: Price pressures keep ECB on alert – Commerzbank",
-      "link": "https://www.fxstreet.com/news/eurozone-price-pressures-keep-ecb-on-alert-commerzbank-202607011419",
-      "summary": "Commerzbank’s Dr. Ralph Solveen notes that Eurozone inflation fell to 2.8% in June, mainly on lower energy prices, while core inflation eased to 2.4%. The bank expects overall inflation to stay close to 3% in coming mont",
-      "title_ko": "유로존: 가격 압력으로 ECB에 경고 – Commerzbank",
-      "summary_ko": "코메르츠방크의 랄프 솔베인 (Ralph Solveen) 박사는 유로존 인플레이션이 6월에 주로 낮은 에너지 가격에서 2.8% 로 하락한 반면, 코어 인플레이션은 2.4% 로 완화되었다고 지적했다. 은행은 향후 전반적인 인플레이션이 3% 가까이 유지될 것으로 예상하고 있습니다."
+      "title": "Kevin Warsh offers no policy clues: Why markets still got their answer",
+      "link": "https://www.fxstreet.com/news/kevin-warsh-offers-no-policy-clues-why-markets-still-got-their-answer-202607011626",
+      "summary": "Financial markets came to Sintra looking for clues about the Federal Reserve's (Fed) next move. They largely left with confirmation that Fed Chair Kevin Warsh intends to make those clues much harder to find.",
+      "title_ko": "케빈 워시 (Kevin Warsh) 는 정책적 단서를 제공하지 않습니다: 시장이 여전히 답을 얻은 이유",
+      "summary_ko": "금융 시장은 연방준비제도 (Fed) 의 다음 움직임에 대한 단서를 찾기 위해 신트라에 왔습니다. 그들은 대체로 케빈 워시 연준 의장이 그 단서를 찾기가 훨씬 더 어려워질 것이라는 확신을 가지고 떠났습니다."
     }
   ]
 }

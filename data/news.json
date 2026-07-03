@@ -1,39 +1,32 @@
 {
-  "updated_at_utc": "2026-07-03 10:06:01 UTC",
+  "updated_at_utc": "2026-07-03 12:26:21 UTC",
   "items": [
     {
-      "title": "Stellantis downgraded to at HSBC over rising recalls",
-      "link": "https://www.investing.com/news/stock-market-news/stellantis-downgraded-to-at-hsbc-over-rising-recalls-4775177",
+      "title": "Why is AUTO1 stock gaining today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-auto1-stock-gaining-today-93CH-4775219",
       "summary": "",
-      "title_ko": "Stellantis는 HSBC에서 상승 리콜보다 로 다운그레이드했습니다.",
+      "title_ko": "오늘날 AUTO1 주가가 상승하는 이유는 무엇입니까?",
       "summary_ko": ""
     },
     {
-      "title": "Alibaba to ban employees from using Anthropic’s coding tool, source says",
-      "link": "https://www.investing.com/news/stock-market-news/alibaba-to-ban-claude-code-in-workplace-over-alleged-backdoor-risks-source-says-4775035",
+      "title": "FTSE 100 today: Stocks slip as UK services slump clouds payrolls relief",
+      "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-on-weak-us-payrolls-iran-talks-pause-4775062",
       "summary": "",
-      "title_ko": "Alibaba는 직원들이 Anthropic의 코딩 도구를 사용하지 못하도록 금지한다고 소식통은 말합니다.",
+      "title_ko": "FTSE 100 TODAY: 영국 서비스 부진 구름 급여 완화로 주식 미끄러짐",
       "summary_ko": ""
     },
     {
-      "title": "Europe back in the game? Barclays says diversification trade is gathering pace",
-      "link": "https://www.investing.com/news/stock-market-news/europe-back-in-the-game-barclays-says-diversification-trade-is-gathering-pace-4775172",
+      "title": "TSX futures point higher as easing Fed rate hike bets boost gold",
+      "link": "https://www.investing.com/news/stock-market-news/tsx-futures-point-higher-as-easing-fed-rate-hike-bets-boost-gold-4775209",
       "summary": "",
-      "title_ko": "유럽이 다시 게임으로 돌아왔나요? Barclays는 다각화 무역이 속도를 내고 있다고 말합니다.",
+      "title_ko": "연준 금리 인상 베팅 완화로 TSX 선물 포인트 상승",
       "summary_ko": ""
     },
     {
-      "title": "Bucher downgraded at RBC as weakening farm spending clouds earnings outlook",
-      "link": "https://www.investing.com/news/stock-market-news/bucher-downgraded-at-rbc-as-weakening-farm-spending-clouds-earnings-outlook-4775169",
+      "title": "Analysis-US oil companies see big profit jump, gird for clash over pump prices with Trump",
+      "link": "https://www.investing.com/news/stock-market-news/analysisus-oil-companies-see-big-profit-jump-gird-for-clash-over-pump-prices-with-trump-4775205",
       "summary": "",
-      "title_ko": "농장 지출 클라우드 수익 전망이 약화됨에 따라 RBC에서 Bucher가 하향 조정됨",
-      "summary_ko": ""
-    },
-    {
-      "title": "Toronto home sales rise in June for fourth straight month",
-      "link": "https://www.investing.com/news/economic-indicators/toronto-home-sales-rise-in-june-for-fourth-straight-month-4775167",
-      "summary": "",
-      "title_ko": "6월 토론토 주택 매매가 4개월 연속 상승",
+      "title_ko": "분석 - 미국 석유 회사, 트럼프와의 펌프 가격 충돌로 큰 이익 점프, 거드 확인",
       "summary_ko": ""
     },
     {
@@ -41,6 +34,13 @@
       "link": "https://www.investing.com/news/economic-indicators/eu-trade-with-us-hits-record-despite-tariff-tensions-study-shows-4775030",
       "summary": "",
       "title_ko": "미국과의 EU 무역은 관세 긴장에도 불구하고 최고치를 기록했다. 연구 결과",
+      "summary_ko": ""
+    },
+    {
+      "title": "Toronto home sales rise in June for fourth straight month",
+      "link": "https://www.investing.com/news/economic-indicators/toronto-home-sales-rise-in-june-for-fourth-straight-month-4775167",
+      "summary": "",
+      "title_ko": "6월 토론토 주택 매매가 4개월 연속 상승",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "CEE FX: Inflation and policy signals reshape regional moves – Societe Generale",
-      "link": "https://www.fxstreet.com/news/cee-fx-inflation-and-policy-signals-reshape-regional-moves-societe-generale-202607030907",
-      "summary": "Societe Generale notes that CEE FX is being shaped by diverging inflation and policy signals across the region.",
-      "title_ko": "CEE FX: 인플레이션 및 정책 신호로 지역 움직임 재편 – Societe Generale",
-      "summary_ko": "Societe Generale은 CEE FX가 지역 전반에 걸쳐 인플레이션과 정책 신호를 분산시킴으로써 형성되고 있다고 지적합니다."
+      "title": "Canadian Dollar: Labor stability favors BoC pause – Wells Fargo",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-labor-stability-favors-boc-pause-wells-fargo-202607031129",
+      "summary": "Wells Fargo Economics sees Canada’s labor market as soft but stabilizing after a strong May rebound, with employment growth under 1% year over year and gains concentrated in full-time jobs.",
+      "title_ko": "캐나다 달러: 노동 안정성이 BoC 일시 중지에 유리 – Wells Fargo",
+      "summary_ko": "웰스 파고 이코노믹스 (Wells Fargo Economics) 는 캐나다의 노동 시장을 강한 5월 반등 이후 부드럽지만 안정화되고 있으며, 전년 대비 1% 미만의 고용 증가와 풀타임 일자리에 집중된 이득을 보고 있다."
     },
     {
-      "title": "Indian Rupee holds modest gains driven by lower oil prices, weak US Dollar",
-      "link": "https://www.fxstreet.com/news/indian-rupee-gains-ground-as-weak-nfp-data-batters-us-dollar-202607030518",
-      "summary": "The Indian Rupee (INR) trades slightly higher against the US Dollar (USD) in India's afternoon trading hours on Friday.",
-      "title_ko": "인도 루피는 유가 하락, 미국 달러 약세에 힘입어 소폭의 상승세를 유지하고 있다.",
-      "summary_ko": "인도 루피 (INR) 는 금요일 오후 거래 시간에 미국 달러 (USD) 에 대해 약간 높게 거래됩니다."
+      "title": "Gold: Rebound tests major resistance band – Societe Generale",
+      "link": "https://www.fxstreet.com/news/gold-rebound-tests-major-resistance-band-societe-generale-202607031117",
+      "summary": "Societe Generale analysts note that Gold has held the $3,930/3,885 support zone linked to the November 2025 low and rebounded sharply.",
+      "title_ko": "골드: 리바운드 테스트 주요 저항 밴드 – Societe Generale",
+      "summary_ko": "Societe Generale 분석가들은 골드가 2025년 11월과 연결된 $ 3,930/3 ,885 지지 영역을 낮게 유지하고 급격히 반등했다고 지적합니다."
     }
   ]
 }

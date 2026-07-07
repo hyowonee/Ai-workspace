@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-07-07 22:37:40 UTC",
+  "updated_at_utc": "2026-07-07 23:58:34 UTC",
   "items": [
     {
-      "title": "Nasdaq sinks as AI worries hit chipmakers",
-      "link": "https://www.investing.com/news/stock-market-news/nasdaq-futures-fall-after-samsungs-record-profit-fails-to-allay-chip-jitters-4778520",
+      "title": "Latin American countries, some steelmakers argue for US tariff exemptions",
+      "link": "https://www.investing.com/news/stock-market-news/latin-american-countries-some-steelmakers-argue-for-us-tariff-exemptions-4780572",
       "summary": "",
-      "title_ko": "인공지능 (AI) 이 칩메이커를 강타하면서 나스닥이 가라앉고 있다.",
+      "title_ko": "일부 제강사들은 미국의 관세 면제를 주장하는 중남미 국가들",
       "summary_ko": ""
     },
     {
-      "title": "FCC denies US firm with Chinese links approval to provide telecom services",
-      "link": "https://www.investing.com/news/stock-market-news/fcc-denies-us-firm-with-chinese-links-approval-to-provide-telecom-services-4780436",
+      "title": "Oregon AG to ask court to order Paramount to comply with merger probe",
+      "link": "https://www.investing.com/news/stock-market-news/oregon-ag-to-ask-court-to-order-paramount-to-comply-with-merger-probe-4780570",
       "summary": "",
-      "title_ko": "FCC는 통신 서비스 제공에 대한 중국 링크 승인을 받은 미국 기업을 거부합니다",
+      "title_ko": "Oregon AG, 법원에 Paramount에게 합병 프로브 준수를 명령하도록 요청",
       "summary_ko": ""
     },
     {
-      "title": "Wolfspeed sues Navitas over GaN and SiC patents",
-      "link": "https://www.investing.com/news/stock-market-news/wolfspeed-sues-navitas-over-gan-and-sic-patents-4780327",
+      "title": "Beijing is looking at curbing overseas access to China’s top AI models, sources say",
+      "link": "https://www.investing.com/news/stock-market-news/exclusivebeijing-is-looking-at-curbing-overseas-access-to-chinas-top-ai-models-sources-say-4778646",
       "summary": "",
-      "title_ko": "Wolfspeed, GaN 및 SiC 특허에 대해 Navitas에 소송 제기",
+      "title_ko": "소식통에 따르면 중국은 중국 최고의 인공지능 모델에 대한 해외 접근을 억제하는 방안을 검토하고 있다.",
       "summary_ko": ""
     },
     {
-      "title": "Netflix, Disney, YouTube target $2B FIFA rights package for next World Cups - CNBC",
-      "link": "https://www.investing.com/news/stock-market-news/netflix-disney-youtube-target-2b-fifa-rights-package-for-next-world-cups--cnbc-4780425",
+      "title": "From factory to tech frontier: China becomes legacy automakers’ innovation engine",
+      "link": "https://www.investing.com/news/stock-market-news/from-factory-to-tech-frontier-china-becomes-legacy-automakers-innovation-engine-4780532",
       "summary": "",
-      "title_ko": "다음 월드컵을 위한 넷플릭스, 디즈니, 유튜브 타겟 $ 20억 FIFA 권리 패키지 - CNBC",
+      "title_ko": "공장에서 기술 개척까지: 중국, 레거시 자동차 제조사의 혁신 엔진이 되다",
+      "summary_ko": ""
+    },
+    {
+      "title": "UK jobs market downturn eases as pay pressure pick up, survey shows",
+      "link": "https://www.investing.com/news/economic-indicators/uk-jobs-market-downturn-eases-as-pay-pressure-pick-up-survey-shows-4780541",
+      "summary": "",
+      "title_ko": "임금 압박이 가해지면서 영국 일자리 시장 침체가 완화된다고 설문조사가 밝혔습니다.",
       "summary_ko": ""
     },
     {
@@ -51,25 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Canada’s Ivey PMI falls to three-month low in June",
-      "link": "https://www.investing.com/news/economic-indicators/canadas-ivey-pmi-falls-to-threemonth-low-in-june-4779627",
-      "summary": "",
-      "title_ko": "캐나다의 Ivey PMI, 6월 3개월 최저치로 하락",
-      "summary_ko": ""
+      "title": "Australian Dollar drops as Hormuz strikes spark US Dollar rush",
+      "link": "https://www.fxstreet.com/news/australian-dollar-drops-as-hormuz-strikes-spark-us-dollar-rush-202607072320",
+      "summary": "The Australian Dollar retreats to two-day lows during the week, down 0.39%, as the US Dollar surges amid rising tensions in the Middle East. At the time of writing, the AUD/USD trades at 0.6928, having reached a daily hi",
+      "title_ko": "호르무즈 공격이 미국 달러 러시를 촉발함에 따라 호주 달러 하락",
+      "summary_ko": "호주 달러는 중동의 긴장 고조 속에서 미국 달러가 급등함에 따라 주중 이틀 최저치인 0.39% 로 후퇴했다. 서면 작성 당시 AUD/USD는 0.6928로 거래되며, 일일 인사에 도달했습니다."
     },
     {
-      "title": "RBNZ set to increase interest rate after three pauses amid deeply divided committee",
+      "title": "RBNZ seen hiking interest rate as uncertainty surrounds tight vote",
       "link": "https://www.fxstreet.com/news/rbnz-set-to-raise-interest-rate-in-potential-deja-vu-of-mays-knife-edge-decision-202607072115",
       "summary": "The Reserve Bank of New Zealand (RBNZ) is widely expected to raise the Official Cash Rate (OCR) by 25 basis points (bps) from 2.25% to 2.50% on Wednesday, snapping a three-consecutive-meeting pause.",
-      "title_ko": "RBNZ는 심하게 분열된 위원회 가운데 세 차례 일시 중지된 후 금리를 인상하기로 결정했습니다.",
+      "title_ko": "RBNZ는 불확실성이 타이트한 투표를 둘러싸고 있는 등산 이자율을 보았습니다.",
       "summary_ko": "뉴질랜드 준비 은행 (RBNZ) 은 수요일에 공식 현금 금리 (OCR) 를 2.25% 에서 2.50% 로 25 베이시스 포인트 (BPS) 만큼 인상하여 3회 연속 미팅을 중단할 것으로 예상됩니다."
-    },
-    {
-      "title": "South Korea: Tech-led strain and shifting flows – BNY",
-      "link": "https://www.fxstreet.com/news/south-korea-tech-led-strain-and-shifting-flows-bny-202607072152",
-      "summary": "BNY’s Geoff Yu highlights that institutional investors are exiting South Korean equities, contributing to the KOSPI’s brief bear-market move, while retail buyers still support the market.",
-      "title_ko": "한국: 기술 주도 변형 및 이동 흐름 – BNY",
-      "summary_ko": "BNY의 제프 유 (Geoff Yu) 는 기관 투자자들이 한국 주식에서 빠져나와 코스피의 짧은 곰 시장 움직임에 기여하고 소매 구매자들은 여전히 시장을 지원하고 있다고 강조합니다."
     }
   ]
 }

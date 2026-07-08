@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-07-08 15:41:26 UTC",
+  "updated_at_utc": "2026-07-08 17:38:45 UTC",
   "items": [
     {
-      "title": "China plans to let top AI firms buy limited Nvidia H200 chips, the Information reports",
-      "link": "https://www.investing.com/news/stock-market-news/china-plans-to-let-top-ai-firms-buy-limited-amount-of-nvidia-h200-chips-the-information-reports-4782000",
+      "title": "BofA extends first $520 million loan to OpenAI ahead of IPO, source says",
+      "link": "https://www.investing.com/news/stock-market-news/bofa-extends-first-520-million-loan-to-openai-ahead-of-ipo-source-says-4782120",
       "summary": "",
-      "title_ko": "정보 보고서에 따르면 중국은 최고 인공지능 기업들이 엔비디아 H200 칩을 제한적으로 구매할 수 있도록 할 계획이다.",
+      "title_ko": "BofA는 IPO에 앞서 OpenAI에 첫 5억 2천만 $ 대출을 연장한다고 소식통은 말합니다.",
       "summary_ko": ""
     },
     {
-      "title": "US traffic deaths fell sharply in early 2026",
-      "link": "https://www.investing.com/news/stock-market-news/us-traffic-deaths-fell-sharply-in-early-2026-4782038",
+      "title": "Bloom Energy shares drop after short seller questions supply claims",
+      "link": "https://www.investing.com/news/stock-market-news/bloom-energy-shares-drop-after-short-seller-questions-supply-claims-93CH-4782132",
       "summary": "",
-      "title_ko": "2026년 초 미국 교통사고 사망자 급격히 감소",
+      "title_ko": "블룸 에너지 주식은 공매도인이 공급 청구에 대해 질문한 후 하락합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Johnson &amp; Johnson options suggest 4.3% move on earnings",
-      "link": "https://www.investing.com/news/stock-market-news/johnson--johnson-options-suggest-43-move-on-earnings-93CH-4782036",
+      "title": "DCC takeover deadline extended to July 15 by UK panel",
+      "link": "https://www.investing.com/news/stock-market-news/dcc-takeover-deadline-extended-to-july-15-by-uk-panel-93CH-4782128",
       "summary": "",
-      "title_ko": "Johnson &amp; Johnson 옵션은 4.3% 가 수입으로 이동할 것을 제안합니다",
+      "title_ko": "영국 패널이 DCC 인수 기한을 7월 15일로 연장",
       "summary_ko": ""
     },
     {
-      "title": "Poland stocks lower at close of trade; WIG30 down 0.29%",
-      "link": "https://www.investing.com/news/stock-market-news/poland-stocks-lower-at-close-of-trade-wig30-down-029-4782033",
+      "title": "Binance cooperation with US law enforcement faces scrutiny after DOJ memo - The Information",
+      "link": "https://www.investing.com/news/stock-market-news/binance-cooperation-with-us-law-enforcement-faces-scrutiny-after-doj-memo--the-information-93CH-4782127",
       "summary": "",
-      "title_ko": "폴란드 주식은 거래 마감 시점에 하락, WIG30은 0.29% 하락",
+      "title_ko": "DOJ 메모 이후 미국 사법기관과의 바이낸스 협력에 대한 면밀한 조사에 직면 - 정보",
+      "summary_ko": ""
+    },
+    {
+      "title": "ADB raises developing Asia 2026 growth forecast to 4.9%",
+      "link": "https://www.investing.com/news/economic-indicators/adb-raises-developing-asia-2026-growth-forecast-to-49-4782045",
+      "summary": "",
+      "title_ko": "ADB, 개발도상국 아시아 2026 성장률 전망치 4.9% 로 상향 조정",
       "summary_ko": ""
     },
     {
@@ -51,25 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Wholesale inventories rise less than expected, indicating cautious outlook",
-      "link": "https://www.investing.com/news/economic-indicators/wholesale-inventories-rise-less-than-expected-indicating-cautious-outlook-93CH-4781871",
-      "summary": "",
-      "title_ko": "도매 재고는 예상보다 적게 상승하여 신중한 전망을 나타냅니다.",
-      "summary_ko": ""
+      "title": "Asia FX: Diverging paths under Dollar strength – MUFG",
+      "link": "https://www.fxstreet.com/news/asia-fx-diverging-paths-under-dollar-strength-mufg-202607081648",
+      "summary": "MUFG’s Lloyd Chan highlights that external pressures on Asia FX persist as the US Dollar and US Treasury yields stay firm, with markets fully pricing another Fed hike by October.",
+      "title_ko": "아시아 FX: 달러 강세 하에서 경로 분기 – MUFG",
+      "summary_ko": "MUFG의 로이드 챈 (Lloyd Chan) 은 미국 달러와 미국 국채 수익률이 확고해짐에 따라 아시아 FX에 대한 외부 압력이 지속되고 있으며, 시장은 10월까지 또 다른 연준 인상 가격을 완전히 책정하고 있다고 강조한다."
     },
     {
-      "title": "Fed Minutes to reveal more about the Warsh era",
-      "link": "https://www.fxstreet.com/news/fed-minutes-to-shed-light-on-warshs-first-meeting-as-chair-202607081315",
-      "summary": "The United States (US) Federal Reserve (Fed) will release the Minutes of the June 16-17 Federal Open Market Committee (FOMC) meeting on Wednesday at 18:00 GMT. The Minutes should shed more light on the Fed’s hawkish hold",
-      "title_ko": "전쟁 시대에 대해 더 많은 것을 밝히기 위한 연준 회의록",
-      "summary_ko": "미국 연방준비제도 (Fed) 는 6월 16-17일 연방공개시장위원회 (FOMC) 회의록을 수요일 18:00 GMT에 발표할 예정입니다. 회의록은 연준의 매파적 보류에 더 많은 빛을 비춰야 한다."
-    },
-    {
-      "title": "Japanese Yen: Oil shock weighs JPY against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/japanese-yen-oil-shock-weighs-jpy-against-us-dollar-scotiabank-202607081514",
-      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret highlight renewed weakness in the Japanese Yen (JPY), which is underperforming G10 peers and threatening fresh multi-decade lows as USD/JPY trades at levels last seen",
-      "title_ko": "일본 엔화: 오일 쇼크, 미국 달러 대비 JPY 중량 – Scotiabank",
-      "summary_ko": "스코샤뱅크 전략가 숀 오스본 (Shaun Osborne) 과 에릭 테오레 (Eric Theoret) 는 일본 엔화 (JPY) 의 약점을 강조합니다. 일본 엔화는 G10 동료들의 실적이 저조하고 USD/JPY가 마지막으로 본 수준에서 거래됨에 따라 신선한 다년간의 저점을 위협하고 있습니다."
+      "title": "Gold slides as US-Iran tensions revive Fed rate hike bets, FOMC Minutes loom",
+      "link": "https://www.fxstreet.com/news/gold-retreats-below-4-100-after-us-president-trump-says-iran-ceasefire-is-over-202607081123",
+      "summary": "Gold (XAU/USD) sees a sharp move lower on Wednesday after US President Donald Trump declared that the ceasefire deal with Iran was “over” during the NATO Summit in Ankara, Turkey. However, Reuters later reported that Tru",
+      "title_ko": "미국과 이란의 긴장이 회복되면서 금 슬라이드 연준 금리 인상 베팅, FOMC Minutes 직조기",
+      "summary_ko": "금 (XAU/USD) 은 도널드 트럼프 미국 대통령이 터키 앙카라에서 열린 나토 정상 회담에서 이란과의 휴전 협상이 \"끝났다\" 고 선언한 이후 수요일 급격한 하락세를 보이고 있다. 그러나 로이터는 나중에 TRU가"
     }
   ]
 }

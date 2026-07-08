@@ -1,13 +1,6 @@
 {
-  "updated_at_utc": "2026-07-08 22:08:39 UTC",
+  "updated_at_utc": "2026-07-08 23:36:22 UTC",
   "items": [
-    {
-      "title": "Big Tech joins Calgary Stampede oil bash, as Canada courts data centers",
-      "link": "https://www.investing.com/news/stock-market-news/big-tech-joins-calgary-stampede-oil-bash-as-canada-courts-data-centers-4781060",
-      "summary": "",
-      "title_ko": "빅테크, 캘거리 스탬피드 오일 배시에 합류, 캐나다 법원 데이터 센터",
-      "summary_ko": ""
-    },
     {
       "title": "Senate committee to vote on bill to tighten US ban on Chinese vehicles",
       "link": "https://www.investing.com/news/stock-market-news/senate-committee-to-vote-on-bill-to-tighten-us-ban-on-chinese-vehicles-4782680",
@@ -16,17 +9,24 @@
       "summary_ko": ""
     },
     {
-      "title": "Paramount delays Warner Bros deal closure amid Oregon probe",
-      "link": "https://www.investing.com/news/stock-market-news/paramount-delays-warner-bros-deal-closure-amid-oregon-probe-4782702",
+      "title": "Analysis-Trump wants to leave the Iran war behind. That won’t happen soon",
+      "link": "https://www.investing.com/news/stock-market-news/analysistrump-wants-to-leave-the-iran-war-behind-that-wont-happen-soon-4782761",
       "summary": "",
-      "title_ko": "파라마운트 지연 워너 브라더스 오레곤 프로브 중 거래 종료",
+      "title_ko": "분석-트럼프는 이란 전쟁을 뒤로하고 싶어한다. 그런 일은 조만간 일어나지 않을 것입니다",
       "summary_ko": ""
     },
     {
-      "title": "Honeywell Technologies raises profit guidance after one-for-two reverse stock split",
-      "link": "https://www.investing.com/news/stock-market-news/honeywell-technologies-raises-profit-guidance-after-onefortwo-reverse-stock-split-4782601",
+      "title": "US states could sue next week to block Paramount-Warner Bros deal, sources say",
+      "link": "https://www.investing.com/news/stock-market-news/us-states-could-sue-next-week-to-block-paramountwarner-bros-deal-sources-say-4782760",
       "summary": "",
-      "title_ko": "하니웰 테크놀로지스, 1대2 역주 분할 후 이익 가이던스 제고",
+      "title_ko": "소식통에 따르면 미국 주들은 다음 주에 파라마운트-워너 브라더스 거래를 차단하기 위해 소송을 제기할 수 있다고 한다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "US coffee industry asks Trump to keep tariff exemption on Brazil beans",
+      "link": "https://www.investing.com/news/stock-market-news/us-coffee-industry-asks-trump-to-keep-tariff-exemption-on-brazil-beans-4782743",
+      "summary": "",
+      "title_ko": "미국 커피업계, 트럼프에게 브라질산 원두에 대한 관세 면제 유지 요청",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "The Australian Dollar flatlines while everyone else has a war to trade",
-      "link": "https://www.fxstreet.com/news/the-australian-dollar-flatlines-while-everyone-else-has-a-war-to-trade-202607082127",
-      "summary": "AUD/USD trades pinned between 0.6900 and 0.6950 on Wednesday, essentially unchanged and printing the kind of indecision candle that tells traders the week's rebound has run out of sponsorship.",
-      "title_ko": "다른 모든 사람들이 무역 전쟁을 벌이는 동안 호주 달러는 평평합니다.",
-      "summary_ko": "AUD/USD 거래는 수요일 0.6900과 0.6950 사이에 고정되어 본질적으로 변하지 않았으며 거래자에게 일주일의 반등이 스폰서십이 소진되었음을 알려주는 우유부단한 촛불을 인쇄했습니다."
+      "title": "Gold declines below $4,100 as US–Iran tensions revive inflation worries, Fed rate hike bets",
+      "link": "https://www.fxstreet.com/news/gold-declines-below-4-100-as-us-iran-tensions-revive-inflation-worries-fed-rate-hike-bets-202607082316",
+      "summary": "Gold price (XAU/USD) declines to around $4,075 during the early Asian session on Thursday. The precious metal extends its downside as US President Donald Trump said the ceasefire with Iran has ended, stoking concerns tha",
+      "title_ko": "미국-이란 긴장이 인플레이션 우려를 되살리면서 금은 $ 4,100 아래로 하락, 연준 금리 인상 베팅",
+      "summary_ko": "금 가격 (XAU/USD) 은 목요일 아시아 세션 초반에 약 $ 4,075로 하락합니다. 귀금속은 도널드 트럼프 미국 대통령이 이란과의 휴전이 끝났다고 말하면서 그 단점을 확장하여 우려를 불러 일으킨다."
     },
     {
-      "title": "British Pound Sterling wins the day and stays stuck in the same trap",
-      "link": "https://www.fxstreet.com/news/british-pound-sterling-wins-the-day-and-stays-stuck-in-the-same-trap-202607082126",
-      "summary": "GBP/USD trades just below 1.3400 on Wednesday, up around a quarter of a percent and once again leaning on the 200-day Exponential Moving Average (EMA) that has repelled every advance since the pair clawed back from its m",
-      "title_ko": "영국 파운드 스털링은 그날 승리하고 같은 함정에 갇혀 있습니다.",
-      "summary_ko": "GBP/USD는 수요일 1.3400 바로 아래에서 거래되며, 약 1/4% 상승했으며 쌍이 m에서 다시 발톱을 잡은 이후 모든 진전을 격퇴 한 200 일 지수 이동 평균 (EMA) 에 다시 한번 기대고 있습니다."
+      "title": "Chinese Yuan: Downside bias as momentum improves against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-downside-bias-as-momentum-improves-against-us-dollar-uob-202607082241",
+      "summary": "United Overseas Bank’s (UOB) Senior Technical Strategist Quek Ser Leang notes that USD/CNH has broken higher, with momentum improving after Monday’s move to 6.8051 and a close at 6.8038.",
+      "title_ko": "중국 위안화: 미국 달러 대비 모멘텀 개선에 따른 하방 편향 – UOB",
+      "summary_ko": "유나이티드 해외 은행 (UOB) 의 수석 기술 전략가 퀘크 세르 레앙 (Quek Ser Leang) 은 USD/CNH가 월요일 6.8051로 이동하고 6.8038로 마감한 후 모멘텀이 개선되면서 더 높은 상승세를 보였다고 지적했다."
     }
   ]
 }

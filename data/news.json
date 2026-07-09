@@ -1,32 +1,53 @@
 {
-  "updated_at_utc": "2026-07-09 10:55:47 UTC",
+  "updated_at_utc": "2026-07-09 13:50:42 UTC",
   "items": [
     {
-      "title": "Hugo Boss urges shareholders to reject Frasers’ ’inadequate’ bid",
-      "link": "https://www.investing.com/news/stock-market-news/hugo-boss-urges-shareholders-to-reject-frasers-inadequate-bid-4783552",
-      "summary": "",
-      "title_ko": "Hugo Boss는 주주들에게 Frasers의 '부적절한’ 입찰을 거부할 것을 촉구합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Why is Stellantis stock sliding today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-stellantis-stock-sliding-today-93CH-4783521",
-      "summary": "",
-      "title_ko": "오늘 Stellantis 주가가 미끄러지는 이유는 무엇입니까?",
-      "summary_ko": ""
-    },
-    {
-      "title": "Coinbase investigates prediction markets trading issue",
-      "link": "https://www.investing.com/news/stock-market-news/coinbase-investigates-prediction-markets-trading-issue-93CH-4783520",
-      "summary": "",
-      "title_ko": "Coinbase는 예측 시장 거래 문제를 조사합니다",
-      "summary_ko": ""
-    },
-    {
-      "title": "PepsiCo beats revenue estimates, flags pressure from tighter consumer budgets",
+      "title": "PepsiCo warns of higher commodity costs amid faltering North American food sales",
       "link": "https://www.investing.com/news/stock-market-news/pepsico-beats-revenue-estimates-flags-pressure-from-tighter-consumer-budgets-4783403",
       "summary": "",
-      "title_ko": "PepsiCo는 매출 추정치를 능가하고 더 엄격한 소비자 예산으로 인한 압력을 표시합니다.",
+      "title_ko": "펩시코 (PepsiCo) 는 북미 식품 판매가 흔들리는 가운데 원자재 비용 상승을 경고합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Citigroup expands cross-border instant payments to partner banks",
+      "link": "https://www.investing.com/news/stock-market-news/citigroup-expands-crossborder-instant-payments-to-partner-banks-4783840",
+      "summary": "",
+      "title_ko": "Citigroup, 파트너 은행에 국경 간 즉시 결제 확대",
+      "summary_ko": ""
+    },
+    {
+      "title": "Paramount stock tumbles after Arete downgrade on debt concerns",
+      "link": "https://www.investing.com/news/stock-market-news/paramount-stock-tumbles-after-arete-downgrade-on-debt-concerns-4784316",
+      "summary": "",
+      "title_ko": "파라마운트 주식, 아레테 부채 우려로 다운그레이드 후 하락",
+      "summary_ko": ""
+    },
+    {
+      "title": "Why is Western Digital stock surging today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-western-digital-stock-surging-today-93CH-4784314",
+      "summary": "",
+      "title_ko": "오늘날 웨스턴 디지털 주식이 급등하는 이유는 무엇입니까?",
+      "summary_ko": ""
+    },
+    {
+      "title": "U.S. weekly jobless claims edge lower as labor conditions remain steady",
+      "link": "https://www.investing.com/news/economic-indicators/us-weekly-jobless-claims-edge-lower-as-labor-conditions-remain-steady-4784139",
+      "summary": "",
+      "title_ko": "노동 조건이 안정적으로 유지됨에 따라 미국 주간 실업 보험 청구가 낮아짐",
+      "summary_ko": ""
+    },
+    {
+      "title": "U.S. Initial Jobless Claims Fall Below Expectations, Boosting Economic Optimism",
+      "link": "https://www.investing.com/news/economic-indicators/us-initial-jobless-claims-fall-below-expectations-boosting-economic-optimism-93CH-4784086",
+      "summary": "",
+      "title_ko": "미국의 초기 실업 보험금 청구는 기대치를 밑돌고 경제 낙관론을 강화합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Kremlin says US wrong to think escalation of Ukrainian strikes can help end war",
+      "link": "https://www.investing.com/news/economic-indicators/kremlin-says-us-wrong-to-think-escalation-of-ukrainian-strikes-can-help-end-war-4783709",
+      "summary": "",
+      "title_ko": "크렘린은 우크라이나 파업의 확대가 전쟁을 종식시키는 데 도움이 될 수 있다고 생각하는 미국이 잘못되었다고 말합니다.",
       "summary_ko": ""
     },
     {
@@ -37,39 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Czech unemployment holds steady at 4.8% in June",
-      "link": "https://www.investing.com/news/economic-indicators/czech-unemployment-holds-steady-at-48-in-june-93CH-4783127",
-      "summary": "",
-      "title_ko": "체코 실업률은 6월 4.8% 로 안정적 유지",
-      "summary_ko": ""
+      "title": "India: Tactical duration opportunity on rates – DBS",
+      "link": "https://www.fxstreet.com/news/india-tactical-duration-opportunity-on-rates-dbs-202607091329",
+      "summary": "DBS Group Research economist Sherilyn Chew notes that renewed geopolitical risk has lifted yields across Asia, but sees Indian G-Secs as offering a tactical opportunity. She argues the India sell-off is mainly macro repr",
+      "title_ko": "인도: 요금에 대한 전술적 지속 기회 – DBS",
+      "summary_ko": "DBS 그룹 리서치 경제학자 셰릴린 츄 (Sherilyn Chew) 는 새로운 지정학적 리스크가 아시아 전역의 수확량을 증가시켰지만 인도의 G-Secs가 전술적 기회를 제공한다고 보고 있습니다. 그녀는 인도 매각이 주로 매크로 반복이라고 주장합니다."
     },
     {
-      "title": "Lu-Ve reports record Q2 revenue and order backlog surge",
-      "link": "https://www.investing.com/news/economic-indicators/luve-reports-record-q2-revenue-and-order-backlog-surge-93CH-4783076",
-      "summary": "",
-      "title_ko": "Lu-Ve 보고서, 2분기 매출 및 주문 백로그 탄력요금제 기록",
-      "summary_ko": ""
-    },
-    {
-      "title": "Slovakia’s industrial output falls 2% in May",
-      "link": "https://www.investing.com/news/economic-indicators/slovakias-industrial-output-falls-2-in-may-93CH-4783074",
-      "summary": "",
-      "title_ko": "슬로바키아의 산업 생산량은 5월에 2% 감소합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Silver Price Forecasts: XAG/USD picks up above $59.00 as US Dollar softens",
-      "link": "https://www.fxstreet.com/news/silver-price-forecasts-xag-usd-picks-up-above-5900-as-us-dollar-softens-202607091014",
-      "summary": "Silver (XAG/USD) is trimming losses on Thursday, and hitting session highs just above $59.00 after bouncing from $57.22 lows on Wednesday.",
-      "title_ko": "실버 가격 예측: 미국 달러가 부드러워짐에 따라 XAG/USD가 $ 59.00 이상으로 상승",
-      "summary_ko": "실버 (XAG/USD) 는 목요일에 손실을 다듬고 있으며, 수요일에 $ 57.22 저점에서 이탈한 후 세션 최고치를 $ 59.00 이상으로 올렸습니다."
-    },
-    {
-      "title": "WTI slips below $74 after recent rally, Middle East tensions limit the downside",
-      "link": "https://www.fxstreet.com/news/wti-slips-below-74-after-recent-rally-middle-east-tensions-limit-the-downside-202607091001",
-      "summary": "West Texas Intermediate (WTI) trades lower on Thursday and hovers around $73.10 at the time of writing, down 1.95% on the day as investors take profits following two consecutive days of strong gains.",
-      "title_ko": "최근 집회 후 WTI가 $ 74 아래로 미끄러지면서 중동 긴장은 단점을 제한합니다.",
-      "summary_ko": "서부 텍사스 중급 (WTI) 거래는 목요일에 낮아지고 서면 작성시 약 $ 73.10 를 맴돌며, 투자자들이 이틀 연속으로 강한 이익을 얻음에 따라 당일 1.95% 하락합니다."
+      "title": "Gold firms but lacks momentum amid US-Iran tensions, hawkish Fed bets",
+      "link": "https://www.fxstreet.com/news/gold-struggles-for-momentum-as-us-iran-tensions-hawkish-fed-bets-weigh-202607091133",
+      "summary": "Gold (XAU/USD) firms on Thursday as a mildly softer US Dollar (USD) and a modest pullback in US Treasury yields help the precious metal recover some ground after three consecutive days of losses.",
+      "title_ko": "금 회사는 있지만 미국-이란 긴장 속에서 추진력이 부족합니다. 매파적인 연준 베팅",
+      "summary_ko": "금 (XAU/USD) 은 목요일에 약간 더 부드러운 미국 달러 (USD) 와 미국 국채 수익률의 완만한 철회로 귀금속이 3 일 연속 손실 후 일부 지상을 회복하는 데 도움이됩니다."
     }
   ]
 }

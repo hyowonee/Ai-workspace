@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-07-08 23:36:22 UTC",
+  "updated_at_utc": "2026-07-09 03:30:27 UTC",
   "indices": {
     "spx": {
       "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"robots\" content=\"noindex": "(async()=>{const c=\"AAAAAGomHX0i4pyLvwXx9k2-P1qWTD29FA5MhSXgjT56-UkPn0XveazOS_U\"",
@@ -96,8 +96,8 @@
   },
   "fx": {
     "usdkrw": {
-      "rate": 1516.89994,
-      "time_last_update_utc": "Wed, 08 Jul 2026 00:02:32 +0000"
+      "rate": 1505.956952,
+      "time_last_update_utc": "Thu, 09 Jul 2026 00:02:32 +0000"
     }
   }
 }

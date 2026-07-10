@@ -1,32 +1,32 @@
 {
-  "updated_at_utc": "2026-07-10 20:49:41 UTC",
+  "updated_at_utc": "2026-07-10 22:05:27 UTC",
   "items": [
     {
-      "title": "Apple sues OpenAI over alleged trade secret theft",
-      "link": "https://www.investing.com/news/stock-market-news/apple-sues-openai-over-alleged-trade-secret-theft-4786882",
+      "title": "Holtec Nuclear Corporation files for US IPO",
+      "link": "https://www.investing.com/news/stock-market-news/holtec-nuclear-corporation-files-for-us-ipo-4787063",
       "summary": "",
-      "title_ko": "Apple, 영업비밀 도용 혐의로 OpenAI 고소",
+      "title_ko": "미국 IPO를 위한 Holtec Nuclear Corporation 파일",
       "summary_ko": ""
     },
     {
-      "title": "U.S. stocks higher at close of trade; Dow Jones Industrial Average up 0.29%",
-      "link": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-029-4786865",
+      "title": "New York Times countersues US employment agency over DEI lawsuit",
+      "link": "https://www.investing.com/news/stock-market-news/new-york-times-countersues-us-employment-agency-over-its-diversity-and-hiring-lawsuit-4786802",
       "summary": "",
-      "title_ko": "미국 증시는 교역 마감 시점에서 상승, 다우존스 산업평균지수 0.29% 상승",
+      "title_ko": "뉴욕 타임스는 DEI 소송을 통해 미국 고용 기관에 대응합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Canada stocks higher at close of trade; S&amp;P/TSX Composite up 0.30%",
-      "link": "https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-030-4786863",
+      "title": "Mexico stocks higher at close of trade; S&amp;P/BMV IPC up 0.59%",
+      "link": "https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-059-4787031",
       "summary": "",
-      "title_ko": "캐나다는 교역 마감 시점에서 더 높은 주식을 보유하고 있으며, S&amp;P/TSX Composite는 0.30% 상승했습니다.",
+      "title_ko": "멕시코는 거래 마감 시점에서 더 높은 주식을 보유하고 있으며, S&amp;P/BMV IPC는 0.59% 상승",
       "summary_ko": ""
     },
     {
-      "title": "Brazil stocks higher at close of trade; Bovespa up 2.97%",
-      "link": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-297-4786858",
+      "title": "Colombia stocks higher at close of trade; COLCAP up 0.65%",
+      "link": "https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-065-4787024",
       "summary": "",
-      "title_ko": "브라질은 거래 마감 시점에서 더 높은 주식을 보유하고 있으며, 보베스파는 2.97% 상승",
+      "title_ko": "콜롬비아는 교역 마감 시점에서 더 높은 주식을 보유하고 있으며 COLCAP는 0.65% 상승했습니다.",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "South Korean Won: Rate hike support from exports and inflation – DBS",
-      "link": "https://www.fxstreet.com/news/south-korean-won-rate-hike-support-from-exports-and-inflation-dbs-202607102007",
-      "summary": "DBS economists Radhika Rao and Mo Ji expect the Bank of Korea (BoK) to raise its base rate to 2.75% from 2.50% in July, citing persistent CPI inflation above 3% and resilient growth.",
-      "title_ko": "한국 원화: 수출 및 인플레이션으로 인한 금리 인상 지원 – DBS",
-      "summary_ko": "DBS 경제학자 라디카 라오 (Radhika Rao) 와 모지 (Mo Ji) 는 한국은행이 7월 기준금리를 2.50% 에서 2.75% 로 인상할 것으로 예상하며, 지속적인 CPI 인플레이션이 3% 를 상회하고 탄력적인 성장세를 보일 것으로 내다봤다."
+      "title": "Silver Price Forecast: Lower high structure holds, bear's eye $55.00",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-lower-high-structure-holds-bears-eye-5500-202607102055",
+      "summary": "Silver price retreats on Friday during the North American session, edging down by 0.54%, weighed by high US Treasury yields and a sudden shift in market sentiment, after US President Trump revealed that the ceasefire is ",
+      "title_ko": "실버 가격 예측: 낮은 높은 구조 보유, 곰의 눈 $ 55.00",
+      "summary_ko": "북미 회기 중 금요일에 실버 가격이 0.54% 하락하며 미국 국채 수익률과 시장 심리의 급격한 변화로 인해 하락했다. 트럼프 미국 대통령이 휴전이"
     },
     {
-      "title": "Indonesian Rupiah: Weakness risks persist – MUFG",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-weakness-risks-persist-mufg-202607102002",
-      "summary": "MUFG’s Lloyd Chan highlights the Indonesian rupiah’s continued vulnerability as USD/IDR moved back above 18,000 amid renewed Middle East tensions and elevated US yields.",
-      "title_ko": "인도네시아 루피아: 약점 위험 지속 – MUFG",
-      "summary_ko": "MUFG의 로이드 챈 (Lloyd Chan) 은 중동의 긴장이 고조되고 미국의 수확량이 증가함에 따라 USD/IDR이 18,000을 넘어서면서 인도네시아 루피아의 지속적인 취약성을 강조합니다."
+      "title": "Taiwan Dollar: CBC inflation risks support against US Dollar – Commerzbank",
+      "link": "https://www.fxstreet.com/news/taiwan-dollar-cbc-inflation-risks-support-against-us-dollar-commerzbank-202607102051",
+      "summary": "Commerzbank’s report on Taiwan notes that stronger inflation, with core CPI at 2.5%, is likely to push the CBC towards a more hawkish stance, including a possible 12.5 bp hike in H2.",
+      "title_ko": "대만 달러: CBC 인플레이션, 미국 달러에 대한 지원 위험 – Commerzbank",
+      "summary_ko": "코메르츠방크의 대만 보고서에 따르면 핵심 CPI가 2.5% 로 더 강한 인플레이션은 상반기 12.5bp 인상 가능성을 포함하여 CBC를 더 매파적인 자세로 밀어붙일 가능성이 높다."
     }
   ]
 }

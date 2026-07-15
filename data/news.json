@@ -1,32 +1,53 @@
 {
-  "updated_at_utc": "2026-07-15 11:59:52 UTC",
+  "updated_at_utc": "2026-07-15 14:02:57 UTC",
   "items": [
     {
-      "title": "Morgan Stanley profit rises on dealmaking boost",
-      "link": "https://www.investing.com/news/stock-market-news/morgan-stanley-profit-rises-on-dealmaking-boost-4793048",
+      "title": "A hidden pipeline brings Amazon and Walmart to African shoppers",
+      "link": "https://www.investing.com/news/stock-market-news/a-hidden-pipeline-brings-amazon-and-walmart-to-african-shoppers-4793613",
       "summary": "",
-      "title_ko": "모건 스탠리, 딜메이킹 부스트로 수익 증가",
+      "title_ko": "숨겨진 파이프라인이 아프리카 쇼핑객에게 아마존과 월마트를 제공합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Wall St futures tick up as investors weigh earnings; PayPal jumps",
-      "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-edge-up-with-earnings-in-focus-paypal-jumps-4792723",
+      "title": "Nexstar Media stock rises 5% on FCC broadcast cap repeal report",
+      "link": "https://www.investing.com/news/stock-market-news/nexstar-media-stock-rises-5-on-fcc-broadcast-cap-repeal-report-93CH-4793602",
       "summary": "",
-      "title_ko": "월스트리트 선물은 투자자들이 수익을 저울질할 때 뚝뚝 떨어집니다. 페이팔이 뛰어오릅니다.",
+      "title_ko": "FCC 방송 캡 폐지 보고서에서 Nexstar Media 주가가 5% 상승",
       "summary_ko": ""
     },
     {
-      "title": "Nuclear fuel firm Standard Nuclear slashes US IPO size by more than half",
-      "link": "https://www.investing.com/news/stock-market-news/nuclear-fuel-firm-standard-nuclear-slashes-us-ipo-size-by-more-than-half-4793033",
+      "title": "Wall St opens higher as investors weigh earnings; PayPal jumps",
+      "link": "https://www.investing.com/news/stock-market-news/wall-st-opens-higher-as-investors-weigh-earnings-paypal-jumps-4793581",
       "summary": "",
-      "title_ko": "원자력 연료 회사 Standard Nuclear, 미국 IPO 규모를 절반 이상 줄임",
+      "title_ko": "월스트리트는 투자자들이 수익을 저울질할 때 더 높이 열립니다. 페이팔이 뛰어오릅니다.",
       "summary_ko": ""
     },
     {
-      "title": "Why is Centene stock sliding today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-centene-stock-sliding-today-93CH-4793032",
+      "title": "J&amp;J medtech disappoints as medicine unit drives earnings beat",
+      "link": "https://www.investing.com/news/stock-market-news/jj-quarterly-earnings-beat-wall-street-estimates-on-strength-of-medicines-unit-4792739",
       "summary": "",
-      "title_ko": "Centene 주가가 오늘 미끄러지는 이유는 무엇입니까?",
+      "title_ko": "J&amp;J MEDTECH은 의약품 부서가 수입을 늘리면서 실망했습니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Brazil services activity shrinks 0.4% in May, missing forecasts",
+      "link": "https://www.investing.com/news/economic-indicators/brazil-services-activity-shrinks-04-in-may-missing-forecasts-4793502",
+      "summary": "",
+      "title_ko": "5월 브라질 서비스 활동은 0.4% 감소, 예측 누락",
+      "summary_ko": ""
+    },
+    {
+      "title": "U.S. PPI Falls Unexpectedly, Lowering Inflation Concerns",
+      "link": "https://www.investing.com/news/economic-indicators/us-ppi-falls-unexpectedly-raising-inflation-concerns-93CH-4793321",
+      "summary": "",
+      "title_ko": "미국 PPI가 예기치 않게 하락하여 인플레이션 우려가 낮아짐",
+      "summary_ko": ""
+    },
+    {
+      "title": "Empire State Manufacturing Index Surges, Outpacing Forecasts",
+      "link": "https://www.investing.com/news/economic-indicators/empire-state-manufacturing-index-surges-outpacing-forecasts-93CH-4793297",
+      "summary": "",
+      "title_ko": "엠파이어 스테이트 제조업 지수 급등, 예측치 추월",
       "summary_ko": ""
     },
     {
@@ -37,39 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Canadian home sales rise in June, prices unchanged from prior month",
-      "link": "https://www.investing.com/news/economic-indicators/canadian-home-sales-rise-in-june-prices-unchanged-from-prior-month-4792476",
-      "summary": "",
-      "title_ko": "6월 캐나다 주택 판매 증가, 전월 대비 가격 변동 없음",
-      "summary_ko": ""
+      "title": "British Pound: Honeymoon risks for Pound – Rabobank",
+      "link": "https://www.fxstreet.com/news/british-pound-honeymoon-risks-for-pound-rabobank-202607151355",
+      "summary": "Rabobank's Senior FX Strategist Jane Foley discusses the British Pound's (GBP) strong performance, noting GBP is the second-best G10 currency over three months despite no Bank of England (BoE) hikes.",
+      "title_ko": "영국 파운드: 파운드에 대한 신혼여행 위험 – Rabobank",
+      "summary_ko": "Rabobank의 수석 FX 전략가 제인 폴리 (Jane Foley) 는 영국 파운드 (GBP) 의 강력한 실적에 대해 설명하며, 영국 은행 (BOE) 의 인상에도 불구하고 GBP가 3 개월 동안 두 번째로 좋은 G10 통화라고 언급했다."
     },
     {
-      "title": "Poland’s inflation rate falls to 2.5% in June from 3.1% in May",
-      "link": "https://www.investing.com/news/economic-indicators/polands-inflation-rate-falls-to-25-in-june-from-31-in-may-93CH-4792452",
-      "summary": "",
-      "title_ko": "폴란드의 물가상승률은 5월 3.1% 에서 6월 2.5% 로 하락",
-      "summary_ko": ""
-    },
-    {
-      "title": "Norway’s core inflation falls to 2.7% in June, below forecasts",
-      "link": "https://www.investing.com/news/economic-indicators/norways-core-inflation-falls-to-27-in-june-below-forecasts-93CH-4792261",
-      "summary": "",
-      "title_ko": "노르웨이의 핵심 인플레이션은 6월에 2.7% 로 전망치를 하회합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Canadian Dollar holds close to one-month high ahead of BoC decision",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-holds-close-to-one-month-high-ahead-of-boc-decision-202607151028",
-      "summary": "The Canadian Dollar (CAD) is facing an upward correction, with the USD/CAD currency pair sliding below the critical 1.4100 mark.",
-      "title_ko": "캐나다 달러는 BoC 결정보다 1개월 가까이 높게 유지됩니다",
-      "summary_ko": "캐나다 달러 (CAD) 는 USD/CAD 통화 쌍이 중요한 1.4100 마크 아래로 미끄러지면서 상향 조정에 직면하고 있습니다."
-    },
-    {
-      "title": "Gold Price Forecast: XAU/USD hovers above $4,000, weighed by risk-off markets",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-hovers-above-4-000-weighed-by-risk-off-markets-202607151022",
-      "summary": "Gold (XAU/USD) edges lower on “inside trading” on Wednesday, with price action contained within Tuesday’s range, as the pair keeps looking for direction above the $4,000 level.",
-      "title_ko": "금 가격 예측: XAU/USD는 $ 4,000를 상회하며, 위험 시장의 비중이 높습니다.",
-      "summary_ko": "금 (XAU/USD) 가장자리는 수요일에 \"내부 거래\" 에서 낮아지고, 가격 조치는 화요일 범위 내에 포함되며, 쌍은 $ 4,000 수준 이상의 방향을 계속 찾고 있습니다."
+      "title": "Breaking: BoC kept interest rate unchanged at 2.25%, as expected",
+      "link": "https://www.fxstreet.com/news/boc-set-to-keep-interest-rates-steady-for-sixth-consecutive-meeting-202607150945",
+      "summary": "The Bank of Canada (BoC) left its policy rate unchanged at 2.25% on Wednesday, as widely anticipated. Attention now shifts to Governor Tiff Macklem's press conference at 14:30 GMT.",
+      "title_ko": "속보: BoC는 예상대로 이자율을 2.25% 로 변경하지 않았습니다.",
+      "summary_ko": "캐나다 은행 (BoC) 은 수요일에 정책 금리를 2.25% 로 변경하지 않았다. 이제 14:30 GMT에서 Tiff Macklem 주지사의 기자 회견에 주목하십시오."
     }
   ]
 }

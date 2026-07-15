@@ -1,32 +1,53 @@
 {
-  "updated_at_utc": "2026-07-15 08:15:21 UTC",
+  "updated_at_utc": "2026-07-15 10:20:43 UTC",
   "items": [
     {
-      "title": "BofA upgrades Imperial Brands to Buy, sees FY26 growth concerns fading",
-      "link": "https://www.investing.com/news/stock-market-news/bofa-upgrades-imperial-brands-to-buy-sees-fy26-growth-concerns-fading-4792351",
+      "title": "U.S. futures rise on cooling CPI, bank beats; tech earnings to test rally",
+      "link": "https://www.investing.com/news/stock-market-news/us-futures-rise-on-cooling-rate-fears-strong-earnings-iran-strikes-continue-4792073",
       "summary": "",
-      "title_ko": "BofA는 임페리얼 브랜드를 구매로 업그레이드하고, FY26 성장 우려가 사라지는 것을 봅니다.",
+      "title_ko": "미국 선물은 냉각 CPI, 은행 비트, 기술 수익으로 상승하여 랠리 테스트",
       "summary_ko": ""
     },
     {
-      "title": "UK’s Dr Martens backs annual outlook on US wholesale demand",
-      "link": "https://www.investing.com/news/stock-market-news/uks-dr-martens-backs-annual-outlook-on-us-wholesale-demand-4792343",
+      "title": "Exclusive-Stripe, Advent offer to buy PayPal for more than $53 billion, sources say",
+      "link": "https://www.investing.com/news/stock-market-news/exclusivestripe-advent-offer-to-buy-paypal-for-more-than-53-billion-sources-say-4792134",
       "summary": "",
-      "title_ko": "영국의 Dr Martens는 미국 도매 수요에 대한 연간 전망을 뒷받침합니다.",
+      "title_ko": "소식통에 따르면 독점 스트라이프, 어드벤트는 $ 530억 이상에 PayPal을 구매하겠다고 제안했습니다.",
       "summary_ko": ""
     },
     {
-      "title": "Why is Mowi stock surging today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-mowi-stock-surging-today-93CH-4792348",
+      "title": "Australia’s Perpetual gets sweetened $1.75 billion bid from EQT",
+      "link": "https://www.investing.com/news/stock-market-news/australias-perpetual-gets-sweetened-175-billion-bid-from-eqt-4792570",
       "summary": "",
-      "title_ko": "오늘날 Mowi 재고가 급증하는 이유는 무엇입니까?",
+      "title_ko": "호주의 퍼페츄얼 (Perpetual) 은 EQT로부터 17억 5천만 $ 의 입찰가를 얻습니다.",
       "summary_ko": ""
     },
     {
-      "title": "European luxury stocks rally after Richemont’s stronger-than-expected results",
-      "link": "https://www.investing.com/news/stock-market-news/european-luxury-stocks-rally-after-richemonts-strongerthanexpected-results-4792346",
+      "title": "China’s DeepSeek to raise fresh capital at $74 billion valuation ahead of onshore IPO, sources say",
+      "link": "https://www.investing.com/news/stock-market-news/chinas-deepseek-to-raise-fresh-capital-at-74-billion-valuation-ahead-of-onshore-ipo-sources-say-4792624",
       "summary": "",
-      "title_ko": "리치몬트의 예상보다 강한 실적 이후 유럽 명품주들이 랠리를 벌이고 있다.",
+      "title_ko": "소식통에 따르면 중국의 딥시크 (DeepSeek) 는 역내 IPO를 앞두고 740억 달러 ($) 의 가치로 새로운 자본을 조달하기 위해",
+      "summary_ko": ""
+    },
+    {
+      "title": "Slovakia inflation eases to 3.5% in June on fuel price drop",
+      "link": "https://www.investing.com/news/economic-indicators/slovakia-inflation-eases-to-35-in-june-on-fuel-price-drop-93CH-4792588",
+      "summary": "",
+      "title_ko": "슬로바키아 인플레이션, 연료 가격 인하로 6월 3.5% 로 완화",
+      "summary_ko": ""
+    },
+    {
+      "title": "Canadian home sales rise in June, prices unchanged from prior month",
+      "link": "https://www.investing.com/news/economic-indicators/canadian-home-sales-rise-in-june-prices-unchanged-from-prior-month-4792476",
+      "summary": "",
+      "title_ko": "6월 캐나다 주택 판매 증가, 전월 대비 가격 변동 없음",
+      "summary_ko": ""
+    },
+    {
+      "title": "Poland’s inflation rate falls to 2.5% in June from 3.1% in May",
+      "link": "https://www.investing.com/news/economic-indicators/polands-inflation-rate-falls-to-25-in-june-from-31-in-may-93CH-4792452",
+      "summary": "",
+      "title_ko": "폴란드의 물가상승률은 5월 3.1% 에서 6월 2.5% 로 하락",
       "summary_ko": ""
     },
     {
@@ -37,39 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Sweden’s consumer prices rise 0.3% in June, up 1.3% yearly",
-      "link": "https://www.investing.com/news/economic-indicators/swedens-consumer-prices-rise-03-in-june-up-13-yearly-93CH-4792260",
-      "summary": "",
-      "title_ko": "스웨덴 소비자 물가는 6월에 0.3% 상승하여 매년 1.3% 상승",
-      "summary_ko": ""
+      "title": "British Pound: Modest UK growth and Bailey’s cautious stance – TD Securities",
+      "link": "https://www.fxstreet.com/news/british-pound-modest-uk-growth-and-baileys-cautious-stance-td-securities-202607150950",
+      "summary": "TD Securities projects UK GDP to grow 0.1% month-on-month in May, led by services and strong retail sales, while manufacturing and industrial output remain under pressure from Middle East-related headwinds and higher inp",
+      "title_ko": "영국 파운드: 완만한 영국 성장과 베일리의 신중한 입장 – TD 증권",
+      "summary_ko": "TD증권은 5월 영국 GDP가 서비스와 강력한 소매 판매로 인해 전월 대비 0.1% 성장할 것으로 예상하고 있으며, 제조 및 산업 생산은 중동 관련 역풍과 더 높은 INP의 압박을 받고 있습니다."
     },
     {
-      "title": "Spain’s final 12-month EU-harmonised inflation at 3.6% in June",
-      "link": "https://www.investing.com/news/economic-indicators/spains-final-12month-euharmonised-inflation-at-36-in-june-4792254",
-      "summary": "",
-      "title_ko": "스페인의 마지막 12개월 유럽 연합 (EU) 은 6월 인플레이션을 3.6% 로 조정했다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "China new home prices fall at slower pace, but recovery doubtful",
-      "link": "https://www.investing.com/news/economic-indicators/china-june-new-home-prices-fall-at-slower-pace-4792105",
-      "summary": "",
-      "title_ko": "중국 신규 주택 가격은 느린 속도로 하락하지만 회복은 의심스럽다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "PBoC’s Deputy Governor: To continue to implement appropriately loose monetary policy",
-      "link": "https://www.fxstreet.com/news/pbocs-deputy-governor-to-continue-to-implement-appropriately-loose-monetary-policy-202607150753",
-      "summary": "People’s Bank of China (PBoC) Deputy Governor said during the European trading session on Wednesday that the central bank remains committed to loose monetary policy conditions to support overall demand.",
-      "title_ko": "PBoC의 부총재: 적절하게 느슨한 통화 정책을 계속 시행하기 위해",
-      "summary_ko": "중국 인민은행 (PBoC) 부총재는 수요일 유럽 무역 세션에서 중앙은행이 전반적인 수요를 지원하기 위해 느슨한 통화 정책 조건을 유지할 것이라고 말했다."
-    },
-    {
-      "title": "Australian Dollar: Upside momentum building toward 0.7015 against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/australian-dollar-upside-momentum-building-toward-07015-against-us-dollar-uob-202607150749",
-      "summary": "United Overseas Bank’s Quek Ser Leang and Lee Sue Ann note AUD/USD surged to 0.6992 after an earlier dip, with strong short-term momentum pointing to further gains. They see scope for a test of 0.6995, while the major re",
-      "title_ko": "호주 달러: 미국 달러 대비 0.7015를 향한 상승 모멘텀 빌딩 – UOB",
-      "summary_ko": "United Overseas Bank의 Quek Ser Leang과 Lee Sue Ann은 이전 하락 후 AUD/USD가 0.6992로 급등했으며, 강력한 단기 모멘텀이 추가 상승을 가리켰습니다. 그들은 0.6995의 테스트 범위를 보는 반면, 주요"
+      "title": "BoC set to keep interest rates steady for sixth consecutive meeting",
+      "link": "https://www.fxstreet.com/news/boc-set-to-keep-interest-rates-steady-for-sixth-consecutive-meeting-202607150945",
+      "summary": "The Bank of Canada (BoC) is widely expected to keep its policy rate unchanged at 2.25% on Wednesday. This would be the sixth consecutive event with the central bank keeping its hand steady.",
+      "title_ko": "BoC는 6회 연속 회의에서 이자율을 안정적으로 유지하도록 설정",
+      "summary_ko": "캐나다 은행 (BoC) 은 수요일에 정책 금리를 2.25% 로 변경하지 않을 것으로 예상됩니다. 이것은 중앙은행이 꾸준히 손을 잡은 여섯 번째 연속 이벤트가 될 것입니다."
     }
   ]
 }

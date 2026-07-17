@@ -1,20 +1,6 @@
 {
-  "updated_at_utc": "2026-07-16 22:58:02 UTC",
+  "updated_at_utc": "2026-07-17 00:05:42 UTC",
   "items": [
-    {
-      "title": "Exclusive-PayPal board sees Stripe-Advent offer as inadequate, sources say",
-      "link": "https://www.investing.com/news/stock-market-news/exclusivepaypal-board-sees-stripeadvent-offer-as-inadequate-sources-say-4797217",
-      "summary": "",
-      "title_ko": "소식통에 따르면 Exclusive-PayPal 보드는 Stripe-Advent 오퍼가 부적절하다고 보고 있습니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Netflix earnings forecast disappoints Wall Street, shares tumble",
-      "link": "https://www.investing.com/news/stock-market-news/netflix-thirdquarter-earnings-forecast-falls-shy-of-wall-street-expectations-4796687",
-      "summary": "",
-      "title_ko": "넷플릭스 수익 전망, 월스트리트 실망, 주식 폭락",
-      "summary_ko": ""
-    },
     {
       "title": "Taco Bell lettuce supplied by Taylor Farms linked to US cyclosporiasis outbreak, Washington Post reports",
       "link": "https://www.investing.com/news/stock-market-news/taco-bell-lettuce-supplied-by-taylor-farms-linked-to-us-cyclosporiasis-outbreak-washington-post-reports-4797137",
@@ -23,10 +9,24 @@
       "summary_ko": ""
     },
     {
-      "title": "US wireless carrier Verizon to sell 274 stores, lay off another 500 corporate employees",
-      "link": "https://www.investing.com/news/stock-market-news/verizon-to-shed-274-stores-lay-off-another-500-corporate-employees-4796427",
+      "title": "SpaceX Starship rocket aborts before liftoff in 13th flight test attempt",
+      "link": "https://www.investing.com/news/stock-market-news/spacex-starship-rocket-aborts-before-liftoff-in-13th-flight-test-attempt-4797258",
       "summary": "",
-      "title_ko": "미국 무선 통신사 Verizon, 274개 매장 매각, 500명 기업 직원 해고",
+      "title_ko": "SpaceX Starship 로켓은 13번째 비행 시험 시도에서 이륙 전에 중단됩니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "US to take lead in probe into Ryanair Boeing 737 engine failure over Greece",
+      "link": "https://www.investing.com/news/stock-market-news/us-to-take-lead-in-probe-into-ryanair-boeing-737-engine-failure-over-greece-4797253",
+      "summary": "",
+      "title_ko": "미국, 그리스 상공에서 Ryanair Boeing 737 엔진 고장으로 탐사선 주도",
+      "summary_ko": ""
+    },
+    {
+      "title": "PayPal board sees Stripe-Advent offer as inadequate, sources say",
+      "link": "https://www.investing.com/news/stock-market-news/exclusivepaypal-board-sees-stripeadvent-offer-as-inadequate-sources-say-4797217",
+      "summary": "",
+      "title_ko": "소식통에 따르면 PayPal 보드는 Stripe-Advent 오퍼가 부적절하다고 보고 있습니다.",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "GBP/JPY Price Forecast: Retreats from 18-year high, struggles at 220",
-      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-retreats-from-18-year-high-struggles-at-220-202607162156",
-      "summary": "The GBP/JPY retreats some 0.34% on Thursday after the pair reached a new 18-year high of 219.62 on Wednesday. Nevertheless, at the time of writing, the cross-pair retreated to 218.80, down 0.34%, as the Yen recovers some",
-      "title_ko": "GBP/JPY 가격 예측: 18년 만에 최고치에서 후퇴, 220으로 하락",
-      "summary_ko": "GBP/JPY는 수요일에 18년 새 최고치인 219.62에 도달한 후 목요일에 0.34% 정도 후퇴합니다. 그럼에도 불구하고, 작성 당시 엔화가 일부 회복됨에 따라 교차 쌍은 0.34% 하락한 218.80으로 후퇴했습니다."
+      "title": "Fed’s Jefferson: Current policy is well positioned to respond, based on incoming data",
+      "link": "https://www.fxstreet.com/news/feds-jefferson-current-policy-is-well-positioned-to-respond-based-on-incoming-data-202607162310",
+      "summary": "Federal Reserve (Fed) Vice Chair Philip Jefferson said that the current policy stance should support the job market and allow inflation to resume decline toward 2% as tariff effects and energy prices pass through, Reuter",
+      "title_ko": "Fed의 제퍼슨: 현재 정책은 들어오는 데이터를 기반으로 대응할 수 있는 좋은 위치에 있습니다.",
+      "summary_ko": "필립 제퍼슨 연방준비제도 (Fed) 부의장은 현재의 정책 입장이 고용 시장을 지원하고 인플레이션이 관세 효과와 에너지 가격이 통과함에 따라 2% 로 하락을 재개할 수 있도록 해야 한다고 말했다. 로이터"
     },
     {
-      "title": "Chinese Yuan: Upside bias toward 6.7600 against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-upside-bias-toward-67600-against-us-dollar-uob-202607162154",
-      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann highlight that USD/CNH downside momentum continues to build after the pair slipped to 6.7653. Intraday, there is a chance of testing major support at 6.7600 whi",
-      "title_ko": "중국 위안화: 미국 달러에 대한 6.7600에 대한 거꾸로 편향 – UOB",
-      "summary_ko": "United Overseas Bank (UOB) 의 Quek Ser Leang과 Lee Sue Ann은 USD/CNH 하방 모멘텀이 6.7653으로 미끄러진 후에도 계속 증가하고 있음을 강조합니다. Intraday, 6.7600 WHI에서 주요 지원을 테스트 할 가능성이 있습니다."
+      "title": "South Korean Won: BoK hike and semiconductor volatility – BNY",
+      "link": "https://www.fxstreet.com/news/south-korean-won-bok-hike-and-semiconductor-volatility-bny-202607162247",
+      "summary": "BNY’s Geoff Yu highlights a hawkish 25bp hike by the Bank of Korea (BoK) to 2.75%, with guidance that Gross Domestic Product (GDP) and core inflation will exceed earlier forecasts.",
+      "title_ko": "한국 원화: BoK 인상 및 반도체 변동성 – BNY",
+      "summary_ko": "BNY의 제프 유 (Geoff Yu) 는 한국은행 (BOK) 이 국내총생산 (GDP) 과 핵심 인플레이션이 이전 예측을 초과할 것이라는 지침과 함께 2.75% 로 매파적인 25bp 상승을 강조했다."
     }
   ]
 }

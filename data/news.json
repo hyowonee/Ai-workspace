@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-07-17 03:46:57 UTC",
+  "updated_at_utc": "2026-07-17 06:18:42 UTC",
   "items": [
     {
-      "title": "Coles ends Greencross takeover talks, shares jump on investor relief",
-      "link": "https://www.investing.com/news/stock-market-news/coles-ends-greencross-takeover-talks-shares-jump-on-investor-relief-4797359",
+      "title": "Shein secures nod from Hong Kong listing committee for IPO, sources say",
+      "link": "https://www.investing.com/news/stock-market-news/shein-secures-nod-from-hong-kong-listing-committee-for-ipo-sources-say-4797408",
       "summary": "",
-      "title_ko": "콜스는 그린크로스 인수 협상을 끝내고, 주식은 투자자 구제에 뛰어든다.",
+      "title_ko": "Shein은 IPO를 위해 홍콩 상장위원회로부터 NOD를 확보했다고 소식통은 말합니다.",
       "summary_ko": ""
     },
     {
-      "title": "ABC, NBC, CNN do not air Trump’s election-security speech live on primary channels",
-      "link": "https://www.investing.com/news/stock-market-news/us-networks-face-dilemma-over-whether-to-air-trumps-election-security-speech-4796501",
+      "title": "Taiwan stocks lower at close of trade; Taiwan Weighted down 0.01%",
+      "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-001-4797406",
       "summary": "",
-      "title_ko": "ABC, NBC, CNN은 주요 채널에서 트럼프의 선거 보안 연설을 생중계하지 않습니다.",
+      "title_ko": "대만 증시는 거래 종료 시점에 하락, 대만 가중치 0.01% 감소",
       "summary_ko": ""
     },
     {
-      "title": "China’s Moonshot unveils new open source AI model to rival US frontier offerings",
-      "link": "https://www.investing.com/news/stock-market-news/chinas-moonshot-unveils-new-open-source-ai-model-to-rival-us-frontier-offerings-4797356",
+      "title": "Swedbank Q2 profit falls on restructuring costs; beats estimates on fees, trading",
+      "link": "https://www.investing.com/news/stock-market-news/swedbank-q2-profit-falls-on-restructuring-costs-beats-estimates-on-fees-trading-4797402",
       "summary": "",
-      "title_ko": "중국의 문샷 (Moonshot), 미국 프론티어 제품과 경쟁할 수 있는 새로운 오픈 소스 AI 모델 공개",
+      "title_ko": "Swedbank 2분기 이익은 구조조정 비용으로 하락합니다. 수수료, 거래에 대한 추정치를 능가합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Chipotle is entering the land of the taco. Will Mexicans bite?",
-      "link": "https://www.investing.com/news/stock-market-news/chipotle-is-entering-the-land-of-the-taco-will-mexicans-bite-4797353",
+      "title": "Truckmaker Volvo’s Q2 operating profit rises, orders jump",
+      "link": "https://www.investing.com/news/stock-market-news/truckmaker-volvos-q2-operating-profit-rises-orders-jump-4797394",
       "summary": "",
-      "title_ko": "치폴레가 타코의 땅으로 들어갑니다. 멕시코 사람들이 물어뜯을까요?",
+      "title_ko": "트럭 메이커 볼보의 2분기 영업 이익 상승, 주문 증가",
+      "summary_ko": ""
+    },
+    {
+      "title": "Most Gulf area economies face deeper downturns this year on Hormuz disruption",
+      "link": "https://www.investing.com/news/economic-indicators/most-gulf-area-economies-face-deeper-downturns-this-year-on-hormuz-disruption-reuters-poll-4795722",
+      "summary": "",
+      "title_ko": "대부분의 걸프 지역 경제는 올해 호르무즈 혼란으로 인해 더 깊은 침체에 직면해 있습니다.",
       "summary_ko": ""
     },
     {
@@ -51,25 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "US business inventories increase moderately in May as sales accelerate",
-      "link": "https://www.investing.com/news/economic-indicators/us-business-inventories-increase-moderately-in-may-as-sales-accelerate-4796275",
-      "summary": "",
-      "title_ko": "미국 사업 재고는 판매가 가속화됨에 따라 5월에 완만하게 증가합니다.",
-      "summary_ko": ""
+      "title": "EUR/USD Price Forecast: Stays pressured below mid-1.1400s after failing near 200-SMA on H4",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-stays-pressured-below-mid-11400s-after-failing-near-200-sma-on-h4-202607170515",
+      "summary": "The EUR/USD pair ticks lower for the second straight day on Friday as energy-driven inflation fears revive US Federal Reserve (Fed) rate hike bets and support the US Dollar (USD) amid escalating US-Iran tensions.",
+      "title_ko": "EUR/USD 가격 예측: H4에서 200-SMA 근처에서 실패한 후 1400년대 중반 이하의 압력 유지",
+      "summary_ko": "에너지 중심의 인플레이션이 미국 연방준비제도 (Fed) 의 금리 인상 베팅을 부활시키고 미국과 이란의 긴장이 고조되는 가운데 미국 달러 (USD) 를 지지할 것이라는 우려가 나오면서 EUR/USD 쌍은 금요일 이틀 연속 하락세를 보이고 있다."
     },
     {
-      "title": "Chinese Yuan loses as safe-haven demand lifts US Dollar",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-loses-as-safe-haven-demand-lifts-us-dollar-202607170239",
-      "summary": "USD/CNH gains ground for the second successive day, trading around 6.7760 during the Asian hours on Friday. The pair appreciates as the US Dollar (USD) receives support from escalating developments surrounding conflicts ",
-      "title_ko": "중국 위안화는 안전 피난처 수요가 미국 달러를 인상함에 따라 손실을 입습니다.",
-      "summary_ko": "USD/CNH는 금요일 아시아 시간 동안 약 6.7760에 거래되는 두 번째 연이은 날을 맞이합니다. 이 쌍은 미국 달러 (USD) 가 갈등을 둘러싼 악화되는 상황으로부터 지원을 받고 있다는 점을 높이 평가합니다."
-    },
-    {
-      "title": "Japanese Yen softens on renewed US-Iran tensions, Japan flags intervention risk",
-      "link": "https://www.fxstreet.com/news/japanese-yen-softens-on-renewed-us-iran-tensions-japan-flags-intervention-risk-202607170236",
-      "summary": "The USD/JPY pair posts modest gains near 162.40 during the Asian trading hours on Friday. The US Dollar (USD) strengthens against the Japanese Yen (JPY) as the United States (US) launches a new wave of strikes against Ir",
-      "title_ko": "일본 엔화, 미국과 이란의 긴장 완화, 일본 국기 개입 위험",
-      "summary_ko": "USD/JPY 쌍은 금요일 아시아 거래 시간 동안 약 162.40의 소폭 상승을 기록합니다. 미국이 일본 엔화 (JPY) 에 대해 미국 달러 (USD) 강세를 보임에 따라 미국이 IR에 대한 새로운 파업 물결을 일으키고 있다."
+      "title": "Indonesian Rupiah gains as Q2 foreign direct investment increases",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-gains-as-q2-foreign-direct-investment-increases-202607170508",
+      "summary": "USD/IDR continues its losing streak for the fourth successive day, trading around 17,990 during the Asian hours on Friday.",
+      "title_ko": "2분기 외국인 직접 투자 증가에 따른 인도네시아 루피아 이익",
+      "summary_ko": "USD/IDR은 금요일 아시아 시간 동안 약 17,990 거래로 네 번째로 연속 손실을 이어가고 있습니다."
     }
   ]
 }

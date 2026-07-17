@@ -1,20 +1,6 @@
 {
-  "updated_at_utc": "2026-07-17 14:12:09 UTC",
+  "updated_at_utc": "2026-07-17 15:55:30 UTC",
   "items": [
-    {
-      "title": "SpaceX drops 4% on course to lose $1 trillion in market value",
-      "link": "https://www.investing.com/news/stock-market-news/spacex-aborts-starship-rocket-test-flight-just-minutes-before-liftoff-4797277",
-      "summary": "",
-      "title_ko": "스페이스X, 코스에서 4% 하락해 시가 총액 1조 $ 손실",
-      "summary_ko": ""
-    },
-    {
-      "title": "The tech crown switches hands: Apple dethrones Nvidia as $4T trillion king",
-      "link": "https://www.investing.com/news/stock-market-news/the-tech-crown-switches-hands-apple-dethrones-nvidia-as-4t-trillion-dollar-king-4798611",
-      "summary": "",
-      "title_ko": "기술 왕관이 손을 바꿉니다: 애플은 엔비디아를 4조 달러의 왕 ($ 4T trillion king) 으로 추방합니다.",
-      "summary_ko": ""
-    },
     {
       "title": "FAA chief vows fast time-table to reform US air traffic control systems",
       "link": "https://www.investing.com/news/stock-market-news/faa-chief-vows-fast-timetable-to-reform-us-air-traffic-control-systems-4798626",
@@ -23,10 +9,38 @@
       "summary_ko": ""
     },
     {
-      "title": "Microsoft fails $400 barrier in bull-bear standoff: Hourly",
-      "link": "https://www.investing.com/news/stock-market-news/microsoft-coils-at-range-edge-amid-breakout-tension-live-levels-93CH-4788804",
+      "title": "Quantum computing stocks outlook: IonQ, Rigetti, and D-Wave after a brutal selloff",
+      "link": "https://www.investing.com/news/stock-market-news/quantum-computing-stocks-outlook-ionq-rigetti-and-dwave-after-a-brutal-selloff-93CH-4798766",
       "summary": "",
-      "title_ko": "Microsoft, 황소 곰 스탠드 오프에서 $ 400 장벽 실패: 시간당",
+      "title_ko": "양자 컴퓨팅 주식 전망: 잔인한 매각 후 IonQ, Rigetti 및 D-Wave",
+      "summary_ko": ""
+    },
+    {
+      "title": "Lettuce supplier Taylor Farms to recall product linked to parasite outbreak, Bloomberg News reports",
+      "link": "https://www.investing.com/news/stock-market-news/wendys-chipotle-say-they-are-not-affected-by-cyclosporiasisoutbreak-4798704",
+      "summary": "",
+      "title_ko": "블룸버그 뉴스는 양상추 공급업체 테일러 팜스 (Taylor Farms) 가 기생충 발생과 관련된 제품을 리콜한다고 보도했다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Poland stocks lower at close of trade; WIG30 down 0.74%",
+      "link": "https://www.investing.com/news/stock-market-news/poland-stocks-lower-at-close-of-trade-wig30-down-074-4798765",
+      "summary": "",
+      "title_ko": "폴란드 주식은 거래 마감 시점에 하락, WIG30은 0.74% 하락",
+      "summary_ko": ""
+    },
+    {
+      "title": "US single-family housing starts fall; building permits lowest in 10 months",
+      "link": "https://www.investing.com/news/economic-indicators/us-singlefamily-housing-starts-building-permits-fall-in-june-4798461",
+      "summary": "",
+      "title_ko": "미국 단독주택 낙후 시작, 건축허가 10개월 만에 최저",
+      "summary_ko": ""
+    },
+    {
+      "title": "US manufacturing output unchanged in June, but accelerates in second quarter",
+      "link": "https://www.investing.com/news/economic-indicators/us-manufacturing-output-unchanged-in-june-but-accelerates-in-second-quarter-4798637",
+      "summary": "",
+      "title_ko": "미국 제조업 생산량은 6월에 변동이 없었으나 2분기에 가속화",
       "summary_ko": ""
     },
     {
@@ -44,32 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "US import prices unexpectedly rise in June",
-      "link": "https://www.investing.com/news/economic-indicators/us-import-prices-unexpectedly-rise-in-june-4798492",
-      "summary": "",
-      "title_ko": "6월에 미국 수입 가격이 예기치 않게 상승합니다.",
-      "summary_ko": ""
+      "title": "Swiss Franc holds gains against US Dollar as Middle East tensions outweigh upbeat US data",
+      "link": "https://www.fxstreet.com/news/swiss-franc-holds-gains-against-us-dollar-as-middle-east-tensions-outweigh-upbeat-us-data-202607171458",
+      "summary": "USD/CHF trades around 0.8070 at the time of writing on Friday, down 0.22% on the day. The pair remains under pressure as safe-haven demand for the Swiss Franc (CHF) offsets modest support for the US Dollar (USD) followin",
+      "title_ko": "스위스 프랑은 중동 긴장이 미국 데이터를 능가하기 때문에 미국 달러에 대한 이익을 보유하고 있습니다.",
+      "summary_ko": "USD/CHF는 금요일 작성 당시 약 0.8070에 거래되며, 이는 당일 0.22% 하락한 수치입니다. 스위스 프랑 (CHF) 에 대한 안전한 수요가 미국 달러 (USD) 에 대한 약간의 지원을 상쇄함에 따라 쌍은 압박을 받고 있습니다."
     },
     {
-      "title": "US single-family housing starts, building permits fall in June",
-      "link": "https://www.investing.com/news/economic-indicators/us-singlefamily-housing-starts-building-permits-fall-in-june-4798461",
-      "summary": "",
-      "title_ko": "미국 단독주택 착공, 6월 건축허가 하락",
-      "summary_ko": ""
-    },
-    {
-      "title": "US Dollar: Low volatility risks and summer outlook – ING",
-      "link": "https://www.fxstreet.com/news/us-dollar-low-volatility-risks-and-summer-outlook-ing-202607171353",
-      "summary": "ING strategists Francesco Pesole and Frantisek Taborsky note that DXY-weighted short-term implied volatility has dropped to 2021 levels, despite geopolitical tensions and Federal Reserve risks. Pesole argues that AI-driv",
-      "title_ko": "미국 달러: 낮은 변동성 위험 및 여름 전망 – ING",
-      "summary_ko": "ING 전략가인 프란체스코 페솔레 (Francesco Pesole) 와 프란티섹 타보르스키 (Frantisek Taborsky) 는 지정학적 긴장과 연방준비제도 (Fed) 의 위험에도 불구하고 DXY 가중 단기 암시 변동성이 2021년 수준으로 떨어졌다고 지적했다. Pesole은 AI 드라이브가"
-    },
-    {
-      "title": "United Kingdom: Supply-side choices shape outlook – Rabobank",
-      "link": "https://www.fxstreet.com/news/united-kingdom-supply-side-choices-shape-outlook-rabobank-202607171335",
-      "summary": "Rabobank’s Global Daily, titled “To govern is to choose”, discusses the UK’s political and macroeconomic backdrop as Labour’s Andy Burnham is set to become prime minister.",
-      "title_ko": "영국: 공급 측면의 선택 형태 전망 – Rabobank",
-      "summary_ko": "\"To govern is to choose\" 라는 제목의 Rabobank's Global Daily는 노동당의 Andy Burnham이 총리가 될 예정인 영국의 정치 및 거시 경제 배경에 대해 논의합니다."
+      "title": "Brent: Oil risks rise on Bab al-Mandab threat – Commerzbank",
+      "link": "https://www.fxstreet.com/news/brent-oil-risks-rise-on-bab-al-mandab-threat-commerzbank-202607171458",
+      "summary": "Commerzbank’s commodity team highlights renewed geopolitical risks for Oil as Iran again threatens to block the Strait of Bab al-Mandab, a key route for Saudi exports rerouted from the Strait of Hormuz.",
+      "title_ko": "브렌트: Bab al-Mandab 위협에 대한 석유 위험 증가 – Commerzbank",
+      "summary_ko": "코메르츠방크의 상품팀은 이란이 호르무즈 해협에서 재배치된 사우디 수출의 핵심 경로인 바브 알 만다브 해협을 다시 봉쇄하겠다고 위협함에 따라 석유에 대한 새로운 지정학적 위험을 강조한다."
     }
   ]
 }

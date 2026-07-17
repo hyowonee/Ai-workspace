@@ -1,32 +1,32 @@
 {
-  "updated_at_utc": "2026-07-17 15:55:30 UTC",
+  "updated_at_utc": "2026-07-17 17:14:59 UTC",
   "items": [
+    {
+      "title": "Zoox recalls self-driving cars because they may not detect smoke",
+      "link": "https://www.investing.com/news/stock-market-news/zoox-recalls-selfdriving-cars-because-they-may-not-detect-smoke-4798495",
+      "summary": "",
+      "title_ko": "Zoox는 연기가 감지되지 않을 수 있기 때문에 자율 주행 자동차를 리콜합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Meta, Anthropic in talks for potential $10 billion compute lease deal, NYT reports",
+      "link": "https://www.investing.com/news/stock-market-news/meta-in-talks-for-10-billion-anthropic-compute-deal-nyt-reports-4798826",
+      "summary": "",
+      "title_ko": "Meta, Anthropic은 잠재적 인 $ 100 억 컴퓨팅 리스 거래를위한 회담에서 NYT는보고합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Tech selloff weighs on European shares ahead of ECB meeting next week",
+      "link": "https://www.investing.com/news/stock-market-news/european-shares-slip-as-tech-stocks-mideast-tensions-weigh-4797502",
+      "summary": "",
+      "title_ko": "기술 매각은 다음 주 ECB 회의를 앞두고 유럽 주식에 비중을 둡니다.",
+      "summary_ko": ""
+    },
     {
       "title": "FAA chief vows fast time-table to reform US air traffic control systems",
       "link": "https://www.investing.com/news/stock-market-news/faa-chief-vows-fast-timetable-to-reform-us-air-traffic-control-systems-4798626",
       "summary": "",
       "title_ko": "FAA 수석은 미국 항공 교통 관제 시스템을 개혁하기 위해 빠른 시간 테이블을 맹세합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Quantum computing stocks outlook: IonQ, Rigetti, and D-Wave after a brutal selloff",
-      "link": "https://www.investing.com/news/stock-market-news/quantum-computing-stocks-outlook-ionq-rigetti-and-dwave-after-a-brutal-selloff-93CH-4798766",
-      "summary": "",
-      "title_ko": "양자 컴퓨팅 주식 전망: 잔인한 매각 후 IonQ, Rigetti 및 D-Wave",
-      "summary_ko": ""
-    },
-    {
-      "title": "Lettuce supplier Taylor Farms to recall product linked to parasite outbreak, Bloomberg News reports",
-      "link": "https://www.investing.com/news/stock-market-news/wendys-chipotle-say-they-are-not-affected-by-cyclosporiasisoutbreak-4798704",
-      "summary": "",
-      "title_ko": "블룸버그 뉴스는 양상추 공급업체 테일러 팜스 (Taylor Farms) 가 기생충 발생과 관련된 제품을 리콜한다고 보도했다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Poland stocks lower at close of trade; WIG30 down 0.74%",
-      "link": "https://www.investing.com/news/stock-market-news/poland-stocks-lower-at-close-of-trade-wig30-down-074-4798765",
-      "summary": "",
-      "title_ko": "폴란드 주식은 거래 마감 시점에 하락, WIG30은 0.74% 하락",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "Swiss Franc holds gains against US Dollar as Middle East tensions outweigh upbeat US data",
-      "link": "https://www.fxstreet.com/news/swiss-franc-holds-gains-against-us-dollar-as-middle-east-tensions-outweigh-upbeat-us-data-202607171458",
-      "summary": "USD/CHF trades around 0.8070 at the time of writing on Friday, down 0.22% on the day. The pair remains under pressure as safe-haven demand for the Swiss Franc (CHF) offsets modest support for the US Dollar (USD) followin",
-      "title_ko": "스위스 프랑은 중동 긴장이 미국 데이터를 능가하기 때문에 미국 달러에 대한 이익을 보유하고 있습니다.",
-      "summary_ko": "USD/CHF는 금요일 작성 당시 약 0.8070에 거래되며, 이는 당일 0.22% 하락한 수치입니다. 스위스 프랑 (CHF) 에 대한 안전한 수요가 미국 달러 (USD) 에 대한 약간의 지원을 상쇄함에 따라 쌍은 압박을 받고 있습니다."
+      "title": "Euro steadies as markets weigh ECB and Fed interest rate expectations",
+      "link": "https://www.fxstreet.com/news/euro-steadies-as-markets-weigh-ecb-and-fed-interest-rate-expectations-202607171646",
+      "summary": "EUR/USD trades flat on Friday as traders reassess the inflationary impact of surging Oil prices amid escalating tensions in the Middle East, which have disrupted energy supplies through the Strait of Hormuz.",
+      "title_ko": "유럽중앙은행 (ECB) 과 연준 (Fed) 금리 기대치를 상회하는 시장",
+      "summary_ko": "호르무즈 해협을 통해 에너지 공급을 방해하는 중동의 긴장이 고조되고 있는 가운데 거래자들이 유가 급등의 인플레이션 영향을 재평가함에 따라 EUR/USD는 금요일에 평평하게 거래됩니다."
     },
     {
-      "title": "Brent: Oil risks rise on Bab al-Mandab threat – Commerzbank",
-      "link": "https://www.fxstreet.com/news/brent-oil-risks-rise-on-bab-al-mandab-threat-commerzbank-202607171458",
-      "summary": "Commerzbank’s commodity team highlights renewed geopolitical risks for Oil as Iran again threatens to block the Strait of Bab al-Mandab, a key route for Saudi exports rerouted from the Strait of Hormuz.",
-      "title_ko": "브렌트: Bab al-Mandab 위협에 대한 석유 위험 증가 – Commerzbank",
-      "summary_ko": "코메르츠방크의 상품팀은 이란이 호르무즈 해협에서 재배치된 사우디 수출의 핵심 경로인 바브 알 만다브 해협을 다시 봉쇄하겠다고 위협함에 따라 석유에 대한 새로운 지정학적 위험을 강조한다."
+      "title": "British Pound slips as Oil spike revives inflation fears",
+      "link": "https://www.fxstreet.com/news/british-pound-slips-as-oil-spike-revives-inflation-fears-202607171623",
+      "summary": "The Pound Sterling retreats during the North American session, down 0.22% against the Greenback, as geopolitical tensions remained high, triggering a jump in Oil prices and heightening fears of a reacceleration of inflat",
+      "title_ko": "석유 스파이크가 인플레이션 공포를 되살리면서 영국 파운드가 미끄러짐",
+      "summary_ko": "파운드 스털링은 지정학적 긴장이 여전히 높았기 때문에 북미 세션에서 그린백에 대해 0.22% 하락하여 유가 급등을 촉발하고 부풀림의 재가속화에 대한 두려움을 높였습니다."
     }
   ]
 }

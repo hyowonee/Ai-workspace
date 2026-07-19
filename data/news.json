@@ -1,6 +1,20 @@
 {
-  "updated_at_utc": "2026-07-19 21:54:41 UTC",
+  "updated_at_utc": "2026-07-19 22:54:44 UTC",
   "items": [
+    {
+      "title": "SpaceX moves Starship launch attempt to Thursday",
+      "link": "https://www.investing.com/news/stock-market-news/spacex-moves-starship-launch-attempt-to-thursday-4799747",
+      "summary": "",
+      "title_ko": "스페이스X, 우주선 발사 시도를 목요일로 옮기다",
+      "summary_ko": ""
+    },
+    {
+      "title": "How Korean stocks turned from trusty bellwether to AI frenzy",
+      "link": "https://www.investing.com/news/stock-market-news/how-korean-stocks-turned-from-trusty-bellwether-to-ai-frenzy-4799743",
+      "summary": "",
+      "title_ko": "한국 주식이 신뢰할 수 있는 벨웨더에서 AI 광란으로 변한 방법",
+      "summary_ko": ""
+    },
     {
       "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
       "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4799742",
@@ -13,20 +27,6 @@
       "link": "https://www.investing.com/news/stock-market-news/bofa-sees-ai-winners-emerging-beyond-crowded-semis-and-megacap-names-4799740",
       "summary": "",
       "title_ko": "BofA는 붐비는 세미 및 메가 캡 이름을 넘어 AI 수상자가 등장하는 것을 봅니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "U.S. companies pouring swelling cash balances into growth plans - Morgan Stanley",
-      "link": "https://www.investing.com/news/stock-market-news/us-companies-pouring-swelling-cash-balances-into-growth-plans--morgan-stanley-4799733",
-      "summary": "",
-      "title_ko": "성장 계획에 부풀어 오르는 현금 잔액을 쏟아붓는 미국 기업 - Morgan Stanley",
-      "summary_ko": ""
-    },
-    {
-      "title": "Boeing on track for 2028 Air Force One delivery, costs rise",
-      "link": "https://www.investing.com/news/stock-market-news/boeing-on-track-for-2028-air-force-one-delivery-costs-rise-4799730",
-      "summary": "",
-      "title_ko": "2028 Air Force One 배송을 위한 보잉 트랙, 비용 상승",
       "summary_ko": ""
     },
     {
@@ -58,18 +58,18 @@
       "summary_ko": ""
     },
     {
+      "title": "US launches airstrikes to ‘swiftly punish’ Iran for deaths of US troops",
+      "link": "https://www.fxstreet.com/news/us-launches-airstrikes-to-swiftly-punish-iran-for-deaths-of-us-troops-202607192234",
+      "summary": "The United States (US) said airstrikes on Sunday aimed to \"punish\" Iran over the first US military deaths since renewed hostilities with the Islamic republic, Bloomberg reported.",
+      "title_ko": "미국, 미군 사망에 대해 이란을 ‘신속히 처벌’ 하기 위한 공습 시작",
+      "summary_ko": "블룸버그 통신은 미국이 일요일 공습이 이슬람 공화국과의 적대 관계를 재개한 이후 처음으로 발생한 미군 사망 사건에 대해 이란을 \"처벌\" 하는 것을 목표로 했다고 보도했다."
+    },
+    {
       "title": "Chinese Yuan: Consolidation holds upside bias against US Dollar – UOB",
       "link": "https://www.fxstreet.com/news/chinese-yuan-consolidation-holds-upside-bias-against-us-dollar-uob-202607172222",
       "summary": "United Overseas Bank (UOB) strategists Quek Ser Leang and Lee Sue Ann note that USD/CNH is currently consolidating in a narrow range around 6.77. In their 1–3 week view, they maintain a downside bias toward 6.7600 as lon",
       "title_ko": "중국 위안화: 통합으로 미국 달러에 대한 거꾸로 편향 – UOB",
       "summary_ko": "United Overseas Bank (UOB) 의 전략가인 Quek Ser Leang과 Lee Sue Ann은 USD/CNH가 현재 약 6.77 의 좁은 범위에서 통합되고 있다고 지적합니다. 1-3주의 관점에서, 그들은 6.7600에 대한 단점 편향을 론으로 유지합니다."
-    },
-    {
-      "title": "South Korea: Faster hiking path – DBS",
-      "link": "https://www.fxstreet.com/news/south-korea-faster-hiking-path-dbs-202607172141",
-      "summary": "DBS Group Research economist Ma Tieying analyzes the latest Bank of Korea (BoK) decision, noting a hawkish shift as the base rate is raised to 2.75%. The report now anticipates a faster tightening cycle, with the policy ",
-      "title_ko": "한국: 더 빠른 하이킹 코스 – DBS",
-      "summary_ko": "DBS그룹리서치 경제학자 마티잉 (Ma Tieying) 은 최근 한국은행 (BOK) 의 결정을 분석하면서 기준금리가 2.75% 로 인상됨에 따라 매파적인 변화에 주목하고 있다. 이 보고서는 이제 정책을 통해 더 빠른 조임 주기를 예상합니다."
     }
   ]
 }

@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-07-20 06:48:52 UTC",
+  "updated_at_utc": "2026-07-20 10:13:14 UTC",
   "items": [
     {
-      "title": "Ryanair quarterly profit slumps by a third on lower fares, higher fuel costs",
-      "link": "https://www.investing.com/news/stock-market-news/ryanair-sees-lower-summer-fares-as-profit-misses-forecasts-4799802",
+      "title": "European shares pare losses to trade flat as Iran diplomatic hopes cool oil",
+      "link": "https://www.investing.com/news/stock-market-news/european-shares-edge-lower-ahead-of-ecb-meeting-us-tech-earnings-oil-jumps-4799916",
       "summary": "",
-      "title_ko": "Ryanair의 분기별 이익은 낮은 운임, 높은 연료 비용에서 1/3로 떨어집니다.",
+      "title_ko": "이란 외교가 석유 냉각을 희망함에 따라 유럽 주식은 평평한 무역에 손실을 보임",
       "summary_ko": ""
     },
     {
-      "title": "Prologis says Segro rejects sweetened $18.2 billion takeover proposal",
-      "link": "https://www.investing.com/news/stock-market-news/uks-segro-rebuffs-prologis-third-takeover-bid-4799858",
+      "title": "China tech stocks gain as domestic AI models rival U.S. leaders",
+      "link": "https://www.investing.com/news/stock-market-news/china-ai-stocks-gain-as-domestic-ai-models-rival-us-leaders-4800199",
       "summary": "",
-      "title_ko": "Prologis는 Segro가 감미로운 $ 182억 인수 제안을 거부한다고 말합니다.",
+      "title_ko": "국내 인공지능 모델이 미국 지도자들과 경쟁하면서 중국 기술주가 상승",
       "summary_ko": ""
     },
     {
-      "title": "’I couldn’t breathe’:South Korea’s frenzied stock trading exposes margin loan risks",
-      "link": "https://www.investing.com/news/stock-market-news/i-couldnt-breathesouth-koreas-frenzied-stock-trading-exposes-margin-loan-risks-4799867",
+      "title": "Morgan Stanley cuts Arkema on fading acrylic acid spreads, earnings reset",
+      "link": "https://www.investing.com/news/stock-market-news/morgan-stanley-cuts-arkema-on-fading-acrylic-acid-spreads-earnings-reset-4800170",
       "summary": "",
-      "title_ko": "’숨을 쉴 수 없었다’: 한국의 광란의 주식 거래는 마진 대출 위험을 노출시킵니다.",
+      "title_ko": "모건 스탠리, 퇴색 아크릴산 스프레드에서 Arkema 절단, 수입 재설정",
       "summary_ko": ""
     },
     {
-      "title": "Australia stocks lower at close of trade; S&amp;P/ASX 200 down 0.06%",
-      "link": "https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-006-4799859",
+      "title": "Playtika in talks to sell SuperPlay to Tencent for up to $1.5b",
+      "link": "https://www.investing.com/news/stock-market-news/playtika-in-talks-to-sell-superplay-to-tencent-for-up-to-15b-93CH-4800163",
       "summary": "",
-      "title_ko": "호주 증시는 거래 종료 시점에 하락, S&amp;P/ASX 200은 0.06% 하락",
+      "title_ko": "Tencent에 SuperPlay를 최대 $ 1.5B에 판매하기 위한 강연 중인 Playtika",
+      "summary_ko": ""
+    },
+    {
+      "title": "Poland’s industrial output rises 7.6% in June, beating forecasts",
+      "link": "https://www.investing.com/news/economic-indicators/polands-industrial-output-rises-76-in-june-beating-forecasts-93CH-4799967",
+      "summary": "",
+      "title_ko": "폴란드의 산업 생산량은 6월에 7.6% 증가하여 예측을 능가합니다.",
       "summary_ko": ""
     },
     {
@@ -51,25 +58,18 @@
       "summary_ko": ""
     },
     {
-      "title": "UK chief financial officers turn more hopeful about AI",
-      "link": "https://www.investing.com/news/economic-indicators/uk-chief-financial-officers-turn-more-hopeful-about-ai-4799751",
-      "summary": "",
-      "title_ko": "영국 최고재무책임자 (CFO) 가 인공지능에 대해 더 희망적으로 변",
-      "summary_ko": ""
+      "title": "Japanese Yen: BoJ expectations skewed to upside – BBH",
+      "link": "https://www.fxstreet.com/news/japanese-yen-boj-expectations-skewed-to-upside-bbh-202607200959",
+      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad expects Japan’s June Consumer Price Index (CPI) to edge higher across headline and core measures, with core ex fresh food and energy steady at 1.8%.",
+      "title_ko": "일본 엔화: BOJ 기대치 상향 조정 – BBH",
+      "summary_ko": "Brown Brothers Harriman (BBH) 의 Elias Haddad는 일본의 6월 소비자 물가 지수 (CPI) 가 헤드라인과 핵심 지표에서 우위를 차지할 것으로 예상하며, 핵심 신선 식품 및 에너지는 1.8% 로 꾸준히 증가할 것으로 예상합니다."
     },
     {
-      "title": "Euro trims gains as the Pound strengthens ahead of Andy Burnham’s nomination",
-      "link": "https://www.fxstreet.com/news/euro-trims-gains-as-the-pound-strengthens-ahead-of-andy-burnhams-nomination-202607200631",
-      "summary": "The Euro (EUR) ticks lower against the  British Pound (GBP) on Monday, trading at 0.8495 at the time of writing, as last week’s rebound from 13-month lows at 0.8455 failed to consolidate above 0.8500.",
-      "title_ko": "Andy Burnham의 지명을 앞두고 파운드화가 강화됨에 따라 Euro 트림이 증가합니다.",
-      "summary_ko": "유로 (EUR) 는 월요일 영국 파운드 (GBP) 에 대해 하락하며, 지난주 13개월 최저치에서 0.8455로 반등한 것이 0.8500을 초과하여 통합하지 못했기 때문에 작성 당시 0.8495로 거래되었습니다."
-    },
-    {
-      "title": "Oil: Disruptions lift prices and speculative longs – ING",
-      "link": "https://www.fxstreet.com/news/oil-disruptions-lift-prices-and-speculative-longs-ing-202607200629",
-      "summary": "ING analysts Warren Patterson and Ewa Manthey note that Brent Oil has broken above US$90 as escalating conflict in the Persian Gulf and potential chokepoint closures disrupt vessel flows.",
-      "title_ko": "석유: 혼란으로 인한 가격 상승 및 투기적 장기 상승 – ING",
-      "summary_ko": "ING 분석가 워렌 패터슨 (Warren Patterson) 과 에바 만테이 (Ewa Manthey) 는 브렌트유가 페르시아만의 분쟁이 심화되고 잠재적인 초크포인트 폐쇄가 선박 흐름을 방해함에 따라 US $ 90를 초과하여 파손되었다고 지적합니다."
+      "title": "Euro: Growth validation needed for value case – BNY",
+      "link": "https://www.fxstreet.com/news/euro-growth-validation-needed-for-value-case-bny-202607200951",
+      "summary": "BNY’s Geoff Yu argues that Euro (EUR) assets show emerging value as the European Central Bank (ECB) holds policy and inflation pressures ease, but stresses that Purchasing Managers’ Index (PMI) data and earnings must con",
+      "title_ko": "유로: 가치 사례에 대한 성장 검증 필요 – BNY",
+      "summary_ko": "BNY의 제프 유 (Geoff Yu) 는 유럽 중앙 은행 (ECB) 이 정책 및 인플레이션 압력을 완화함에 따라 유로 (EUR) 자산이 신흥 가치를 보여준다고 주장하지만 구매 관리자 지수 (PMI) 데이터와 수익이"
     }
   ]
 }

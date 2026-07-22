@@ -1,32 +1,53 @@
 {
-  "updated_at_utc": "2026-07-22 07:13:40 UTC",
+  "updated_at_utc": "2026-07-22 09:59:31 UTC",
   "items": [
     {
-      "title": "Japan stocks lower at close of trade; Nikkei 225 down 0.37%",
-      "link": "https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-037-4804761",
+      "title": "Jefferies shuffles Swiss food stocks: Danone downgraded, Nestle raised to Buy",
+      "link": "https://www.investing.com/news/stock-market-news/jefferies-shuffles-swiss-food-stocks-danone-downgraded-nestle-raised-to-buy-4805058",
       "summary": "",
-      "title_ko": "일본 주식은 거래 종료 시점에 하락, 닛케이 225는 0.37% 하락",
+      "title_ko": "Jefferies, 스위스 식품 재고 셔플: Danone 다운그레이드, Nestle Raised to Buy",
       "summary_ko": ""
     },
     {
-      "title": "Bloomsbury Publishing among recipients of Anthropic AI settlement",
-      "link": "https://www.investing.com/news/stock-market-news/bloomsbury-publishing-among-recipients-of-anthropic-ai-settlement-93CH-4804757",
+      "title": "Hiring demand shows signs of improvement, Randstad executives say",
+      "link": "https://www.investing.com/news/stock-market-news/hiring-demand-shows-signs-of-improvement-randstad-executives-say-4805057",
       "summary": "",
-      "title_ko": "Anthropic AI 정착 수혜자 대상 Bloomsbury Publishing",
+      "title_ko": "Randstad 경영진은 채용 수요가 개선될 조짐을 보인다고 말합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Upsales Technology Q2 EBITDA margin rises to 26.2%",
-      "link": "https://www.investing.com/news/stock-market-news/upsales-technology-q2-ebitda-margin-rises-to-262-93CH-4804756",
+      "title": "Prologis tables $18.8 billion takeover proposal for UK’s Segro",
+      "link": "https://www.investing.com/news/stock-market-news/prologis-tables-188-billion-takeover-proposal-for-uks-segro-4805048",
       "summary": "",
-      "title_ko": "상향 판매 기술 2분기 EBITDA 마진 26.2% 로 상승",
+      "title_ko": "Prologis, 영국의 Segro에 대한 $ 188억 인수 제안 표",
       "summary_ko": ""
     },
     {
-      "title": "MBB raises full-year margin outlook after Q2 earnings jump",
-      "link": "https://www.investing.com/news/stock-market-news/mbb-raises-fullyear-margin-outlook-after-q2-earnings-jump-93CH-4804752",
+      "title": "Why is Hochschild Mining stock gaining today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-hochschild-mining-stock-gaining-today-93CH-4805046",
       "summary": "",
-      "title_ko": "MBB, 2분기 실적 급증 후 전체 연도 마진 전망 상향",
+      "title_ko": "오늘 Hochschild 채굴 재고가 증가하는 이유는 무엇입니까?",
+      "summary_ko": ""
+    },
+    {
+      "title": "UK house prices rose by 2.7% in year to May, ONS data shows",
+      "link": "https://www.investing.com/news/economic-indicators/uk-house-prices-rose-by-27-in-year-to-may-ons-data-shows-4804985",
+      "summary": "",
+      "title_ko": "영국 주택 가격은 5월까지 전년 대비 2.7% 상승했습니다. ONS 데이터에 따르면",
+      "summary_ko": ""
+    },
+    {
+      "title": "Canada FM urges Middle East de-escalation, calls South China Sea confrontation ’troubling’",
+      "link": "https://www.investing.com/news/economic-indicators/canada-fm-urges-middle-east-deescalation-calls-south-china-sea-confrontation-troubling-4804974",
+      "summary": "",
+      "title_ko": "캐나다 FM은 중동 탈퇴를 촉구하며 남중국해 대결을 ’골칫거리’ 라고 부른다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "South Africa’s June inflation rises to 5.0%, above forecast",
+      "link": "https://www.investing.com/news/economic-indicators/south-africas-june-inflation-rises-to-50-above-forecast-93CH-4804903",
+      "summary": "",
+      "title_ko": "남아프리카공화국의 6월 물가상승률은 5.0% 로 전망치를 상회합니다.",
       "summary_ko": ""
     },
     {
@@ -35,41 +56,6 @@
       "summary": "",
       "title_ko": "영국 6월 물가상승률 2.6% 로 14개월 최저치로 완화",
       "summary_ko": ""
-    },
-    {
-      "title": "Japan trade balance shrinks in June as high imports offset export strength",
-      "link": "https://www.investing.com/news/economic-indicators/japan-trade-balance-shrinks-in-june-as-high-imports-offset-export-strength-4804497",
-      "summary": "",
-      "title_ko": "높은 수입이 수출 강도를 상쇄함에 따라 6월 일본 무역수지 축소",
-      "summary_ko": ""
-    },
-    {
-      "title": "US, Mexico resume USMCA trade talks as Trump hits Canada with new tariffs",
-      "link": "https://www.investing.com/news/economic-indicators/us-mexico-resume-usmca-trade-talks-as-trump-hits-canada-with-new-tariffs-4802492",
-      "summary": "",
-      "title_ko": "미국, 멕시코, 트럼프가 새로운 관세로 캐나다를 강타하면서 USMCA 무역 회담 재개",
-      "summary_ko": ""
-    },
-    {
-      "title": "UK employer pay awards hold at 3.3%, Brightmine says",
-      "link": "https://www.investing.com/news/economic-indicators/uk-employer-pay-awards-hold-at-33-brightmine-says-4804440",
-      "summary": "",
-      "title_ko": "Brightmine은 영국 고용주 임금 상여 보류율이 3.3% 라고 말합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "British Pound: Fiscal risks cloud outlook – Commerzbank",
-      "link": "https://www.fxstreet.com/news/british-pound-fiscal-risks-cloud-outlook-commerzbank-202607220649",
-      "summary": "Commerzbank’s Thu Lan Nguyen notes that recent optimism around United Kingdom (UK) Prime Minister Burnham faded quickly, with British Pound (GBP) gains versus Euro fully reversed.",
-      "title_ko": "영국 파운드: 재정 위험 클라우드 전망 – Commerzbank",
-      "summary_ko": "코메르츠방크 (Commerzbank) 의 투 란 응우옌 (Thu Lan Nguyen) 은 영국 (영국) 총리 번햄 (Burnham) 에 대한 최근의 낙관론이 영국 파운드 (GBP) 의 이익과 유로화의 이익이 완전히 뒤바뀌면서 빠르게 퇴색했다고 지적했다."
-    },
-    {
-      "title": "Equities: Chip rebound offsets rates repricing – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/equities-chip-rebound-offsets-rates-repricing-deutsche-bank-202607220633",
-      "summary": "Deutsche Bank’s Jim Reid notes that despite higher United States (US) Treasury yields and renewed speculation about a July Fed rate hike, US equities advanced, led by a strong recovery in chip stocks.",
-      "title_ko": "주식: 칩 반등 상계 금리 재 책정 – Deutsche Bank",
-      "summary_ko": "도이치뱅크의 짐 리드 (Jim Reid) 는 미국 국채 수익률이 높아지고 7월 연준 금리 인상에 대한 투기가 재개되었음에도 불구하고 미국 주식은 칩 주식의 강한 회복을 주도하며 선진화되었다고 지적했다."
     }
   ]
 }

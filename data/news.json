@@ -1,46 +1,53 @@
 {
-  "updated_at_utc": "2026-07-23 02:54:28 UTC",
+  "updated_at_utc": "2026-07-23 05:56:26 UTC",
   "items": [
     {
-      "title": "Macquarie investors back insider CEO pick to keep bank strategy on course",
-      "link": "https://www.investing.com/news/stock-market-news/macquarie-investors-back-insider-ceo-pick-to-keep-bank-strategy-on-course-4807380",
+      "title": "Macquarie taps veteran Greg Ward to succeed high-profile CEO Wikramanayake",
+      "link": "https://www.investing.com/news/stock-market-news/macquarie-ceo-wikramanayake-to-retire-profit-from-cgm-unit-rises-4807236",
       "summary": "",
-      "title_ko": "맥쿼리 투자자들은 내부자 CEO가 은행 전략을 계속 진행하도록 선택합니다.",
+      "title_ko": "맥쿼리는 베테랑 그렉 워드 (Greg Ward) 를 눌러 유명 CEO 위크라마나야케 (Wikramanayake) 의 뒤를 잇는다.",
       "summary_ko": ""
     },
     {
-      "title": "GEO Group worker charged with assault in shooting of ICE protester in Colorado",
-      "link": "https://www.investing.com/news/stock-market-news/geo-group-worker-charged-with-assault-in-shooting-of-ice-protester-in-colorado-4807347",
+      "title": "Hyundai Motor reports 21% drop in Q2 operating profit, misses forecasts",
+      "link": "https://www.investing.com/news/stock-market-news/hyundai-motor-reports-21-drop-in-q2-operating-profit-misses-forecasts-4807510",
       "summary": "",
-      "title_ko": "콜로라도에서 얼음 시위대를 총격한 혐의로 기소된 GEO 그룹 노동자",
+      "title_ko": "현대자동차, 2분기 영업이익 21% 감소, 실적 전망치 상실",
       "summary_ko": ""
     },
     {
-      "title": "Why is Paladin Energy stock surging today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-paladin-energy-stock-surging-today-93CH-4807358",
+      "title": "Renault first-half sales volumes slip 0.4% vs year-ago period",
+      "link": "https://www.investing.com/news/stock-market-news/renault-firsthalf-sales-volumes-slip-04-vs-yearago-period-4807526",
       "summary": "",
-      "title_ko": "오늘날 팔라딘 에너지 재고가 급증하는 이유는 무엇입니까?",
+      "title_ko": "르노삼성 상반기 판매량 전년 동기 대비 0.4% 감소",
       "summary_ko": ""
     },
     {
-      "title": "US stock futures edge higher; Tesla, Alphabet dip after Q2 earnings",
-      "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-edge-higher-tesla-alphabet-dip-after-q2-earnings-4807348",
+      "title": "Nestle beats Q2 organic sales expectations, forms waters joint venture",
+      "link": "https://www.investing.com/news/stock-market-news/nestle-beats-q2-organic-sales-expectations-forms-waters-joint-venture-4807509",
       "summary": "",
-      "title_ko": "미국 주식 선물 우위 상승, 2분기 실적 이후 테슬라, 알파벳 하락",
+      "title_ko": "네슬레, 2분기 유기적 판매 기대치 뛰어넘어 수역 합작 투자 형성",
       "summary_ko": ""
     },
     {
-      "title": "Australia jobs surge in June, unemployment steady as more look for work",
-      "link": "https://www.investing.com/news/economic-indicators/australia-jobs-surge-in-june-unemployment-steady-as-more-look-for-work-4807372",
+      "title": "Singapore core inflation rises to 1.6% in June, matches forecasts",
+      "link": "https://www.investing.com/news/economic-indicators/singapore-core-inflation-rises-to-16-in-june-matches-forecasts-4807499",
       "summary": "",
-      "title_ko": "6월 호주 일자리 급증, 일자리가 늘어남에 따라 실업률은 꾸준히 증가",
+      "title_ko": "싱가포르 핵심 인플레이션은 6월 1.6% 로 상승, 예측치와 일치",
       "summary_ko": ""
     },
     {
-      "title": "Australia jobs surge above forecasts in June, unemployment rate holds steady",
+      "title": "Australia jobs surge above forecasts in June, bolstering RBA hike bets",
       "link": "https://www.investing.com/news/economic-indicators/australia-jobs-surge-above-forecasts-in-june-unemployment-rate-holds-steady-4807379",
       "summary": "",
-      "title_ko": "6월 호주 일자리 급증 전망치 상회, 실업률 꾸준",
+      "title_ko": "6월 호주 일자리 급증 전망치 상회, RBA 하이크 베팅 강화",
+      "summary_ko": ""
+    },
+    {
+      "title": "Australia jobs blow past expectations in June, cements bets of another rate rise",
+      "link": "https://www.investing.com/news/economic-indicators/australia-jobs-surge-in-june-unemployment-steady-as-more-look-for-work-4807372",
+      "summary": "",
+      "title_ko": "호주의 일자리는 6월의 기대치를 넘어섰고, 또 다른 금리 상승의 시멘트 베팅",
       "summary_ko": ""
     },
     {
@@ -48,13 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/south-korea-q2-gdp-grows-more-than-expected-on-ai-chips-boost-4807264",
       "summary": "",
       "title_ko": "한국 2분기 국내총생산 (GDP) 은 인공지능 (AI), 칩 부스트 (chips boost) 로 예상보다",
-      "summary_ko": ""
-    },
-    {
-      "title": "New US 25% tariff hits billions of dollars in Brazilian exports",
-      "link": "https://www.investing.com/news/economic-indicators/new-us-25-tariff-hits-billions-of-dollars-in-brazilian-exports-4805104",
-      "summary": "",
-      "title_ko": "브라질 수출에서 수십억 달러에 달하는 새로운 미국 25% 관세 부과",
       "summary_ko": ""
     }
   ]

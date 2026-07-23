@@ -1,32 +1,53 @@
 {
-  "updated_at_utc": "2026-07-22 23:30:07 UTC",
+  "updated_at_utc": "2026-07-23 02:54:28 UTC",
   "items": [
     {
-      "title": "US House advances Trump budget outline, election voting restrictions",
-      "link": "https://www.investing.com/news/stock-market-news/us-house-advances-trump-budget-outline-election-voting-restrictions-4807237",
+      "title": "Macquarie investors back insider CEO pick to keep bank strategy on course",
+      "link": "https://www.investing.com/news/stock-market-news/macquarie-investors-back-insider-ceo-pick-to-keep-bank-strategy-on-course-4807380",
       "summary": "",
-      "title_ko": "미국 하원, 트럼프 예산 개요, 선거 투표 제한",
+      "title_ko": "맥쿼리 투자자들은 내부자 CEO가 은행 전략을 계속 진행하도록 선택합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Southwest Airline lowers 2026 profit floor as fuel costs blunt pricing gains",
-      "link": "https://www.investing.com/news/stock-market-news/southwest-airlines-forecasts-thirdquarter-profit-below-expectations-as-fuel-costs-soar-4806919",
+      "title": "GEO Group worker charged with assault in shooting of ICE protester in Colorado",
+      "link": "https://www.investing.com/news/stock-market-news/geo-group-worker-charged-with-assault-in-shooting-of-ice-protester-in-colorado-4807347",
       "summary": "",
-      "title_ko": "Southwest Airline은 연료 비용이 둔한 가격 책정 이득에 따라 2026 이익 층을 낮춥니다.",
+      "title_ko": "콜로라도에서 얼음 시위대를 총격한 혐의로 기소된 GEO 그룹 노동자",
       "summary_ko": ""
     },
     {
-      "title": "Macquarie CEO Wikramanayake to retire; profit from CGM unit rises",
-      "link": "https://www.investing.com/news/stock-market-news/macquarie-ceo-wikramanayake-to-retire-profit-from-cgm-unit-rises-4807236",
+      "title": "Why is Paladin Energy stock surging today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-paladin-energy-stock-surging-today-93CH-4807358",
       "summary": "",
-      "title_ko": "맥쿼리 CEO 위크라마나야케 은퇴, CGM 단위 이익 증가",
+      "title_ko": "오늘날 팔라딘 에너지 재고가 급증하는 이유는 무엇입니까?",
       "summary_ko": ""
     },
     {
-      "title": "Nvidia donates supercomputer to U.S. military university",
-      "link": "https://www.investing.com/news/stock-market-news/nvidia-donates-supercomputer-to-us-military-university-4807235",
+      "title": "US stock futures edge higher; Tesla, Alphabet dip after Q2 earnings",
+      "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-edge-higher-tesla-alphabet-dip-after-q2-earnings-4807348",
       "summary": "",
-      "title_ko": "엔비디아, 미군 대학에 슈퍼컴퓨터 기증",
+      "title_ko": "미국 주식 선물 우위 상승, 2분기 실적 이후 테슬라, 알파벳 하락",
+      "summary_ko": ""
+    },
+    {
+      "title": "Australia jobs surge in June, unemployment steady as more look for work",
+      "link": "https://www.investing.com/news/economic-indicators/australia-jobs-surge-in-june-unemployment-steady-as-more-look-for-work-4807372",
+      "summary": "",
+      "title_ko": "6월 호주 일자리 급증, 일자리가 늘어남에 따라 실업률은 꾸준히 증가",
+      "summary_ko": ""
+    },
+    {
+      "title": "Australia jobs surge above forecasts in June, unemployment rate holds steady",
+      "link": "https://www.investing.com/news/economic-indicators/australia-jobs-surge-above-forecasts-in-june-unemployment-rate-holds-steady-4807379",
+      "summary": "",
+      "title_ko": "6월 호주 일자리 급증 전망치 상회, 실업률 꾸준",
+      "summary_ko": ""
+    },
+    {
+      "title": "South Korea Q2 GDP grows more than expected on AI, chips boost",
+      "link": "https://www.investing.com/news/economic-indicators/south-korea-q2-gdp-grows-more-than-expected-on-ai-chips-boost-4807264",
+      "summary": "",
+      "title_ko": "한국 2분기 국내총생산 (GDP) 은 인공지능 (AI), 칩 부스트 (chips boost) 로 예상보다",
       "summary_ko": ""
     },
     {
@@ -34,27 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/new-us-25-tariff-hits-billions-of-dollars-in-brazilian-exports-4805104",
       "summary": "",
       "title_ko": "브라질 수출에서 수십억 달러에 달하는 새로운 미국 25% 관세 부과",
-      "summary_ko": ""
-    },
-    {
-      "title": "Crude Oil Inventories Surge, Surpassing Forecasts and Previous Levels",
-      "link": "https://www.investing.com/news/economic-indicators/crude-oil-inventories-surge-surpassing-forecasts-and-previous-levels-93CH-4806383",
-      "summary": "",
-      "title_ko": "원유 재고 급증, 예측치 및 이전 수준 능가",
-      "summary_ko": ""
-    },
-    {
-      "title": "UK house prices rose by 2.7% in year to May, ONS data shows",
-      "link": "https://www.investing.com/news/economic-indicators/uk-house-prices-rose-by-27-in-year-to-may-ons-data-shows-4804985",
-      "summary": "",
-      "title_ko": "영국 주택 가격은 5월까지 전년 대비 2.7% 상승했습니다. ONS 데이터에 따르면",
-      "summary_ko": ""
-    },
-    {
-      "title": "Canada FM urges Middle East de-escalation, calls South China Sea confrontation ’troubling’",
-      "link": "https://www.investing.com/news/economic-indicators/canada-fm-urges-middle-east-deescalation-calls-south-china-sea-confrontation-troubling-4804974",
-      "summary": "",
-      "title_ko": "캐나다 FM은 중동 탈퇴를 촉구하며 남중국해 대결을 ’골칫거리’ 라고 부른다.",
       "summary_ko": ""
     }
   ]

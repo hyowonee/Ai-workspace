@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-07-23 20:13:52 UTC",
+  "updated_at_utc": "2026-07-23 21:34:53 UTC",
   "items": [
     {
-      "title": "Teladoc, GoodRx shares fall on OpenAI health feature launch",
-      "link": "https://www.investing.com/news/stock-market-news/teladoc-goodrx-shares-fall-on-openai-health-feature-launch-93CH-4809834",
+      "title": "Tech company bonds fall on AI spending and oil price concerns",
+      "link": "https://www.investing.com/news/stock-market-news/tech-company-bonds-fall-on-ai-spending-and-oil-price-concerns-93CH-4810122",
       "summary": "",
-      "title_ko": "Teladoc, GoodRx 공유, OpenAI 상태 기능 출시로 하락",
+      "title_ko": "기술 회사 채권은 AI 지출 및 유가 우려에 하락",
       "summary_ko": ""
     },
     {
-      "title": "Moody’s changes Matador Resources outlook to stable on debt rise",
-      "link": "https://www.investing.com/news/stock-market-news/moodys-changes-matador-resources-outlook-to-stable-on-debt-rise-93CH-4809825",
+      "title": "Top Networking and Optical Tech Stocks to Watch, According to Needham",
+      "link": "https://www.investing.com/news/stock-market-news/top-networking-and-optical-tech-stocks-to-watch-according-to-needham-93CH-4810109",
       "summary": "",
-      "title_ko": "무디스의 변화 투우사 자원, 부채 증가에 안정적 전망",
+      "title_ko": "Needham에 따르면 주목해야 할 최고의 네트워킹 및 광학 기술 주식",
       "summary_ko": ""
     },
     {
-      "title": "US Justice Department streamlines merger review process",
-      "link": "https://www.investing.com/news/stock-market-news/us-justice-department-streamlines-merger-review-process-4809434",
+      "title": "US prosecutors drop New York Times subpoenas in Trump plane leak probe",
+      "link": "https://www.investing.com/news/stock-market-news/us-judge-to-weigh-new-york-times-subpoenas-over-trump-plane-reporting-4808063",
       "summary": "",
-      "title_ko": "미국 법무부, 합병 검토 절차 간소화",
+      "title_ko": "미국 검찰, 트럼프 비행기 누출 조사에서 뉴욕타임스 소환장 떨어뜨려",
       "summary_ko": ""
     },
     {
-      "title": "Synopsys outlook raised to positive by S&amp;P on debt reduction",
-      "link": "https://www.investing.com/news/stock-market-news/synopsys-outlook-raised-to-positive-by-sp-on-debt-reduction-93CH-4809819",
+      "title": "Pentagon awards Oracle nearly $7 billion deal in latest software consolidation push",
+      "link": "https://www.investing.com/news/stock-market-news/pentagon-awards-oracle-nearly-7-billion-deal-in-latest-software-consolidation-push-4810096",
       "summary": "",
-      "title_ko": "S&amp;P가 부채 감축에 대해 긍정적으로 제기한 개요",
+      "title_ko": "펜타곤, 오라클에 약 70억 달러 규모의 최신 소프트웨어 통합 계약 체결 ($ 7 billion deal in latest software consolidation push)",
+      "summary_ko": ""
+    },
+    {
+      "title": "Trump to impose forced labor duties on Friday as temporary 10% US tariffs expire",
+      "link": "https://www.investing.com/news/economic-indicators/trump-to-impose-forced-labor-duties-on-friday-as-temporary-10-us-tariffs-expire-4810104",
+      "summary": "",
+      "title_ko": "트럼프, 미국 임시 10% 관세 만료로 금요일에 강제 노동 관세 부과",
       "summary_ko": ""
     },
     {
@@ -48,13 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/us-weekly-jobless-claims-drop-to-187000-4808983",
       "summary": "",
       "title_ko": "미국 주간 실직 보험금 청구 건수는 187,000건으로 1969년 이후 최저치를 기록했습니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "U.S. Initial Jobless Claims Drop Significantly, Surpassing Expectations",
-      "link": "https://www.investing.com/news/economic-indicators/us-initial-jobless-claims-drop-significantly-surpassing-expectations-93CH-4808821",
-      "summary": "",
-      "title_ko": "미국의 초기 실직 보험금 청구가 크게 감소하여 기대치를 뛰어넘습니다.",
       "summary_ko": ""
     }
   ]

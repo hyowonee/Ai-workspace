@@ -1,32 +1,46 @@
 {
-  "updated_at_utc": "2026-07-23 11:11:53 UTC",
+  "updated_at_utc": "2026-07-23 13:00:53 UTC",
   "items": [
     {
-      "title": "Google hit with $1 billion EU fine, in ’constructive’ talks to avoid more penalties",
-      "link": "https://www.investing.com/news/stock-market-news/google-hit-with-1-billion-eu-fine-first-under-landmark-rules-4808059",
+      "title": "Rollins shares plunge premarket after Q2 miss triggers downgrades",
+      "link": "https://www.investing.com/news/stock-market-news/rollins-shares-plunge-premarket-after-q2-miss-triggers-downgrades-4808952",
       "summary": "",
-      "title_ko": "Google은 더 많은 페널티를 피하기 위해 ’건설적인’ 대화에서 $ 10 억의 EU 벌금을 부과했습니다.",
+      "title_ko": "2분기 미스 트리거 다운그레이드 후 롤린스 주식 급락 프리마켓",
       "summary_ko": ""
     },
     {
-      "title": "Blackstone’s quarterly profit gets boost from asset pile, AI investment gains",
-      "link": "https://www.investing.com/news/stock-market-news/blackstones-quarterly-profit-gets-boost-from-asset-pile-ai-investment-gains-4808255",
+      "title": "Why is MarineMax stock rallying today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-marinemax-stock-rallying-today-93CH-4808919",
       "summary": "",
-      "title_ko": "Blackstone의 분기별 이익은 자산 더미, AI 투자 이익에서 증가합니다.",
+      "title_ko": "MarineMax 주식이 오늘 랠리하는 이유는 무엇입니까?",
       "summary_ko": ""
     },
     {
-      "title": "IBM buys HRL Laboratories in shift to two-track quantum computing strategy",
-      "link": "https://www.investing.com/news/stock-market-news/ibm-buys-hrl-laboratories-in-shift-to-twotrack-quantum-computing-strategy-4808320",
+      "title": "Saudi Arabia stocks higher at close of trade; Tadawul All Share up 0.27%",
+      "link": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-higher-at-close-of-trade-tadawul-all-share-up-027-4808916",
       "summary": "",
-      "title_ko": "IBM, 투 트랙 양자 컴퓨팅 전략으로 전환하여 HRL 연구소 인수",
+      "title_ko": "사우디아라비아 주식은 거래 종료 시점에 더 높습니다. Tadawul All Share up 0.27%",
       "summary_ko": ""
     },
     {
-      "title": "Renault’s hit EV helps fend off Chinese rivals as quarterly sales rebound",
-      "link": "https://www.investing.com/news/stock-market-news/renault-firsthalf-sales-volumes-slip-04-vs-yearago-period-4807526",
+      "title": "Harley-Davidson posts lower quarterly results as raw material costs rise",
+      "link": "https://www.investing.com/news/stock-market-news/harleydavidson-posts-lower-quarterly-results-as-raw-material-costs-rise-4808901",
       "summary": "",
-      "title_ko": "르노의 히트 EV는 분기별 매출 반등에 따라 중국 라이벌을 물리치는 데 도움이 됩니다.",
+      "title_ko": "Harley-Davidson은 원자재 비용이 상승함에 따라 분기별 실적을 낮추었습니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "US investors rethink bonds’ role as inflation reshapes portfolios",
+      "link": "https://www.investing.com/news/economic-indicators/analysisus-investors-rethink-bonds-role-as-inflation-reshapes-portfolios-4808031",
+      "summary": "",
+      "title_ko": "미국 투자자들은 인플레이션 재편 포트폴리오에 대한 채권의 역할을 재고합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "U.S. Initial Jobless Claims Drop Significantly, Surpassing Expectations",
+      "link": "https://www.investing.com/news/economic-indicators/us-initial-jobless-claims-drop-significantly-surpassing-expectations-93CH-4808821",
+      "summary": "",
+      "title_ko": "미국의 초기 실직 보험금 청구가 크게 감소하여 기대치를 뛰어넘습니다.",
       "summary_ko": ""
     },
     {
@@ -41,20 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/analysispakistans-us-funding-push-after-iran-war-role-draws-skepticism-from-economists-4808045",
       "summary": "",
       "title_ko": "분석-이란 전쟁 이후 파키스탄의 미국 자금 지원은 경제학자들로부터 회의론을 불러일으킨다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Analysis-US investors rethink bonds’ role as inflation reshapes portfolios",
-      "link": "https://www.investing.com/news/economic-indicators/analysisus-investors-rethink-bonds-role-as-inflation-reshapes-portfolios-4808031",
-      "summary": "",
-      "title_ko": "분석-미국 투자자들은 인플레이션 재편 포트폴리오로서 채권의 역할을 재고",
-      "summary_ko": ""
-    },
-    {
-      "title": "Australia jobs blow past expectations in June, cements bets of another rate rise",
-      "link": "https://www.investing.com/news/economic-indicators/australia-jobs-surge-in-june-unemployment-steady-as-more-look-for-work-4807372",
-      "summary": "",
-      "title_ko": "호주의 일자리는 6월의 기대치를 넘어섰고, 또 다른 금리 상승의 시멘트 베팅",
       "summary_ko": ""
     }
   ]

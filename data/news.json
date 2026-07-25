@@ -1,6 +1,20 @@
 {
-  "updated_at_utc": "2026-07-24 23:02:40 UTC",
+  "updated_at_utc": "2026-07-25 01:02:06 UTC",
   "items": [
+    {
+      "title": "Nvidia, SK Group unveil $500 billion-plus AI data centers initiative, memory partnership",
+      "link": "https://www.investing.com/news/stock-market-news/nvidia-sk-group-unveil-500-billionplus-ai-data-centers-initiative-memory-partnership-4812652",
+      "summary": "",
+      "title_ko": "엔비디아, SK 그룹, 5천억 달러 규모 AI 데이터 센터 이니셔티브 공개, 메모리 파트너십 $",
+      "summary_ko": ""
+    },
+    {
+      "title": "BofA Names Top Infrastructure Software Stocks Led by Datadog",
+      "link": "https://www.investing.com/news/stock-market-news/bofa-names-top-infrastructure-software-stocks-led-by-datadog-93CH-4812643",
+      "summary": "",
+      "title_ko": "BofA, Datadog가 이끄는 최고의 인프라 소프트웨어 주식 명명",
+      "summary_ko": ""
+    },
     {
       "title": "Nasdaq lags on angst over AI spending ahead of earnings reports",
       "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-rise-after-tech-rout-mideast-tariffs-in-focus-4810955",
@@ -16,24 +30,10 @@
       "summary_ko": ""
     },
     {
-      "title": "US targets $2.2 billion in rebates to airlines that retrofit planes over wireless interference",
-      "link": "https://www.investing.com/news/stock-market-news/us-targets-22-billion-in-rebates-to-airlines-that-retrofit-planes-over-wireless-interference-4812574",
-      "summary": "",
-      "title_ko": "미국은 무선 간섭을 통해 비행기를 개조하는 항공사에 22억 $ 의 환급을 목표로 하고 있습니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Qualcomm tells customers of double-digit price increases, Bloomberg News reports",
-      "link": "https://www.investing.com/news/stock-market-news/qualcomm-tells-customers-of-doubledigit-price-increases-bloomberg-news-reports-4812346",
-      "summary": "",
-      "title_ko": "블룸버그 뉴스에 따르면 퀄컴은 고객에게 두 자릿수 가격 인상을 알려줍니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Brazil eases spending block and improves 2026 deficit view",
+      "title": "Brazil eases spending curb despite revenue shortfall from dividend tax",
       "link": "https://www.investing.com/news/economic-indicators/brazil-eases-spending-block-and-improves-2026-deficit-view-4812401",
       "summary": "",
-      "title_ko": "브라질, 지출 차단 완화 및 2026년 적자 전망 개선",
+      "title_ko": "브라질, 배당세로 인한 매출 부족에도 불구하고 지출 억제 완화",
       "summary_ko": ""
     },
     {

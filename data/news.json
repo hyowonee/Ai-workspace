@@ -1,6 +1,13 @@
 {
-  "updated_at_utc": "2026-07-25 09:17:42 UTC",
+  "updated_at_utc": "2026-07-25 10:52:17 UTC",
   "items": [
+    {
+      "title": "Michigan battles massive outbreak as state reels from Trump cuts",
+      "link": "https://www.investing.com/news/stock-market-news/michigan-battles-massive-outbreak-as-state-reels-from-trump-cuts-4812766",
+      "summary": "",
+      "title_ko": "미시간은 트럼프의 삭감으로 인한 주정부 릴로 대규모 발발에 맞서 싸운다.",
+      "summary_ko": ""
+    },
     {
       "title": "Samsung Elec, SK Group seal $950 billion deals as South Korea hosts AI powers",
       "link": "https://www.investing.com/news/stock-market-news/samsung-elec-sk-group-seal-950-billion-deals-as-south-korea-hosts-ai-powers-4812752",
@@ -9,31 +16,31 @@
       "summary_ko": ""
     },
     {
-      "title": "Samsung and SK Hynix unveil $950 billion US chip supply partnerships",
+      "title": "Samsung Elec wins $200 billion Broadcom AI chip partnership, boosting foundry push",
+      "link": "https://www.investing.com/news/stock-market-news/samsung-elec-wins-200-billion-broadcom-ai-chip-partnership-boosting-foundry-push-4812757",
+      "summary": "",
+      "title_ko": "삼성전자가 2000억 달러 규모의 브로드컴 AI 칩 파트너십을 수주하며 파운드리 푸시 (Foundry Push) 를 강화했다. $ 2000억 달러 규모의 브로드컴 AI",
+      "summary_ko": ""
+    },
+    {
+      "title": "Samsung and SK Hynix unveil $950 billion U.S. chip supply partnerships",
       "link": "https://www.investing.com/news/stock-market-news/samsung-and-sk-hynix-unveil-950-billion-us-chip-supply-partnerships-4812751",
       "summary": "",
       "title_ko": "삼성과 SK 하이닉스, $ 9,500억 규모의 미국 칩 공급 파트너십 공개",
       "summary_ko": ""
     },
     {
-      "title": "Kuwait’s KPC signs $16 billion lease and leaseback deal for oil pipeline network",
-      "link": "https://www.investing.com/news/stock-market-news/kuwaits-kpc-signs-16-billion-lease-and-leaseback-deal-with-blackstone-kkr-brookfield-for-oil-pipeline-network-4812747",
+      "title": "This wave of Trump tariffs is likely here to stay; more are coming",
+      "link": "https://www.investing.com/news/economic-indicators/this-wave-of-trump-tariffs-is-likely-here-to-stay-more-are-coming-4812764",
       "summary": "",
-      "title_ko": "쿠웨이트의 KPC, 석유 파이프라인 네트워크를 위한 160억 달러 규모의 리스 및 리스백 계약 체결 ($ 160 billion lease and leaseback deal for oil pipeline network)",
+      "title_ko": "이 트럼프 관세 물결은 여기에 머물 가능성이 높습니다. 더 많은 것이 오고 있습니다.",
       "summary_ko": ""
     },
     {
-      "title": "China fines Trip.com $700 million for abusing online travel dominance",
-      "link": "https://www.investing.com/news/stock-market-news/china-fines-tripcom-700-million-for-abusing-online-travel-dominance-4812726",
-      "summary": "",
-      "title_ko": "중국, 온라인 여행 지배력 남용에 Trip.com에 $ 7억 벌금 부과",
-      "summary_ko": ""
-    },
-    {
-      "title": "Guterres set to be first UN chief to visit Syria since before 2011 war",
+      "title": "Guterres makes first visit to Syria by UN chief since before civil war",
       "link": "https://www.investing.com/news/economic-indicators/guterres-set-to-be-first-un-chief-to-visit-syria-since-before-2011-war-4812730",
       "summary": "",
-      "title_ko": "구테흐스는 2011년 전쟁 이전부터 시리아를 방문한 최초의 유엔 사무총장이 되었다.",
+      "title_ko": "구테헤스, 내전 전부터 유엔 사무총장 첫 시리아 방문",
       "summary_ko": ""
     },
     {
@@ -48,13 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/jpmorgan-warns-super-el-nino-and-oil-shock-could-prop-up-global-inflation-4812197",
       "summary": "",
       "title_ko": "JP모건, ’슈퍼’ 엘니뇨와 오일 쇼크가 글로벌 인플레이션을 촉진할 수 있다고 경고",
-      "summary_ko": ""
-    },
-    {
-      "title": "New home sales surpass expectations, signaling robust housing demand",
-      "link": "https://www.investing.com/news/economic-indicators/new-home-sales-surpass-expectations-signaling-robust-housing-demand-93CH-4812041",
-      "summary": "",
-      "title_ko": "신규 주택 판매가 기대치를 뛰어넘어 견고한 주택 수요를 나타냅니다.",
       "summary_ko": ""
     }
   ]

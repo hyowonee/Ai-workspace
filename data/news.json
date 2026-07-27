@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-07-27 00:01:52 UTC",
+  "updated_at_utc": "2026-07-27 04:21:48 UTC",
   "items": [
     {
-      "title": "Nvidia in talks with OpenAI to guarantee $250 billion financing for data center, WSJ reports",
-      "link": "https://www.investing.com/news/stock-market-news/nvidia-in-talks-with-openai-to-guarantee-250-billion-financing-for-data-center-wsj-reports-4812926",
+      "title": "China’s CXMT surges over 500% in Shanghai debut, tops Intel in market value",
+      "link": "https://www.investing.com/news/stock-market-news/chinas-cxmt-surges-470-in-shanghai-debut-after-asias-biggest-2026-ipo-4812945",
       "summary": "",
-      "title_ko": "WSJ는 Nvidia가 OpenAI와 데이터 센터에 대한 $ 2,500억 자금 조달을 보장하기 위해 논의 중이라고 보고합니다.",
+      "title_ko": "중국 CXMT, 상하이 데뷔전에서 500% 이상 급등하며 시장가치 1위",
       "summary_ko": ""
     },
     {
-      "title": "Nvidia to acquire $1 billion of new shares of South Korea’s Naver",
+      "title": "Asia stocks advance ahead of Fed, CXMT soars on market debut",
+      "link": "https://www.investing.com/news/stock-market-news/asia-stocks-advance-ahead-of-fed-catl-rises-cxmt-soars-on-market-debut-4812949",
+      "summary": "",
+      "title_ko": "아시아 증시는 연준을 앞질렀고, CXMT는 시장 데뷔를 앞두고 급등했다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "South Korea’s Naver jumps 10% on Nvidia’s $1 billion investment plan",
       "link": "https://www.investing.com/news/stock-market-news/nvidia-to-acquire-1-billion-of-new-shares-of-south-koreas-naver-4812925",
       "summary": "",
-      "title_ko": "엔비디아, 한국 네이버 신주 $ 10억 인수",
+      "title_ko": "한국 네이버, 엔비디아의 $ 10억 투자 계획에 10% 뛰어들다",
       "summary_ko": ""
     },
     {
-      "title": "Brown-Forman board says Sazerac unsolicited proposal not actionable",
-      "link": "https://www.investing.com/news/stock-market-news/brownforman-board-says-sazerac-unsolicited-proposal-not-actionable-4812924",
+      "title": "Chipmaker CXMT vaults to top of China’s valuation with 470% Shanghai debut surge",
+      "link": "https://www.investing.com/news/stock-market-news/china-memory-chipmaker-cxmt-set-for-shanghai-debut-after-asias-biggest-ipo-4812927",
       "summary": "",
-      "title_ko": "Brown-Forman 이사회는 Sazerac 원치 않는 제안을 실행할 수 없다고 말합니다.",
+      "title_ko": "Chipmaker CXMT Vault, 470% 상하이 데뷔 서지로 중국 밸류에이션 상위권에 진입",
       "summary_ko": ""
     },
     {
-      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-      "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4812915",
+      "title": "China’s industrial profit growth moderates as exports cushion uneven recovery",
+      "link": "https://www.investing.com/news/economic-indicators/chinas-industrial-profit-growth-moderates-amid-patchy-recovery-4812940",
       "summary": "",
-      "title_ko": "러시아 주식은 교역 마감 시점보다 낮습니다. MOEX 러시아 지수는 변동이 없습니다.",
+      "title_ko": "수출이 불균등한 회복세를 보임에 따라 중국의 산업이익 성장세가 완만해짐",
       "summary_ko": ""
     },
     {
@@ -48,13 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/this-wave-of-trump-tariffs-is-likely-here-to-stay-more-are-coming-4812764",
       "summary": "",
       "title_ko": "이 트럼프 관세 물결은 여기에 머물 가능성이 높습니다. 더 많은 것이 오고 있습니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Brazil eases spending curb despite revenue shortfall from dividend tax",
-      "link": "https://www.investing.com/news/economic-indicators/brazil-eases-spending-block-and-improves-2026-deficit-view-4812401",
-      "summary": "",
-      "title_ko": "브라질, 배당세로 인한 매출 부족에도 불구하고 지출 억제 완화",
       "summary_ko": ""
     }
   ]

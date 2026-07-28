@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-07-28 20:00:51 UTC",
+  "updated_at_utc": "2026-07-28 21:38:58 UTC",
   "items": [
     {
-      "title": "Citi Sees Paylocity as Top Pick in HR Software Sector",
-      "link": "https://www.investing.com/news/stock-market-news/citi-sees-paylocity-as-top-pick-in-hr-software-sector-93CH-4817925",
+      "title": "Oreo maker Mondelez beats second-quarter estimates on steady demand",
+      "link": "https://www.investing.com/news/stock-market-news/oreo-maker-mondelez-beats-secondquarter-estimates-on-steady-demand-4818017",
       "summary": "",
-      "title_ko": "Citi는 Paylocity를 HR 소프트웨어 부문에서 최고의 선택으로 보고 있습니다.",
+      "title_ko": "오레오 메이커 몬델레즈, 꾸준한 수요로 2분기 예상치 상회",
       "summary_ko": ""
     },
     {
-      "title": "General Dynamics ticks higher on submarine contract approval report",
-      "link": "https://www.investing.com/news/stock-market-news/general-dynamics-ticks-higher-on-submarine-contract-approval-report-93CH-4817919",
+      "title": "Russia stocks lower at close of trade; MOEX Russia Index down 0.93%",
+      "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-093-4818201",
       "summary": "",
-      "title_ko": "General Dynamics, 잠수함 계약 승인 보고서에서 더 높은 점수 획득",
+      "title_ko": "러시아는 교역 마감 시점에 주가가 낮아진다. MOEX 러시아 지수는 0.93% 하락했다.",
       "summary_ko": ""
     },
     {
-      "title": "Resilient tourists help US travel firms absorb Middle East shock",
-      "link": "https://www.investing.com/news/stock-market-news/resilient-tourists-help-us-travel-firms-absorb-middle-east-shock-4817912",
+      "title": "Lazard revamps advisory business, posts 91% drop in quarterly profit",
+      "link": "https://www.investing.com/news/stock-market-news/lazard-revamps-advisory-business-posts-91-drop-in-quarterly-profit-4818199",
       "summary": "",
-      "title_ko": "탄력적인 관광객은 미국 여행사가 중동의 충격을 흡수할 수 있도록 도와줍니다.",
+      "title_ko": "Lazard, 자문 사업 개편, 게시물 분기별 이익 91% 감소",
       "summary_ko": ""
     },
     {
-      "title": "Apple briefly tops $5 trillion market value for first time",
-      "link": "https://www.investing.com/news/stock-market-news/apple-briefly-becomes-second-company-ever-to-notch-5-trillion-market-value-4817465",
+      "title": "Amazon AWS AI outlook: $244B backlog and margin expansion ahead of earnings",
+      "link": "https://www.investing.com/news/stock-market-news/amazon-aws-ai-outlook-244b-backlog-and-margin-expansion-ahead-of-earnings-93CH-4818194",
       "summary": "",
-      "title_ko": "Apple, 처음으로 시장가치 5조 달러 ($ 5 trillion) 로 잠깐 1위를 차지하다",
+      "title_ko": "Amazon AWS AI 전망: 수익을 앞세운 $ 244B 백로그 및 마진 확장",
+      "summary_ko": ""
+    },
+    {
+      "title": "Crude Stockpiles Rise, Surpassing Forecasts and Previous Levels",
+      "link": "https://www.investing.com/news/economic-indicators/crude-stockpiles-rise-surpassing-forecasts-and-previous-levels-93CH-4818148",
+      "summary": "",
+      "title_ko": "원유 비축량 증가, 예측치 및 이전 수준을 능가",
       "summary_ko": ""
     },
     {
@@ -48,13 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/consumer-confidence-dips-below-expectations-signaling-caution-93CH-4817185",
       "summary": "",
       "title_ko": "소비자 신뢰가 기대치보다 낮아짐, 신호 주의",
-      "summary_ko": ""
-    },
-    {
-      "title": "US single-family home prices increase in May, FHFA says",
-      "link": "https://www.investing.com/news/economic-indicators/us-singlefamily-home-prices-increase-in-may-fhfa-says-4816904",
-      "summary": "",
-      "title_ko": "FHFA에 따르면 5월 미국 단독 주택 가격 인상",
       "summary_ko": ""
     }
   ]

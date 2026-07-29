@@ -1,25 +1,18 @@
 {
-  "updated_at_utc": "2026-07-29 07:19:20 UTC",
+  "updated_at_utc": "2026-07-29 10:08:09 UTC",
   "items": [
     {
-      "title": "European shares edge up on commodities boost; tech drags after SK Hynix miss",
-      "link": "https://www.investing.com/news/stock-market-news/european-shares-edge-up-on-commodities-boost-tech-drags-after-sk-hynix-miss-4818739",
+      "title": "BMW to cut several thousand jobs in latest blow to German auto sector",
+      "link": "https://www.investing.com/news/stock-market-news/bmw-to-cut-several-thousand-jobs-under-voluntary-redundancy-programme-4818773",
       "summary": "",
-      "title_ko": "유럽 증시는 상품 부스트에 엣지 업, SK 하이닉스 미스 이후 기술 끌기",
+      "title_ko": "BMW, 독일 자동차 부문에 대한 최신 타격으로 수천 개의 일자리 삭감",
       "summary_ko": ""
     },
     {
-      "title": "Severfield order books rise as data centre projects boost visibility",
-      "link": "https://www.investing.com/news/stock-market-news/severfield-order-books-rise-as-data-centre-projects-boost-visibility-93CH-4818731",
+      "title": "Why is PayPal stock sliding today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-paypal-stock-sliding-today-93CH-4819117",
       "summary": "",
-      "title_ko": "데이터 센터 프로젝트의 가시성이 높아짐에 따라 세버필드 오더 북이 상승합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "European stocks rise as robust earnings offset Fed rate-hike fears",
-      "link": "https://www.investing.com/news/stock-market-news/european-stocks-rise-as-robust-earnings-offset-fed-ratehike-fears-4818614",
-      "summary": "",
-      "title_ko": "유럽 증시는 미국 연방준비제도 (Fed) 의 금리 인상 우려를 상쇄하면서 상승세를 타고 있다.",
+      "title_ko": "오늘 PayPal 재고가 미끄러지는 이유는 무엇인가요?",
       "summary_ko": ""
     },
     {
@@ -27,6 +20,20 @@
       "link": "https://www.investing.com/news/stock-market-news/sk-hynix-q2-profit-jumps-557-on-ai-chip-demand-misses-forecasts-4818344",
       "summary": "",
       "title_ko": "SK하이닉스의 사상 최대 이익 미스 예측, 강력한 AI 칩 수요에도 주식 부진 10%",
+      "summary_ko": ""
+    },
+    {
+      "title": "Taiwan’s UMC raises 2026 capex, expands Singapore and Taiwan fabs for AI demand",
+      "link": "https://www.investing.com/news/stock-market-news/taiwans-umc-raises-2026-capex-expands-singapore-and-taiwan-fabs-for-ai-demand-4819112",
+      "summary": "",
+      "title_ko": "대만의 UMC, 2026년 CAPEX 인상, AI 수요를 위한 싱가포르 및 대만 팹 확대",
+      "summary_ko": ""
+    },
+    {
+      "title": "Sweden’s GDP grows 1.4% in second quarter",
+      "link": "https://www.investing.com/news/economic-indicators/swedens-gdp-grows-14-in-second-quarter-93CH-4818753",
+      "summary": "",
+      "title_ko": "스웨덴의 2분기 GDP는 1.4% 성장",
       "summary_ko": ""
     },
     {
@@ -48,13 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/us-goods-trade-deficit-contracts-less-than-expected-in-june-4816800",
       "summary": "",
       "title_ko": "미국 상품 무역 적자 축소, 여전히 2분기 GDP 성장에 무게 예상",
-      "summary_ko": ""
-    },
-    {
-      "title": "US consumer confidence eases in July",
-      "link": "https://www.investing.com/news/economic-indicators/us-consumer-confidence-eases-in-july-4817302",
-      "summary": "",
-      "title_ko": "7월 미국 소비자 신뢰 완화",
       "summary_ko": ""
     }
   ]

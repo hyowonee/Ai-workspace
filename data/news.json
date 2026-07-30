@@ -1,32 +1,46 @@
 {
-  "updated_at_utc": "2026-07-30 15:11:05 UTC",
+  "updated_at_utc": "2026-07-30 17:00:06 UTC",
   "items": [
     {
-      "title": "TripAdvisor shares may shift 9.4% on earnings release",
-      "link": "https://www.investing.com/news/stock-market-news/tripadvisor-shares-may-shift-94-on-earnings-release-93CH-4825132",
+      "title": "Blue Owl suffers credit outflows, data centers power growth elsewhere",
+      "link": "https://www.investing.com/news/stock-market-news/blue-owls-secondquarter-profit-rises-aum-reaches-319-billion-4823509",
       "summary": "",
-      "title_ko": "트립어드바이저 주식은 수익 공개 시 9.4% 변동될 수 있습니다.",
+      "title_ko": "Blue Owl은 신용 유출을 겪고 있으며 데이터 센터는 다른 곳에서 성장하고 있습니다.",
       "summary_ko": ""
     },
     {
-      "title": "Greece stocks higher at close of trade; Athens General Composite up 1.25%",
-      "link": "https://www.investing.com/news/stock-market-news/greece-stocks-higher-at-close-of-trade-athens-general-composite-up-125-4825126",
+      "title": "Universal Music Group revenue rises 13.3% on streaming prices",
+      "link": "https://www.investing.com/news/stock-market-news/universal-music-revenue-rises-133-on-downtown-deal-streaming-pricing-4825469",
       "summary": "",
-      "title_ko": "그리스는 교역 마감 시점에서 더 높은 주식을 보유하고 있으며, 아테네 종합 지수는 1.25% 상승했습니다.",
+      "title_ko": "유니버설 뮤직 그룹 수익은 스트리밍 가격에서 13.3% 상승합니다",
       "summary_ko": ""
     },
     {
-      "title": "Microchip Technology stock may move 12% on earnings release",
-      "link": "https://www.investing.com/news/stock-market-news/microchip-technology-stock-may-move-12-on-earnings-release-93CH-4825125",
+      "title": "Mastercard beats profit estimates as stable spending drives transaction volumes",
+      "link": "https://www.investing.com/news/stock-market-news/mastercard-profit-jumps-as-stable-spending-drives-transaction-volumes-4824012",
       "summary": "",
-      "title_ko": "Microchip Technology 주식은 수입 출시 시 12% 이동할 수 있습니다.",
+      "title_ko": "마스터카드는 안정적인 지출이 거래량을 증가시키기 때문에 이익 추정치를 능가합니다",
       "summary_ko": ""
     },
     {
-      "title": "Braveheart Bio targets $1.2 billion valuation in US IPO",
-      "link": "https://www.investing.com/news/stock-market-news/braveheart-bio-targets-12-billion-valuation-in-us-ipo-4824218",
+      "title": "Film producers warn Paramount-Warner merger could restrict access to news archives",
+      "link": "https://www.investing.com/news/stock-market-news/film-producers-warn-paramountwarner-merger-could-restrict-access-to-news-archives-4825547",
       "summary": "",
-      "title_ko": "Braveheart Bio, 미국 IPO에서 $ 12억 가치 평가 목표",
+      "title_ko": "영화 제작자는 Paramount-Warner 합병이 뉴스 아카이브에 대한 액세스를 제한할 수 있다고 경고합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Nigeria says subsidy savings absorbed by debt costs, higher spending",
+      "link": "https://www.investing.com/news/economic-indicators/nigeria-says-subsidy-savings-absorbed-by-debt-costs-higher-spending-4825567",
+      "summary": "",
+      "title_ko": "나이지리아는 보조금 저축이 부채 비용, 더 높은 지출에 의해 흡수된다고 말합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Brazil withholds approval of Trump’s ambassador pick, deepening rift with US",
+      "link": "https://www.investing.com/news/economic-indicators/brazil-withholds-approval-of-trumps-ambassador-pick-deepening-rift-with-us-4823508",
+      "summary": "",
+      "title_ko": "브라질, 트럼프의 대사 추천 승인 보류, 미국과의 균열 심화",
       "summary_ko": ""
     },
     {
@@ -41,20 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/us-weekly-jobless-claims-increase-less-than-expected-4824335",
       "summary": "",
       "title_ko": "미국 주간 실업 보험 청구는 예상보다 적게 증가합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "U.S. economic growth cools to 1.5% in second quarter",
-      "link": "https://www.investing.com/news/economic-indicators/us-economy-grows-by-15-in-second-quarter-4824272",
-      "summary": "",
-      "title_ko": "미국 2분기 경제성장률 1.5% 로 냉각",
-      "summary_ko": ""
-    },
-    {
-      "title": "Mexico’s economy grows at fastest pace since late 2020 in Q2",
-      "link": "https://www.investing.com/news/economic-indicators/mexicos-economy-grows-at-fastest-pace-since-late-2020-in-q2-4824273",
-      "summary": "",
-      "title_ko": "멕시코 경제는 2020년 2분기 후반 이후 가장 빠른 속도로 성장하고 있습니다.",
       "summary_ko": ""
     }
   ]

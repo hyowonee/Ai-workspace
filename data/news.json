@@ -1,32 +1,46 @@
 {
-  "updated_at_utc": "2026-07-30 10:39:21 UTC",
+  "updated_at_utc": "2026-07-30 12:44:59 UTC",
   "items": [
     {
-      "title": "Stellantis profit miss stirs doubts over carmaker’s revival plan",
-      "link": "https://www.investing.com/news/stock-market-news/stellantis-operating-income-more-than-triples-in-q2-driven-by-north-america-4822415",
+      "title": "Mastercard profit jumps as stable spending drives transaction volumes",
+      "link": "https://www.investing.com/news/stock-market-news/mastercard-profit-jumps-as-stable-spending-drives-transaction-volumes-4824012",
       "summary": "",
-      "title_ko": "스텔란티스 수익 미스는 카메이커의 부활 계획에 대한 의구심을 불러일으킵니다.",
+      "title_ko": "안정적인 지출로 인해 거래량이 증가함에 따라 Mastercard 이익이 증가합니다.",
       "summary_ko": ""
     },
     {
-      "title": "India stocks higher at close of trade; Nifty 50 up 0.28%",
-      "link": "https://www.investing.com/news/stock-market-news/india-stocks-higher-at-close-of-trade-nifty-50-up-028-4823255",
+      "title": "CEG vs VST: nuclear purity against diversified value in the AI power trade",
+      "link": "https://www.investing.com/news/stock-market-news/ceg-vs-vst-nuclear-purity-against-diversified-value-in-the-ai-power-trade-93CH-4824092",
       "summary": "",
-      "title_ko": "인도는 거래 마감 시점에서 더 높은 주식을 보유하고 있으며, Nifty 50은 0.28% 상승했습니다.",
+      "title_ko": "CEG vs VST: AI 전력 거래에서 다각화된 가치에 대한 핵 순도",
       "summary_ko": ""
     },
     {
-      "title": "Analysis-Meta’s AI splurge lays bare its compute conundrum",
-      "link": "https://www.investing.com/news/stock-market-news/analysismetas-ai-splurge-lays-bare-its-compute-conundrum-4823241",
+      "title": "Why is Leonardo DRS stock rallying today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-leonardo-drs-stock-rallying-today-93CH-4824089",
       "summary": "",
-      "title_ko": "Analysis-Meta의 AI 스플러지는 컴퓨팅 수수께끼를 드러냅니다.",
+      "title_ko": "오늘 레오나르도 DRS 주식이 랠리하는 이유는 무엇입니까?",
       "summary_ko": ""
     },
     {
-      "title": "Enel acquires 84-megawatt wind farm in Italy for $166 million",
-      "link": "https://www.investing.com/news/stock-market-news/enel-acquires-84megawatt-wind-farm-in-italy-for-166-million-93CH-4823222",
+      "title": "Why is Mastercard stock surging today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-mastercard-stock-surging-today-93CH-4824077",
       "summary": "",
-      "title_ko": "Enel, 이탈리아에서 $ 166,000,000에 84 메가와트 풍력 발전소 인수",
+      "title_ko": "오늘날 Mastercard 재고가 급증하는 이유는 무엇인가요?",
+      "summary_ko": ""
+    },
+    {
+      "title": "Italy’s economy weathering Iran war better than expected, data suggests",
+      "link": "https://www.investing.com/news/economic-indicators/italys-economy-grows-more-than-expected-in-second-quarter-4822651",
+      "summary": "",
+      "title_ko": "데이터에 따르면 이탈리아의 경제는 예상보다 이란 전쟁을 잘 극복하고 있습니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Brazil withholds approval of Trump’s ambassador pick, deepening rift with US",
+      "link": "https://www.investing.com/news/economic-indicators/brazil-withholds-approval-of-trumps-ambassador-pick-deepening-rift-with-us-4823508",
+      "summary": "",
+      "title_ko": "브라질, 트럼프의 대사 추천 승인 보류, 미국과의 균열 심화",
       "summary_ko": ""
     },
     {
@@ -41,20 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/eurozone-economy-grows-by-04-in-second-quarter--eurostat-4822886",
       "summary": "",
       "title_ko": "2분기 유로존 경제 성장률 0.4%",
-      "summary_ko": ""
-    },
-    {
-      "title": "Italy grows more than expected in second quarter, 2026 outlook improves",
-      "link": "https://www.investing.com/news/economic-indicators/italys-economy-grows-more-than-expected-in-second-quarter-4822651",
-      "summary": "",
-      "title_ko": "이탈리아, 2분기 예상보다 성장, 2026년 전망은 개선",
-      "summary_ko": ""
-    },
-    {
-      "title": "Germany’s GDP grows 0.2% in second quarter, beating forecasts",
-      "link": "https://www.investing.com/news/economic-indicators/germanys-gdp-grows-02-in-second-quarter-beating-forecasts-93CH-4822831",
-      "summary": "",
-      "title_ko": "독일의 2분기 국내총생산 (GDP) 은 0.2% 성장해 예측치를 상회한다.",
       "summary_ko": ""
     }
   ]

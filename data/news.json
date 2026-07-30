@@ -1,60 +1,60 @@
 {
-  "updated_at_utc": "2026-07-30 08:29:23 UTC",
+  "updated_at_utc": "2026-07-30 10:39:21 UTC",
   "items": [
     {
-      "title": "Why is Adidas stock plunging today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-adidas-stock-plunging-today-93CH-4822661",
+      "title": "Stellantis profit miss stirs doubts over carmaker’s revival plan",
+      "link": "https://www.investing.com/news/stock-market-news/stellantis-operating-income-more-than-triples-in-q2-driven-by-north-america-4822415",
       "summary": "",
-      "title_ko": "오늘날 아디다스의 재고가 급락하는 이유는 무엇입니까?",
+      "title_ko": "스텔란티스 수익 미스는 카메이커의 부활 계획에 대한 의구심을 불러일으킵니다.",
       "summary_ko": ""
     },
     {
-      "title": "Asia stock-picking hedge funds set for record monthly loss, Goldman says",
-      "link": "https://www.investing.com/news/stock-market-news/asia-stockpicking-hedge-funds-set-for-record-monthly-loss-goldman-says-4822659",
+      "title": "India stocks higher at close of trade; Nifty 50 up 0.28%",
+      "link": "https://www.investing.com/news/stock-market-news/india-stocks-higher-at-close-of-trade-nifty-50-up-028-4823255",
       "summary": "",
-      "title_ko": "골드만은 아시아 주식 피킹 헤지 펀드가 기록적인 월 손실을 기록했다고 말합니다.",
+      "title_ko": "인도는 거래 마감 시점에서 더 높은 주식을 보유하고 있으며, Nifty 50은 0.28% 상승했습니다.",
       "summary_ko": ""
     },
     {
-      "title": "Japan quake survivors battle thirst, heat as death toll rises to 25",
-      "link": "https://www.investing.com/news/stock-market-news/japans-earthquake-leaves-communities-thirsting-for-water-and-relief-from-heat-4822298",
+      "title": "Analysis-Meta’s AI splurge lays bare its compute conundrum",
+      "link": "https://www.investing.com/news/stock-market-news/analysismetas-ai-splurge-lays-bare-its-compute-conundrum-4823241",
       "summary": "",
-      "title_ko": "일본 지진 생존자들은 사망자 수가 25명으로 증가함에 따라 갈증과 더위에 맞서 싸웁니다.",
+      "title_ko": "Analysis-Meta의 AI 스플러지는 컴퓨팅 수수께끼를 드러냅니다.",
       "summary_ko": ""
     },
     {
-      "title": "Vinci shares jump 5% after first-half profit, cash flow beat forecasts",
-      "link": "https://www.investing.com/news/stock-market-news/vinci-beats-firsthalf-estimates-on-energy-growth-4821473",
+      "title": "Enel acquires 84-megawatt wind farm in Italy for $166 million",
+      "link": "https://www.investing.com/news/stock-market-news/enel-acquires-84megawatt-wind-farm-in-italy-for-166-million-93CH-4823222",
       "summary": "",
-      "title_ko": "빈치 주식은 상반기 이익 이후 5% 뛰고, 현금 흐름은 예측보다 앞서 있습니다.",
+      "title_ko": "Enel, 이탈리아에서 $ 166,000,000에 84 메가와트 풍력 발전소 인수",
       "summary_ko": ""
     },
     {
-      "title": "Italy’s economy grows more than expected in second quarter",
+      "title": "Argentina’s growth paradox: Shale riches grow as jobs disappear elsewhere",
+      "link": "https://www.investing.com/news/economic-indicators/argentinas-growth-paradox-shale-riches-grow-as-jobs-disappear-elsewhere-4823186",
+      "summary": "",
+      "title_ko": "아르헨티나의 성장 역설: 일자리가 다른 곳으로 사라짐에 따라 셰일 부자가 증가합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Eurozone economy grows by 0.4% in second quarter",
+      "link": "https://www.investing.com/news/economic-indicators/eurozone-economy-grows-by-04-in-second-quarter--eurostat-4822886",
+      "summary": "",
+      "title_ko": "2분기 유로존 경제 성장률 0.4%",
+      "summary_ko": ""
+    },
+    {
+      "title": "Italy grows more than expected in second quarter, 2026 outlook improves",
       "link": "https://www.investing.com/news/economic-indicators/italys-economy-grows-more-than-expected-in-second-quarter-4822651",
       "summary": "",
-      "title_ko": "이탈리아의 경제는 2분기에 예상보다 더 많이 성장합니다.",
+      "title_ko": "이탈리아, 2분기 예상보다 성장, 2026년 전망은 개선",
       "summary_ko": ""
     },
     {
-      "title": "German economy grows by 0.2% in Q2, preliminary data shows",
-      "link": "https://www.investing.com/news/economic-indicators/german-economy-grows-by-02-in-q2-preliminary-data-shows-4822627",
+      "title": "Germany’s GDP grows 0.2% in second quarter, beating forecasts",
+      "link": "https://www.investing.com/news/economic-indicators/germanys-gdp-grows-02-in-second-quarter-beating-forecasts-93CH-4822831",
       "summary": "",
-      "title_ko": "독일 경제는 2분기에 0.2% 성장합니다. 예비 데이터에 따르면",
-      "summary_ko": ""
-    },
-    {
-      "title": "Spain’s economic growth accelerates to 0.7% in second quarter",
-      "link": "https://www.investing.com/news/economic-indicators/spains-economic-growth-accelerates-to-07-in-second-quarter-4822547",
-      "summary": "",
-      "title_ko": "스페인의 경제 성장은 2분기에 0.7% 로 가속화됩니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "French economy grew 0.2 percent in second quarter",
-      "link": "https://www.investing.com/news/economic-indicators/french-economy-grew-02-percent-in-second-quarter-4822386",
-      "summary": "",
-      "title_ko": "2분기 프랑스 경제 0.2% 성장",
+      "title_ko": "독일의 2분기 국내총생산 (GDP) 은 0.2% 성장해 예측치를 상회한다.",
       "summary_ko": ""
     }
   ]

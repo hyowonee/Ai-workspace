@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-07-31 01:05:03 UTC",
+  "updated_at_utc": "2026-07-31 05:00:35 UTC",
   "items": [
     {
-      "title": "US stock futures rise after upbeat Amazon earnings; Apple slides",
-      "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-after-upbeat-amazon-earnings-apple-slides-4826634",
+      "title": "China’s MiniMax releases H3 video model",
+      "link": "https://www.investing.com/news/stock-market-news/chinas-minimax-releases-h3-video-model-4826743",
       "summary": "",
-      "title_ko": "미국 주식 선물은 아마존 수익을 경신한 후 상승합니다. 애플 슬라이드",
+      "title_ko": "중국의 MiniMax, H3 비디오 모델 출시",
       "summary_ko": ""
     },
     {
-      "title": "Apple disappoints with forecast dogged by supply chain struggles",
-      "link": "https://www.investing.com/news/stock-market-news/apple-revenue-profits-beat-expectations-on-iphone-mac-sales-4826219",
+      "title": "Tesla weighs sale of China business to pave way for potential SpaceX merger, WSJ reports",
+      "link": "https://www.investing.com/news/stock-market-news/tesla-weighs-sale-of-china-business-to-pave-way-for-potential-spacex-merger-wsj-reports-4826657",
       "summary": "",
-      "title_ko": "애플은 공급망 투쟁으로 인한 예측에 실망했다.",
+      "title_ko": "WSJ에 따르면 테슬라는 스페이스X 합병 가능성을 높이기 위해 중국 사업 매각에 무게를 두고 있다.",
       "summary_ko": ""
     },
     {
-      "title": "Soccer-UEFA to boycott World Cup and FIFA tournaments over stake sale plans",
-      "link": "https://www.investing.com/news/stock-market-news/socceruefa-votes-to-boycott-world-cup-over-fifa-stake-sale-plans-4825471",
+      "title": "New York sues Kalshi, says prediction markets constitute illegal gambling",
+      "link": "https://www.investing.com/news/stock-market-news/new-york-sues-kalshi-follows-coinbase-and-gemini-lawsuits-4826733",
       "summary": "",
-      "title_ko": "축구-UEFA, 지분 매각 계획보다 월드컵 및 FIFA 토너먼트 보이콧",
+      "title_ko": "뉴욕이 칼시를 고소했다. 예측 시장은 불법 도박에 해당한다.",
       "summary_ko": ""
     },
     {
-      "title": "Ukraine’s envoy to US says ’We need the missiles’",
-      "link": "https://www.investing.com/news/stock-market-news/ukraines-envoy-to-us-says-we-need-the-missiles-4826582",
+      "title": "China’s MiniMax launches H3 AI model; shares jump on multimodal push",
+      "link": "https://www.investing.com/news/stock-market-news/chinas-minimax-launches-h3-ai-model-shares-jump-on-multimodal-push-4826734",
       "summary": "",
-      "title_ko": "우크라이나의 미국 특사가 ’우리는 미사일이 필요하다’ 고 말합니다.",
+      "title_ko": "중국의 MiniMax, H3 AI 모델 출시, 멀티 모달 푸시 점프 공유",
+      "summary_ko": ""
+    },
+    {
+      "title": "China manufacturing PMI unexpectedly slips into contraction in July",
+      "link": "https://www.investing.com/news/economic-indicators/china-manufacturing-pmi-unexpectedly-slips-into-contraction-in-july-4826676",
+      "summary": "",
+      "title_ko": "7월에 중국 제조업 PMI가 예기치 않게 수축으로 미끄러짐",
       "summary_ko": ""
     },
     {
@@ -48,13 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/argentinas-milei-unveils-bill-to-shield-central-bank-from-political-pressure-4826547",
       "summary": "",
       "title_ko": "아르헨티나의 밀레이, 중앙은행을 정치적 압력으로부터 보호하기 위한 법안 발표",
-      "summary_ko": ""
-    },
-    {
-      "title": "UK business morale hits four-month high in July, Lloyds survey shows",
-      "link": "https://www.investing.com/news/economic-indicators/uk-business-morale-hits-fourmonth-high-in-july-lloyds-survey-shows-4826522",
-      "summary": "",
-      "title_ko": "7월 영국 비즈니스 사기가 4개월 만에 최고치를 기록했습니다. Lloyds 설문 조사에 따르면",
       "summary_ko": ""
     }
   ]

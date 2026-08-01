@@ -1,6 +1,27 @@
 {
-  "updated_at_utc": "2026-08-01 00:02:44 UTC",
+  "updated_at_utc": "2026-08-01 04:01:56 UTC",
   "items": [
+    {
+      "title": "Japan’s stock market is facing these 3 hurdles in August",
+      "link": "https://www.investing.com/news/stock-market-news/japans-stock-market-is-facing-these-3-hurdles-in-august-4829459",
+      "summary": "",
+      "title_ko": "일본 주식 시장은 8월에 이 세 가지 장애물에 직면해 있습니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Russia pounds Kyiv with missiles, killing at least three",
+      "link": "https://www.investing.com/news/stock-market-news/russia-pounds-kyiv-with-missiles-4829396",
+      "summary": "",
+      "title_ko": "러시아가 미사일로 키예프를 두들겨 최소 3명을 죽인다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "With Situational Awareness AI deal, Citadel’s Griffin rides to the rescue again",
+      "link": "https://www.investing.com/news/stock-market-news/with-situational-awareness-ai-deal-citadels-griffin-rides-to-the-rescue-again-4829437",
+      "summary": "",
+      "title_ko": "상황 인식 AI 거래를 통해 시타델의 그리핀이 다시 구출에 나섭니다.",
+      "summary_ko": ""
+    },
     {
       "title": "FIFA scraps World Cup sell off plans, Infantino says",
       "link": "https://www.investing.com/news/stock-market-news/fifa-scraps-world-cup-sell-off-plans-infantino-says-4829433",
@@ -9,24 +30,10 @@
       "summary_ko": ""
     },
     {
-      "title": "Alphabet rolls back AI image generation in Google Earth over policy violations",
-      "link": "https://www.investing.com/news/stock-market-news/alphabet-rolls-back-ai-image-generation-in-google-earth-over-policy-violations-4829415",
+      "title": "South Korea July exports beat forecasts on robust demand for AI investments",
+      "link": "https://www.investing.com/news/economic-indicators/south-korea-july-exports-beat-forecasts-on-robust-demand-for-ai-investments-4829468",
       "summary": "",
-      "title_ko": "알파벳은 정책 위반에 대해 Google 어스의 AI 이미지 생성을 롤백합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Soccer-Infantino adviser quits, report says FIFA World Cup sell-off plan is dead",
-      "link": "https://www.investing.com/news/stock-market-news/soccerinfantino-adviser-quits-report-says-fifa-world-cup-selloff-plan-is-dead-4829405",
-      "summary": "",
-      "title_ko": "축구-인판티노 고문이 그만두자, FIFA 월드컵 매각 계획이 죽었다는 보고서가 나왔다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Russia pounds Kyiv with missiles",
-      "link": "https://www.investing.com/news/stock-market-news/russia-pounds-kyiv-with-missiles-4829396",
-      "summary": "",
-      "title_ko": "러시아가 미사일로 키예프를 두들겨 패다",
+      "title_ko": "한국 7월 수출, AI 투자에 대한 탄탄한 수요에 대한 예측을 뛰어넘다",
       "summary_ko": ""
     },
     {
@@ -48,13 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/consumer-sentiment-surpasses-expectations-indicating-economic-resilience-93CH-4828656",
       "summary": "",
       "title_ko": "소비심리가 예상을 뛰어넘어 경제적 회복탄력성을 나타냄",
-      "summary_ko": ""
-    },
-    {
-      "title": "Chicago PMI Surpasses Expectations, Signals Manufacturing Growth",
-      "link": "https://www.investing.com/news/economic-indicators/chicago-pmi-surpasses-expectations-signals-manufacturing-growth-93CH-4828598",
-      "summary": "",
-      "title_ko": "기대를 뛰어넘는 시카고 PMI, 제조업 성장 신호",
       "summary_ko": ""
     }
   ]

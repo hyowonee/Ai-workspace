@@ -1,6 +1,20 @@
 {
-  "updated_at_utc": "2026-08-02 04:54:47 UTC",
+  "updated_at_utc": "2026-08-02 07:32:28 UTC",
   "items": [
+    {
+      "title": "WestJet flight attendants go on strike after talks fall through",
+      "link": "https://www.investing.com/news/stock-market-news/westjet-flight-attendants-go-on-strike-after-talks-fall-through-4829677",
+      "summary": "",
+      "title_ko": "WestJet 승무원들은 회담이 끝난 후 파업에 들어갑니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Ukrainian drones kill two in Russia, strike Wildberries warehouse, governors say",
+      "link": "https://www.investing.com/news/stock-market-news/ukrainian-drones-kill-two-in-russia-strike-wildberries-warehouse-governors-say-4829675",
+      "summary": "",
+      "title_ko": "우크라이나 드론, 러시아에서 2명 사망, 야생 베리 창고 공격, 총독은 말한다",
+      "summary_ko": ""
+    },
     {
       "title": "Why US stock bubbles keep bursting without derailing the wider market",
       "link": "https://www.investing.com/news/stock-market-news/why-us-stock-bubbles-keep-bursting-without-derailing-the-wider-market-4829669",
@@ -16,17 +30,10 @@
       "summary_ko": ""
     },
     {
-      "title": "Capital One says it closed Trump Organization’s accounts after anti-money laundering probe",
-      "link": "https://www.investing.com/news/stock-market-news/capital-one-says-it-closed-trump-organizations-accounts-after-antimoney-laundering-probe-4829656",
+      "title": "Life after Orban: Hungary Inc digs in as new political era takes hold",
+      "link": "https://www.investing.com/news/economic-indicators/life-after-orban-hungary-inc-digs-in-as-new-political-era-takes-hold-4829672",
       "summary": "",
-      "title_ko": "Capital One은 자금 세탁 방지 조사 후 트럼프 조직의 계정을 폐쇄했다고 말합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "US Justice Department subpoenas New York Times freelancer over North Korea story, paper says",
-      "link": "https://www.investing.com/news/stock-market-news/us-justice-department-subpoenas-new-york-times-freelancer-over-north-korea-story-paper-says-4829645",
-      "summary": "",
-      "title_ko": "신문에 따르면 미국 법무부는 북한 이야기를 다룬 뉴욕타임스 프리랜서를 소환했다.",
+      "title_ko": "오르반 이후의 삶: 헝가리, 새로운 정치 시대를 열다",
       "summary_ko": ""
     },
     {
@@ -48,13 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/us-consumer-sentiment-perks-up-in-july-4828747",
       "summary": "",
       "title_ko": "7월 미국 소비심리 개선 혜택",
-      "summary_ko": ""
-    },
-    {
-      "title": "Consumer sentiment surpasses expectations, indicating economic resilience",
-      "link": "https://www.investing.com/news/economic-indicators/consumer-sentiment-surpasses-expectations-indicating-economic-resilience-93CH-4828656",
-      "summary": "",
-      "title_ko": "소비심리가 예상을 뛰어넘어 경제적 회복탄력성을 나타냄",
       "summary_ko": ""
     }
   ]

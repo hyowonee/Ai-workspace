@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-08-03 10:43:50 UTC",
+  "updated_at_utc": "2026-08-03 13:41:42 UTC",
   "items": [
     {
-      "title": "Bernstein raises server shipment forecast as AI infrastructure spending grows",
-      "link": "https://www.investing.com/news/stock-market-news/bernstein-raises-server-shipment-forecast-as-ai-infrastructure-spending-grows-93CH-4830359",
+      "title": "Why is Boot Barn stock surging 8% today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-boot-barn-stock-surging-8-today-93CH-4831477",
       "summary": "",
-      "title_ko": "번스타인은 AI 인프라 지출이 증가함에 따라 서버 출하 예측을 높입니다.",
+      "title_ko": "오늘날 Boot Barn 재고가 8% 급증하는 이유는 무엇입니까?",
       "summary_ko": ""
     },
     {
-      "title": "Alibaba unveils Qwen 3.8-MAX AI model; shares rally",
-      "link": "https://www.investing.com/news/stock-market-news/alibaba-unveils-qwen-38max-ai-model-shares-jump-4829755",
+      "title": "Why is PN Smart Energy stock sliding 17% today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-pn-smart-energy-stock-sliding-17-today-93CH-4831472",
       "summary": "",
-      "title_ko": "알리바바, Qwen 3.8-MAX AI 모델 공개; 랠리 공유",
+      "title_ko": "오늘날 PN 스마트 에너지 주가가 17% 미끄러지는 이유는 무엇입니까?",
       "summary_ko": ""
     },
     {
-      "title": "Rockwell Automation positioned for Q2 strength on US factory demand",
-      "link": "https://www.investing.com/news/stock-market-news/rockwell-automation-positioned-for-q2-strength-on-us-factory-demand-93CH-4830357",
+      "title": "Robinhood’s second private markets fund targets $200 million US IPO",
+      "link": "https://www.investing.com/news/stock-market-news/robinhoods-second-private-markets-fund-targets-200-million-us-ipo-4831471",
       "summary": "",
-      "title_ko": "로크웰 오토메이션, 미국 공장 수요에 대한 2분기 강점 포지셔닝",
+      "title_ko": "Robinhood의 두 번째 비상장 시장 펀드는 $ 200,000,000의 미국 IPO를 목표로 합니다.",
       "summary_ko": ""
     },
     {
-      "title": "SpaceX’s first results put Musk’s AI spending under Wall Street microscope",
-      "link": "https://www.investing.com/news/stock-market-news/spacexs-first-results-put-musks-ai-spending-under-wall-street-microscope-4830348",
+      "title": "Wall Street kicks off August on a positive note as Trump touts Iran negotiations",
+      "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-as-trump-touts-iran-negotiations-4829740",
       "summary": "",
-      "title_ko": "SpaceX의 첫 번째 결과는 Musk의 AI 지출을 월스트리트 현미경으로",
+      "title_ko": "월스트리트는 트럼프가 이란과의 협상을 강조하면서 8월을 긍정적으로 시작합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Factories faced weaker demand, higher costs in July as Iran war grinds on",
+      "link": "https://www.investing.com/news/economic-indicators/factories-faced-weaker-demand-higher-costs-in-july-as-iran-war-grinds-on-4830699",
+      "summary": "",
+      "title_ko": "이란 전쟁이 시작되면서 7월 공장들은 수요 약화, 비용 상승에 직면했다.",
       "summary_ko": ""
     },
     {
@@ -48,13 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/uk-july-manufacturing-pmi-revised-down-to-4month-low-4829997",
       "summary": "",
       "title_ko": "영국 7월 제조업 PMI가 4개월 최저치로 수정됨",
-      "summary_ko": ""
-    },
-    {
-      "title": "German manufacturing growth back at 4-year highs, PMI shows",
-      "link": "https://www.investing.com/news/economic-indicators/german-manufacturing-growth-back-at-4year-highs-pmi-shows-4829951",
-      "summary": "",
-      "title_ko": "독일 제조업 성장률, 4년래 최고치로 회복, PMI 쇼",
       "summary_ko": ""
     }
   ]

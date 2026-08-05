@@ -1,32 +1,46 @@
 {
-  "updated_at_utc": "2026-08-04 23:33:03 UTC",
+  "updated_at_utc": "2026-08-05 02:40:22 UTC",
   "items": [
     {
-      "title": "Disney exits A+E as media conglomerate Hearst gains full ownership in $1.2 billion deal",
-      "link": "https://www.investing.com/news/stock-market-news/disney-exits-ae-as-media-conglomerate-hearst-gains-full-ownership-in-12-billion-deal-4836170",
+      "title": "Why is SoftBank Corp stock rallying today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-softbank-corp-stock-rallying-today-93CH-4836349",
       "summary": "",
-      "title_ko": "미디어 대기업 Hearst가 $ 12억 규모의 거래에서 완전한 소유권을 얻음에 따라 Disney는 A + E를 종료합니다.",
+      "title_ko": "SoftBank Corp 주식이 오늘 랠리하는 이유는 무엇입니까?",
       "summary_ko": ""
     },
     {
-      "title": "Booking profit beats estimates; Middle East worries weigh on forecast",
-      "link": "https://www.investing.com/news/stock-market-news/online-travel-firm-booking-holdings-quarterly-profit-rises-4835806",
+      "title": "Japan’s services sector growth slows in July on weak demand, PMI shows",
+      "link": "https://www.investing.com/news/stock-market-news/japans-services-sector-growth-slows-in-july-on-weak-demand-pmi-shows-93CH-4836348",
       "summary": "",
-      "title_ko": "예약 이익은 추정치를 능가합니다. 중동 걱정은 예측에 무게를 둡니다.",
+      "title_ko": "일본의 서비스 부문 성장률은 7월에 수요 약세로 둔화됩니다. PMI는",
       "summary_ko": ""
     },
     {
-      "title": "Dow, S&amp;P 500 close at record on AI-linked earnings, Mideast deal hopes",
-      "link": "https://www.investing.com/news/stock-market-news/nasdaq-futures-underpinned-by-strong-ai-forecasts-focus-on-earnings-data-4833332",
+      "title": "Gold steadies as Mideast diplomacy, Fed outlook keep traders cautious",
+      "link": "https://www.investing.com/news/stock-market-news/gold-steadies-as-mideast-diplomacy-fed-outlook-keep-traders-cautious-4836345",
       "summary": "",
-      "title_ko": "다우, S&amp;P 500, AI 연계 수익 기록 마감, Mideast 거래 희망",
+      "title_ko": "중동 외교로서 금의 안정화, 연준 전망은 거래자들을 신중하게 유지",
       "summary_ko": ""
     },
     {
-      "title": "Trump advisers tell AI firms they will not safety-test open-weight models",
-      "link": "https://www.investing.com/news/stock-market-news/meta-anthropic-google-openai-to-meet-with-trump-white-house-amid-rogue-ai-agent-fallout-4834911",
+      "title": "Japan’s wages climb 3.4% in June, supporting rate hike case",
+      "link": "https://www.investing.com/news/stock-market-news/japans-wages-climb-34-in-june-supporting-rate-hike-case-93CH-4836344",
       "summary": "",
-      "title_ko": "트럼프 고문은 AI 기업에 개방형 체중 모델을 안전 테스트하지 않을 것이라고 말합니다.",
+      "title_ko": "6월 일본 임금 3.4% 상승, 지지율 상승 사례",
+      "summary_ko": ""
+    },
+    {
+      "title": "China services PMI misses forecasts in July - RatingDog PMI",
+      "link": "https://www.investing.com/news/economic-indicators/china-services-pmi-misses-forecasts-in-july-slows-to-504-4836336",
+      "summary": "",
+      "title_ko": "중국 서비스 PMI, 7월 예측을 놓침 - RatingDog PMI",
+      "summary_ko": ""
+    },
+    {
+      "title": "Japan’s services growth slows amid cost pressures, PMI shows",
+      "link": "https://www.investing.com/news/economic-indicators/japans-services-growth-slows-amid-cost-pressures-pmi-shows-4836307",
+      "summary": "",
+      "title_ko": "일본의 서비스 성장은 비용 압박 속에서 둔화된다고 PMI가 밝혔습니다.",
       "summary_ko": ""
     },
     {
@@ -41,20 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/api-weekly-crude-stock-reveals-unexpected-inventory-increase-93CH-4835911",
       "summary": "",
       "title_ko": "API 주간 원유 재고가 예상치 못한 재고 증가를 나타냄",
-      "summary_ko": ""
-    },
-    {
-      "title": "US factory orders unexpectedly fall in June",
-      "link": "https://www.investing.com/news/economic-indicators/us-factory-orders-unexpectedly-fall-in-june-4835021",
-      "summary": "",
-      "title_ko": "미국 공장 주문이 예기치 않게 6월에 떨어집니다",
-      "summary_ko": ""
-    },
-    {
-      "title": "Declining imports compress US trade deficit in June",
-      "link": "https://www.investing.com/news/economic-indicators/declining-imports-compress-us-trade-deficit-in-june-4834912",
-      "summary": "",
-      "title_ko": "수입 감소가 6월 미국 무역 적자를 압박한다.",
       "summary_ko": ""
     }
   ]

@@ -1,6 +1,20 @@
 {
-  "updated_at_utc": "2026-08-11 21:50:09 UTC",
+  "updated_at_utc": "2026-08-11 22:43:48 UTC",
   "items": [
+    {
+      "title": "CoreWeave boosts 2026 spending plan, beats quarterly estimates on AI demand surge",
+      "link": "https://www.investing.com/news/stock-market-news/coreweave-edges-past-quarterly-revenue-estimates-4852603",
+      "summary": "",
+      "title_ko": "CoreWeave는 2026년 지출 계획을 강화하고 AI 수요 급증에 대한 분기별 추정치를 능가합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Commonwealth Bank of Australia’s annual profit rises 7%",
+      "link": "https://www.investing.com/news/stock-market-news/commonwealth-bank-of-australias-annual-profit-rises-7-4852896",
+      "summary": "",
+      "title_ko": "Commonwealth Bank of Australia의 연간 이익은 7% 증가합니다.",
+      "summary_ko": ""
+    },
     {
       "title": "Trump administration finalizes ownership reporting exemption for US firms",
       "link": "https://www.investing.com/news/stock-market-news/trump-administration-finalizes-ownership-reporting-exemption-for-us-firms-4852772",
@@ -16,17 +30,10 @@
       "summary_ko": ""
     },
     {
-      "title": "Mexico stocks lower at close of trade; S&amp;P/BMV IPC down 1.32%",
-      "link": "https://www.investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-132-4852850",
+      "title": "Global youth unemployment rises amid sluggish job creation and looming AI risk, UN labour agency says",
+      "link": "https://www.investing.com/news/economic-indicators/global-youth-unemployment-rises-amid-sluggish-job-creation-and-looming-ai-risk-un-labour-agency-says-4852946",
       "summary": "",
-      "title_ko": "멕시코 주식은 거래 종료 시점에 하락, S&amp;P/BMV IPC는 1.32% 하락",
-      "summary_ko": ""
-    },
-    {
-      "title": "Why is Snail stock plummeting today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-snail-stock-plummeting-today-93CH-4852841",
-      "summary": "",
-      "title_ko": "오늘 달팽이 재고가 급락하는 이유는 무엇인가요?",
+      "title_ko": "유엔 노동기구 (UN Labour Agency) 에 따르면 일자리 창출이 부진하고 AI 위험이 도사리고 있는 가운데 전 세계 청년 실업률이 상승하고 있다.",
       "summary_ko": ""
     },
     {
@@ -48,13 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/us-existing-home-sales-post-second-straight-monthly-decline-in-july-4851999",
       "summary": "",
       "title_ko": "미국의 기존 주택 판매는 더 떨어지고, 소규모 기업은 11개월 만에 최고치를 기록했습니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Existing home sales slightly surpass forecasts, indicating market stability",
-      "link": "https://www.investing.com/news/economic-indicators/existing-home-sales-slightly-surpass-forecasts-indicating-market-stability-93CH-4851966",
-      "summary": "",
-      "title_ko": "기존 주택 매매가 예측치를 소폭 상회하여 시장 안정성을 나타냄",
       "summary_ko": ""
     }
   ]

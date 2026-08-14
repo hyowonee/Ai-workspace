@@ -1,32 +1,46 @@
 {
-  "updated_at_utc": "2026-08-14 11:44:27 UTC",
+  "updated_at_utc": "2026-08-14 13:09:34 UTC",
   "items": [
     {
-      "title": "European stocks on track for first weekly loss in five",
+      "title": "Why is Michael Page stock rallying today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-michael-page-stock-rallying-today-93CH-4860796",
+      "summary": "",
+      "title_ko": "마이클 페이지 주식이 오늘 랠리하는 이유는 무엇인가요?",
+      "summary_ko": ""
+    },
+    {
+      "title": "European stocks flat, on track for first weekly loss in five",
       "link": "https://www.investing.com/news/stock-market-news/european-stocks-snag-first-weekly-loss-in-five-weeks-as-crude-surge-and-datauropea-4859773",
       "summary": "",
-      "title_ko": "유럽 증시가 5주 만에 첫 주간 손실을 기록했습니다.",
+      "title_ko": "유럽 주식 평평, 5주 만에 첫 주간 손실 계획대로 진행 중",
       "summary_ko": ""
     },
     {
-      "title": "Republican senator urges Trump to back US open-weight AI models amid industry debate",
-      "link": "https://www.investing.com/news/stock-market-news/republican-senator-urges-trump-to-back-us-openweight-ai-models-amid-industry-debate-4860262",
+      "title": "Harte Hanks stock rises on $5 per share acquisition deal",
+      "link": "https://www.investing.com/news/stock-market-news/harte-hanks-stock-rises-on-5-per-share-acquisition-deal-93CH-4860783",
       "summary": "",
-      "title_ko": "공화당 상원의원은 업계의 논쟁 속에서 트럼프에게 미국의 개방형 인공지능 모델을 지지할 것을 촉구했다.",
+      "title_ko": "하트 행크스 주가 주당 $ 5 상승 인수 거래",
       "summary_ko": ""
     },
     {
-      "title": "Alphabet’s SpaceX bet grows 100-fold over a decade to $94 billion",
-      "link": "https://www.investing.com/news/stock-market-news/alphabets-spacex-bet-grows-100fold-over-a-decade-to-94-billion-4860157",
+      "title": "Morgan Stanley sees Fed on hold through year-end on disinflation",
+      "link": "https://www.investing.com/news/stock-market-news/morgan-stanley-sees-fed-on-hold-through-yearend-on-disinflation-93CH-4860782",
       "summary": "",
-      "title_ko": "알파벳의 스페이스X 베팅은 10년간 100배 성장하여 940억 $",
+      "title_ko": "모건 스탠리 (Morgan Stanley) 는 연말까지 연준 (Fed) 이 인플레이션 해소 (disinflation) 에",
       "summary_ko": ""
     },
     {
-      "title": "Luigi Mangione, accused insurance CEO killer, due in court amid plea deal reports",
-      "link": "https://www.investing.com/news/stock-market-news/luigi-mangione-accused-insurance-ceo-killer-due-in-court-amid-plea-deal-reports-4860161",
+      "title": "US retail sales unexpectedly fall in July",
+      "link": "https://www.investing.com/news/economic-indicators/us-retail-sales-unexpectedly-fall-in-july-4860739",
       "summary": "",
-      "title_ko": "피의자 보험 CEO 살인범 루이지 망지오네 (Luigi Mangione), 변론 거래 보고서 중 법정에서 기한",
+      "title_ko": "7월 미국 소매 판매 예상치 하락",
+      "summary_ko": ""
+    },
+    {
+      "title": "Retail sales slump as consumer spending falters",
+      "link": "https://www.investing.com/news/economic-indicators/retail-sales-slump-as-consumer-spending-falters-93CH-4860660",
+      "summary": "",
+      "title_ko": "소비자 지출 감소에 따른 소매 판매 부진",
       "summary_ko": ""
     },
     {
@@ -41,20 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/taiwan-raises-2026-gdp-growth-projection-to-1105-4859956",
       "summary": "",
       "title_ko": "대만, 2026년 GDP 성장률 전망치 11.05% 로 상향 조정",
-      "summary_ko": ""
-    },
-    {
-      "title": "France’s July inflation rises 2.4% year-on-year",
-      "link": "https://www.investing.com/news/economic-indicators/frances-july-inflation-rises-24-yearonyear-93CH-4859820",
-      "summary": "",
-      "title_ko": "프랑스의 7월 인플레이션은 전년 대비 2.4% 증가",
-      "summary_ko": ""
-    },
-    {
-      "title": "Bessent says US to apply measures never seen on Iran",
-      "link": "https://www.investing.com/news/economic-indicators/bessent-says-us-to-apply-measures-never-seen-on-iran-4859554",
-      "summary": "",
-      "title_ko": "베센트는 이란에서 볼 수 없었던 조치를 미국이 적용해야 한다고 말한다.",
       "summary_ko": ""
     }
   ]

@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-08-17 20:56:01 UTC",
+  "updated_at_utc": "2026-08-17 21:29:01 UTC",
   "items": [
     {
-      "title": "Canada stocks slip as inflation hits top of target range",
-      "link": "https://www.investing.com/news/stock-market-news/tsx-futures-inch-higher-amid-easing-fed-rate-hike-bets-hormuz-disruptions-4862741",
+      "title": "Lockheed Martin wins $153 million in defense contracts",
+      "link": "https://www.investing.com/news/stock-market-news/lockheed-martin-wins-153-million-in-defense-contracts-93CH-4864006",
       "summary": "",
-      "title_ko": "인플레이션이 목표 범위의 상단에 도달함에 따라 캐나다 주식이 미끄러집니다",
+      "title_ko": "록히드마틴, 1억 5천 3백만 달러 방위 계약 수주 ($ 153 million)",
       "summary_ko": ""
     },
     {
-      "title": "GPT Group receives buy rating from Citi after strong results",
-      "link": "https://www.investing.com/news/stock-market-news/gpt-group-receives-buy-rating-from-citi-after-strong-results-93CH-4863904",
+      "title": "Google to buy Spirit Airlines business data for $10 million",
+      "link": "https://www.investing.com/news/stock-market-news/google-to-buy-spirit-airlines-business-data-for-10-million-4864005",
       "summary": "",
-      "title_ko": "GPT 그룹은 강력한 실적을 거둔 후 Citi로부터 매수 등급을 받습니다.",
+      "title_ko": "Google, Spirit Airlines 비즈니스 데이터 $ 1,000만 구매",
       "summary_ko": ""
     },
     {
-      "title": "Moody’s upgrades TKO rating to Ba1 on strong cash flow outlook",
-      "link": "https://www.investing.com/news/stock-market-news/moodys-upgrades-tko-rating-to-ba1-on-strong-cash-flow-outlook-93CH-4863901",
+      "title": "Parsons wins $665M Army contract for support services",
+      "link": "https://www.investing.com/news/stock-market-news/parsons-wins-665m-army-contract-for-support-services-93CH-4864002",
       "summary": "",
-      "title_ko": "Moody's, 강력한 현금 흐름 전망에서 TKO 등급을 Ba1로 업그레이드",
+      "title_ko": "파슨스, 육군 지원 서비스 $ 665M 계약 수주",
       "summary_ko": ""
     },
     {
-      "title": "Stocks end lower as oil pops; investors eye Fed minutes, retail earnings this week",
-      "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-steady-as-rate-hike-fears-ease-earnings-buoy-stocks-4862054",
+      "title": "Russia stocks lower at close of trade; MOEX Russia Index down 2.10%",
+      "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-210-4864001",
       "summary": "",
-      "title_ko": "주가는 석유가 유입됨에 따라 낮아집니다. 투자자들은 이번 주 연준 분, 소매 수익을 눈여겨 봅니다.",
+      "title_ko": "러시아 주식은 교역 마감 시점보다 낮습니다. MOEX 러시아 지수는 2.10% 하락했습니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Foreign holdings of US Treasuries fall in June, led by Japan, UK, China, data shows",
+      "link": "https://www.investing.com/news/economic-indicators/foreign-holdings-of-us-treasuries-fall-in-june-led-by-japan-uk-china-data-shows-4863990",
+      "summary": "",
+      "title_ko": "6월에 일본, 영국, 중국이 이끄는 미국 국채의 외국인 보유량이 감소합니다. 데이터에 따르면",
       "summary_ko": ""
     },
     {
@@ -48,13 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/empire-state-manufacturing-index-surges-surpassing-expectations-93CH-4863068",
       "summary": "",
       "title_ko": "엠파이어 스테이트 제조업 지수 급등, 기대 이상",
-      "summary_ko": ""
-    },
-    {
-      "title": "Japan’s Q2 GDP grows 0.3% quarter-on-quarter, missing estimates",
-      "link": "https://www.investing.com/news/economic-indicators/japans-q2-gdp-grows-03-quarteronquarter-missing-estimates-93CH-4862456",
-      "summary": "",
-      "title_ko": "일본의 2분기 국내총생산 (GDP) 은 전분기 대비 0.3% 성장했으며, 추정치는 누락되었습니다.",
       "summary_ko": ""
     }
   ]

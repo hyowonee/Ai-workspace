@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-08-18 13:42:57 UTC",
+  "updated_at_utc": "2026-08-18 14:34:29 UTC",
   "items": [
     {
-      "title": "Nasdaq slides over 1% at the open as U.S. 30-year yield hits over two-decade high",
-      "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-muted-after-wall-st-slips-on-iran-tensions-oil-surge-4864158",
+      "title": "Northrop Grumman clears design review for E-2D upgrade",
+      "link": "https://www.investing.com/news/stock-market-news/northrop-grumman-clears-design-review-for-e2d-upgrade-93CH-4865624",
       "summary": "",
-      "title_ko": "미국 30년 수익률이 20년에 걸쳐 최고치를 기록하면서 나스닥은 오픈에서 1% 넘게 슬라이딩합니다.",
+      "title_ko": "Northrop Grumman, E-2D 업그레이드 설계 검토 완료",
       "summary_ko": ""
     },
     {
-      "title": "Airbus targets September for delayed A350F freighter first flight",
-      "link": "https://www.investing.com/news/stock-market-news/airbus-targets-september-for-delayed-a350f-freighter-first-flight-93CH-4865501",
+      "title": "OpenAI vs. Anthropic: AI litigation risk compared ahead of potential IPOs",
+      "link": "https://www.investing.com/news/stock-market-news/openai-vs-anthropic-ai-litigation-risk-compared-ahead-of-potential-ipos-93CH-4865622",
       "summary": "",
-      "title_ko": "에어버스, A350F 화물선 첫 비행 지연으로 9월 목표",
+      "title_ko": "OpenAI vs. Anthropic: 잠재적 IPO에 앞서 AI 소송 위험 비교",
       "summary_ko": ""
     },
     {
-      "title": "Airbus targets A350F maiden flight in September, sources say",
-      "link": "https://www.investing.com/news/stock-market-news/airbus-targets-a350f-maiden-flight-in-september-sources-say-4865491",
+      "title": "Why states fought to present a united case against Meta over youth social media harms",
+      "link": "https://www.investing.com/news/stock-market-news/why-states-fought-to-present-a-united-case-against-meta-over-youth-social-media-harms-4864710",
       "summary": "",
-      "title_ko": "소식통에 따르면 에어버스는 9월에 A350F 메이든 비행을 목표로 하고 있다.",
+      "title_ko": "국가가 청소년 소셜 미디어 피해에 대한 메타에 대한 단합된 사례를 제시하기 위해 싸운 이유",
       "summary_ko": ""
     },
     {
-      "title": "Nokia stock falls on report of China operations closure",
-      "link": "https://www.investing.com/news/stock-market-news/nokia-stock-falls-on-report-of-china-operations-closure-93CH-4865490",
+      "title": "OpenAI unveils ChatGPT for Teens with stronger guardrails to tackle safety risks",
+      "link": "https://www.investing.com/news/stock-market-news/openai-unveils-chatgpt-for-teens-with-stronger-guardrails-parental-controls-4865012",
       "summary": "",
-      "title_ko": "중국 영업 종료 보고서에 대한 노키아 주가 하락",
+      "title_ko": "OpenAI, 안전 위험을 해결하기 위해 더 강력한 가드레일을 갖춘 청소년을 위한 ChatGPT 공개",
+      "summary_ko": ""
+    },
+    {
+      "title": "Pending home sales decline, missing forecasts and previous figures",
+      "link": "https://www.investing.com/news/economic-indicators/pending-home-sales-decline-missing-forecasts-and-previous-figures-93CH-4865589",
+      "summary": "",
+      "title_ko": "대기 중인 주택 판매 감소, 예측 누락 및 이전 수치",
       "summary_ko": ""
     },
     {
@@ -48,13 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/at-least-25-killed-in-attack-on-nigerias-plateau-amid-reprisal-fears-4865082",
       "summary": "",
       "title_ko": "보복 공포 속에서 나이지리아 고원 공격으로 최소 25명 사망",
-      "summary_ko": ""
-    },
-    {
-      "title": "German investor morale improves more than expected in August, ZEW finds",
-      "link": "https://www.investing.com/news/economic-indicators/german-investor-morale-improves-more-than-expected-in-august-zew-finds-4864730",
-      "summary": "",
-      "title_ko": "ZEW는 독일 투자자의 사기가 8월에 예상보다 더 개선되었다고 밝혔습니다.",
       "summary_ko": ""
     }
   ]

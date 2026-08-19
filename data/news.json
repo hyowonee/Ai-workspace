@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-08-19 14:35:24 UTC",
+  "updated_at_utc": "2026-08-19 15:32:35 UTC",
   "items": [
     {
-      "title": "Why is Apple stock rallying today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-apple-stock-rallying-today-93CH-4867792",
+      "title": "Wall Street mostly higher as yields slide",
+      "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-st-hit-by-higher-yields-oil-4866292",
       "summary": "",
-      "title_ko": "오늘날 애플 주식이 랠리되는 이유는 무엇일까요?",
+      "title_ko": "월스트리트는 수익률이 미끄러질수록 대부분 더 높습니다.",
       "summary_ko": ""
     },
     {
-      "title": "UK gilts head for biggest daily gain in two weeks",
-      "link": "https://www.investing.com/news/stock-market-news/uk-gilts-head-for-biggest-daily-gain-in-two-weeks-93CH-4867786",
+      "title": "Moderna short sellers face $4.8 billion loss amid record stock jump",
+      "link": "https://www.investing.com/news/stock-market-news/moderna-short-sellers-face-48-billion-loss-amid-record-stock-jump-4867860",
       "summary": "",
-      "title_ko": "영국 길트는 2주 만에 가장 큰 일일 이득을 얻습니다.",
+      "title_ko": "모데르나 공매도는 기록적인 주가 급등으로 인해 $ 48억의 손실을 입었습니다.",
       "summary_ko": ""
     },
     {
-      "title": "Moderna melanoma vaccine success pushes Nasdaq biotechs to record",
-      "link": "https://www.investing.com/news/stock-market-news/moderna-melanoma-vaccine-success-pushes-nasdaq-biotechs-to-record-93CH-4867775",
+      "title": "CrowdStrike has pulled back 12% from its all-time high; is now the time to enter?",
+      "link": "https://www.investing.com/news/stock-market-news/crowdstrike-has-pulled-back-12-from-its-alltime-high-is-now-the-time-to-enter-93CH-4867859",
       "summary": "",
-      "title_ko": "모데르나 흑색종 백신의 성공은 나스닥 생명공학 기술자들이",
+      "title_ko": "CrowdStrike는 역대 최고치에서 12% 하락했습니다. 이제 진입할 때가 되었나요?",
       "summary_ko": ""
     },
     {
-      "title": "Dell stock dips from last week’s all-time high; should you load up?",
-      "link": "https://www.investing.com/news/stock-market-news/dell-stock-dips-from-last-weeks-alltime-high-should-you-load-up-93CH-4867767",
+      "title": "Why is Scotts Miracle-Gro stock rallying today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-scotts-miraclegro-stock-rallying-today-93CH-4867850",
       "summary": "",
-      "title_ko": "Dell 재고가 지난주 사상 최고치에서 하락했습니다. 적재해야 합니까?",
+      "title_ko": "오늘 Scotts Miracle-Gro 주식이 랠리하는 이유는 무엇입니까?",
+      "summary_ko": ""
+    },
+    {
+      "title": "Crude oil inventories rise, but fall short of previous levels",
+      "link": "https://www.investing.com/news/economic-indicators/crude-oil-inventories-rise-but-fall-short-of-previous-levels-93CH-4867809",
+      "summary": "",
+      "title_ko": "원유 재고는 증가하지만 이전 수준보다 떨어집니다.",
       "summary_ko": ""
     },
     {
@@ -48,13 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/uk-july-cpi-rises-to-29-as-household-energy-costs-jump-4866463",
       "summary": "",
       "title_ko": "영국 7월 인플레이션, 에너지 비용 급증으로 4개월 만에 최고치 기록",
-      "summary_ko": ""
-    },
-    {
-      "title": "U.S., Indian fuel exporters profiting from supply uncertainty during wars",
-      "link": "https://www.investing.com/news/economic-indicators/us-indian-fuel-exporters-profiting-from-supply-uncertainty-during-wars-4866851",
-      "summary": "",
-      "title_ko": "전쟁 중 공급 불확실성으로 이익을 얻는 미국, 인도 연료 수출국",
       "summary_ko": ""
     }
   ]

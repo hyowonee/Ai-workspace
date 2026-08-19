@@ -1,6 +1,13 @@
 {
-  "updated_at_utc": "2026-08-19 22:26:08 UTC",
+  "updated_at_utc": "2026-08-19 22:52:16 UTC",
   "items": [
+    {
+      "title": "Payments firm Stripe to buy marketplace OpenRouter in AI push",
+      "link": "https://www.investing.com/news/stock-market-news/payments-firm-stripe-to-buy-ai-developer-platform-openrouter-4867997",
+      "summary": "",
+      "title_ko": "결제 회사 Stripe, AI 푸시로 마켓플레이스 OpenRouter 구매",
+      "summary_ko": ""
+    },
     {
       "title": "Why is Bill.com stock climbing today?",
       "link": "https://www.investing.com/news/stock-market-news/why-is-billcom-stock-climbing-today-93CH-4868374",
@@ -23,10 +30,10 @@
       "summary_ko": ""
     },
     {
-      "title": "Treasury Secretary Bessent doubles US long-bond buybacks in the face of surging yields",
-      "link": "https://www.investing.com/news/stock-market-news/us-treasury-to-double-sizes-of-some-debt-buyback-operations-to-at-least-4-billion-4867698",
+      "title": "China drove global electric truck, bus sales above half a million in 2025",
+      "link": "https://www.investing.com/news/economic-indicators/china-drove-global-electric-truck-bus-sales-above-half-a-million-in-2025-4868388",
       "summary": "",
-      "title_ko": "베슨트 재무장관은 급증하는 수익률에 직면하여 미국 장기 채권 매수를 두 배로 늘립니다.",
+      "title_ko": "중국은 2025년 전 세계 전기 트럭, 버스 판매 50만 대를 돌파했다.",
       "summary_ko": ""
     },
     {
@@ -48,13 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/mortgage-applications-slip-04-in-latest-week-mba-reports-93CH-4867356",
       "summary": "",
       "title_ko": "MBA 보고서에 따르면 주택담보대출 신청은 최근 1주일간 0.4% 감소했다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "UK July inflation hits four-month high as energy costs surge",
-      "link": "https://www.investing.com/news/economic-indicators/uk-july-cpi-rises-to-29-as-household-energy-costs-jump-4866463",
-      "summary": "",
-      "title_ko": "영국 7월 인플레이션, 에너지 비용 급증으로 4개월 만에 최고치 기록",
       "summary_ko": ""
     }
   ]

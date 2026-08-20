@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-08-20 14:37:26 UTC",
+  "updated_at_utc": "2026-08-20 15:34:48 UTC",
   "items": [
     {
-      "title": "Nasdaq 100 breaks below 200-SMA and Ichimoku cloud: Live levels",
-      "link": "https://www.investing.com/news/stock-market-news/nasdaq-100-stalls-below-30300-resistance-hourly-levels-93CH-4863470",
+      "title": "Crypto shares climb after Trump advocates for Clarity Act",
+      "link": "https://www.investing.com/news/stock-market-news/bitcoin-crypto-shares-climb-after-trump-pushes-clarity-act-4869341",
       "summary": "",
-      "title_ko": "Nasdaq 100 브레이크 200-SMA 및 Ichimoku 클라우드 미만: 라이브 레벨",
+      "title_ko": "트럼프가 명확성 법 (Clarity Act) 을 옹호한 후 암호화폐 주식이 상승",
       "summary_ko": ""
     },
     {
-      "title": "Dollar Index bearish at 98.79, ADX 50+: Live levels",
-      "link": "https://www.investing.com/news/stock-market-news/dollar-index-below-breakdown-zone-at-9932-live-levels-93CH-4863467",
+      "title": "Why is Transocean stock rallying today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-transocean-stock-rallying-today-93CH-4870156",
       "summary": "",
-      "title_ko": "98.79 달러 지수 약세, ADX 50 이상: 라이브 레벨",
+      "title_ko": "Transocean 주식이 오늘날 왜 랠리되고 있습니까?",
       "summary_ko": ""
     },
     {
-      "title": "Micron trapped near $945 in high-volume chop: Live levels",
-      "link": "https://www.investing.com/news/stock-market-news/micron-breaks-above-cloud-with-rsi-near-overbought-live-levels-93CH-4863471",
+      "title": "Transocean stock rises on $300M India drillship contract",
+      "link": "https://www.investing.com/news/stock-market-news/transocean-stock-rises-on-300m-india-drillship-contract-93CH-4870151",
       "summary": "",
-      "title_ko": "대용량 CHOP에 $ 945 근처에 갇힌 마이크론: 라이브 레벨",
+      "title_ko": "인도 시추선 $ 300M 계약으로 대양 횡단 재고 증가",
       "summary_ko": ""
     },
     {
-      "title": "Intel breaks $91.65 Fibonacci support: Live bearish levels",
-      "link": "https://www.investing.com/news/stock-market-news/intel-trapped-at-104-resistance-in-range-standoff-live-levels-93CH-4863465",
+      "title": "Morocco stocks higher at close of trade; Moroccan All Shares up 0.73%",
+      "link": "https://www.investing.com/news/stock-market-news/morocco-stocks-higher-at-close-of-trade-moroccan-all-shares-up-073-4870148",
       "summary": "",
-      "title_ko": "인텔, $ 91.65 피보나치 지원 중단: 살아있는 곰 같은 수준",
+      "title_ko": "모로코 주식은 거래 종료 시점에 더 높습니다. 모로코 전체 주식은 0.73% 증가했습니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Natural gas storage rises slightly above forecast, impacts market dynamics",
+      "link": "https://www.investing.com/news/economic-indicators/natural-gas-storage-rises-slightly-above-forecast-impacts-market-dynamics-93CH-4870087",
+      "summary": "",
+      "title_ko": "천연 가스 저장소는 예측보다 약간 상승하여 시장 역학에 영향을 미칩니다.",
       "summary_ko": ""
     },
     {
@@ -48,13 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/weekly-us-jobless-claims-dip-to-206000-4869762",
       "summary": "",
       "title_ko": "주간 미국 실업 보험 청구가 206,000건으로 감소",
-      "summary_ko": ""
-    },
-    {
-      "title": "U.S. Initial Jobless Claims Fall, Surpassing Expectations",
-      "link": "https://www.investing.com/news/economic-indicators/us-initial-jobless-claims-fall-surpassing-expectations-93CH-4869704",
-      "summary": "",
-      "title_ko": "미국 초창기 실업보험금 폭락, 기대 이상",
       "summary_ko": ""
     }
   ]

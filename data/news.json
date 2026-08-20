@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-08-20 18:40:51 UTC",
+  "updated_at_utc": "2026-08-20 19:32:21 UTC",
   "items": [
     {
-      "title": "US Treasury buyback briefly eases bond rout, but debt worries persist",
-      "link": "https://www.investing.com/news/stock-market-news/bonds-bounce-on-us-buybacks-but-relief-may-be-brief-4868662",
+      "title": "Dow Jones breaks 200 SMA support: Live levels",
+      "link": "https://www.investing.com/news/stock-market-news/dow-jones-teeters-at-53600-support-hourly-levels-93CH-4863474",
       "summary": "",
-      "title_ko": "미국 국채 매입은 채권 경로를 간략히 완화하지만 부채 걱정은 지속됩니다.",
+      "title_ko": "다우 존스, 200개의 SMA 지원 중단: 라이브 레벨",
       "summary_ko": ""
     },
     {
-      "title": "Google bundles Antigravity coding agents into Gemini Enterprise",
-      "link": "https://www.investing.com/news/stock-market-news/google-bundles-antigravity-coding-agents-into-gemini-enterprise-93CH-4870301",
+      "title": "Alphabet C tests Fibonacci support at $338: Hourly levels",
+      "link": "https://www.investing.com/news/stock-market-news/alphabet-c-bear-flag-nears-completion-at-34279-hourly-93CH-4863476",
       "summary": "",
-      "title_ko": "Google, Antigravity 코딩 에이전트를 Gemini Enterprise에 번들로 제공",
+      "title_ko": "알파벳 C 테스트 피보나치 지원 $ 338: 시간당 수준",
       "summary_ko": ""
     },
     {
-      "title": "Anthropic wants to match or beat SpaceX’s record IPO size - report",
-      "link": "https://www.investing.com/news/stock-market-news/anthropic-wants-to-match-or-beat-spacexs-record-ipo-size--report-4870300",
+      "title": "Tesla stalls below $350-$355 resistance: Live levels",
+      "link": "https://www.investing.com/news/stock-market-news/tesla-dips-to-339-inside-ichimoku-cloud-resistance-live-levels-93CH-4863479",
       "summary": "",
-      "title_ko": "Anthropic은 SpaceX의 기록적인 IPO 규모와 일치하거나 능가하기를 원합니다 - 보고서",
+      "title_ko": "$ 350 미만의 테슬라 가판대 - $ 355 저항: 라이브 레벨",
       "summary_ko": ""
     },
     {
-      "title": "Google adds personalization to Search and News",
-      "link": "https://www.investing.com/news/stock-market-news/google-adds-personalization-to-search-and-news-93CH-4870299",
+      "title": "Nasdaq 100 oversold at 29,292 below SMA(200): Live levels",
+      "link": "https://www.investing.com/news/stock-market-news/nasdaq-100-stalls-below-30300-resistance-hourly-levels-93CH-4863470",
       "summary": "",
-      "title_ko": "Google, 검색 및 뉴스에 맞춤 설정 추가",
+      "title_ko": "Nasdaq 100은 SMA (200) 미만의 29,292에서 과매도: 라이브 레벨",
+      "summary_ko": ""
+    },
+    {
+      "title": "Argentina economic activity grows 2.7% in June, above expectations",
+      "link": "https://www.investing.com/news/economic-indicators/argentina-economic-activity-grows-27-in-june-above-expectations-4870332",
+      "summary": "",
+      "title_ko": "6월 아르헨티나 경제활동 성장률 2.7%, 기대치 상회",
       "summary_ko": ""
     },
     {
@@ -48,13 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/uk-statistics-office-revises-up-2023-and-2024-growth-estimates-4869869",
       "summary": "",
       "title_ko": "영국 통계청, 2023년 및 2024년 성장률 추정치 상향 조정",
-      "summary_ko": ""
-    },
-    {
-      "title": "Weekly U.S. jobless claims dip to 206,000",
-      "link": "https://www.investing.com/news/economic-indicators/weekly-us-jobless-claims-dip-to-206000-4869762",
-      "summary": "",
-      "title_ko": "주간 미국 실업 보험 청구가 206,000건으로 감소",
       "summary_ko": ""
     }
   ]

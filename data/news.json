@@ -1,32 +1,53 @@
 {
-  "updated_at_utc": "2026-08-21 05:34:01 UTC",
+  "updated_at_utc": "2026-08-21 06:49:53 UTC",
   "items": [
     {
-      "title": "Why is NetEase HK stock rising today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-netease-hk-stock-rising-today-93CH-4870835",
+      "title": "Australia stocks lower at close of trade; S&amp;P/ASX 200 down 0.27%",
+      "link": "https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-027-4870871",
       "summary": "",
-      "title_ko": "NetEase 홍콩 주가가 오늘 상승하는 이유는 무엇입니까?",
+      "title_ko": "호주 증시는 거래 종료 시점에 하락, S&amp;P/ASX 200은 0.27% 하락",
       "summary_ko": ""
     },
     {
-      "title": "Alibaba shares fall after 75% profit plunge as AI spending weighs on earnings",
-      "link": "https://www.investing.com/news/stock-market-news/alibaba-shares-fall-despite-45-cloud-growth-as-ai-spending-weighs-4870723",
+      "title": "Hyundai Motor’s South Korean union stages first full strike in a decade over pay",
+      "link": "https://www.investing.com/news/stock-market-news/hyundai-motors-union-stages-first-full-strike-in-10-years-over-wage-talks-4870780",
       "summary": "",
-      "title_ko": "AI 지출이 수익에 비중을 두기 때문에 알리바바 주식은 75% 이익 급락 후 하락합니다.",
+      "title_ko": "현대차 한국노조, 임금초과 10년만에 첫 전면파업",
       "summary_ko": ""
     },
     {
-      "title": "SK Hynix tests SMA(200) after cloud breakout: Live levels",
-      "link": "https://www.investing.com/news/stock-market-news/sk-hynix-tests-200-sma-after-43-rally-live-levels-93CH-4864162",
+      "title": "Taiwan stocks higher at close of trade; Taiwan Weighted up 0.51%",
+      "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-051-4870853",
       "summary": "",
-      "title_ko": "SK하이닉스는 클라우드 브레이크아웃 후 SMA (200) 테스트: 라이브 레벨",
+      "title_ko": "거래 종결 시 대만 주식이 더 높음, 대만 가중치 0.51% 증가",
       "summary_ko": ""
     },
     {
-      "title": "Why is Lintec stock sliding today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-lintec-stock-sliding-today-93CH-4870830",
+      "title": "RBC Capital Markets Names Top Pick in Business Services",
+      "link": "https://www.investing.com/news/stock-market-news/rbc-capital-markets-names-top-pick-in-business-services-93CH-4870852",
       "summary": "",
-      "title_ko": "오늘날 Lintec 재고가 미끄러지는 이유는 무엇입니까?",
+      "title_ko": "RBC 캐피털 마켓, 비즈니스 서비스에서 최고의 선택 선정",
+      "summary_ko": ""
+    },
+    {
+      "title": "British retail sales soften in July after June World Cup boost",
+      "link": "https://www.investing.com/news/economic-indicators/british-retail-sales-soften-in-july-after-june-world-cup-boost-4870869",
+      "summary": "",
+      "title_ko": "6월 월드컵 부스트 이후 7월 영국 소매 판매가 순조로워짐",
+      "summary_ko": ""
+    },
+    {
+      "title": "British retail sales fall as expected in July after June boost",
+      "link": "https://www.investing.com/news/economic-indicators/british-retail-sales-fall-as-expected-in-july-after-june-boost-4870862",
+      "summary": "",
+      "title_ko": "영국 소매 판매는 6 월 부스트 이후 7 월에 예상대로 하락합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "India’s private sector growth edges up in August on services",
+      "link": "https://www.investing.com/news/economic-indicators/indias-private-sector-growth-edges-up-in-august-on-services-93CH-4870846",
+      "summary": "",
+      "title_ko": "인도의 민간 부문 성장률은 8월에 서비스 부문에서 상승세를 나타냅니다.",
       "summary_ko": ""
     },
     {
@@ -34,27 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/japan-factory-activity-accelerates-in-aug-as-chip-ai-demand-boosts-orders-4870699",
       "summary": "",
       "title_ko": "8월에 칩, AI 수요 증가로 주문이 증가함에 따라 일본 공장 활동이 가속화됩니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Japan manufacturing expands as orders rise fastest since 2018, PMI shows",
-      "link": "https://www.investing.com/news/economic-indicators/japan-manufacturing-expands-as-orders-rise-fastest-since-2018-pmi-shows-4870686",
-      "summary": "",
-      "title_ko": "일본 제조업은 2018년 이후 주문이 가장 빠르게 증가함에 따라 확대되고 있습니다. PMI는",
-      "summary_ko": ""
-    },
-    {
-      "title": "Japan CPI rises in July, core inflation grows but stays below BOJ target",
-      "link": "https://www.investing.com/news/economic-indicators/japan-cpi-rises-in-july-core-inflation-grows-but-stays-below-boj-target-4870639",
-      "summary": "",
-      "title_ko": "일본 CPI는 7월에 상승하고, 핵심 인플레이션은 증가하지만 BOJ 목표치에는 미치지 못합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "UK consumer confidence jumps to two-year high, GfK says",
-      "link": "https://www.investing.com/news/economic-indicators/uk-consumer-confidence-jumps-to-twoyear-high-gfk-says-4870627",
-      "summary": "",
-      "title_ko": "GfK는 영국 소비자 신뢰가 2년 만에 최고치로 뛰어오른다고 말합니다.",
       "summary_ko": ""
     }
   ]

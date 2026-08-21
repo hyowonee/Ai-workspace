@@ -1,32 +1,53 @@
 {
-  "updated_at_utc": "2026-08-20 23:32:15 UTC",
+  "updated_at_utc": "2026-08-21 01:23:23 UTC",
   "items": [
     {
-      "title": "Abbott to pay $670 million to settle some preterm infant formula cases",
-      "link": "https://www.investing.com/news/stock-market-news/abbott-agrees-to-670-million-settlement-of-infant-formula-cases-4870546",
+      "title": "Gold steadies, heads for third straight weekly gain",
+      "link": "https://www.investing.com/news/stock-market-news/gold-steadies-heads-for-third-straight-weekly-gain-4870707",
       "summary": "",
-      "title_ko": "Abbott, 일부 조산아 포뮬러 케이스를 해결하기 위해 $ 6억 7천만 지불",
+      "title_ko": "골드 스테디스, 주간 3연속 이득을 위한 헤딩",
       "summary_ko": ""
     },
     {
-      "title": "Ex-Google engineer’s conviction for stealing AI secrets partially overturned",
-      "link": "https://www.investing.com/news/stock-market-news/exgoogle-engineers-conviction-for-stealing-ai-secrets-partially-overturned-4870621",
+      "title": "Samsung Electronics to announce shareholder return plan worth $79 bln, Bloomberg reports",
+      "link": "https://www.investing.com/news/stock-market-news/samsung-electronics-to-announce-shareholder-return-plan-worth-79-bln-bloomberg-reports-93CH-4870701",
       "summary": "",
-      "title_ko": "AI 기밀을 훔친 전직 Google 엔지니어의 유죄 판결이 부분적으로 번복되었습니다.",
+      "title_ko": "블룸버그 통신은 삼성전자가 $ 79 bln 상당의 주주 수익률 계획을 발표할 것이라고 보도했습니다.",
       "summary_ko": ""
     },
     {
-      "title": "Mariana, 18 more Brazil cities join Vale-BHP dam collapse compensation deal",
-      "link": "https://www.investing.com/news/stock-market-news/mariana-18-more-brazil-cities-join-valebhp-dam-collapse-compensation-deal-4870563",
+      "title": "US teen drops lawsuit against Meta, Google and Snap ahead of trial",
+      "link": "https://www.investing.com/news/stock-market-news/us-teen-drops-lawsuit-against-meta-google-and-snap-ahead-of-trial-4870665",
       "summary": "",
-      "title_ko": "마리아나, 브라질 18개 도시 더 베일-BHP 댐 붕괴 보상 거래에 참여",
+      "title_ko": "미국 청소년, 재판을 앞두고 Meta, Google 및 Snap에 대한 소송 취하",
       "summary_ko": ""
     },
     {
-      "title": "Anthropic adds Citigroup to lead IPO banks ahead of listing - Bloomberg",
-      "link": "https://www.investing.com/news/stock-market-news/anthropic-adds-citigroup-to-lead-ipo-banks-ahead-of-listing--bloomberg-93CH-4870593",
+      "title": "SpaceX and AST Spacemobile eye Grain Management spectrum for $6 bln- Bloomberg",
+      "link": "https://www.investing.com/news/stock-market-news/spacex-and-ast-spacemobile-eye-grain-management-spectrum-for-6-bln-bloomberg-93CH-4870684",
       "summary": "",
-      "title_ko": "Anthropic, Citigroup을 추가하여 상장보다 앞서 IPO 은행을 이끌다 - Bloomberg",
+      "title_ko": "SpaceX 및 AST Spacemobile 아이 그레인 관리 스펙트럼 ($ 6 bln- Bloomberg)",
+      "summary_ko": ""
+    },
+    {
+      "title": "Japan factory activity accelerates in Aug as chip, AI demand boosts orders",
+      "link": "https://www.investing.com/news/economic-indicators/japan-factory-activity-accelerates-in-aug-as-chip-ai-demand-boosts-orders-4870699",
+      "summary": "",
+      "title_ko": "8월에 칩, AI 수요 증가로 주문이 증가함에 따라 일본 공장 활동이 가속화됩니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Japan manufacturing expands as orders rise fastest since 2018, PMI shows",
+      "link": "https://www.investing.com/news/economic-indicators/japan-manufacturing-expands-as-orders-rise-fastest-since-2018-pmi-shows-4870686",
+      "summary": "",
+      "title_ko": "일본 제조업은 2018년 이후 주문이 가장 빠르게 증가함에 따라 확대되고 있습니다. PMI는",
+      "summary_ko": ""
+    },
+    {
+      "title": "Japan CPI rises in July, core inflation grows but stays below BOJ target",
+      "link": "https://www.investing.com/news/economic-indicators/japan-cpi-rises-in-july-core-inflation-grows-but-stays-below-boj-target-4870639",
+      "summary": "",
+      "title_ko": "일본 CPI는 7월에 상승하고, 핵심 인플레이션은 증가하지만 BOJ 목표치에는 미치지 못합니다.",
       "summary_ko": ""
     },
     {
@@ -34,27 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/uk-consumer-confidence-jumps-to-twoyear-high-gfk-says-4870627",
       "summary": "",
       "title_ko": "GfK는 영국 소비자 신뢰가 2년 만에 최고치로 뛰어오른다고 말합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Argentina economic activity grows 2.7% in June, above expectations",
-      "link": "https://www.investing.com/news/economic-indicators/argentina-economic-activity-grows-27-in-june-above-expectations-4870332",
-      "summary": "",
-      "title_ko": "6월 아르헨티나 경제활동 성장률 2.7%, 기대치 상회",
-      "summary_ko": ""
-    },
-    {
-      "title": "Exclusive-Senate Democrats question USDA about data errors, staff losses",
-      "link": "https://www.investing.com/news/economic-indicators/exclusivesenate-democrats-question-usda-about-data-errors-staff-losses-4869135",
-      "summary": "",
-      "title_ko": "독점 상원 민주당 원들이 데이터 오류, 직원 손실에 대해 USDA에 질문합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Natural gas storage rises slightly above forecast, impacts market dynamics",
-      "link": "https://www.investing.com/news/economic-indicators/natural-gas-storage-rises-slightly-above-forecast-impacts-market-dynamics-93CH-4870087",
-      "summary": "",
-      "title_ko": "천연 가스 저장소는 예측보다 약간 상승하여 시장 역학에 영향을 미칩니다.",
       "summary_ko": ""
     }
   ]

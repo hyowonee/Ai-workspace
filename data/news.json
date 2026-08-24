@@ -1,32 +1,46 @@
 {
-  "updated_at_utc": "2026-08-24 12:53:02 UTC",
+  "updated_at_utc": "2026-08-24 13:52:51 UTC",
   "items": [
     {
-      "title": "Wall Street futures under pressure ahead of Bessent briefing, Nvidia earnings",
-      "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-steady-after-weekly-losses-nvidia-results-jackson-hole-in-focus-4872516",
+      "title": "Zillow settles FTC claims it paid Redfin to stop competing on apartment listings",
+      "link": "https://www.investing.com/news/stock-market-news/us-ftc-to-file-order-resolving-litigation-against-zillow-redfin-4873634",
       "summary": "",
-      "title_ko": "베슨트 브리핑, 엔비디아 수입을 앞두고 압박을 받는 월스트리트 선물",
+      "title_ko": "Zillow는 FTC가 Redfin에게 지불하여 아파트 숙소에서의 경쟁을 중단했다고 주장합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Coinbase-backed crypto advocacy group endorses 32 US midterm candidates",
-      "link": "https://www.investing.com/news/stock-market-news/coinbasebacked-crypto-advocacy-group-endorses-32-us-midterm-candidates-4873491",
+      "title": "Why is Vital Farms stock rallying today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-vital-farms-stock-rallying-today-93CH-4873714",
       "summary": "",
-      "title_ko": "Coinbase가 지원하는 암호화폐 옹호 단체는 32명의 미국 중간고사 후보를 지지합니다",
+      "title_ko": "Vital Farms 주식이 오늘 왜 집결합니까?",
       "summary_ko": ""
     },
     {
-      "title": "Fast-fashion giant Shein shrinks value to up to $27 billion in Hong Kong IPO",
-      "link": "https://www.investing.com/news/stock-market-news/shein-launches-up-to-18-billion-hong-kong-ipo-4872479",
+      "title": "Why is Bunge stock sliding today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-bunge-stock-sliding-today-93CH-4873713",
       "summary": "",
-      "title_ko": "패스트패션 거대 기업 SHEIN, 홍콩 기업공개 (IPO) 에서 최대 270억 달러 ($) 로 가치 축소",
+      "title_ko": "오늘 번지 재고가 미끄러지는 이유는 무엇인가요?",
       "summary_ko": ""
     },
     {
-      "title": "Funds sell $44bn in semiconductors on AI concerns",
-      "link": "https://www.investing.com/news/stock-market-news/funds-sell-44bn-in-semiconductors-on-ai-concerns-93CH-4873449",
+      "title": "Buffalo airport blames circuit fault, not shortage, for 3 flight delays",
+      "link": "https://www.investing.com/news/stock-market-news/buffalo-airport-blames-circuit-fault-not-shortage-for-3-flight-delays-93CH-4873708",
       "summary": "",
-      "title_ko": "자금, AI 우려에 따른 반도체 판매액 $ 440억",
+      "title_ko": "버팔로 공항은 3번의 항공편 지연으로 부족함이 아닌 회로 결함을 탓합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Canada July factory sales most likely down 0.2% - Statscan flash estimate",
+      "link": "https://www.investing.com/news/economic-indicators/canada-july-factory-sales-most-likely-down-02--statscan-flash-estimate-4873511",
+      "summary": "",
+      "title_ko": "캐나다 7월 공장 매출 0.2% 감소 가능성 높음 - Statscan Flash 추정치",
+      "summary_ko": ""
+    },
+    {
+      "title": "Mexico inflation accelerates in early August",
+      "link": "https://www.investing.com/news/economic-indicators/mexico-inflation-accelerates-in-early-august-4873529",
+      "summary": "",
+      "title_ko": "8월 초 멕시코 인플레이션 가속화",
       "summary_ko": ""
     },
     {
@@ -41,20 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/polands-july-retail-sales-rise-39-missing-forecasts-93CH-4872810",
       "summary": "",
       "title_ko": "폴란드의 7월 소매 판매 증가율 3.9%, 예측 누락",
-      "summary_ko": ""
-    },
-    {
-      "title": "UK economy hands Burnham surprise boost before first budget",
-      "link": "https://www.investing.com/news/economic-indicators/uk-economy-hands-burnham-surprise-boost-before-first-budget-4872696",
-      "summary": "",
-      "title_ko": "영국 경제, 첫 예산 전에 번햄에게 깜짝 부스트를 건네다",
-      "summary_ko": ""
-    },
-    {
-      "title": "Europe EV market share tops 25% in July as France, Germany drive growth",
-      "link": "https://www.investing.com/news/economic-indicators/europe-ev-market-share-tops-25-in-july-as-france-germany-drive-growth-4872477",
-      "summary": "",
-      "title_ko": "유럽 전기차 시장 점유율, 7월 프랑스, 독일 성장에 힘입어 25% 상승",
       "summary_ko": ""
     }
   ]

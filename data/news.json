@@ -1,32 +1,53 @@
 {
-  "updated_at_utc": "2026-08-25 13:01:15 UTC",
+  "updated_at_utc": "2026-08-25 14:19:27 UTC",
   "items": [
     {
-      "title": "Wall Street set for a higher open amid falling oil prices and Treasury yields",
-      "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-steady-as-investors-brace-for-nvidia-results-fed-signals-4874359",
+      "title": "TSX falls as Trump tariff threat weighs on Canadian stocks",
+      "link": "https://www.investing.com/news/stock-market-news/tsx-futures-edge-higher-amid-us-tariffs-bank-earnings-4875098",
       "summary": "",
-      "title_ko": "월스트리트는 유가 하락과 국채 수익률 하락 속에서 더 높은 개방성을 위해 설정되었습니다.",
+      "title_ko": "트럼프 관세 위협이 캐나다 주식에 무게를 실으면서 TSX 하락",
       "summary_ko": ""
     },
     {
-      "title": "Morgan Stanley Ranks These EU Diagnostics Stocks by China Reform Risk",
-      "link": "https://www.investing.com/news/stock-market-news/morgan-stanley-ranks-these-eu-diagnostics-stocks-by-china-reform-risk-93CH-4875334",
+      "title": "Why is Marvell Technology stock surging today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-marvell-technology-stock-surging-today-93CH-4875594",
       "summary": "",
-      "title_ko": "모건 스탠리 (Morgan Stanley) 는 중국 개혁 위험에 의해 이러한 EU 진단 주식의 순위를 매깁니다.",
+      "title_ko": "오늘날 Marvell Technology의 재고가 급증하는 이유는 무엇입니까?",
       "summary_ko": ""
     },
     {
-      "title": "Why This U.S. Auto Retail Stock is Barclays’ Top Pick Right Now",
-      "link": "https://www.investing.com/news/stock-market-news/why-this-us-auto-retail-stock-is-barclays-top-pick-right-now-93CH-4875286",
+      "title": "Why is Super Micro Computer stock rallying today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-super-micro-computer-stock-rallying-today-93CH-4875593",
       "summary": "",
-      "title_ko": "이 미국 자동차 소매 재고가 Barclays가 지금 가장 많이 선택하는 이유",
+      "title_ko": "오늘날 슈퍼 마이크로 컴퓨터 주식이 랠리되는 이유는 무엇입니까?",
       "summary_ko": ""
     },
     {
-      "title": "Raymond James upgrades AMD, sees $201 billion server CPU market by 2030",
-      "link": "https://www.investing.com/news/stock-market-news/raymond-james-upgrades-amd-sees-201-billion-server-cpu-market-by-2030-4875253",
+      "title": "Top Semiconductor Stocks for AI Server CPU Growth, Says Raymond James",
+      "link": "https://www.investing.com/news/stock-market-news/top-semiconductor-stocks-for-ai-server-cpu-growth-says-raymond-james-93CH-4875588",
       "summary": "",
-      "title_ko": "Raymond James, AMD 업그레이드, 2030년까지 $ 201 billion 서버 CPU 시장 전망",
+      "title_ko": "Raymond James는 AI 서버 CPU 성장에 대한 최고 반도체 주식",
+      "summary_ko": ""
+    },
+    {
+      "title": "New home sales fall short of expectations, signaling housing market challenges",
+      "link": "https://www.investing.com/news/economic-indicators/new-home-sales-fall-short-of-expectations-signaling-housing-market-challenges-93CH-4875584",
+      "summary": "",
+      "title_ko": "신규 주택 판매가 기대에 미치지 못해 주택 시장이 어려움을 겪고 있다는 신호입니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Consumer confidence dips as economic uncertainty persists",
+      "link": "https://www.investing.com/news/economic-indicators/consumer-confidence-dips-as-economic-uncertainty-persists-93CH-4875575",
+      "summary": "",
+      "title_ko": "경제 불확실성이 지속됨에 따라 소비자 신뢰도 하락",
+      "summary_ko": ""
+    },
+    {
+      "title": "U.S. Home Prices Rise More Than Expected, Boosting Market Confidence",
+      "link": "https://www.investing.com/news/economic-indicators/us-home-prices-rise-more-than-expected-boosting-market-confidence-93CH-4875392",
+      "summary": "",
+      "title_ko": "미국 주택 가격이 예상보다 상승하여 시장의 신뢰도를 높이고 있습니다.",
       "summary_ko": ""
     },
     {
@@ -34,27 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/average-weekly-us-private-payrolls-rise-11750-in-four-weeks-ending-aug-8--adp-4875339",
       "summary": "",
       "title_ko": "8 월 8 일 - ADP로 끝나는 4 주 동안 평균 주간 미국 개인 급여가 11,750 상승합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Building permits rise 4.3%, missing forecast but showing improvement",
-      "link": "https://www.investing.com/news/economic-indicators/building-permits-rise-43-missing-forecast-but-showing-improvement-93CH-4875335",
-      "summary": "",
-      "title_ko": "건축 허가 증가율 4.3%, 예측은 누락되었지만 개선된 것으로 나타남",
-      "summary_ko": ""
-    },
-    {
-      "title": "German GDP, business sentiment beat expectations in latest sign of momentum",
-      "link": "https://www.investing.com/news/economic-indicators/german-economy-grows-by-03-in-q2-stats-office-says-4874492",
-      "summary": "",
-      "title_ko": "독일 GDP, 비즈니스 센티먼트가 모멘텀의 최신 징후에서 기대를 뛰어넘음",
-      "summary_ko": ""
-    },
-    {
-      "title": "German business confidence rises above forecasts in August",
-      "link": "https://www.investing.com/news/economic-indicators/german-business-confidence-rises-above-forecasts-in-august-93CH-4874671",
-      "summary": "",
-      "title_ko": "8월 독일 기업 신뢰도 상승 전망치 상회",
       "summary_ko": ""
     }
   ]

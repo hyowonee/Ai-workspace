@@ -1,32 +1,46 @@
 {
-  "updated_at_utc": "2026-08-25 11:57:12 UTC",
+  "updated_at_utc": "2026-08-25 13:01:15 UTC",
   "items": [
     {
-      "title": "FTSE 100 today: Stocks gain as bitcoin rallies, Iran sanctions lack near-term bite",
-      "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-higher-as-bitcoin-extends-surge-4874559",
+      "title": "Wall Street set for a higher open amid falling oil prices and Treasury yields",
+      "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-steady-as-investors-brace-for-nvidia-results-fed-signals-4874359",
       "summary": "",
-      "title_ko": "오늘 FTSE 100: 비트코인 랠리가 열리면서 주식이 증가하고, 이란의 제재는 단기적인 물림이 부족합니다.",
+      "title_ko": "월스트리트는 유가 하락과 국채 수익률 하락 속에서 더 높은 개방성을 위해 설정되었습니다.",
       "summary_ko": ""
     },
     {
-      "title": "Why is Immatics stock climbing today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-immatics-stock-climbing-today-93CH-4875182",
+      "title": "Morgan Stanley Ranks These EU Diagnostics Stocks by China Reform Risk",
+      "link": "https://www.investing.com/news/stock-market-news/morgan-stanley-ranks-these-eu-diagnostics-stocks-by-china-reform-risk-93CH-4875334",
       "summary": "",
-      "title_ko": "Immatics 주가가 오늘날 상승하는 이유는 무엇입니까?",
+      "title_ko": "모건 스탠리 (Morgan Stanley) 는 중국 개혁 위험에 의해 이러한 EU 진단 주식의 순위를 매깁니다.",
       "summary_ko": ""
     },
     {
-      "title": "Why is Dynatrace stock rallying today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-dynatrace-stock-rallying-today-93CH-4875181",
+      "title": "Why This U.S. Auto Retail Stock is Barclays’ Top Pick Right Now",
+      "link": "https://www.investing.com/news/stock-market-news/why-this-us-auto-retail-stock-is-barclays-top-pick-right-now-93CH-4875286",
       "summary": "",
-      "title_ko": "Dynatrace 주식이 오늘 왜 집결합니까?",
+      "title_ko": "이 미국 자동차 소매 재고가 Barclays가 지금 가장 많이 선택하는 이유",
       "summary_ko": ""
     },
     {
-      "title": "Avoid these 3 auto stocks as Trump threatens 50% Canada tariffs",
-      "link": "https://www.investing.com/news/stock-market-news/avoid-these-3-auto-stocks-as-trump-threatens-50-canada-tariffs-93CH-4875179",
+      "title": "Raymond James upgrades AMD, sees $201 billion server CPU market by 2030",
+      "link": "https://www.investing.com/news/stock-market-news/raymond-james-upgrades-amd-sees-201-billion-server-cpu-market-by-2030-4875253",
       "summary": "",
-      "title_ko": "트럼프가 50% 의 캐나다 관세를 위협하기 때문에 이 3가지 자동차 재고를 피하십시오.",
+      "title_ko": "Raymond James, AMD 업그레이드, 2030년까지 $ 201 billion 서버 CPU 시장 전망",
+      "summary_ko": ""
+    },
+    {
+      "title": "Average weekly U.S. private payrolls rise 11,750 in four weeks ending Aug 8 - ADP",
+      "link": "https://www.investing.com/news/economic-indicators/average-weekly-us-private-payrolls-rise-11750-in-four-weeks-ending-aug-8--adp-4875339",
+      "summary": "",
+      "title_ko": "8 월 8 일 - ADP로 끝나는 4 주 동안 평균 주간 미국 개인 급여가 11,750 상승합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Building permits rise 4.3%, missing forecast but showing improvement",
+      "link": "https://www.investing.com/news/economic-indicators/building-permits-rise-43-missing-forecast-but-showing-improvement-93CH-4875335",
+      "summary": "",
+      "title_ko": "건축 허가 증가율 4.3%, 예측은 누락되었지만 개선된 것으로 나타남",
       "summary_ko": ""
     },
     {
@@ -41,20 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/german-business-confidence-rises-above-forecasts-in-august-93CH-4874671",
       "summary": "",
       "title_ko": "8월 독일 기업 신뢰도 상승 전망치 상회",
-      "summary_ko": ""
-    },
-    {
-      "title": "German business sentiment rises more than expected in August, Ifo survey finds",
-      "link": "https://www.investing.com/news/economic-indicators/german-business-sentiment-rises-more-than-expected-in-august-ifo-survey-finds-4874620",
-      "summary": "",
-      "title_ko": "8월 독일 기업 감정이 예상보다 상승한 것으로 나타났습니다. Ifo 설문 조사에 따르면",
-      "summary_ko": ""
-    },
-    {
-      "title": "German GDP beats forecasts as exports drive second-quarter growth",
-      "link": "https://www.investing.com/news/economic-indicators/german-gdp-beats-forecasts-as-exports-drive-secondquarter-growth-4874507",
-      "summary": "",
-      "title_ko": "수출이 2분기 성장을 견인함에 따라 독일 GDP가 전망치를 상회함",
       "summary_ko": ""
     }
   ]

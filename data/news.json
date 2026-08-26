@@ -1,39 +1,46 @@
 {
-  "updated_at_utc": "2026-08-26 13:55:42 UTC",
+  "updated_at_utc": "2026-08-26 14:47:38 UTC",
   "items": [
     {
-      "title": "Wall Street opens lower on mixed PCE data, but moves small ahead of Nvidia test",
-      "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-fall-as-investors-await-pce-inflation-nvidia-results-4876105",
+      "title": "Truist downgrades Nike as DKS update clouds turnaround progress",
+      "link": "https://www.investing.com/news/stock-market-news/truist-downgrades-nike-as-dks-update-clouds-turnaround-progress-4877522",
       "summary": "",
-      "title_ko": "월스트리트는 혼합 PCE 데이터에서 더 낮게 열리지만 엔비디아 테스트보다 작게 이동합니다.",
+      "title_ko": "Truist, DKS 업데이트 클라우드 턴어라운드 진행으로 Nike 다운그레이드",
       "summary_ko": ""
     },
     {
-      "title": "Moody’s upgrades CenterPoint Energy Resources commercial paper rating",
-      "link": "https://www.investing.com/news/stock-market-news/moodys-upgrades-centerpoint-energy-resources-commercial-paper-rating-93CH-4877336",
+      "title": "US imposes sanctions on Palestine Action group",
+      "link": "https://www.investing.com/news/stock-market-news/us-imposes-sanctions-on-palestine-action-group-4877520",
       "summary": "",
-      "title_ko": "Moody의 업그레이드 CenterPoint Energy Resources 상업용 용지 등급",
+      "title_ko": "미국, 팔레스타인 액션 그룹에 제재 부과",
       "summary_ko": ""
     },
     {
-      "title": "Vanguard to acquire Altruist to expand financial advice reach",
-      "link": "https://www.investing.com/news/stock-market-news/vanguard-to-acquire-altruist-to-expand-financial-advice-reach-93CH-4877332",
+      "title": "Sodexo plans to cut over 1,000 jobs in France",
+      "link": "https://www.investing.com/news/stock-market-news/sodexo-plans-to-cut-over-1000-jobs-in-france-93CH-4877517",
       "summary": "",
-      "title_ko": "재무 자문 범위를 확대하기 위해 이타주의자를 인수하는 선봉대",
+      "title_ko": "Sodexo는 프랑스에서 1,000개 이상의 일자리를 줄일 계획입니다.",
       "summary_ko": ""
     },
     {
-      "title": "Unrivaled valuation hits $650M as Ten Pillars leads Series C",
-      "link": "https://www.investing.com/news/stock-market-news/unrivaled-valuation-hits-650m-as-ten-pillars-leads-series-c-93CH-4877331",
+      "title": "AWS to acquire DuckLabs to boost analytics capabilities",
+      "link": "https://www.investing.com/news/stock-market-news/aws-to-acquire-ducklabs-to-boost-analytics-capabilities-93CH-4877516",
       "summary": "",
-      "title_ko": "타의 추종을 불허하는 가치 평가가 시리즈 C를 이끄는 10개의 기둥으로 $ 6억 5천만 히트",
+      "title_ko": "AWS를 통해 DuckLabs를 인수하여 분석 기능 강화",
       "summary_ko": ""
     },
     {
-      "title": "Fed’s preferred inflation index matches prior month on annualized basis in July",
+      "title": "Crude Oil Inventories Show Smaller Rise Than Expected",
+      "link": "https://www.investing.com/news/economic-indicators/crude-oil-inventories-show-smaller-rise-than-expected-93CH-4877495",
+      "summary": "",
+      "title_ko": "원유 재고가 예상보다 적은 상승률을 보임",
+      "summary_ko": ""
+    },
+    {
+      "title": "Fed’s preferred inflation metric floats above target range in July",
       "link": "https://www.investing.com/news/economic-indicators/feds-preferred-inflation-index-matches-prior-month-on-annualized-basis-in-july-4877193",
       "summary": "",
-      "title_ko": "Fed가 선호하는 인플레이션 지수는 7월에 연간 기준으로 전월과 일치합니다.",
+      "title_ko": "7월 Fed가 선호하는 인플레이션 지표가 목표 범위를 초과하는 경우",
       "summary_ko": ""
     },
     {
@@ -48,13 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/us-gdp-growth-stagnates-meeting-economic-forecasts-93CH-4877168",
       "summary": "",
       "title_ko": "미국 GDP 성장 정체, 경제 전망에 부응",
-      "summary_ko": ""
-    },
-    {
-      "title": "Core PCE price index meets expectations, signals steady inflation",
-      "link": "https://www.investing.com/news/economic-indicators/core-pce-price-index-meets-expectations-signals-steady-inflation-93CH-4877153",
-      "summary": "",
-      "title_ko": "핵심 PCE 가격 지수는 기대치를 충족하며, 꾸준한 인플레이션을 나타냅니다.",
       "summary_ko": ""
     }
   ]

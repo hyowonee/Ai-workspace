@@ -1,32 +1,46 @@
 {
-  "updated_at_utc": "2026-09-01 19:28:40 UTC",
+  "updated_at_utc": "2026-09-01 21:56:51 UTC",
   "items": [
     {
-      "title": "Wall Street set for a glum start to historically worst month as oil, yields rise",
-      "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-as-markets-digest-rate-risks-iran-escalation-4883399",
+      "title": "Colombia stocks higher at close of trade; COLCAP up 1.86%",
+      "link": "https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-186-4884670",
       "summary": "",
-      "title_ko": "월스트리트는 역사적으로 최악의 달인 석유로 시작하여 상승을 수확합니다.",
+      "title_ko": "콜롬비아는 교역 마감 시점에서 더 높은 주식을 보유하고 있으며, COLCAP는 1.86% 상승했습니다.",
       "summary_ko": ""
     },
     {
-      "title": "Coal India files for IPO of Mahanadi Coalfields subsidiary",
-      "link": "https://www.investing.com/news/stock-market-news/coal-india-files-for-ipo-of-mahanadi-coalfields-subsidiary-93CH-4884507",
+      "title": "General Electric wins $2.9B Navy engine contract from DoD",
+      "link": "https://www.investing.com/news/stock-market-news/general-electric-wins-29b-navy-engine-contract-from-dod-93CH-4884669",
       "summary": "",
-      "title_ko": "Mahanadi Coalfields 자회사의 IPO를 위한 인도 석탄 파일",
+      "title_ko": "제너럴 일렉트릭, 국방부로부터 29억 $ 해군 엔진 계약 수주",
       "summary_ko": ""
     },
     {
-      "title": "Citi lifts Collins Foods target to A$9.12, keeps neutral rating",
-      "link": "https://www.investing.com/news/stock-market-news/citi-lifts-collins-foods-target-to-a912-keeps-neutral-rating-93CH-4884504",
+      "title": "Russia stocks higher at close of trade; MOEX Russia Index up 0.44%",
+      "link": "https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-044-4884667",
       "summary": "",
-      "title_ko": "Citi는 Collins Foods 목표를 $ 9.12 로 상향 조정하고 중립 등급을 유지합니다.",
+      "title_ko": "러시아는 교역 마감 시점에서 더 높은 주식을 보유하고 있습니다. MOEX 러시아 지수는 0.44% 상승했습니다.",
       "summary_ko": ""
     },
     {
-      "title": "Alphabet C tests triangle support at $331: Hourly levels",
-      "link": "https://www.investing.com/news/stock-market-news/alphabet-c-breaks-337-support-in-bearish-slide-live-levels-93CH-4882992",
+      "title": "Chegg stock rises as company repays debt, achieves debt-free status",
+      "link": "https://www.investing.com/news/stock-market-news/chegg-stock-rises-as-company-repays-debt-achieves-debtfree-status-93CH-4884666",
       "summary": "",
-      "title_ko": "알파벳 C는 $ 331에서 삼각형 지원 테스트: 시간당 수준",
+      "title_ko": "회사가 부채를 상환하고 부채 없는 상태를 달성함에 따라 Chegg 주식이 상승합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Crude Oil Inventories Drop, Surpassing Forecasts",
+      "link": "https://www.investing.com/news/economic-indicators/crude-oil-inventories-drop-surpassing-forecasts-93CH-4884625",
+      "summary": "",
+      "title_ko": "원유 재고 감소, 예측치 뛰어넘어",
+      "summary_ko": ""
+    },
+    {
+      "title": "Some G20 differences remain over imbalances, sovereign debt, US Treasury official says",
+      "link": "https://www.investing.com/news/economic-indicators/some-g20-differences-remain-over-imbalances-sovereign-debt-us-treasury-official-says-4884611",
+      "summary": "",
+      "title_ko": "미국 재무부 관계자는 일부 G20 차이는 불균형, 국채보다 남아 있다고 말합니다.",
       "summary_ko": ""
     },
     {
@@ -41,20 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/us-july-job-openings-come-in-soft-but-tick-up-from-revised-june-figure-4884238",
       "summary": "",
       "title_ko": "미국 7 월 채용 공고는 부드럽지만 수정 된 6 월 그림에서 위로 체크",
-      "summary_ko": ""
-    },
-    {
-      "title": "Canadian factory PMI dips in August but shows sector still expanding",
-      "link": "https://www.investing.com/news/economic-indicators/canadian-factory-pmi-dips-in-august-but-shows-sector-still-expanding-4884187",
-      "summary": "",
-      "title_ko": "캐나다 공장 PMI는 8월에 하락하지만 부문은 여전히 확장 중입니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Job openings dip below expectations, signal cooling labor market",
-      "link": "https://www.investing.com/news/economic-indicators/job-openings-dip-below-expectations-signal-cooling-labor-market-93CH-4884235",
-      "summary": "",
-      "title_ko": "채용 공고가 기대치보다 낮아짐, 신호 냉각 노동 시장",
       "summary_ko": ""
     }
   ]

@@ -1,39 +1,46 @@
 {
-  "updated_at_utc": "2026-09-08 16:13:23 UTC",
+  "updated_at_utc": "2026-09-08 19:30:48 UTC",
   "items": [
     {
-      "title": "European stocks mixed as investors weigh imminent ECB hike and oil spike",
-      "link": "https://www.investing.com/news/stock-market-news/european-stocks-fall-as-crude-extends-advance-following-iranian-threats-4890806",
+      "title": "Meta launches AI agent that can access other apps to send emails, make payments",
+      "link": "https://www.investing.com/news/stock-market-news/meta-launches-ai-agent-that-can-access-other-apps-to-send-emails-make-payments-4892258",
       "summary": "",
-      "title_ko": "투자자들이 ECB 인상과 원유 급등이 임박한 가운데 유럽 증시가 혼조세를 보이고 있다.",
+      "title_ko": "메타는 다른 앱에 액세스하여 이메일을 보내고 결제할 수 있는 AI 에이전트를 출시합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Air traffic control issue disrupts departing flights at major UK airports",
-      "link": "https://www.investing.com/news/stock-market-news/air-traffic-control-issue-disrupts-departing-flights-at-major-uk-airports-4891986",
+      "title": "Trump administration blasts Ford business deals with Chinese firms",
+      "link": "https://www.investing.com/news/stock-market-news/trump-administration-blasts-ford-business-deals-with-chinese-firms-4892257",
       "summary": "",
-      "title_ko": "항공 교통 통제 문제가 영국 주요 공항의 출발 항공편을 방해합니다.",
+      "title_ko": "트럼프 행정부, 중국 기업과 포드 비즈니스 거래 폭파",
       "summary_ko": ""
     },
     {
-      "title": "Sweden stocks higher at close of trade; OMX Stockholm 30 up 0.62%",
-      "link": "https://www.investing.com/news/stock-market-news/sweden-stocks-higher-at-close-of-trade-omx-stockholm-30-up-062-4892081",
+      "title": "AEO options flow shows 2.1:1 call/put ratio ahead of earnings",
+      "link": "https://www.investing.com/news/stock-market-news/aeo-options-flow-shows-211-callput-ratio-ahead-of-earnings-93CH-4892254",
       "summary": "",
-      "title_ko": "스웨덴 주식은 거래 마감 시점에서 더 높습니다. OMX 스톡홀름 30 0.62% 상승",
+      "title_ko": "AEO 옵션 흐름은 수입보다 2.1: 1의 콜/퍼팅 비율을 보여줍니다.",
       "summary_ko": ""
     },
     {
-      "title": "Finland stocks higher at close of trade; OMX Helsinki 25 up 0.53%",
-      "link": "https://www.investing.com/news/stock-market-news/finland-stocks-higher-at-close-of-trade-omx-helsinki-25-up-053-4892080",
+      "title": "US FCC proposes to open more wireless spectrum for space-based wireless service",
+      "link": "https://www.investing.com/news/stock-market-news/us-fcc-proposes-to-open-more-wireless-spectrum-for-spacebased-wireless-service-4892242",
       "summary": "",
-      "title_ko": "핀란드는 거래 종료 시점에 더 높은 주식을 보유하고 있으며, OMX 헬싱키 25는 0.53% 상승했습니다.",
+      "title_ko": "미국 FCC는 우주 기반 무선 서비스를 위해 더 많은 무선 스펙트럼을 개방할 것을 제안합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Chile’s consumer prices rise more than expected in August",
+      "title": "Consumer credit surges past expectations, signaling robust spending",
+      "link": "https://www.investing.com/news/economic-indicators/consumer-credit-surges-past-expectations-signaling-robust-spending-93CH-4892253",
+      "summary": "",
+      "title_ko": "기대 이상으로 소비자 신용이 급증하여 강력한 지출을 나타냅니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Chile inflation quickens in August, testing rate-cut hopes",
       "link": "https://www.investing.com/news/economic-indicators/chiles-consumer-prices-rise-more-than-expected-in-august-4891879",
       "summary": "",
-      "title_ko": "칠레의 소비자 가격은 8월에 예상보다 많이 상승합니다.",
+      "title_ko": "8월 칠레 인플레이션 속도가 빨라지며, 금리 인하 희망 테스트 중",
       "summary_ko": ""
     },
     {
@@ -48,13 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/afd-victory-clouds-merzs-reform-agenda-as-ally-seeks-changes-4891209",
       "summary": "",
       "title_ko": "AfD 승리는 동맹국이 변화를 추구함에 따라 Merz의 개혁 의제를 흐리게 합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "South Africa’s economy shrinks 0.2% in second quarter",
-      "link": "https://www.investing.com/news/economic-indicators/south-africas-economy-shrinks-02-in-second-quarter-93CH-4891065",
-      "summary": "",
-      "title_ko": "2분기 남아프리카공화국 경제 0.2% 축소",
       "summary_ko": ""
     }
   ]

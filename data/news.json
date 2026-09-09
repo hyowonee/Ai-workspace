@@ -1,32 +1,46 @@
 {
-  "updated_at_utc": "2026-09-09 00:27:34 UTC",
+  "updated_at_utc": "2026-09-09 05:04:26 UTC",
   "items": [
     {
-      "title": "US Justice Department widens probe into Fox’s Roku deal, Semafor reports",
-      "link": "https://www.investing.com/news/stock-market-news/us-justice-department-widens-probe-into-foxs-roku-deal-semafor-reports-4892593",
+      "title": "Amgen and AstraZeneca report positive lung cancer trial results",
+      "link": "https://www.investing.com/news/stock-market-news/amgen-and-astrazeneca-report-positive-lung-cancer-trial-results-93CH-4892704",
       "summary": "",
-      "title_ko": "미국 법무부가 폭스의 Roku 거래에 대한 조사를 확대한다고 Semafor가 보도했습니다.",
+      "title_ko": "암젠과 아스트라제네카, 폐암 임상시험 결과 양성 보고",
       "summary_ko": ""
     },
     {
-      "title": "Paramount says California AG contradicted bond arguments in TV interviews",
-      "link": "https://www.investing.com/news/stock-market-news/paramount-says-california-agcontradicted-bond-arguments-in-tv-interviews-4892518",
+      "title": "Pilots considered aborting landing after touchdown in Miami cargo crash, NTSB says",
+      "link": "https://www.investing.com/news/stock-market-news/evidence-suggests-pilots-considered-aborting-landing-in-miami-cargo-plane-crash-4892657",
       "summary": "",
-      "title_ko": "파라마운트는 캘리포니아 AG가 TV 인터뷰에서 채권 논쟁과 모순된다고 말합니다.",
+      "title_ko": "NTSB에 따르면 조종사들은 마이애미 화물 추락 사고에서 터치다운 후 착륙을 중단하는 것을 고려했다.",
       "summary_ko": ""
     },
     {
-      "title": "Smithfield Foods expects to swing to third-quarter operating loss in fresh pork business",
-      "link": "https://www.investing.com/news/stock-market-news/smithfield-foods-expects-to-swing-to-thirdquarter-operating-loss-in-fresh-pork-business-4892547",
+      "title": "Gift Nifty 50 plunges to oversold RSI 19 territory: Live levels",
+      "link": "https://www.investing.com/news/stock-market-news/gift-nifty-50-breaches-50-fib-at-23900-live-levels-93CH-4890352",
       "summary": "",
-      "title_ko": "스미스필드 푸드 (Smithfield Foods) 는 신선한 돼지고기 사업에서 3분기 영업손실로 전환할 것으로 예상합니다.",
+      "title_ko": "RSI 19 영토를 과매도하기 위한 선물 멋진 50개의 플런지: 라이브 레벨",
       "summary_ko": ""
     },
     {
-      "title": "Why is Evommune stock plunging today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-evommune-stock-plunging-today-93CH-4892545",
+      "title": "Asian stocks mixed as chip rally offsets oil-fueled inflation concerns",
+      "link": "https://www.investing.com/news/stock-market-news/asian-stocks-mixed-as-chip-rally-offsets-oilfueled-inflation-concerns-4892696",
       "summary": "",
-      "title_ko": "Evommune 주식이 오늘 급락하는 이유는 무엇입니까?",
+      "title_ko": "칩 랠리로 혼합된 아시아 증시는 석유 연료 인플레이션 우려를 상쇄합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Dutch consumer spending growth slows to 1.2% in July",
+      "link": "https://www.investing.com/news/economic-indicators/dutch-consumer-spending-growth-slows-to-12-in-july-93CH-4892702",
+      "summary": "",
+      "title_ko": "네덜란드 소비자 지출 성장률, 7월 1.2% 로 둔화",
+      "summary_ko": ""
+    },
+    {
+      "title": "China CPI rebounds in August, factory-gate inflation strengthens",
+      "link": "https://www.investing.com/news/economic-indicators/china-cpi-rebounds-in-august-factorygate-inflation-strengthens-4892659",
+      "summary": "",
+      "title_ko": "8월 중국 CPI 반등, 공장 게이트 인플레이션 강화",
       "summary_ko": ""
     },
     {
@@ -41,20 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/consumer-credit-surges-past-expectations-signaling-robust-spending-93CH-4892253",
       "summary": "",
       "title_ko": "기대 이상으로 소비자 신용이 급증하여 강력한 지출을 나타냅니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Chile inflation quickens in August, testing rate-cut hopes",
-      "link": "https://www.investing.com/news/economic-indicators/chiles-consumer-prices-rise-more-than-expected-in-august-4891879",
-      "summary": "",
-      "title_ko": "8월 칠레 인플레이션 속도가 빨라지며, 금리 인하 희망 테스트 중",
-      "summary_ko": ""
-    },
-    {
-      "title": "South African economy shrinks in second quarter, dragged down by Iran war",
-      "link": "https://www.investing.com/news/economic-indicators/south-africas-second-quarter-gdp-contracts-02-qq-4891046",
-      "summary": "",
-      "title_ko": "2분기 남아프리카공화국 경제 위축, 이란 전쟁에 질질 끌려",
       "summary_ko": ""
     }
   ]

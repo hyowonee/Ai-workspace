@@ -1,32 +1,46 @@
 {
-  "updated_at_utc": "2026-09-09 10:01:02 UTC",
+  "updated_at_utc": "2026-09-09 14:44:18 UTC",
   "items": [
     {
-      "title": "European equities stumble under threat of Middle East strikes, ECB hike",
-      "link": "https://www.investing.com/news/stock-market-news/european-equities-stumble-under-threat-of-middle-east-strikes-ecb-hike-4892721",
+      "title": "MercadoLibre stock falls as company taps debt markets",
+      "link": "https://www.investing.com/news/stock-market-news/mercadolibre-stock-falls-as-company-taps-debt-markets-93CH-4893993",
       "summary": "",
-      "title_ko": "유럽 주식은 중동 파업, ECB 하이킹의 위협에 시달리고 있습니다.",
+      "title_ko": "회사가 부채 시장을 두드리면서 MercadoLibre 주가가 하락합니다",
       "summary_ko": ""
     },
     {
-      "title": "Lowe’s vs. Home Depot: Which Home Improvement stock to buy amid weakness?",
-      "link": "https://www.investing.com/news/stock-market-news/lowes-vs-home-depot-which-home-improvement-stock-to-buy-amid-weakness-93CH-4893011",
+      "title": "Bombardier still recruiting to fill 500 open U.S. positions despite Trump threats",
+      "link": "https://www.investing.com/news/stock-market-news/bombardier-still-recruiting-to-fill-500-open-us-positions-despite-trump-threats-4893982",
       "summary": "",
-      "title_ko": "Lowe's vs. Home Depot: 약세 속에서 어떤 주택 개량 주식을 사야 할까요?",
+      "title_ko": "봄바디어는 트럼프의 위협에도 불구하고 여전히 500개의 공개 미국 포지션을 채우기 위해 모집 중입니다.",
       "summary_ko": ""
     },
     {
-      "title": "J.P. Morgan upgrades Kingspan on data-centre demand, earnings momentum",
-      "link": "https://www.investing.com/news/stock-market-news/jp-morgan-upgrades-kingspan-on-datacentre-demand-earnings-momentum-4892988",
+      "title": "ServiceTitan options flow points to $50 as the next key level for TTAN",
+      "link": "https://www.investing.com/news/stock-market-news/servicetitan-options-flow-points-to-50-as-the-next-key-level-for-ttan-93CH-4893980",
       "summary": "",
-      "title_ko": "J.P. Morgan, 데이터 중심 수요, 수익 모멘텀으로 킹스팬 업그레이드",
+      "title_ko": "ServiceTitan 옵션 흐름은 TTAN의 다음 핵심 수준으로 $ 50을 가리킵니다.",
       "summary_ko": ""
     },
     {
-      "title": "Chinese EV stocks near 52-week lows: Is now the right time to buy?",
-      "link": "https://www.investing.com/news/stock-market-news/chinese-ev-stocks-near-52week-lows-is-now-the-right-time-to-buy-93CH-4892987",
+      "title": "Choice Hotels leads hotel stocks on valuation, but technical signals remain weak",
+      "link": "https://www.investing.com/news/stock-market-news/choice-hotels-leads-hotel-stocks-on-valuation-but-technical-signals-remain-weak-93CH-4893975",
       "summary": "",
-      "title_ko": "52주 최저치에 근접한 중국 전기차 주가: 지금이 바로 매수할 적기인가?",
+      "title_ko": "초이스 호텔은 호텔 주식을 밸류에이션으로 이끌고 있지만 기술적 신호는 여전히 약합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "US fixed 30-year mortgage rate climbs to highest since June 2025",
+      "link": "https://www.investing.com/news/economic-indicators/us-fixed-30year-mortgage-rate-climbs-to-highest-since-june-2025-4893267",
+      "summary": "",
+      "title_ko": "미국 30년 고정 모기지 금리, 2025년 6월 이후 최고치로 상승",
+      "summary_ko": ""
+    },
+    {
+      "title": "Argentina’s corn exports set for record, as war in Ukraine, European heat wave reshape trade",
+      "link": "https://www.investing.com/news/economic-indicators/argentinas-corn-exports-set-for-record-as-war-in-ukraine-european-heat-wave-reshape-trade-4893126",
+      "summary": "",
+      "title_ko": "우크라이나 전쟁으로 기록적인 아르헨티나의 옥수수 수출, 유럽 열파로 교역 재편",
       "summary_ko": ""
     },
     {
@@ -41,20 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/afd-victory-clouds-merzs-reform-agenda-as-ally-seeks-changes-4891209",
       "summary": "",
       "title_ko": "AfD 승리는 동맹국이 변화를 추구함에 따라 Merz의 개혁 의제를 흐리게 합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "France’s industrial output falls 0.4% in July, missing forecasts",
-      "link": "https://www.investing.com/news/economic-indicators/frances-industrial-output-falls-04-in-july-missing-forecasts-93CH-4892763",
-      "summary": "",
-      "title_ko": "7월 프랑스 산업생산은 0.4% 하락, 예측 누락",
-      "summary_ko": ""
-    },
-    {
-      "title": "China CPI inflation rebounds in Aug, PPI accelerates as energy prices surge",
-      "link": "https://www.investing.com/news/economic-indicators/china-cpi-rebounds-in-august-factorygate-inflation-strengthens-4892659",
-      "summary": "",
-      "title_ko": "8월 중국 CPI 인플레이션 반등, 에너지 가격 급등에 따른 PPI 가속화",
       "summary_ko": ""
     }
   ]

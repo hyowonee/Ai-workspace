@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-09-10 16:00:10 UTC",
+  "updated_at_utc": "2026-09-10 19:11:11 UTC",
   "items": [
     {
-      "title": "Turkey stocks lower at close of trade; BIST 100 down 0.77%",
-      "link": "https://www.investing.com/news/stock-market-news/turkey-stocks-lower-at-close-of-trade-bist-100-down-077-4896449",
+      "title": "Why is Amgen stock sliding today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-amgen-stock-sliding-today-93CH-4896720",
       "summary": "",
-      "title_ko": "터키 주식은 거래 마감 시점에 하락, BIST 100 0.77% 하락",
+      "title_ko": "오늘날 Amgen 재고가 미끄러지는 이유는 무엇입니까?",
       "summary_ko": ""
     },
     {
-      "title": "Poland stocks lower at close of trade; WIG30 down 0.81%",
-      "link": "https://www.investing.com/news/stock-market-news/poland-stocks-lower-at-close-of-trade-wig30-down-081-4896447",
+      "title": "US FAA head meets with airline CEOS on plan to cut flight delays",
+      "link": "https://www.investing.com/news/stock-market-news/us-faa-head-meets-with-airline-ceos-on-plan-to-cut-flight-delays-4896719",
       "summary": "",
-      "title_ko": "폴란드 주식은 거래 마감 시점에 하락, WIG30은 0.81% 하락",
+      "title_ko": "미국 연방항공청 (FAA) 책임자가 항공편 지연을 줄이기 위한 계획으로 항공사 CEO들과 만납니다.",
       "summary_ko": ""
     },
     {
-      "title": "Dycom Industries stock rises after CEO insider purchase",
-      "link": "https://www.investing.com/news/stock-market-news/dycom-industries-stock-rises-after-ceo-insider-purchase-93CH-4896446",
+      "title": "Why is Labcorp stock sliding today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-labcorp-stock-sliding-today-93CH-4896716",
       "summary": "",
-      "title_ko": "CEO 내부자 매입 후 다이콤 인더스트리 주가 상승",
+      "title_ko": "오늘 Labcorp 재고가 미끄러지는 이유는 무엇입니까?",
       "summary_ko": ""
     },
     {
-      "title": "OpenAI launches Data agent for business analytics in ChatGPT Work",
-      "link": "https://www.investing.com/news/stock-market-news/openai-launches-data-agent-for-business-analytics-in-chatgpt-work-93CH-4896439",
+      "title": "Why is United Rentals stock sliding today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-united-rentals-stock-sliding-today-93CH-4896715",
       "summary": "",
-      "title_ko": "OpenAI, ChatGPT Work에서 비즈니스 분석을 위한 데이터 에이전트 출시",
+      "title_ko": "유나이티드 렌탈의 재고가 오늘 미끄러지는 이유는 무엇인가요?",
+      "summary_ko": ""
+    },
+    {
+      "title": "Crude oil inventories decline less than expected, signaling demand shift",
+      "link": "https://www.investing.com/news/economic-indicators/crude-oil-inventories-decline-less-than-expected-signaling-demand-shift-93CH-4896486",
+      "summary": "",
+      "title_ko": "원유 재고가 예상보다 적게 감소하여 수요 변화 신호",
       "summary_ko": ""
     },
     {
@@ -48,13 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/natural-gas-storage-rises-above-expectations-impacting-market-dynamics-93CH-4896318",
       "summary": "",
       "title_ko": "천연가스 저장량이 기대 이상으로 증가하여 시장 역학에 영향을 미침",
-      "summary_ko": ""
-    },
-    {
-      "title": "Wholesale inventories remain steady, meeting forecasts at 1.3%",
-      "link": "https://www.investing.com/news/economic-indicators/wholesale-inventories-remain-steady-meeting-forecasts-at-13-93CH-4896226",
-      "summary": "",
-      "title_ko": "도매 재고는 꾸준히 유지되며 1.3% 의 예측치를 충족합니다.",
       "summary_ko": ""
     }
   ]

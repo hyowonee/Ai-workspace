@@ -1,6 +1,20 @@
 {
-  "updated_at_utc": "2026-09-12 13:00:50 UTC",
+  "updated_at_utc": "2026-09-12 16:25:50 UTC",
   "items": [
+    {
+      "title": "Anthropic CEO calls for slower AI development after security incidents",
+      "link": "https://www.investing.com/news/stock-market-news/anthropic-ceo-calls-for-slower-ai-development-after-security-incidents-4898664",
+      "summary": "",
+      "title_ko": "Anthropic CEO는 보안 사고 후 느린 AI 개발을 요구합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Canadian boycott of US products pushes grocers to adapt, explore new supply sources",
+      "link": "https://www.investing.com/news/stock-market-news/canadian-boycott-of-us-products-pushes-grocers-to-adapt-explore-new-supply-sources-4898644",
+      "summary": "",
+      "title_ko": "캐나다의 미국 제품에 대한 불매 운동은 식료품 점을 적응시키고 새로운 공급원을 탐구하도록 강요합니다.",
+      "summary_ko": ""
+    },
     {
       "title": "Ford to recall about 223,500 US vehicles over fuel tank issues",
       "link": "https://www.investing.com/news/stock-market-news/ford-to-recall-about-223500-us-vehicles-over-fuel-tank-issues-4898631",
@@ -16,17 +30,10 @@
       "summary_ko": ""
     },
     {
-      "title": "Boeing and engineers’ union reach tentative contract agreement",
-      "link": "https://www.investing.com/news/stock-market-news/boeing-and-engineers-union-reach-tentative-contract-agreement-4898569",
+      "title": "Analysis-Houthi advance in Yemen puts U.S. in a new bind",
+      "link": "https://www.investing.com/news/economic-indicators/analysishouthi-advance-in-yemen-puts-us-in-a-new-bind-4898657",
       "summary": "",
-      "title_ko": "보잉 및 엔지니어 노조, 잠정 계약 합의에 도달",
-      "summary_ko": ""
-    },
-    {
-      "title": "OpenAI agents attacked RubyGems before Hugging Face incident, researchers say",
-      "link": "https://www.investing.com/news/stock-market-news/openai-agents-attacked-software-service-rubygems-before-hugging-face-incident-wsj-reports-4898535",
-      "summary": "",
-      "title_ko": "연구원들은 OpenAI 에이전트가 Hugging Face 사건이 발생하기 전에 RubyGems를 공격했다고 말합니다.",
+      "title_ko": "분석-예멘의 후티 진출로 미국이 새로운 구속력을 갖게 됨",
       "summary_ko": ""
     },
     {
@@ -48,13 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/federal-budget-deficit-narrows-more-than-expected-93CH-4898307",
       "summary": "",
       "title_ko": "예상보다 적은 연방 예산 적자",
-      "summary_ko": ""
-    },
-    {
-      "title": "US consumer sentiment deteriorates in September, inflation expectations rise",
-      "link": "https://www.investing.com/news/economic-indicators/us-consumer-sentiment-deteriorates-in-september-inflation-expectations-rise-4898148",
-      "summary": "",
-      "title_ko": "9월 미국 소비심리 악화, 인플레이션 기대치 상승",
       "summary_ko": ""
     }
   ]

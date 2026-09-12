@@ -1,6 +1,20 @@
 {
-  "updated_at_utc": "2026-09-12 04:56:05 UTC",
+  "updated_at_utc": "2026-09-12 09:06:51 UTC",
   "items": [
+    {
+      "title": "Ford to recall about 223,500 US vehicles over fuel tank issues",
+      "link": "https://www.investing.com/news/stock-market-news/ford-to-recall-about-223500-us-vehicles-over-fuel-tank-issues-4898631",
+      "summary": "",
+      "title_ko": "연료 탱크 문제를 통해 약 223,500대의 미국 차량을 리콜하는 포드",
+      "summary_ko": ""
+    },
+    {
+      "title": "Global funds retreat from Indian stocks as some cut exposure to zero - Bloomberg",
+      "link": "https://www.investing.com/news/stock-market-news/global-funds-retreat-from-indian-stocks-as-some-cut-exposure-to-zero--bloomberg-4898628",
+      "summary": "",
+      "title_ko": "글로벌 펀드는 인도 주식에서 후퇴합니다. 제로에 대한 노출이 일부 줄어들기 때문입니다. - 블룸버그",
+      "summary_ko": ""
+    },
     {
       "title": "Boeing and engineers’ union reach tentative contract agreement",
       "link": "https://www.investing.com/news/stock-market-news/boeing-and-engineers-union-reach-tentative-contract-agreement-4898569",
@@ -16,17 +30,10 @@
       "summary_ko": ""
     },
     {
-      "title": "US declares end of largest recorded cyclosporiasis outbreak",
-      "link": "https://www.investing.com/news/stock-market-news/us-declares-end-of-largest-recorded-cyclosporiasis-outbreak-4898115",
+      "title": "Meloni sees Italy 2026 growth at 1%, matching euro zone",
+      "link": "https://www.investing.com/news/economic-indicators/meloni-sees-italy-2026-growth-at-1-matching-euro-zone-4898632",
       "summary": "",
-      "title_ko": "미국, 최대 규모의 사이클로스포리아증 발병 종료 선언",
-      "summary_ko": ""
-    },
-    {
-      "title": "J&amp;J orthopedics unit draws Apollo interest in potential $20 billion deal, Bloomberg News reports",
-      "link": "https://www.investing.com/news/stock-market-news/apollo-global-in-talks-to-acquire-jjs-orthopedics-unit-bloomberg-news-reports-4898542",
-      "summary": "",
-      "title_ko": "블룸버그 뉴스는 J&amp;J 정형외과 부서가 잠재적인 200억 $ 규모의 거래에 아폴로에 관심을 보인다고 보도했습니다.",
+      "title_ko": "멜로니는 유로존과 일치하는 이탈리아의 2026년 성장률을 1% 로 보고 있습니다.",
       "summary_ko": ""
     },
     {
@@ -48,13 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/us-consumer-sentiment-deteriorates-in-september-inflation-expectations-rise-4898148",
       "summary": "",
       "title_ko": "9월 미국 소비심리 악화, 인플레이션 기대치 상승",
-      "summary_ko": ""
-    },
-    {
-      "title": "Michigan Consumer Sentiment Falls Short of Expectations",
-      "link": "https://www.investing.com/news/economic-indicators/michigan-consumer-sentiment-falls-short-of-expectations-93CH-4898097",
-      "summary": "",
-      "title_ko": "미시간 소비자 감정이 기대에 미치지 못함",
       "summary_ko": ""
     }
   ]

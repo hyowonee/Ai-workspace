@@ -1,32 +1,46 @@
 {
-  "updated_at_utc": "2026-09-16 01:35:24 UTC",
+  "updated_at_utc": "2026-09-16 07:22:43 UTC",
   "items": [
     {
-      "title": "SK Hynix breaks KRW 1,730,000 above Ichimoku cloud: Live levels",
-      "link": "https://www.investing.com/news/stock-market-news/sk-hynix-trapped-in-ichimoku-cloud-near-vwap-live-levels-93CH-4898785",
+      "title": "European stocks rise from 3-month lows as traders await high-stakes Fed decision",
+      "link": "https://www.investing.com/news/stock-market-news/european-stocks-rise-from-3month-lows-as-traders-await-highstakes-fed-decision-4902888",
       "summary": "",
-      "title_ko": "SK하이닉스, 이치모쿠 클라우드 상공에서 1,730,000원 돌파: 라이브 레벨",
+      "title_ko": "유럽 증시는 거래자들이 높은 지분의 연준 결정을 기다리면서 3개월 최저치에서 상승합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Nikkei 225 pinned below 64,500 resistance: Live levels",
-      "link": "https://www.investing.com/news/stock-market-news/nikkei-225-nears-62500-breakdown-in-bearish-trend-live-levels-93CH-4898786",
+      "title": "Supermarket Income REIT reports 27.5% shareholder return",
+      "link": "https://www.investing.com/news/stock-market-news/supermarket-income-reit-reports-275-shareholder-return-93CH-4902983",
       "summary": "",
-      "title_ko": "64,500 저항 미만으로 고정된 Nikkei 225: 라이브 레벨",
+      "title_ko": "슈퍼마켓 소득 REIT 보고서 27.5% 주주 수익률",
       "summary_ko": ""
     },
     {
-      "title": "SK Hynix union agrees to revised payment deal",
-      "link": "https://www.investing.com/news/stock-market-news/sk-hynix-union-agrees-to-revised-payment-deal-4902816",
+      "title": "Meta’s Zuckerberg says AI labs have enough incentive to build safely",
+      "link": "https://www.investing.com/news/stock-market-news/metas-zuckerberg-says-ai-labs-have-enough-incentive-to-build-safely-4902846",
       "summary": "",
-      "title_ko": "SK하이닉스 노조, 수정된 지급 거래에 동의",
+      "title_ko": "Meta의 저커버그 (Zuckerberg) 는 인공지능 연구소가 안전하게 구축할 수 있는 충분한 인센티브를 가지고 있다고 말합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Nvidia CEO Huang set to attend Trump state dinner for Xi: CNBC, Reuters",
-      "link": "https://www.investing.com/news/stock-market-news/nvidia-ceo-huang-set-to-attend-trump-state-dinner-for-xi-cnbc-reuters-4902814",
+      "title": "New Hope lifts dividend as AI strategy’s coal pick delivers 32.7% yearly return",
+      "link": "https://www.investing.com/news/stock-market-news/new-hope-lifts-dividend-as-ai-strategys-coal-pick-delivers-327-yearly-return-4902982",
       "summary": "",
-      "title_ko": "엔비디아 CEO 황이 시진핑 주석의 트럼프 대통령 만찬에 참석할 예정: CNBC, 로이터",
+      "title_ko": "뉴 호프는 인공지능 전략의 석탄 선택이 연 수익률 32.7% 를 달성함에 따라 배당금을 인상합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Hungary’s average wages rise 7.5% in July",
+      "link": "https://www.investing.com/news/economic-indicators/hungarys-average-wages-rise-75-in-july-93CH-4902978",
+      "summary": "",
+      "title_ko": "헝가리의 7월 평균 임금은 7.5% 상승",
+      "summary_ko": ""
+    },
+    {
+      "title": "UK inflation accelerates to 3.1% in August on sharp rise in fuel prices",
+      "link": "https://www.investing.com/news/economic-indicators/uk-inflation-hits-31-in-august-as-motor-fuel-prices-jump-23-4902910",
+      "summary": "",
+      "title_ko": "8월 연료 가격의 급격한 상승에 따라 영국 인플레이션이 3.1% 로 가속화됨",
       "summary_ko": ""
     },
     {
@@ -41,20 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/crude-stockpiles-surge-as-api-reports-unexpected-inventory-build-93CH-4902627",
       "summary": "",
       "title_ko": "API가 예상치 못한 재고 구축을 보고함에 따라 조잡한 비축량 급증",
-      "summary_ko": ""
-    },
-    {
-      "title": "NY Empire State Manufacturing Index Falls Short of Expectations",
-      "link": "https://www.investing.com/news/economic-indicators/ny-empire-state-manufacturing-index-falls-short-of-expectations-93CH-4901639",
-      "summary": "",
-      "title_ko": "뉴욕 엠파이어 스테이트 제조업 지수가 기대에 미치지 못함",
-      "summary_ko": ""
-    },
-    {
-      "title": "Poland’s August inflation confirmed at 3.4% with upward revisions",
-      "link": "https://www.investing.com/news/economic-indicators/polands-august-inflation-confirmed-at-34-with-upward-revisions-93CH-4901591",
-      "summary": "",
-      "title_ko": "폴란드의 8월 인플레이션은 3.4% 로 상향 조정된 것으로 확인되었습니다.",
       "summary_ko": ""
     }
   ]

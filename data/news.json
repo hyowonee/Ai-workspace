@@ -1,32 +1,46 @@
 {
-  "updated_at_utc": "2026-09-17 21:38:24 UTC",
+  "updated_at_utc": "2026-09-17 23:57:55 UTC",
   "items": [
     {
-      "title": "Anduril wins $85 million Air Force contract for aerospace design",
-      "link": "https://www.investing.com/news/stock-market-news/anduril-wins-85-million-air-force-contract-for-aerospace-design-93CH-4906502",
+      "title": "US FCC approves foreign investment in Paramount Warner merger",
+      "link": "https://www.investing.com/news/stock-market-news/us-fcc-approves-foreign-investment-in-paramount-warner-merger-deal-4906507",
       "summary": "",
-      "title_ko": "Anduril, 항공우주 설계를 위한 8,500만 $ 공군 계약 수주",
+      "title_ko": "미국 FCC, 파라마운트 워너 합병에 대한 외국인 투자 승인",
       "summary_ko": ""
     },
     {
-      "title": "Colombia stocks higher at close of trade; COLCAP up 0.40%",
-      "link": "https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-040-4906501",
+      "title": "Orion180 prices IPO at $12 per share on Nasdaq",
+      "link": "https://www.investing.com/news/stock-market-news/orion180-prices-ipo-at-12-per-share-on-nasdaq-432SI-4906558",
       "summary": "",
-      "title_ko": "콜롬비아는 거래 마감 시점에서 더 높은 주식을 보유하고 있으며 COLCAP는 0.40% 상승했습니다.",
+      "title_ko": "Orion180은 나스닥에서 주당 $ 12의 IPO 가격",
       "summary_ko": ""
     },
     {
-      "title": "Boeing wins $112m contract for Saudi F-15 training program",
-      "link": "https://www.investing.com/news/stock-market-news/boeing-wins-112m-contract-for-saudi-f15-training-program-93CH-4906499",
+      "title": "Ultragenyx sets $3.95 million price for rare disease gene therapy",
+      "link": "https://www.investing.com/news/stock-market-news/us-fda-approves-ultragenyxs-gene-therapy-for-rare-disorder-4906314",
       "summary": "",
-      "title_ko": "보잉, 사우디 F-15 훈련 프로그램 $ 112M 계약 수주",
+      "title_ko": "울트라제닉스, 희귀질환 유전자 치료제 $ 3.95 백만 가격 책정",
       "summary_ko": ""
     },
     {
-      "title": "General Dynamics wins $47.6m in Navy contract modifications",
-      "link": "https://www.investing.com/news/stock-market-news/general-dynamics-wins-476m-in-navy-contract-modifications-93CH-4906498",
+      "title": "Starbucks settles Florida lawsuit claiming diversity policies were illegal",
+      "link": "https://www.investing.com/news/stock-market-news/starbucks-settles-florida-lawsuit-claiming-diversity-policies-were-illegal-4906532",
       "summary": "",
-      "title_ko": "제너럴 다이내믹스 (General Dynamics), 해군 계약 변경으로 $ 47.6M 수주",
+      "title_ko": "다양성 정책이 불법이라고 주장하는 스타벅스 정산 플로리다 소송",
+      "summary_ko": ""
+    },
+    {
+      "title": "Japan’s August core consumer prices rise 1.7% yr/yr",
+      "link": "https://www.investing.com/news/economic-indicators/japans-august-core-consumer-prices-rise-17-yryr-4906565",
+      "summary": "",
+      "title_ko": "일본 8월 핵심 소비자 물가, 전년 대비 1.7% 상승",
+      "summary_ko": ""
+    },
+    {
+      "title": "Japan CPI steady in August, core inflation eases ahead of BOJ rate hike",
+      "link": "https://www.investing.com/news/economic-indicators/japan-cpi-steady-in-august-core-inflation-eases-ahead-of-boj-rate-hike-4906567",
+      "summary": "",
+      "title_ko": "8월 일본 CPI 안정, BOJ 금리 인상 앞두고 핵심 인플레이션 완화",
       "summary_ko": ""
     },
     {
@@ -41,20 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/natural-gas-storage-rises-but-falls-short-of-forecasts-93CH-4905990",
       "summary": "",
       "title_ko": "천연가스 저장량은 증가하지만 예측치에 미치지 못함",
-      "summary_ko": ""
-    },
-    {
-      "title": "Pending home sales rise, defying expectations and previous decline",
-      "link": "https://www.investing.com/news/economic-indicators/pending-home-sales-rise-defying-expectations-and-previous-decline-93CH-4905917",
-      "summary": "",
-      "title_ko": "주택 판매 상승 보류, 기대에 부응 및 이전 하락",
-      "summary_ko": ""
-    },
-    {
-      "title": "Building permits report shows unexpected decline, raising economic concerns",
-      "link": "https://www.investing.com/news/economic-indicators/building-permits-report-shows-unexpected-decline-raising-economic-concerns-93CH-4905649",
-      "summary": "",
-      "title_ko": "건축 허가 보고서에 예상치 못한 감소가 표시되어 경제적 우려가 제기됨",
       "summary_ko": ""
     }
   ]

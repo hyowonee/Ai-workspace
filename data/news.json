@@ -1,32 +1,46 @@
 {
-  "updated_at_utc": "2026-09-21 00:53:53 UTC",
+  "updated_at_utc": "2026-09-21 05:58:35 UTC",
   "items": [
     {
-      "title": "Tech leads shares higher in Asia, oil eases",
+      "title": "Meta’s Facebook, Instagram recover after brief outage in US",
+      "link": "https://www.investing.com/news/stock-market-news/metas-social-networks-down-for-thousands-of-users-in-usdowndetector-says-4908221",
+      "summary": "",
+      "title_ko": "Meta의 Facebook, Instagram은 미국에서 잠시 정전된 후 복구됩니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Tech lifts share markets in Asia as oil slips",
       "link": "https://www.investing.com/news/stock-market-news/tech-leads-shares-higher-in-asia-oil-eases-4908206",
       "summary": "",
-      "title_ko": "테크는 아시아에서 더 높은 점유율을 주도하고, 석유는 완화됩니다",
+      "title_ko": "석유 미끄러짐에 따른 아시아의 기술 리프트 시장 점유율",
       "summary_ko": ""
     },
     {
-      "title": "China Rare Earth Group in talks to buy MP Materials shareholder Shenghe Resources, sources say",
-      "link": "https://www.investing.com/news/stock-market-news/china-rare-earth-group-in-talks-to-buy-mp-materials-shareholder-shenghe-resources-sources-say-4908159",
+      "title": "Apple: JPM says iPhone 18 lead times increase in second week",
+      "link": "https://www.investing.com/news/stock-market-news/apple-jpm-says-iphone-18-lead-times-increase-in-second-week-4908259",
       "summary": "",
-      "title_ko": "소식통에 따르면 중국 희토류 그룹 (Rare Earth Group) 은 MP 재료 주주 인 Shenghe Resources를 매입하기 위해 회담에서",
+      "title_ko": "Apple: JPM, iPhone 18 리드타임 2주차에 증가",
       "summary_ko": ""
     },
     {
-      "title": "U.S. stock index futures rise with China summit, Iran escalation in focus",
-      "link": "https://www.investing.com/news/stock-market-news/us-stock-index-futures-rise-with-china-summit-iran-escalation-in-focus-4908205",
+      "title": "China’s CXMT shares rise as new DRAM platform enters mass production",
+      "link": "https://www.investing.com/news/stock-market-news/chinas-cxmt-shares-rise-as-new-dram-platform-enters-mass-production-4908258",
       "summary": "",
-      "title_ko": "미국 주가지수 선물은 중국 정상회담, 이란 증시에 집중 상승",
+      "title_ko": "새로운 DRAM 플랫폼이 대량 생산에 들어가면서 중국의 CXMT 주식이 상승합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Australia’s Telix agrees to buy Germany’s ITM Isotope for $1.65 bln",
-      "link": "https://www.investing.com/news/stock-market-news/australias-telix-agrees-to-buy-germanys-itm-isotope-for-165-bln-4908202",
+      "title": "US Fed, BoE step up scrutiny of bank exposure to trading firms after Jane Street loss, FT reports",
+      "link": "https://www.investing.com/news/economic-indicators/us-fed-boe-step-up-scrutiny-of-bank-exposure-to-trading-firms-after-jane-street-loss-ft-reports-4908257",
       "summary": "",
-      "title_ko": "호주의 Telix는 독일의 ITM 동위 원소를 $ 1.65 bln에 구매하는 데 동의합니다",
+      "title_ko": "FT는 제인 스트리트 손실 이후 미국 연방준비제도이사회 (US Fed), BOE가 무역회사에 대한 은행 노출에 대한 정밀 조사를 강화했다고 보도했다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Xi rolls into Trump summit with China’s trade engine roaring",
+      "link": "https://www.investing.com/news/economic-indicators/xi-rolls-into-trump-summit-with-chinas-trade-engine-roaring-4908235",
+      "summary": "",
+      "title_ko": "시진핑 주석, 중국 무역 엔진 울부짖으며 트럼프 정상회담 돌입",
       "summary_ko": ""
     },
     {
@@ -41,20 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/germanys-iw-institute-triples-growth-forecast-for-2026-4908145",
       "summary": "",
       "title_ko": "독일의 IW 연구소, 2026년 성장률 3배 전망",
-      "summary_ko": ""
-    },
-    {
-      "title": "Republican China committee chair urges tough Trump line with Xi",
-      "link": "https://www.investing.com/news/economic-indicators/republican-china-committee-chair-urges-tough-trump-line-with-xi-4907811",
-      "summary": "",
-      "title_ko": "중국 공화당 위원장, 시 주석과 거친 트럼프 라인 촉구",
-      "summary_ko": ""
-    },
-    {
-      "title": "US factory production falls in August; outlook clouded by rising costs",
-      "link": "https://www.investing.com/news/economic-indicators/us-manufacturing-output-falls-in-august-after-rising-for-seven-straight-months-4907507",
-      "summary": "",
-      "title_ko": "8월 미국 공장 생산 감소, 비용 상승으로 전망 혼탁",
       "summary_ko": ""
     }
   ]

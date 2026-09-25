@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-09-24 22:04:20 UTC",
+  "updated_at_utc": "2026-09-25 00:41:20 UTC",
   "items": [
-    {
-      "title": "Bluerock Acquisition Corp. II prices $150M IPO on Nasdaq",
-      "link": "https://www.investing.com/news/stock-market-news/bluerock-acquisition-corp-ii-prices-150m-ipo-on-nasdaq-432SI-4916305",
-      "summary": "",
-      "title_ko": "Bluerock Acquisition Corp. II, 나스닥에서 $ 150M IPO 가격",
-      "summary_ko": ""
-    },
-    {
-      "title": "StubHub earns Moody’s upgrade to B2 as debt reduction efforts bear fruit",
-      "link": "https://www.investing.com/news/stock-market-news/stubhub-earns-moodys-upgrade-to-b2-as-debt-reduction-efforts-bear-fruit-4916310",
-      "summary": "",
-      "title_ko": "StubHub는 부채 감축 노력이 결실을 맺음에 따라 Moody의 B2로 업그레이드합니다",
-      "summary_ko": ""
-    },
-    {
-      "title": "Drug developer City Therapeutics files for US IPO as biotech listings surge",
-      "link": "https://www.investing.com/news/stock-market-news/drug-developer-city-therapeutics-files-for-us-ipo-4916247",
-      "summary": "",
-      "title_ko": "의약품 개발업체인 City Therapeutics는 생명공학 리스팅이 급증함에 따라 미국 IPO에 대한 파일을 제출합니다.",
-      "summary_ko": ""
-    },
     {
       "title": "Trump-Xi summit in Washington features great fanfare but low expectations",
       "link": "https://www.investing.com/news/stock-market-news/trump-welcomes-xi-to-washington-looking-for-a-trade-win-4914436",
       "summary": "",
       "title_ko": "워싱턴에서 열리는 트럼프-시 정상 회담은 훌륭한 팡파르를 특징으로 하지만 기대치는 낮습니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Chile’s Escondida mine gradually resumes operations after fatal accident",
+      "link": "https://www.investing.com/news/stock-market-news/chiles-escondida-mine-gradually-resumes-operations-after-fatal-accident-4916465",
+      "summary": "",
+      "title_ko": "칠레의 에스콘디다 광산은 치명적인 사고 후 점차 운영을 재개합니다",
+      "summary_ko": ""
+    },
+    {
+      "title": "Airbus identifies A321neo quality defect but says no safety risk",
+      "link": "https://www.investing.com/news/stock-market-news/airbus-alerts-customers-to-a321neo-defect-potentially-affecting-over-500-aircraft-air-current-reports-4916300",
+      "summary": "",
+      "title_ko": "Airbus는 A321neo 품질 결함을 식별하지만 안전 위험이 없다고 말합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "OpenAI to preview GPT-6 Cyber within days, Fortune reports",
+      "link": "https://www.investing.com/news/stock-market-news/openai-to-preview-gpt6-cyber-within-days-fortune-reports-4916443",
+      "summary": "",
+      "title_ko": "Fortune에 따르면 OpenAI를 통해 GPT-6 Cyber를 일 이내에 미리 볼 수 있습니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "UK consumer confidence hits more than two-year high in September, GfK says",
+      "link": "https://www.investing.com/news/economic-indicators/uk-consumer-confidence-hits-more-than-twoyear-high-in-september-gfk-says-4916400",
+      "summary": "",
+      "title_ko": "GfK는 영국 소비자 신뢰가 9월에 2년 이상 최고치를 기록했다고 말합니다.",
       "summary_ko": ""
     },
     {
@@ -48,13 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/natural-gas-storage-exceeds-expectations-impacting-energy-markets-93CH-4915715",
       "summary": "",
       "title_ko": "천연가스 저장량이 기대치를 초과하여 에너지 시장에 영향을 미침",
-      "summary_ko": ""
-    },
-    {
-      "title": "New home sales exceed expectations with notable increase",
-      "link": "https://www.investing.com/news/economic-indicators/new-home-sales-exceed-expectations-with-notable-increase-93CH-4915640",
-      "summary": "",
-      "title_ko": "신규 주택 판매는 눈에 띄는 증가로 기대를 뛰어넘습니다.",
       "summary_ko": ""
     }
   ]

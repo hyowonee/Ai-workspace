@@ -1,32 +1,53 @@
 {
-  "updated_at_utc": "2026-09-25 11:33:43 UTC",
+  "updated_at_utc": "2026-09-25 16:47:45 UTC",
   "items": [
     {
-      "title": "US equity funds post first inflow in five weeks on renewed AI optimism",
-      "link": "https://www.investing.com/news/stock-market-news/usequity-funds-post-first-inflow-in-five-weeks-on-renewed-ai-optimism-4917294",
+      "title": "U.S. stocks rise, head for weekly gains as oil falls, short-term bonds halt slide",
+      "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-drift-lower-as-soaring-yields-oil-prices-weigh-4916485",
       "summary": "",
-      "title_ko": "미국 주식 펀드, 갱신된 인공지능 낙관주의에 대해 5주 만에 첫 유입",
+      "title_ko": "미국 증시 상승, 원유 하락에 따른 주간 이익으로 향하고, 단기 채권은 슬라이드 중단",
       "summary_ko": ""
     },
     {
-      "title": "Why is Nike stock sliding today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-nike-stock-sliding-today-93CH-4917291",
+      "title": "Oaktree-backed Utmost delays London IPO plans, Bloomberg reports",
+      "link": "https://www.investing.com/news/stock-market-news/oaktreebacked-utmost-delays-london-ipo-plans-bloomberg-reports-4917873",
       "summary": "",
-      "title_ko": "오늘날 나이키 주식이 미끄러지는 이유는 무엇입니까?",
+      "title_ko": "Oaktree 기반 Utmost 지연 런던 IPO 계획, Bloomberg 보고서",
       "summary_ko": ""
     },
     {
-      "title": "Qatar Airways retires A330 fleet as high fuel costs hit Gulf aviation - report",
-      "link": "https://www.investing.com/news/stock-market-news/qatar-airways-retires-a330-fleet-as-high-fuel-costs-hit-gulf-aviation--report-93CH-4917290",
+      "title": "European shares log weekly gains as oil prices ease, Mideast tensions linger",
+      "link": "https://www.investing.com/news/stock-market-news/european-stocks-on-track-for-weekly-gain-as-oil-prices-ease-4916775",
       "summary": "",
-      "title_ko": "카타르 항공, 높은 연료비가 걸프 항공을 강타하면서 A330 항공기 퇴역 - 보고서",
+      "title_ko": "유럽 주식은 유가가 완화됨에 따라 주간 이익을 기록하고, 중동의 긴장은 고조됩니다.",
       "summary_ko": ""
     },
     {
-      "title": "ADARx Pharmaceuticals raises $446.3 million in upsized US IPO",
-      "link": "https://www.investing.com/news/stock-market-news/adarx-pharmaceuticals-raises-4463-million-in-upsized-us-ipo-4917250",
+      "title": "TV networks resume covering White House as legal battle continues",
+      "link": "https://www.investing.com/news/stock-market-news/tv-networks-to-resume-coverage-of-trump-events-cnn-says-4917665",
       "summary": "",
-      "title_ko": "ADARx Pharmaceuticals, 미국 IPO 상향 조정으로 $ 446.3 백만 모금",
+      "title_ko": "합법적 인 전투가 계속됨에 따라 TV 네트워크가 백악관을 덮기 재개",
+      "summary_ko": ""
+    },
+    {
+      "title": "Michigan consumer sentiment edges higher than forecast, but remains low",
+      "link": "https://www.investing.com/news/economic-indicators/michigan-consumer-sentiment-edges-higher-than-forecast-but-remains-low-93CH-4917683",
+      "summary": "",
+      "title_ko": "미시간 소비심리는 예상보다 높지만 여전히 낮습니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "US core capital goods orders surge in August",
+      "link": "https://www.investing.com/news/economic-indicators/us-core-capital-goods-orders-surge-in-august-4917537",
+      "summary": "",
+      "title_ko": "8월 미국 주요 자본재 주문 급증",
+      "summary_ko": ""
+    },
+    {
+      "title": "Durable Goods Orders Flatline, Missing Forecasts and Previous Gains",
+      "link": "https://www.investing.com/news/economic-indicators/durable-goods-orders-flatline-missing-forecasts-and-previous-gains-93CH-4917496",
+      "summary": "",
+      "title_ko": "내구재 주문 플랫라인, 누락 예측 및 이전 이익",
       "summary_ko": ""
     },
     {
@@ -34,27 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/bank-of-englands-bailey-sees-ai-as-positive-supply-shock-93CH-4917060",
       "summary": "",
       "title_ko": "뱅크 오브 잉글랜드의 베일리 (Bailey) 는 인공지능 (AI) 을 긍정적인 공급 충격",
-      "summary_ko": ""
-    },
-    {
-      "title": "India’s ’unsettled relations’ with US a headwind for economy, adviser says",
-      "link": "https://www.investing.com/news/economic-indicators/indias-unsettled-relations-with-us-a-headwind-for-economy-adviser-says-4916798",
-      "summary": "",
-      "title_ko": "고문은 인도와 미국과의 ’불안한 관계’ 가 경제에 대한 역풍이라고 말합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Spain Q2 GDP holds at 0.7% q/q as domestic demand drives growth",
-      "link": "https://www.investing.com/news/economic-indicators/spain-q2-gdp-holds-at-07-qq-as-domestic-demand-drives-growth-93CH-4916792",
-      "summary": "",
-      "title_ko": "스페인 2분기 국내 수요가 성장을 주도함에 따라 GDP는 0.7% (q/q) 를 유지하고 있습니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "German consumer sentiment drops more than expected as energy costs hit incomes",
-      "link": "https://www.investing.com/news/economic-indicators/german-consumer-sentiment-drops-more-than-expected-as-energy-costs-hit-incomes-4916726",
-      "summary": "",
-      "title_ko": "에너지 비용이 수입에 도달함에 따라 독일 소비심리가 예상보다 크게 떨어졌습니다.",
       "summary_ko": ""
     }
   ]

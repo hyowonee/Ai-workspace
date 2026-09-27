@@ -1,6 +1,27 @@
 {
-  "updated_at_utc": "2026-09-27 06:22:24 UTC",
+  "updated_at_utc": "2026-09-27 12:19:58 UTC",
   "items": [
+    {
+      "title": "OpenAI pauses training a second time as rogue agents hit U.S. government websites",
+      "link": "https://www.investing.com/news/stock-market-news/openai-pauses-training-a-second-time-as-rogue-agents-hit-us-government-websites-4918960",
+      "summary": "",
+      "title_ko": "OpenAI는 불량 상담원이 미국 정부 웹사이트를 방문함에 따라 두 번째로 교육을 일시 중지합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Republicans pour money into dozens of US House races previously considered ’safe’",
+      "link": "https://www.investing.com/news/stock-market-news/republicans-pour-money-into-dozens-of-us-house-races-previously-considered-safe-4918910",
+      "summary": "",
+      "title_ko": "공화당은 이전에 ’안전하다’ 고 여겨졌던 수십 개의 미국 하원 경선에 돈을 쏟아 붓습니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Street Calls of the Week",
+      "link": "https://www.investing.com/news/stock-market-news/street-calls-of-the-week-93CH-4918617",
+      "summary": "",
+      "title_ko": "금주의 스트리트콜",
+      "summary_ko": ""
+    },
     {
       "title": "5 big analyst AI moves: Muse AI seen as major catalyst for Meta; MSFT upgraded",
       "link": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-muse-ai-seen-as-major-catalyst-for-meta-msft-upgraded-4918281",
@@ -9,24 +30,10 @@
       "summary_ko": ""
     },
     {
-      "title": "OpenAI, Anthropic CEOs called to appear at Australian AI probe",
-      "link": "https://www.investing.com/news/stock-market-news/openai-anthropic-ceos-called-to-appear-at-australian-ai-probe-4918799",
+      "title": "East German espionage raised GDP by 7.4% in late 1980s, study finds",
+      "link": "https://www.investing.com/news/economic-indicators/east-german-espionage-raised-gdp-by-74-in-late-1980s-study-finds-4918838",
       "summary": "",
-      "title_ko": "OpenAI, Anthropic CEO, 호주 AI 프로브에 출연 요청",
-      "summary_ko": ""
-    },
-    {
-      "title": "China consumer stocks near decade lows as investors pile into AI",
-      "link": "https://www.investing.com/news/stock-market-news/china-consumer-stocks-near-decade-lows-as-investors-pile-into-ai-4918679",
-      "summary": "",
-      "title_ko": "투자자들이 AI에 쌓이면서 중국 소비자 주식은 10년 가까이 낮아졌다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "US to finalize sharply lower vehicle fuel economy standards",
-      "link": "https://www.investing.com/news/stock-market-news/trump-says-he-approved-fuel-economy-standards-ending-biden-ev-mandate-4918626",
-      "summary": "",
-      "title_ko": "미국, 차량 연비 기준 급격히 낮춘다",
+      "title_ko": "동독 간첩 행위가 1980년대 후반 GDP를 7.4% 증가시켰다고 연구 결과가 발표했습니다.",
       "summary_ko": ""
     },
     {
@@ -48,13 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/durable-goods-orders-flatline-missing-forecasts-and-previous-gains-93CH-4917496",
       "summary": "",
       "title_ko": "내구재 주문 플랫라인, 누락 예측 및 이전 이익",
-      "summary_ko": ""
-    },
-    {
-      "title": "Bank of England’s Bailey sees AI as positive supply shock",
-      "link": "https://www.investing.com/news/economic-indicators/bank-of-englands-bailey-sees-ai-as-positive-supply-shock-93CH-4917060",
-      "summary": "",
-      "title_ko": "뱅크 오브 잉글랜드의 베일리 (Bailey) 는 인공지능 (AI) 을 긍정적인 공급 충격",
       "summary_ko": ""
     }
   ]

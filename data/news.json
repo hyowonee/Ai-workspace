@@ -1,32 +1,53 @@
 {
-  "updated_at_utc": "2026-09-28 01:53:42 UTC",
+  "updated_at_utc": "2026-09-28 08:22:40 UTC",
   "items": [
     {
-      "title": "China weighs allowing ByteDance, Alibaba to buy new Nvidia chips, The Information reports",
-      "link": "https://www.investing.com/news/stock-market-news/china-weighs-allowing-bytedance-alibaba-to-buy-new-nvidia-chips-the-information-reports-4919047",
+      "title": "Suedzucker raises revenue outlook on biofuel demand growth",
+      "link": "https://www.investing.com/news/stock-market-news/suedzucker-raises-revenue-outlook-on-biofuel-demand-growth-93CH-4919519",
       "summary": "",
-      "title_ko": "중국은 ByteDance, Alibaba가 새로운 Nvidia 칩을 구입할 수 있도록 무게를 둡니다. 정보 보고서",
+      "title_ko": "Suedzucker, 바이오 연료 수요 증가에 대한 매출 전망 제고",
       "summary_ko": ""
     },
     {
-      "title": "Foreign banks have expressed UBS merger interest, Swiss newspaper reports",
-      "link": "https://www.investing.com/news/stock-market-news/foreign-banks-have-expressed-ubs-merger-interest-swiss-newspaper-reports-4919063",
+      "title": "Capricorn Energy stock falls after DNO declines to raise bid",
+      "link": "https://www.investing.com/news/stock-market-news/capricorn-energy-stock-falls-after-dno-declines-to-raise-bid-93CH-4919517",
       "summary": "",
-      "title_ko": "외국계 은행들이 UBS 합병에 대한 관심을 표명했다고 스위스 신문이 보도했다.",
+      "title_ko": "염소자리 에너지 주식은 DNO가 입찰가를 올리는 것을 거부한 후 하락합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Exclusive-OpenAI works to understand full scope of agent activity as user data leak emerges",
-      "link": "https://www.investing.com/news/stock-market-news/exclusiveopenai-works-to-understand-full-scope-of-agent-activity-as-user-data-leak-emerges-4919229",
+      "title": "DAX consolidates below resistance at 25,625: Live levels",
+      "link": "https://www.investing.com/news/stock-market-news/dax-consolidates-below-resistance-at-25625-live-levels-93CH-4919514",
       "summary": "",
-      "title_ko": "Exclusive-OpenAI는 사용자 데이터 유출이 발생함에 따라 상담원 활동의 전체 범위를 이해하기 위해 노력합니다.",
+      "title_ko": "DAX는 25,625: Live 레벨에서 저항 이하로 통합됩니다.",
       "summary_ko": ""
     },
     {
-      "title": "Nikkei 225 trapped in 65,200-67,100 range: Live levels",
-      "link": "https://www.investing.com/news/stock-market-news/nikkei-225-trapped-in-6520067100-range-live-levels-93CH-4919228",
+      "title": "Why is Better Collective stock collapsing today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-better-collective-stock-collapsing-today-93CH-4919511",
       "summary": "",
-      "title_ko": "65,200-67,100 범위에 갇힌 닛케이 225: 라이브 레벨",
+      "title_ko": "Better Collective 주식이 오늘 붕괴되는 이유는 무엇입니까?",
+      "summary_ko": ""
+    },
+    {
+      "title": "Madrid housing protests enter third day after pensioner’s eviction",
+      "link": "https://www.investing.com/news/economic-indicators/madrid-housing-protests-enter-third-day-after-pensioners-eviction-4919503",
+      "summary": "",
+      "title_ko": "마드리드 주택 시위는 연금 수급자의 퇴거 후 사흘째에 접어든다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "China’s industrial profit growth slows further as economic imbalances deepen",
+      "link": "https://www.investing.com/news/economic-indicators/china-industrial-profits-rise-157-in-januaryaugust-4919250",
+      "summary": "",
+      "title_ko": "경제 불균형이 심화됨에 따라 중국의 산업 이익 성장이 더욱 둔화됨",
+      "summary_ko": ""
+    },
+    {
+      "title": "Australia posts budget deficit of $15.7 billion for 2025/26 financial year",
+      "link": "https://www.investing.com/news/economic-indicators/australia-posts-budget-deficit-of-157-billion-for-202526-financial-year-4919294",
+      "summary": "",
+      "title_ko": "호주는 2025/26 회계 연도에 $ 157억의 예산 적자를 기록했습니다.",
       "summary_ko": ""
     },
     {
@@ -34,27 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/east-german-espionage-raised-gdp-by-74-in-late-1980s-study-finds-4918838",
       "summary": "",
       "title_ko": "동독 간첩 행위가 1980년대 후반 GDP를 7.4% 증가시켰다고 연구 결과가 발표했습니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Michigan consumer sentiment edges higher than forecast, but remains low",
-      "link": "https://www.investing.com/news/economic-indicators/michigan-consumer-sentiment-edges-higher-than-forecast-but-remains-low-93CH-4917683",
-      "summary": "",
-      "title_ko": "미시간 소비심리는 예상보다 높지만 여전히 낮습니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "US core capital goods orders surge in August",
-      "link": "https://www.investing.com/news/economic-indicators/us-core-capital-goods-orders-surge-in-august-4917537",
-      "summary": "",
-      "title_ko": "8월 미국 주요 자본재 주문 급증",
-      "summary_ko": ""
-    },
-    {
-      "title": "Durable Goods Orders Flatline, Missing Forecasts and Previous Gains",
-      "link": "https://www.investing.com/news/economic-indicators/durable-goods-orders-flatline-missing-forecasts-and-previous-gains-93CH-4917496",
-      "summary": "",
-      "title_ko": "내구재 주문 플랫라인, 누락 예측 및 이전 이익",
       "summary_ko": ""
     }
   ]

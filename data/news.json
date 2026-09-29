@@ -1,32 +1,53 @@
 {
-  "updated_at_utc": "2026-09-29 20:10:24 UTC",
+  "updated_at_utc": "2026-09-29 23:53:53 UTC",
   "items": [
     {
-      "title": "Trump says tech firms will make communities ’happy’ about data centers",
+      "title": "Why is Vanda Pharmaceuticals stock surging today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-vanda-pharmaceuticals-stock-surging-today-93CH-4923882",
+      "summary": "",
+      "title_ko": "오늘날 Vanda Pharmaceuticals의 재고가 급증하는 이유는 무엇입니까?",
+      "summary_ko": ""
+    },
+    {
+      "title": "TSA officers will not be allowed to sit during ID checks at US airports",
+      "link": "https://www.investing.com/news/stock-market-news/tsa-officers-will-not-be-allowed-to-sit-during-id-checks-at-us-airports-4923879",
+      "summary": "",
+      "title_ko": "TSA 직원은 미국 공항에서 신분증 확인 중에 앉을 수 없습니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Robinhood to allow 24-hour weekend trading of US stocks as industry shifts to wider access",
+      "link": "https://www.investing.com/news/stock-market-news/robinhood-to-allow-24hour-weekend-trading-of-us-stocks-as-industry-shifts-to-wider-access-4923847",
+      "summary": "",
+      "title_ko": "로빈후드, 업계가 더 넓은 접근으로 전환함에 따라 미국 주식의 24 시간 주말 거래 허용",
+      "summary_ko": ""
+    },
+    {
+      "title": "Trump, AI CEOs sign voluntary safety pact, back data center expansion",
       "link": "https://www.investing.com/news/stock-market-news/trump-to-host-zuckerberg-anthropics-amodei-and-other-ai-titans-tuesday-4922037",
       "summary": "",
-      "title_ko": "트럼프는 기술 회사가 데이터 센터에 대해 지역 사회를 ’행복하게’ 만들 것이라고 말합니다.",
+      "title_ko": "트럼프, AI CEO들이 자발적 안전 협정에 서명, 데이터 센터 확장 역행",
       "summary_ko": ""
     },
     {
-      "title": "Lundbeck approaches Xeris Biopharma over potential takeover, Bloomberg reports",
-      "link": "https://www.investing.com/news/stock-market-news/lundbeck-approaches-xeris-biopharma-over-potential-takeover-bloomberg-reports-4923390",
+      "title": "UK auto output rebounds in August but ’Made in Europe’ proposals pose threat, industry data shows",
+      "link": "https://www.investing.com/news/economic-indicators/uk-auto-output-rebounds-in-august-but-made-in-europe-proposals-pose-threat-industry-data-shows-4923863",
       "summary": "",
-      "title_ko": "블룸버그에 따르면 룬드벡은 잠재적 인수를 통해 Xeris Biopharma에 접근합니다.",
+      "title_ko": "영국 자동차 생산량은 8월에 반등하지만 ’Made in Europe’ 제안은 위협이 된다. 업계 데이터에 따르면",
       "summary_ko": ""
     },
     {
-      "title": "Netflix stock analysis: is today’s Deutsche Bank upgrade justified?",
-      "link": "https://www.investing.com/news/stock-market-news/netflix-stock-analysis-is-todays-deutsche-bank-upgrade-justified-93CH-4923386",
+      "title": "UK business morale hits 17-month low, Lloyds says",
+      "link": "https://www.investing.com/news/economic-indicators/uk-business-morale-hits-17month-low-lloyds-says-4923846",
       "summary": "",
-      "title_ko": "넷플릭스 주식 분석: 오늘날의 도이체방크 업그레이드는 타당한가?",
+      "title_ko": "Lloyds는 영국 비즈니스 사기가 17개월 최저치를 기록했다고 말합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Index rebalance arbitrage: how traders profit from passive fund mechanics",
-      "link": "https://www.investing.com/news/stock-market-news/index-rebalance-arbitrage-how-traders-profit-from-passive-fund-mechanics-93CH-4923385",
+      "title": "Crude Oil Inventories Rise, Defying Forecasts and Previous Data",
+      "link": "https://www.investing.com/news/economic-indicators/crude-oil-inventories-rise-defying-forecasts-and-previous-data-93CH-4923575",
       "summary": "",
-      "title_ko": "지수 재균형 차익거래: 트레이더가 패시브 펀드 메커니즘을 통해 수익을 얻는 방법",
+      "title_ko": "원유 재고 증가, 예측 및 이전 데이터 무시",
       "summary_ko": ""
     },
     {
@@ -34,27 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/us-consumer-confidence-dives-to-more-than-12year-low-in-september-4923037",
       "summary": "",
       "title_ko": "노동 시장의 두려움 속에서 12-1/2 년 동안 미국 소비자의 신뢰도가 낮습니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "US job openings fall in August; layoffs remain low",
-      "link": "https://www.investing.com/news/economic-indicators/us-job-openings-fall-in-august-layoffs-remain-low-4923025",
-      "summary": "",
-      "title_ko": "미국 구인공고는 8월에 떨어지고 정리해고는 여전히 낮습니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Job openings fall short of expectations, signaling potential slowdown",
-      "link": "https://www.investing.com/news/economic-indicators/job-openings-fall-short-of-expectations-signaling-potential-slowdown-93CH-4922959",
-      "summary": "",
-      "title_ko": "채용공고가 기대에 못 미침, 잠재력 둔화 신호",
-      "summary_ko": ""
-    },
-    {
-      "title": "Consumer Confidence Falls Short of Expectations, Signals Caution Ahead",
-      "link": "https://www.investing.com/news/economic-indicators/consumer-confidence-falls-short-of-expectations-signals-caution-ahead-93CH-4922953",
-      "summary": "",
-      "title_ko": "기대에 미치지 못하는 소비자 신뢰, 앞으로의 징후 주의",
       "summary_ko": ""
     }
   ]

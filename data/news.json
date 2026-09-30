@@ -1,25 +1,11 @@
 {
-  "updated_at_utc": "2026-09-30 10:58:21 UTC",
+  "updated_at_utc": "2026-09-30 16:46:39 UTC",
   "items": [
     {
-      "title": "Hormel Foods to buy Brakebush in deal valued at $1.06 billion",
-      "link": "https://www.investing.com/news/stock-market-news/hormel-foods-to-buy-brakebush-in-deal-valued-at-106-billion-4924642",
+      "title": "S&amp;P rises, Nasdaq gains 1% as traders pare Fed rate hike bets on U.S. data deluge",
+      "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-drift-higher-as-yields-pause-oil-prices-slide-4923936",
       "summary": "",
-      "title_ko": "Hormel Foods, $ 1,060억 상당의 브레이크부시 매입",
-      "summary_ko": ""
-    },
-    {
-      "title": "Elf Beauty stock gains on strong sales data from Canaccord tracker",
-      "link": "https://www.investing.com/news/stock-market-news/elf-beauty-stock-gains-on-strong-sales-data-from-canaccord-tracker-93CH-4924676",
-      "summary": "",
-      "title_ko": "Canaccord Tracker의 강력한 판매 데이터에 대한 Elf Beauty 주식 이익",
-      "summary_ko": ""
-    },
-    {
-      "title": "Goldman Sachs says these telecom stocks are defensive buys despite AI risk",
-      "link": "https://www.investing.com/news/stock-market-news/goldman-sachs-says-these-telecom-stocks-are-defensive-buys-despite-ai-risk-4924661",
-      "summary": "",
-      "title_ko": "Goldman Sachs는 AI 위험에도 불구하고 이러한 통신 주식이 방어적인 구매라고 말합니다.",
+      "title_ko": "S&amp;P는 상승하고, 나스닥은 거래자들이 미국 데이터 홍수에 대한 연방준비제도 (Fed) 의 금리 인상 베팅을 쪼개면서 1% 의 이익을 얻습니다.",
       "summary_ko": ""
     },
     {
@@ -30,31 +16,45 @@
       "summary_ko": ""
     },
     {
-      "title": "Italian inflation surges above 4%, in headache for PM Meloni",
-      "link": "https://www.investing.com/news/economic-indicators/italian-inflation-surges-above-4-in-headache-for-pm-meloni-4924511",
+      "title": "ElevenLabs’ valuation doubles to $22 billion on surging AI voice-agent demand",
+      "link": "https://www.investing.com/news/stock-market-news/elevenlabs-valuation-doubles-to-22-billion-on-surging-ai-voiceagent-demand-4925621",
       "summary": "",
-      "title_ko": "PM Meloni의 두통으로 이탈리아 인플레이션이 4% 이상 급증",
+      "title_ko": "급증하는 AI 음성 에이전트 수요에 따라 ElevenLabs의 평가액이 $ 220억으로 두 배 증가",
       "summary_ko": ""
     },
     {
-      "title": "Poland inflation forecast at 3.1% for 2026, central bank survey shows",
-      "link": "https://www.investing.com/news/economic-indicators/poland-inflation-forecast-at-31-for-2026-central-bank-survey-shows-93CH-4924482",
+      "title": "Mattel taps Condé Nast’s Lynch as CEO Kreiz, who led brand revival, departs",
+      "link": "https://www.investing.com/news/stock-market-news/mattel-names-roger-lynch-ceo-4925046",
       "summary": "",
-      "title_ko": "2026년 폴란드 인플레이션 전망치 3.1%, 중앙은행 조사에 따르면",
+      "title_ko": "브랜드 리바이벌을 이끈 크레이즈 (Kreiz) CEO가 떠날 때 마텔이 콘데 나스트 (Condé Nast) 의 린치 (Lynch) 를 두드",
       "summary_ko": ""
     },
     {
-      "title": "Greece retail sales volume climbs 5.2% in July",
-      "link": "https://www.investing.com/news/economic-indicators/greece-retail-sales-volume-climbs-52-in-july-93CH-4924480",
+      "title": "Crude Oil Inventories Rise Against Forecast, Impacting Market Sentiment",
+      "link": "https://www.investing.com/news/economic-indicators/crude-oil-inventories-rise-against-forecast-impacting-market-sentiment-93CH-4925453",
       "summary": "",
-      "title_ko": "7월 그리스 소매 판매량 5.2% 증가",
+      "title_ko": "원유 재고 예측 대비 상승, 시장 센티먼트에 영향",
       "summary_ko": ""
     },
     {
-      "title": "Greece’s jobless rate falls to 7.4% in August",
-      "link": "https://www.investing.com/news/economic-indicators/greeces-jobless-rate-falls-to-74-in-august-93CH-4924474",
+      "title": "Chicago PMI Surges, Signals Robust Manufacturing Expansion",
+      "link": "https://www.investing.com/news/economic-indicators/chicago-pmi-surges-signals-robust-manufacturing-expansion-93CH-4925362",
       "summary": "",
-      "title_ko": "그리스의 8월 취업률 7.4% 로 하락",
+      "title_ko": "시카고 PMI 급증, 탄탄한 제조업 확장 신호",
+      "summary_ko": ""
+    },
+    {
+      "title": "US goods trade deficit widens sharply in August",
+      "link": "https://www.investing.com/news/economic-indicators/us-goods-trade-deficit-widens-sharply-in-august-4925302",
+      "summary": "",
+      "title_ko": "8월 미국 상품 무역 적자 급격히 확대",
+      "summary_ko": ""
+    },
+    {
+      "title": "U.S. core PCE rises 0.2% month-on-month in August, cooler than expected",
+      "link": "https://www.investing.com/news/economic-indicators/us-core-pce-rises-02-monthonmonth-in-august-cooler-than-expected-4925143",
+      "summary": "",
+      "title_ko": "U.S. CORE PCE는 8월에 매월 0.2% 상승하여 예상보다 시원합니다.",
       "summary_ko": ""
     }
   ]

@@ -1,18 +1,18 @@
 {
-  "updated_at_utc": "2026-10-02 21:12:04 UTC",
+  "updated_at_utc": "2026-10-03 00:38:16 UTC",
   "items": [
     {
-      "title": "Archer says US court narrows Joby Aero lawsuit claims",
-      "link": "https://www.investing.com/news/stock-market-news/archer-says-us-court-narrows-joby-aero-lawsuit-claims-4930398",
+      "title": "Apple says it will flag AI requests for Mac data after Meta’s Muse draws complaints",
+      "link": "https://www.investing.com/news/stock-market-news/apple-says-it-will-flag-ai-requests-for-mac-data-after-metas-muse-draws-complaints-4930505",
       "summary": "",
-      "title_ko": "Archer는 미국 법원이 Joby Aero 소송 청구를 좁힌다고 말합니다.",
+      "title_ko": "Apple은 Meta의 Muse가 불만을 제기한 후 Mac 데이터에 대한 AI 요청에 플래그를 지정할 것이라고 말합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Community banks sue regulator over crypto firm charters",
-      "link": "https://www.investing.com/news/stock-market-news/community-banks-sue-regulator-over-crypto-firm-charters-93CH-4930397",
+      "title": "Exclusive-China demands copper supply commitments for Anglo Teck merger approval, sources say",
+      "link": "https://www.investing.com/news/stock-market-news/exclusivechina-demands-copper-supply-commitments-for-anglo-teck-merger-approval-sources-say-4929672",
       "summary": "",
-      "title_ko": "커뮤니티 은행은 암호화폐 회사 헌장에 대해 규제 기관을 고소합니다",
+      "title_ko": "소식통에 따르면 중국 독점 기업들은 앵글로 텍 합병 승인을 위한 구리 공급 약속을 요구하고 있다.",
       "summary_ko": ""
     },
     {
@@ -23,10 +23,17 @@
       "summary_ko": ""
     },
     {
-      "title": "U.S. stocks higher at close of trade; Dow Jones Industrial Average up 0.49%",
-      "link": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-049-4930390",
+      "title": "US appeals court blocks Minnesota law barring ’nudified’ photos in XAI lawsuit",
+      "link": "https://www.investing.com/news/stock-market-news/us-appeals-court-blocks-minnesotas-ainudification-law-for-now-in-xai-lawsuit-4930434",
       "summary": "",
-      "title_ko": "미국 증시는 교역 마감 시점에서 상승, 다우존스 산업평균지수 0.49% 상승",
+      "title_ko": "미국 항소 법원, XAI 소송에서 ’나체’ 사진을 금지하는 미네소타 법률 차단",
+      "summary_ko": ""
+    },
+    {
+      "title": "Trump: not going to be doing diesel export ban",
+      "link": "https://www.investing.com/news/economic-indicators/trump-not-going-to-be-doing-diesel-export-ban-4930419",
+      "summary": "",
+      "title_ko": "트럼프: 디젤 수출 금지를 하지 않을 것",
       "summary_ko": ""
     },
     {
@@ -48,13 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/us-economy-adds-29000-jobs-in-september-4929771",
       "summary": "",
       "title_ko": "실업률이 높아짐에 따라 미국 경제는 예상보다 적은 일자리를 추가합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "U.S. Nonfarm Payrolls Fall Short of Expectations, Raising Economic Concerns",
-      "link": "https://www.investing.com/news/economic-indicators/us-nonfarm-payrolls-fall-short-of-expectations-raising-economic-concerns-93CH-4929761",
-      "summary": "",
-      "title_ko": "미국 비농장 급여가 기대에 미치지 못해 경제적 우려가 제기됨",
       "summary_ko": ""
     }
   ]

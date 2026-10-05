@@ -1,32 +1,53 @@
 {
-  "updated_at_utc": "2026-10-05 00:31:24 UTC",
+  "updated_at_utc": "2026-10-05 06:37:04 UTC",
   "items": [
     {
-      "title": "AkzoNobel to sell Southeast Asia paints business to Nippon Paint for $1.35 billion",
-      "link": "https://www.investing.com/news/stock-market-news/akzonobel-could-sell-unit-to-nippon-paint-for-over-1-billion-ft-reports-4930948",
+      "title": "Huawei agrees to a multi-year patent licensing deal with Qualcomm",
+      "link": "https://www.investing.com/news/stock-market-news/huawei-agrees-to-a-multiyear-patent-licensing-deal-with-qualcomm-4931052",
       "summary": "",
-      "title_ko": "AkzoNobel, 동남아시아 페인트 사업을 Nippon Paint에 $ 13.5 billion에 매각",
+      "title_ko": "Huawei는 Qualcomm과 다년간의 특허 라이선스 계약에 동의합니다",
       "summary_ko": ""
     },
     {
-      "title": "Appeals court pauses reinstatement of fired Seattle federal prosecutor",
-      "link": "https://www.investing.com/news/stock-market-news/appeals-court-pauses-reinstatement-of-fired-seattle-federal-prosecutor-4930965",
+      "title": "Taiwan stocks higher at close of trade; Taiwan Weighted up 2.46%",
+      "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-246-4931048",
       "summary": "",
-      "title_ko": "항소법원, 해고된 시애틀 연방검사 복직 중단",
+      "title_ko": "거래 종결 시 대만 주식이 더 높음, 대만 가중치 2.46% 증가",
       "summary_ko": ""
     },
     {
-      "title": "UK set to impose Chinese EV levies amid EU trade pressure - report",
-      "link": "https://www.investing.com/news/stock-market-news/uk-set-to-impose-chinese-ev-levies-amid-eu-trade-pressure--report-4930962",
+      "title": "METLEN signs gallium supply deal with Japanese chemical group",
+      "link": "https://www.investing.com/news/stock-market-news/metlen-signs-gallium-supply-deal-with-japanese-chemical-group-4931045",
       "summary": "",
-      "title_ko": "영국, EU 무역 압박 중 중국 전기차 부과 예정 - 보고서",
+      "title_ko": "METLEN, 일본 화학 그룹과 갈륨 공급 계약 체결",
       "summary_ko": ""
     },
     {
-      "title": "Adobe stock: Here are 5 strategic questions into new leadership",
-      "link": "https://www.investing.com/news/stock-market-news/adobe-stock-here-are-5-strategic-questions-into-new-leadership-4930961",
+      "title": "Schneider Electric to buy U.S. software maker PTC for $22.6 bln",
+      "link": "https://www.investing.com/news/stock-market-news/schneider-electric-close-to-20-bln-deal-of-us-software-maker-ptc--report-4930953",
       "summary": "",
-      "title_ko": "Adobe STOCK: 다음은 새로운 리더십에 대한 5가지 전략적 질문입니다.",
+      "title_ko": "슈나이더 일렉트릭, 미국 소프트웨어 메이커 PTC를 $ 22.6 bln에 매입",
+      "summary_ko": ""
+    },
+    {
+      "title": "India, US have reached a plateau in trade talks, Indian finance minister says",
+      "link": "https://www.investing.com/news/economic-indicators/india-us-have-reached-a-plateau-in-trade-talks-indian-finance-minister-says-4931015",
+      "summary": "",
+      "title_ko": "인도, 미국이 무역 회담에서 고원에 도달했다고 인도 재무 장관이 말했습니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Japan service sector activity slows from 5-month high, PMI shows",
+      "link": "https://www.investing.com/news/economic-indicators/japan-service-sector-activity-slows-from-5month-high-pmi-shows-4930971",
+      "summary": "",
+      "title_ko": "일본 서비스 부문 활동이 5개월 최고치에서 둔화, PMI 쇼",
+      "summary_ko": ""
+    },
+    {
+      "title": "Japan services PMI misses forecasts in September as private-sector growth slows",
+      "link": "https://www.investing.com/news/economic-indicators/japan-services-pmi-misses-forecasts-in-september-as-privatesector-growth-slows-4930975",
+      "summary": "",
+      "title_ko": "일본 서비스 PMI는 민간 부문 성장이 둔화됨에 따라 9월에 예측을 놓칩니다",
       "summary_ko": ""
     },
     {
@@ -34,27 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/trump-not-going-to-be-doing-diesel-export-ban-4930419",
       "summary": "",
       "title_ko": "트럼프: 디젤 수출 금지를 하지 않을 것",
-      "summary_ko": ""
-    },
-    {
-      "title": "US factory orders increase slightly in August",
-      "link": "https://www.investing.com/news/economic-indicators/us-factory-orders-increase-slightly-in-august-4930089",
-      "summary": "",
-      "title_ko": "8월 미국 공장 주문 소폭 증가",
-      "summary_ko": ""
-    },
-    {
-      "title": "Factory orders remain flat, meeting expectations",
-      "link": "https://www.investing.com/news/economic-indicators/factory-orders-remain-flat-meeting-expectations-93CH-4930042",
-      "summary": "",
-      "title_ko": "공장 주문은 고정 상태로 유지되어 기대치를 충족합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "U.S. economy adds fewer jobs than expected as unemployment rate ticks higher",
-      "link": "https://www.investing.com/news/economic-indicators/us-economy-adds-29000-jobs-in-september-4929771",
-      "summary": "",
-      "title_ko": "실업률이 높아짐에 따라 미국 경제는 예상보다 적은 일자리를 추가합니다.",
       "summary_ko": ""
     }
   ]

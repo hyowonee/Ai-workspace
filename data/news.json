@@ -1,32 +1,46 @@
 {
-  "updated_at_utc": "2026-10-07 14:25:39 UTC",
+  "updated_at_utc": "2026-10-07 20:05:11 UTC",
   "items": [
     {
-      "title": "Progressive stock may move 3% on Oct. 14 earnings report",
-      "link": "https://www.investing.com/news/stock-market-news/progressive-stock-may-move-3-on-oct-14-earnings-report-93CH-4936992",
+      "title": "Anthropic expands AI model suite with low-cost, high-speed Haiku 5.5 launch",
+      "link": "https://www.investing.com/news/stock-market-news/anthropic-expands-ai-model-suite-with-lowcost-highspeed-haiku-55-launch-4937385",
       "summary": "",
-      "title_ko": "Progressive stock may move 3% on Oct. 14 earnings report",
+      "title_ko": "Anthropic, 저가형 고속 Haiku 5.5 출시로 AI 모델 제품군 확장",
       "summary_ko": ""
     },
     {
-      "title": "Fastenal shares may move 5.3% on Oct. 14 earnings release",
-      "link": "https://www.investing.com/news/stock-market-news/fastenal-shares-may-move-53-on-oct-14-earnings-release-93CH-4936989",
+      "title": "Trump expected to award science medal to SpaceX’s Elon Musk, Fox News reports",
+      "link": "https://www.investing.com/news/stock-market-news/trump-expected-to-award-science-medal-to-spacexs-elon-musk-fox-news-reports-4937371",
       "summary": "",
-      "title_ko": "고정 주식은 10월 14일에 5.3% 의 수익을 올릴 수 있습니다.",
+      "title_ko": "폭스 뉴스 보도에 따르면 트럼프 대통령은 스페이스X의 일론 머스크에게 과학 메달을 수여할 것으로 예상했다.",
       "summary_ko": ""
     },
     {
-      "title": "Why is Strategy stock sliding today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-strategy-stock-sliding-today-93CH-4936988",
+      "title": "IEA to accelerate oil reserve release, says 100 million barrels still to come",
+      "link": "https://www.investing.com/news/stock-market-news/iea-to-meet-wednesday-over-proposed-release-of-reserves-say-two-eu-diplomats-4935702",
       "summary": "",
-      "title_ko": "오늘 전략 재고가 미끄러지는 이유는 무엇입니까?",
+      "title_ko": "석유 매장량 방출을 가속화하기 위한 IEA는 아직 1억 배럴이 남았다고 말합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Bank of America stock may move 3.4% on earnings next week",
-      "link": "https://www.investing.com/news/stock-market-news/bank-of-america-stock-may-move-34-on-earnings-next-week-93CH-4936957",
+      "title": "Microsoft brings more AI to PCs as it challenges Apple",
+      "link": "https://www.investing.com/news/stock-market-news/microsoft-nvidia-ceos-to-unveil-new-ai-laptop-at-san-francisco-event-4936051",
       "summary": "",
-      "title_ko": "뱅크오브아메리카 주식은 다음 주 수익에서 3.4% 이동할 수 있습니다",
+      "title_ko": "Microsoft는 Apple에 도전하면서 PC에 더 많은 AI를 제공합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Consumer credit growth falls short of expectations, signaling caution",
+      "link": "https://www.investing.com/news/economic-indicators/consumer-credit-growth-falls-short-of-expectations-signaling-caution-93CH-4937358",
+      "summary": "",
+      "title_ko": "소비자 신용 성장이 기대에 미치지 못함, 신호 주의",
+      "summary_ko": ""
+    },
+    {
+      "title": "Crude oil inventories plunge, signaling strong demand",
+      "link": "https://www.investing.com/news/economic-indicators/crude-oil-inventories-plunge-signaling-strong-demand-93CH-4937044",
+      "summary": "",
+      "title_ko": "원유 재고 급감, 수요 강세 신호",
       "summary_ko": ""
     },
     {
@@ -41,20 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/italy-says-eu-has-to-weigh-inflation-when-assessing-budget-deviations-4936651",
       "summary": "",
       "title_ko": "이탈리아는 예산 편차를 평가할 때 EU가 인플레이션에 무게를 둬야 한다고 말합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Hungary inflation rises to 1.6% in September, below forecasts",
-      "link": "https://www.investing.com/news/economic-indicators/hungary-inflation-rises-to-16-in-september-below-forecasts-93CH-4935991",
-      "summary": "",
-      "title_ko": "헝가리 인플레이션은 9월에 1.6% 로 상승하여 예측치를 하회합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "German industrial output rises more than expected in August",
-      "link": "https://www.investing.com/news/economic-indicators/german-industrial-output-rises-more-than-expected-in-august-4935652",
-      "summary": "",
-      "title_ko": "8월 독일 산업 생산량 예상보다 증가",
       "summary_ko": ""
     }
   ]

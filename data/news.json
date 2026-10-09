@@ -1,32 +1,53 @@
 {
-  "updated_at_utc": "2026-10-09 14:11:59 UTC",
+  "updated_at_utc": "2026-10-09 19:38:17 UTC",
   "items": [
     {
-      "title": "Why is ViaSat stock rallying today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-viasat-stock-rallying-today-93CH-4941336",
+      "title": "Moody’s revises Crescent Energy outlook to positive following Eagle Ford deal",
+      "link": "https://www.investing.com/news/stock-market-news/moodys-revises-crescent-energy-outlook-to-positive-following-eagle-ford-deal-4941623",
       "summary": "",
-      "title_ko": "ViaSat 주식이 오늘 랠리하는 이유는 무엇입니까?",
+      "title_ko": "Moody 's는 Eagle Ford 거래에 따라 Crescent Energy 전망을 긍정적으로 수정합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Why is Avient stock sliding today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-avient-stock-sliding-today-93CH-4941333",
+      "title": "Farm equipment stocks fall on regulatory probe and falling crop prices",
+      "link": "https://www.investing.com/news/stock-market-news/farm-equipment-stocks-fall-on-regulatory-probe-and-falling-crop-prices-4941615",
       "summary": "",
-      "title_ko": "Avient 재고가 오늘 미끄러지는 이유는 무엇입니까?",
+      "title_ko": "농기구 재고가 규제 프로브 및 작물 가격 하락으로 하락",
       "summary_ko": ""
     },
     {
-      "title": "Delta Air slashes profit forecast as $6 billion fuel-cost surge outstrips fare gains",
-      "link": "https://www.investing.com/news/stock-market-news/delta-air-lines-cuts-profit-outlook-as-fuel-costs-outpace-fare-gains-4940704",
+      "title": "S&amp;P Global upgrades United Rentals to investment grade on leverage cushion",
+      "link": "https://www.investing.com/news/stock-market-news/sp-global-upgrades-united-rentals-to-investment-grade-on-leverage-cushion-4941616",
       "summary": "",
-      "title_ko": "델타항공은 $ 60억 달러의 연료비 급등이 요금 이득을 앞지르면서 이익 예측을 줄입니다.",
+      "title_ko": "S&amp;P Global, United Rentals를 레버리지 쿠션에 대한 투자 등급으로 업그레이드",
       "summary_ko": ""
     },
     {
-      "title": "Hurricane Isaias strengthens as US Gulf Coast prepares for landfall",
-      "link": "https://www.investing.com/news/stock-market-news/hurricane-isaias-strengthens-as-us-gulf-coast-prepares-for-landfall-4939570",
+      "title": "Repole buys 1.4% Churchill Downs stake, driving stock up 6% in Friday trade",
+      "link": "https://www.investing.com/news/stock-market-news/repole-buys-14-churchill-downs-stake-driving-stock-up-6-in-friday-trade-4941612",
       "summary": "",
-      "title_ko": "허리케인 '아이사이아스' 가 미국 걸프만 상륙을 준비하면서 강화되고 있다.",
+      "title_ko": "리폴이 처칠 다운스 지분 1.4% 매수, 금요일 거래에서 주가 6% 상승",
+      "summary_ko": ""
+    },
+    {
+      "title": "China, EU strike deal to cut Chinese hybrid vehicle exports by over half",
+      "link": "https://www.investing.com/news/economic-indicators/china-eu-strike-deal-to-cut-chinese-hybrid-vehicle-exports-by-over-half-4941416",
+      "summary": "",
+      "title_ko": "중국, 중국 하이브리드 차량 수출을 절반 이상 줄이기 위한 EU 파업 협상",
+      "summary_ko": ""
+    },
+    {
+      "title": "Ukraine hits second major tech site, expanding range of targets inside Russia",
+      "link": "https://www.investing.com/news/economic-indicators/ukraine-expands-drone-strikes-on-data-centres-owned-by-russias-yandex-4940686",
+      "summary": "",
+      "title_ko": "우크라이나는 두 번째 주요 기술 사이트를 타격하여 러시아 내부의 목표 범위를 확대합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "U.S. consumer sentiment inches lower in October, UMich survey shows",
+      "link": "https://www.investing.com/news/economic-indicators/us-consumer-sentiment-inches-lower-in-october-umich-survey-shows-4941388",
+      "summary": "",
+      "title_ko": "10월 미국 소비심리 인치 하락, UMich 설문조사 결과",
       "summary_ko": ""
     },
     {
@@ -34,27 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/michigan-consumer-sentiment-dips-below-forecast-signals-caution-93CH-4941337",
       "summary": "",
       "title_ko": "미시간 소비심리 전망치 하회, 신호 주의",
-      "summary_ko": ""
-    },
-    {
-      "title": "Ukraine expands drone strikes on data centres owned by Russia’s Yandex",
-      "link": "https://www.investing.com/news/economic-indicators/ukraine-expands-drone-strikes-on-data-centres-owned-by-russias-yandex-4940686",
-      "summary": "",
-      "title_ko": "우크라이나, 러시아 얀덱스 소유 데이터 센터에 드론 공격 확대",
-      "summary_ko": ""
-    },
-    {
-      "title": "World economic growth to slow to 2.6% in 2026, UN trade body says",
-      "link": "https://www.investing.com/news/economic-indicators/world-economic-growth-to-slow-to-26-in-2026-un-trade-body-says-4940451",
-      "summary": "",
-      "title_ko": "유엔 무역기구에 따르면 2026년 세계 경제 성장률은 2.6% 로 둔화된다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Italy industrial output dives unexpectedly in August",
-      "link": "https://www.investing.com/news/economic-indicators/italy-industrial-output-dives-unexpectedly-in-august-4940401",
-      "summary": "",
-      "title_ko": "8월에 이탈리아 산업 생산량이 예상치 못하게 잠수합니다",
       "summary_ko": ""
     }
   ]

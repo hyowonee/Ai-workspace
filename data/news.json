@@ -1,32 +1,53 @@
 {
-  "updated_at_utc": "2026-10-13 10:55:53 UTC",
+  "updated_at_utc": "2026-10-13 18:02:57 UTC",
   "items": [
     {
-      "title": "Why is Domino’s Pizza stock sliding today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-dominos-pizza-stock-sliding-today-93CH-4946146",
+      "title": "Qualcomm says jury found Arm breached license agreement",
+      "link": "https://www.investing.com/news/stock-market-news/qualcomm-says-jury-found-arm-breached-license-agreement-4947346",
       "summary": "",
-      "title_ko": "오늘 도미노 피자 재고가 미끄러지는 이유는 무엇인가요?",
+      "title_ko": "Qualcomm은 배심원이 Arm이 라이선스 계약을 위반했다고 판단했다고 밝혔습니다.",
       "summary_ko": ""
     },
     {
-      "title": "London’s FTSE 100 outperforms peers as commodity rally ticks support",
-      "link": "https://www.investing.com/news/stock-market-news/londons-ftse-100-outperforms-peers-as-commodity-rally-ticks-support-4945616",
+      "title": "Arm shares fall after jury rules in favor of Qualcomm in license dispute",
+      "link": "https://www.investing.com/news/stock-market-news/arm-shares-fall-after-jury-rules-in-favor-of-qualcomm-in-license-dispute-4947344",
       "summary": "",
-      "title_ko": "런던의 FTSE 100은 상품 랠리가 지원됨에 따라 동종 업체를 능가합니다.",
+      "title_ko": "ARM 주식은 라이선스 분쟁에서 Qualcomm에 유리한 배심원 규정을 따릅니다.",
       "summary_ko": ""
     },
     {
-      "title": "Exclusive-Bank of America loses bankers, tells staff of big ambition, continued hiring",
-      "link": "https://www.investing.com/news/stock-market-news/exclusivebank-of-america-loses-bankers-tells-staff-of-big-ambition-continued-hiring-4945993",
+      "title": "Why is Vertex Pharmaceuticals stock sliding 4% today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-vertex-pharmaceuticals-stock-sliding-4-today-93CH-4947334",
       "summary": "",
-      "title_ko": "Exclusive-Bank of America는 은행가를 잃고, 직원들에게 큰 야망을 말하고, 계속 고용합니다.",
+      "title_ko": "Vertex Pharmaceuticals 주가가 오늘 4% 미끄러지는 이유는 무엇입니까?",
       "summary_ko": ""
     },
     {
-      "title": "UnitedHealth Group raises profit forecast on third-quarter earnings beat",
-      "link": "https://www.investing.com/news/stock-market-news/unitedhealth-group-raises-profit-forecast-on-thirdquarter-earnings-beat-4945967",
+      "title": "Why is Molina Healthcare stock up 3.5% today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-molina-healthcare-stock-up-35-today-93CH-4947331",
       "summary": "",
-      "title_ko": "UnitedHealth Group, 3분기 실적 전망치 상향 조정",
+      "title_ko": "오늘날 Molina Healthcare의 재고가 3.5% 증가한 이유는 무엇입니까?",
+      "summary_ko": ""
+    },
+    {
+      "title": "US existing home sales rise in September; higher mortgage rates dim outlook",
+      "link": "https://www.investing.com/news/economic-indicators/us-existing-home-sales-rise-in-september-higher-mortgage-rates-dim-outlook-4947067",
+      "summary": "",
+      "title_ko": "9월 미국 기존 주택 판매 증가, 주택담보대출 금리 희미한 전망",
+      "summary_ko": ""
+    },
+    {
+      "title": "U.S. Existing Home Sales Exceed Expectations, Indicating Market Resilience",
+      "link": "https://www.investing.com/news/economic-indicators/us-existing-home-sales-exceed-expectations-indicating-market-resilience-93CH-4947050",
+      "summary": "",
+      "title_ko": "미국 내 기존 주택 판매가 기대치를 초과하여 시장 회복탄력성을 나타냄",
+      "summary_ko": ""
+    },
+    {
+      "title": "Romania inflation rises to 6.6% in September on fuel costs",
+      "link": "https://www.investing.com/news/economic-indicators/romania-inflation-rises-to-66-in-september-on-fuel-costs-93CH-4946383",
+      "summary": "",
+      "title_ko": "9월 루마니아 인플레이션, 연료비 6.6% 로 상승",
       "summary_ko": ""
     },
     {
@@ -34,27 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/british-grocery-price-inflation-rises-to-25-in-october-93CH-4945600",
       "summary": "",
       "title_ko": "10월 영국 식료품 가격 인플레이션 2.5% 로 상승",
-      "summary_ko": ""
-    },
-    {
-      "title": "German inflation rises to 3.3% in September",
-      "link": "https://www.investing.com/news/economic-indicators/german-inflation-rises-to-33-in-september-93CH-4945543",
-      "summary": "",
-      "title_ko": "9월 독일 인플레이션 3.3% 로 상승",
-      "summary_ko": ""
-    },
-    {
-      "title": "Philippines central bank forecasts 2026 current account deficit",
-      "link": "https://www.investing.com/news/economic-indicators/philippines-central-bank-forecasts-2026-current-account-deficit-93CH-4945511",
-      "summary": "",
-      "title_ko": "필리핀 중앙은행, 2026년 경상수지 적자 전망",
-      "summary_ko": ""
-    },
-    {
-      "title": "Romania’s inflation rises to 6.61% in September",
-      "link": "https://www.investing.com/news/economic-indicators/romanias-inflation-rises-to-661-in-september-93CH-4945503",
-      "summary": "",
-      "title_ko": "9월 루마니아의 인플레이션은 6.61% 로 상승",
       "summary_ko": ""
     }
   ]

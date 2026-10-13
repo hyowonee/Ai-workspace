@@ -1,32 +1,46 @@
 {
-  "updated_at_utc": "2026-10-12 22:46:44 UTC",
+  "updated_at_utc": "2026-10-13 03:23:28 UTC",
   "items": [
     {
-      "title": "Kroger plans to eliminate 3,000 corporate roles, memo shows, as it expands AI use",
-      "link": "https://www.investing.com/news/stock-market-news/kroger-plans-to-cut-about-a-third-of-corporate-roles-over-the-next-three-years-bloomberg-news-reports-4945221",
+      "title": "NTT Data in final talks to build Anthropic’s first data centre in Japan, Nikkei reports",
+      "link": "https://www.investing.com/news/stock-market-news/ntt-data-in-final-talks-to-build-anthropics-first-data-centre-in-japan-nikkei-reports-4945338",
       "summary": "",
-      "title_ko": "Kroger는 AI 사용을 확대함에 따라 3,000개의 기업 역할, 메모 쇼를 제거할 계획입니다.",
+      "title_ko": "NTT Data, Anthropic의 일본 최초의 데이터 센터 구축을 위한 최종 발표, Nikkei는 보고합니다.",
       "summary_ko": ""
     },
     {
-      "title": "BlackRock turns bullish on short-term bonds, closes US stock overweight",
-      "link": "https://www.investing.com/news/stock-market-news/blackrock-turns-bullish-on-shortterm-bonds-closes-us-stock-overweight-4945249",
+      "title": "Why is Baby Bunting stock surging today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-baby-bunting-stock-surging-today-93CH-4945337",
       "summary": "",
-      "title_ko": "BlackRock, 단기 채권에서 강세 전환, 미국 주식 과체중 마감",
+      "title_ko": "오늘날 베이비 번팅 재고가 급증하는 이유는 무엇입니까?",
       "summary_ko": ""
     },
     {
-      "title": "S&amp;P upgrades SanDisk to BBB as AI memory demand drives cash flow past $23B",
-      "link": "https://www.investing.com/news/stock-market-news/sp-upgrades-sandisk-to-bbb-as-ai-memory-demand-drives-cash-flow-past-23b-4945246",
+      "title": "+106%, +75%, +66%: Our AI just called these energy breakouts",
+      "link": "https://www.investing.com/news/stock-market-news/106-75-66-our-ai-just-called-these-energy-breakouts-4945336",
       "summary": "",
-      "title_ko": "S&amp;P는 AI 메모리 수요로 인해 현금 흐름이 $ 23B를 넘어감에 따라 SanDisk를 BBB로 업그레이드합니다.",
+      "title_ko": "+106%, +75%, +66%: 인공지능은 방금 이러한 에너지 분열을",
       "summary_ko": ""
     },
     {
-      "title": "Google launches Project Suncatcher satellite into orbit",
-      "link": "https://www.investing.com/news/stock-market-news/google-launches-project-suncatcher-satellite-into-orbit-93CH-4945245",
+      "title": "Samsung, SK Hynix shares plunge on China competition fears",
+      "link": "https://www.investing.com/news/stock-market-news/samsung-sk-hynix-shares-plunge-on-china-competition-fears-4945334",
       "summary": "",
-      "title_ko": "Google, Project Suncatcher 인공위성 궤도 진입",
+      "title_ko": "삼성, SK하이닉스, 중국 경쟁 우려에 급락",
+      "summary_ko": ""
+    },
+    {
+      "title": "Japan PPI unexpectedly eases in Sept on stronger yen, cooling oil",
+      "link": "https://www.investing.com/news/economic-indicators/japan-ppi-unexpectedly-eases-in-sept-on-stronger-yen-cooling-oil-4945260",
+      "summary": "",
+      "title_ko": "일본 PPI, 예상치 못한 9월에 엔화 강세 완화, 냉각유",
+      "summary_ko": ""
+    },
+    {
+      "title": "UK shoppers stay cautious as fuel costs bite, surveys show",
+      "link": "https://www.investing.com/news/economic-indicators/uk-shoppers-stay-cautious-as-fuel-costs-bite-surveys-show-4945255",
+      "summary": "",
+      "title_ko": "영국 쇼핑객들은 연료비가 부담스러워 신중함을 유지합니다. 설문 조사에 따르면",
       "summary_ko": ""
     },
     {
@@ -41,20 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/china-eu-strike-deal-to-cut-chinese-hybrid-vehicle-exports-by-over-half-4941416",
       "summary": "",
       "title_ko": "중국, 중국 하이브리드 차량 수출을 절반 이상 줄이기 위한 EU 파업 협상",
-      "summary_ko": ""
-    },
-    {
-      "title": "Ukraine hits second major tech site, expanding range of targets inside Russia",
-      "link": "https://www.investing.com/news/economic-indicators/ukraine-expands-drone-strikes-on-data-centres-owned-by-russias-yandex-4940686",
-      "summary": "",
-      "title_ko": "우크라이나는 두 번째 주요 기술 사이트를 타격하여 러시아 내부의 목표 범위를 확대합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "U.S. consumer sentiment inches lower in October, UMich survey shows",
-      "link": "https://www.investing.com/news/economic-indicators/us-consumer-sentiment-inches-lower-in-october-umich-survey-shows-4941388",
-      "summary": "",
-      "title_ko": "10월 미국 소비심리 인치 하락, UMich 설문조사 결과",
       "summary_ko": ""
     }
   ]

@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-10-15 05:00:34 UTC",
+  "updated_at_utc": "2026-10-15 10:11:58 UTC",
   "items": [
     {
-      "title": "KOSPI hits near 3-month low as 8% plunge triggers circuit breaker",
-      "link": "https://www.investing.com/news/stock-market-news/kospi-hits-sixmonth-low-as-8-plunge-triggers-circuit-breaker-4950503",
+      "title": "Venture Global to build power plants for AI data centers",
+      "link": "https://www.investing.com/news/stock-market-news/venture-global-to-build-power-plants-for-ai-data-centers-93CH-4951000",
       "summary": "",
-      "title_ko": "코스피는 8% 급락 트리거 회로 차단기로 3개월 최저치에 근접했다.",
+      "title_ko": "벤처 글로벌, AI 데이터 센터를 위한 발전소 건설",
       "summary_ko": ""
     },
     {
-      "title": "Why is CEAT stock falling today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-ceat-stock-falling-today-93CH-4950492",
+      "title": "Why are European infrastructure stocks still facing pressure ahead of Q3 results?",
+      "link": "https://www.investing.com/news/stock-market-news/why-are-european-infrastructure-stocks-still-facing-pressure-ahead-of-q3-results-4950994",
       "summary": "",
-      "title_ko": "오늘날 CEAT 주가가 하락하는 이유는 무엇입니까?",
+      "title_ko": "3분기 실적을 앞두고 유럽 인프라 재고가 여전히 압박을 받고 있는 이유는 무엇입니까?",
       "summary_ko": ""
     },
     {
-      "title": "Why is China Shenhua Energy stock sliding today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-china-shenhua-energy-stock-sliding-today-93CH-4950480",
+      "title": "Analysis-For Chinese automakers, the road to survival runs through Europe",
+      "link": "https://www.investing.com/news/stock-market-news/analysisfor-chinese-automakers-the-road-to-survival-runs-through-europe-4950959",
       "summary": "",
-      "title_ko": "오늘 중국 Shenhua Energy 재고가 미끄러지는 이유는 무엇입니까?",
+      "title_ko": "분석-중국 자동차 제조업체의 경우, 생존의 길은 유럽을 관통합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Japan, U.S. reach first chip deal under $550 bln investment plan",
-      "link": "https://www.investing.com/news/stock-market-news/japan-us-reach-first-chip-deal-under-550-bln-investment-plan-93CH-4950476",
+      "title": "Why is CoreWeave stock sliding today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-coreweave-stock-sliding-today-93CH-4950971",
       "summary": "",
-      "title_ko": "일본, 미국, $ 550 억 투자 계획에 따라 첫 번째 칩 거래에 도달",
+      "title_ko": "CoreWeave 주식이 오늘 미끄러지는 이유는 무엇입니까?",
+      "summary_ko": ""
+    },
+    {
+      "title": "AI-boosted UK economy beats forecasts, giving Healey pre-budget lift",
+      "link": "https://www.investing.com/news/economic-indicators/uk-economy-beats-forecasts-to-grow-by-01-in-august-4950588",
+      "summary": "",
+      "title_ko": "인공지능 (AI) 이 활성화된 영국 경제가 예상을 뛰어넘어 힐리 (Healey) 의 사전 예산을 상향 조정합니다.",
       "summary_ko": ""
     },
     {
@@ -37,24 +44,17 @@
       "summary_ko": ""
     },
     {
-      "title": "Australia sheds 39,300 jobs in September, making RBA hike a closer call",
-      "link": "https://www.investing.com/news/economic-indicators/australia-loses-39300--jobs-unexpectedly-easing-bets-on-another-rba-rate-hike-4950355",
+      "title": "French inflation rises to 3.4% in September, highest since January 2024",
+      "link": "https://www.investing.com/news/economic-indicators/french-inflation-rises-to-34-in-september-highest-since-january-2024-4950657",
       "summary": "",
-      "title_ko": "호주는 9 월에 39,300 개의 일자리를 잃어 RBA 하이킹이 더 가까워졌습니다.",
+      "title_ko": "9월 프랑스 인플레이션 3.4% 로 상승, 2024년 1월 이후 최고치",
       "summary_ko": ""
     },
     {
-      "title": "Australia employment slides 39,300 in September, jobless at 4.7%",
-      "link": "https://www.investing.com/news/economic-indicators/australia-employment-slides-39300-in-september-jobless-at-47-4950349",
+      "title": "UK GDP beats forecasts with 0.1% growth in August",
+      "link": "https://www.investing.com/news/economic-indicators/uk-gdp-beats-forecasts-with-01-growth-in-august-4950649",
       "summary": "",
-      "title_ko": "9월 호주 고용 슬라이드 39,300, 실직률 4.7%",
-      "summary_ko": ""
-    },
-    {
-      "title": "Exclusive-Fed’s Daly says rate hikes likely needed, but not urgently",
-      "link": "https://www.investing.com/news/economic-indicators/exclusivefeds-daly-says-rate-hikes-likely-needed-but-not-urgently-4950157",
-      "summary": "",
-      "title_ko": "Exclusive-Fed의 Daly는 금리 인상이 필요하지만 긴급하지는 않다고 말합니다.",
+      "title_ko": "8월 영국 GDP 전망치보다 0.1% 높은 성장률",
       "summary_ko": ""
     }
   ]

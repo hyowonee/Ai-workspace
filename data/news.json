@@ -1,32 +1,53 @@
 {
-  "updated_at_utc": "2026-10-15 00:19:09 UTC",
+  "updated_at_utc": "2026-10-15 05:00:34 UTC",
   "items": [
     {
-      "title": "TSMC expected to report sixth straight quarter of record profit thanks to AI boom",
-      "link": "https://www.investing.com/news/stock-market-news/tsmc-expected-to-report-sixth-straight-quarter-of-record-profit-thanks-to-ai-boom-4950243",
+      "title": "KOSPI hits near 3-month low as 8% plunge triggers circuit breaker",
+      "link": "https://www.investing.com/news/stock-market-news/kospi-hits-sixmonth-low-as-8-plunge-triggers-circuit-breaker-4950503",
       "summary": "",
-      "title_ko": "TSMC는 AI 호황에 힘입어 6분기 연속 사상 최대 이익을 기록할 것으로 예상했다.",
+      "title_ko": "코스피는 8% 급락 트리거 회로 차단기로 3개월 최저치에 근접했다.",
       "summary_ko": ""
     },
     {
-      "title": "Iambic Therapeutics prices IPO at $16 per share on Nasdaq",
-      "link": "https://www.investing.com/news/stock-market-news/iambic-therapeutics-prices-ipo-at-16-per-share-on-nasdaq-432SI-4950227",
+      "title": "Why is CEAT stock falling today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-ceat-stock-falling-today-93CH-4950492",
       "summary": "",
-      "title_ko": "Iambic Therapeutics의 IPO 가격은 나스닥에서 주당 $ 16입니다.",
+      "title_ko": "오늘날 CEAT 주가가 하락하는 이유는 무엇입니까?",
       "summary_ko": ""
     },
     {
-      "title": "Anthropic’s Q3 revenue surges 45% to nearly $17 billion",
-      "link": "https://www.investing.com/news/stock-market-news/anthropics-q3-revenue-surges-45-to-nearly-17-billion-4950208",
+      "title": "Why is China Shenhua Energy stock sliding today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-china-shenhua-energy-stock-sliding-today-93CH-4950480",
       "summary": "",
-      "title_ko": "Anthropic의 3분기 매출은 거의 $ 17 billion으로 45% 급증했습니다.",
+      "title_ko": "오늘 중국 Shenhua Energy 재고가 미끄러지는 이유는 무엇입니까?",
       "summary_ko": ""
     },
     {
-      "title": "Mexico to require digital platforms to shield minors from harmful content",
-      "link": "https://www.investing.com/news/stock-market-news/mexico-to-require-digital-platforms-to-protect-minors-from-violent-sexual-content-4949581",
+      "title": "Japan, U.S. reach first chip deal under $550 bln investment plan",
+      "link": "https://www.investing.com/news/stock-market-news/japan-us-reach-first-chip-deal-under-550-bln-investment-plan-93CH-4950476",
       "summary": "",
-      "title_ko": "멕시코는 유해 콘텐츠로부터 미성년자를 보호하기 위해 디지털 플랫폼을 요구해야 합니다",
+      "title_ko": "일본, 미국, $ 550 억 투자 계획에 따라 첫 번째 칩 거래에 도달",
+      "summary_ko": ""
+    },
+    {
+      "title": "EU leaders to tackle China exports, energy prices, budget at summit",
+      "link": "https://www.investing.com/news/economic-indicators/eu-leaders-to-tackle-china-exports-energy-prices-budget-at-summit-4950477",
+      "summary": "",
+      "title_ko": "정상 회담에서 중국 수출, 에너지 가격, 예산 문제를 해결하기 위한 EU 지도자",
+      "summary_ko": ""
+    },
+    {
+      "title": "Australia sheds 39,300 jobs in September, making RBA hike a closer call",
+      "link": "https://www.investing.com/news/economic-indicators/australia-loses-39300--jobs-unexpectedly-easing-bets-on-another-rba-rate-hike-4950355",
+      "summary": "",
+      "title_ko": "호주는 9 월에 39,300 개의 일자리를 잃어 RBA 하이킹이 더 가까워졌습니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Australia employment slides 39,300 in September, jobless at 4.7%",
+      "link": "https://www.investing.com/news/economic-indicators/australia-employment-slides-39300-in-september-jobless-at-47-4950349",
+      "summary": "",
+      "title_ko": "9월 호주 고용 슬라이드 39,300, 실직률 4.7%",
       "summary_ko": ""
     },
     {
@@ -34,27 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/exclusivefeds-daly-says-rate-hikes-likely-needed-but-not-urgently-4950157",
       "summary": "",
       "title_ko": "Exclusive-Fed의 Daly는 금리 인상이 필요하지만 긴급하지는 않다고 말합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Crude Oil Inventories Plunge, Surpassing Expectations",
-      "link": "https://www.investing.com/news/economic-indicators/crude-oil-inventories-plunge-surpassing-expectations-93CH-4950079",
-      "summary": "",
-      "title_ko": "원유 재고 급감, 기대 이상",
-      "summary_ko": ""
-    },
-    {
-      "title": "Taiwan cites progress on Alaska LNG after Trump says it will buy 30% of output",
-      "link": "https://www.investing.com/news/economic-indicators/trump-says-taiwan-agrees-to-buy-30-of-lng-from-alaska-pipeline-project-4947902",
-      "summary": "",
-      "title_ko": "대만은 트럼프가 생산량의 30% 를 구매할 것이라고 말한 후 알래스카 LNG에 대한 진전을 언급합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "U.S. consumer prices rise 3.7% year-on-year in September",
-      "link": "https://www.investing.com/news/economic-indicators/us-consumer-prices-rise-by-37-yearonyear-in-september-4949221",
-      "summary": "",
-      "title_ko": "9월 미국 소비자 물가 전년 대비 3.7% 상승",
       "summary_ko": ""
     }
   ]

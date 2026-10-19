@@ -1,32 +1,46 @@
 {
-  "updated_at_utc": "2026-10-19 10:08:55 UTC",
+  "updated_at_utc": "2026-10-19 17:04:56 UTC",
   "items": [
     {
-      "title": "Uber wins bid to throw out UK mass lawsuit by black cab drivers",
-      "link": "https://www.investing.com/news/stock-market-news/uber-wins-bid-to-throw-out-uk-mass-lawsuit-by-black-cab-drivers-4956748",
+      "title": "Truist previews lodging sector earnings, adjusts estimates",
+      "link": "https://www.investing.com/news/stock-market-news/truist-previews-lodging-sector-earnings-adjusts-estimates-4958085",
       "summary": "",
-      "title_ko": "Uber, 흑인 택시 기사님들의 영국 대규모 소송을 근절하기 위해 입찰에서 승리하다",
+      "title_ko": "Truist는 숙박 부문 수입을 미리 확인하고 예상 수입을 조정합니다.",
       "summary_ko": ""
     },
     {
-      "title": "EU says KKR might have misled it over Telecom Italia deal",
-      "link": "https://www.investing.com/news/stock-market-news/eu-says-kkr-might-have-misled-it-over-telecom-italia-deal-4956776",
+      "title": "France urges curfews in some areas after weekend of riots",
+      "link": "https://www.investing.com/news/stock-market-news/as-france-reels-from-violence-macron-points-to-security-failings-4956666",
       "summary": "",
-      "title_ko": "유럽 연합 (EU) 은 KKR이 텔레콤 이탈리아 거래에 대해 오해했을 수 있다고 말한다.",
+      "title_ko": "프랑스, 주말 폭동 이후 일부 지역의 통행금지 조처 촉구",
       "summary_ko": ""
     },
     {
-      "title": "Why is Intel stock rallying today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-intel-stock-rallying-today-93CH-4956771",
-      "summary": "",
-      "title_ko": "오늘날 인텔 주식이 랠리되는 이유는 무엇입니까?",
-      "summary_ko": ""
-    },
-    {
-      "title": "France concerns weigh on Europe, while Wall Street looks to AI earnings",
+      "title": "US stocks rebound with AI earnings test ahead; French markets tumble",
       "link": "https://www.investing.com/news/stock-market-news/asian-stocks-skid-wall-street-and-bonds-aided-by-oil-slip-4956176",
       "summary": "",
-      "title_ko": "프랑스의 우려는 유럽에 비중을 두는 반면, 월스트리트는 AI 수입을 바라본다.",
+      "title_ko": "인공지능 (AI) 수익 테스트를 앞두고 미국 증시가 반등하고 있다. 프랑스 증시도 엎치락뒤치락",
+      "summary_ko": ""
+    },
+    {
+      "title": "Cleveland-Cliffs options activity after Q3 earnings beat",
+      "link": "https://www.investing.com/news/stock-market-news/clevelandcliffs-options-activity-after-q3-earnings-beat-93CH-4958081",
+      "summary": "",
+      "title_ko": "3분기 실적 BEAT 이후 클리블랜드-클리프 옵션 활동",
+      "summary_ko": ""
+    },
+    {
+      "title": "US homebuilder sentiment tumbles to near 14-1/2-year low in October",
+      "link": "https://www.investing.com/news/economic-indicators/us-homebuilder-sentiment-tumbles-to-near-1412year-low-in-october-4957879",
+      "summary": "",
+      "title_ko": "10월 미국 주택 건설업체 감정이 14-1/2년 가까이 최저치로 떨어짐",
+      "summary_ko": ""
+    },
+    {
+      "title": "The midterm election outcomes that could shape Trump’s final two years",
+      "link": "https://www.investing.com/news/economic-indicators/the-midterm-election-outcomes-that-could-shape-trumps-final-two-years-4956847",
+      "summary": "",
+      "title_ko": "트럼프의 마지막 2년을 형성할 수 있는 중간선거 결과",
       "summary_ko": ""
     },
     {
@@ -41,20 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/german-industry-has-lost-nearly-half-a-million-jobs-since-2019-ifo-says-4956609",
       "summary": "",
       "title_ko": "Ifo는 독일 산업이 2019년 이후 거의 50만 개의 일자리를 잃었다고 말합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "China industrial output, retail sales beat forecasts in September",
-      "link": "https://www.investing.com/news/economic-indicators/china-industrial-output-retail-sales-beat-forecasts-in-september-4956219",
-      "summary": "",
-      "title_ko": "중국 산업 생산량, 9월 소매 판매량 예측을 뛰어넘다",
-      "summary_ko": ""
-    },
-    {
-      "title": "China Q3 GDP grows 4.5%, slightly more than expected",
-      "link": "https://www.investing.com/news/economic-indicators/china-q3-gdp-grows-45-slightly-more-than-expected-4956217",
-      "summary": "",
-      "title_ko": "중국 3분기 GDP 성장률은 4.5% 로 예상보다 약간 높습니다.",
       "summary_ko": ""
     }
   ]

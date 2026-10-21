@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-10-20 22:58:54 UTC",
+  "updated_at_utc": "2026-10-21 01:27:02 UTC",
   "items": [
-    {
-      "title": "AI data center projects boost US warehouse demand and rents, real estate company JLL says",
-      "link": "https://www.investing.com/news/stock-market-news/ai-data-center-projects-boost-us-warehouse-demand-and-rents-real-estate-company-jll-says-4961324",
-      "summary": "",
-      "title_ko": "부동산 회사 JLL은 AI 데이터 센터 프로젝트가 미국 창고 수요와 임대료를 증가시킨다고 말합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Super Micro sees quarterly revenue soaring on AI server boom",
-      "link": "https://www.investing.com/news/stock-market-news/super-micro-expects-firstquarter-revenue-above-estimates-4961142",
-      "summary": "",
-      "title_ko": "Super Micro, AI 서버 붐에 따라 분기별 매출 급증",
-      "summary_ko": ""
-    },
-    {
-      "title": "United Airlines profit outlook well below estimates, hit by fuel costs",
-      "link": "https://www.investing.com/news/stock-market-news/united-airlines-forecasts-fourthquarter-profit-below-estimates-as-fuel-costs-bite-4960998",
-      "summary": "",
-      "title_ko": "유나이티드항공 예상치를 훨씬 밑도는 이익 전망, 연료비 타격",
-      "summary_ko": ""
-    },
     {
       "title": "Musk ordered slowdown of Starlink service used by Ukraine’s military, WSJ reports",
       "link": "https://www.investing.com/news/stock-market-news/musk-ordered-starlink-slowdown-that-blindsided-ukraine-wsj-reports-4961200",
       "summary": "",
       "title_ko": "WSJ에 따르면 머스크는 우크라이나 군이 사용하는 스타링크 서비스의 속도 저하를 명령했다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Nikkei 225 plunges to 64,872.5 with breakdown risk at 63,600: Live",
+      "link": "https://www.investing.com/news/stock-market-news/nikkei-225-teeters-above-635725-support-live-levels-93CH-4956186",
+      "summary": "",
+      "title_ko": "Nikkei 225는 64,872.5로 급락하고 고장 위험은 63,600: Live",
+      "summary_ko": ""
+    },
+    {
+      "title": "SK Hynix bounces but bearish trend holds at KRW 1,381,000: Live",
+      "link": "https://www.investing.com/news/stock-market-news/sk-hynix-crashes-206-below-20period-ma-live-levels-93CH-4956188",
+      "summary": "",
+      "title_ko": "SK하이닉스 튕기지만 약세장 추세는 1,381,000원: 라이브",
+      "summary_ko": ""
+    },
+    {
+      "title": "NextDC shares plunge 42% to a near nine-year low after outlook cut",
+      "link": "https://www.investing.com/news/stock-market-news/nextdc-shares-plunge-42-to-a-near-nineyear-low-after-outlook-cut-4961425",
+      "summary": "",
+      "title_ko": "NextDC 주식 42% 급락 전망 삭감 후 거의 9년 만에 최저치",
+      "summary_ko": ""
+    },
+    {
+      "title": "Japan posts bigger-than-expected trade deficit in Sept as export growth slows",
+      "link": "https://www.investing.com/news/economic-indicators/japan-posts-biggerthanexpected-trade-deficit-in-sept-as-export-growth-slows-4961413",
+      "summary": "",
+      "title_ko": "일본은 수출 증가세가 둔화됨에 따라 9월에 예상보다 큰 무역 적자를 기록했다.",
       "summary_ko": ""
     },
     {
@@ -48,13 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/us-pending-home-sales-tumble-to-record-low-in-september-4960466",
       "summary": "",
       "title_ko": "9월 미국 주택 판매가 최저치를 기록할 것으로 보류",
-      "summary_ko": ""
-    },
-    {
-      "title": "Pending home sales fall sharply, missing forecasts significantly",
-      "link": "https://www.investing.com/news/economic-indicators/pending-home-sales-fall-sharply-missing-forecasts-significantly-93CH-4960427",
-      "summary": "",
-      "title_ko": "대기 중인 주택 매매가 급격히 떨어지면서 예측이 크게 누락됨",
       "summary_ko": ""
     }
   ]

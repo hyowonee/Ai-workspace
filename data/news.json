@@ -1,39 +1,32 @@
 {
-  "updated_at_utc": "2026-10-23 12:45:20 UTC",
+  "updated_at_utc": "2026-10-23 17:45:21 UTC",
   "items": [
     {
-      "title": "Why is LKQ stock crashing today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-lkq-stock-crashing-today-93CH-4969222",
+      "title": "BP, Louisiana agree to resolve Deepwater Horizon disputes",
+      "link": "https://www.investing.com/news/stock-market-news/bp-louisiana-agree-to-resolve-deepwater-horizon-disputes-4970169",
       "summary": "",
-      "title_ko": "오늘 LKQ 주가가 폭락하는 이유는 무엇인가요?",
+      "title_ko": "BP, 루이지애나주, Deepwater Horizon 분쟁 해결에 동의",
       "summary_ko": ""
     },
     {
-      "title": "Is Netflix stock a buy at 52-week lows?",
-      "link": "https://www.investing.com/news/stock-market-news/is-netflix-stock-a-buy-at-52week-lows-93CH-4969205",
+      "title": "Goldman Sachs sees US stocks dip on tech earnings and macro shifts",
+      "link": "https://www.investing.com/news/stock-market-news/goldman-sachs-sees-us-stocks-dip-on-tech-earnings-and-macro-shifts-93CH-4970167",
       "summary": "",
-      "title_ko": "넷플릭스 주식이 52주 최저치로 매수되나요?",
+      "title_ko": "골드만삭스, 미국 증시가 기술 수익과 거시적 변동에 하락",
       "summary_ko": ""
     },
     {
-      "title": "BofA Names Preferred Picks Among European Chipmakers Ahead of Earnings",
-      "link": "https://www.investing.com/news/stock-market-news/bofa-names-preferred-picks-among-european-chipmakers-ahead-of-earnings-4969203",
+      "title": "FCC grants Intel waiver to use existing foreign-made robotic devices",
+      "link": "https://www.investing.com/news/stock-market-news/fcc-grants-intel-waiver-for-foreignmade-robotic-devices-4967773",
       "summary": "",
-      "title_ko": "BofA, 수입을 앞둔 유럽 칩메이커들 사이에서 선호하는 추천 제품 선정",
+      "title_ko": "FCC, 인텔에 기존 외국산 로봇 장치 사용 면제 부여",
       "summary_ko": ""
     },
     {
-      "title": "LKQ stock tumbles 10% on weak Q3 results, CEO departure",
-      "link": "https://www.investing.com/news/stock-market-news/lkq-stock-tumbles-10-on-weak-q3-results-ceo-departure-4969181",
+      "title": "European stocks post weekly loss as France turmoil, oil prices dent earnings optimism",
+      "link": "https://www.investing.com/news/stock-market-news/stoxx-600-extends-fall-as-kering-slumps-oil-climbs-4968205",
       "summary": "",
-      "title_ko": "LKQ 주가, 3분기 실적 약세에 10% 하락, CEO 이탈",
-      "summary_ko": ""
-    },
-    {
-      "title": "EU ministers vow to tackle ’China Shock 2.0’ through talks with Beijing",
-      "link": "https://www.investing.com/news/economic-indicators/eu-ministers-vow-to-tackle-china-shock-20-through-talks-with-beijing-4969048",
-      "summary": "",
-      "title_ko": "EU 장관들은 베이징과의 회담을 통해 ’차이나 쇼크 2.0’ 에 대처하겠다고 다짐했다.",
+      "title_ko": "유럽 증시는 프랑스 혼란으로 주간 손실을 기록했고, 유가는 낙관적이었다.",
       "summary_ko": ""
     },
     {
@@ -44,10 +37,10 @@
       "summary_ko": ""
     },
     {
-      "title": "UK retail sales fall 0.4% in September as consumer confidence hits six-month low",
-      "link": "https://www.investing.com/news/economic-indicators/uk-retail-sales-fall-04-in-september-as-consumer-confidence-hits-sixmonth-low-4968096",
+      "title": "EU vows to fix ’China Shock 2.0’ via talks with Beijing",
+      "link": "https://www.investing.com/news/economic-indicators/eu-ministers-vow-to-tackle-china-shock-20-through-talks-with-beijing-4969048",
       "summary": "",
-      "title_ko": "소비자의 신뢰도가 6개월래 최저치를 기록하면서 9월 영국 소매 판매는 0.4% 하락했습니다.",
+      "title_ko": "EU는 베이징과의 회담을 통해 ’차이나 쇼크 2.0’ 을 수정하겠다고 서약했다.",
       "summary_ko": ""
     },
     {
@@ -55,6 +48,13 @@
       "link": "https://www.investing.com/news/economic-indicators/euro-zone-growth-slows-to-4month-low-amid-rising-costs-and-french-turmoil-pmi-shows-4968292",
       "summary": "",
       "title_ko": "유로존 성장은 비용 상승과 프랑스의 분쟁 속에서 4개월 낮은 수준으로 둔화된다. 설문조사 결과",
+      "summary_ko": ""
+    },
+    {
+      "title": "U.S. business activity growth holds near five-year high in October",
+      "link": "https://www.investing.com/news/economic-indicators/us-business-activity-growth-holds-near-fiveyear-high-in-october-4969833",
+      "summary": "",
+      "title_ko": "10월 미국 기업 활동 성장률이 5년 만에 최고치를 기록했습니다.",
       "summary_ko": ""
     }
   ]

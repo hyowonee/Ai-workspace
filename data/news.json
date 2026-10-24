@@ -1,18 +1,18 @@
 {
-  "updated_at_utc": "2026-10-24 08:43:22 UTC",
+  "updated_at_utc": "2026-10-24 13:09:18 UTC",
   "items": [
-    {
-      "title": "Johnson &amp; Johnson’s prostate cancer drug shrinks tumors in early-stage trial",
-      "link": "https://www.investing.com/news/stock-market-news/johnson--johnsons-prostate-cancer-drug-shrinks-tumors-in-earlystage-trial-4970719",
-      "summary": "",
-      "title_ko": "Johnson &amp; Johnson의 전립선암 약물은 초기 단계 시험에서 종양을 축소합니다.",
-      "summary_ko": ""
-    },
     {
       "title": "France’s luxury stores board up windows ahead of fresh protests",
       "link": "https://www.investing.com/news/stock-market-news/frances-luxury-stores-board-up-windows-ahead-of-fresh-protests-4970670",
       "summary": "",
       "title_ko": "신선한 시위에 앞서 프랑스의 명품 매장이 창문을 열고 있다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Johnson &amp; Johnson’s prostate cancer drug shrinks tumors in early-stage trial",
+      "link": "https://www.investing.com/news/stock-market-news/johnson--johnsons-prostate-cancer-drug-shrinks-tumors-in-earlystage-trial-4970719",
+      "summary": "",
+      "title_ko": "Johnson &amp; Johnson의 전립선암 약물은 초기 단계 시험에서 종양을 축소합니다.",
       "summary_ko": ""
     },
     {
@@ -27,6 +27,13 @@
       "link": "https://www.investing.com/news/stock-market-news/moonshot-curbs-hacking-ability-in-new-kimi-model-as-fears-grow-over-aipowered-cyberattacks-4970639",
       "summary": "",
       "title_ko": "Moonshot은 AI 기반 사이버 공격에 대한 두려움이 커짐에 따라 새로운 Kimi 모델에서 해킹 능력을 억제합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "As winter nears, heating oil emerges as hurdle for Republicans in US Senate races",
+      "link": "https://www.investing.com/news/economic-indicators/as-winter-nears-heating-oil-emerges-as-hurdle-for-republicans-in-us-senate-races-4970790",
+      "summary": "",
+      "title_ko": "겨울이 다가옴에 따라 난방유는 미국 상원 경선에서 공화당의 장애물로 부상합니다.",
       "summary_ko": ""
     },
     {
@@ -48,13 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/euro-zone-growth-slows-to-4month-low-amid-rising-costs-and-french-turmoil-pmi-shows-4968292",
       "summary": "",
       "title_ko": "유로존 성장은 비용 상승과 프랑스의 분쟁 속에서 4개월 낮은 수준으로 둔화된다. 설문조사 결과",
-      "summary_ko": ""
-    },
-    {
-      "title": "U.S. business activity growth holds near five-year high in October",
-      "link": "https://www.investing.com/news/economic-indicators/us-business-activity-growth-holds-near-fiveyear-high-in-october-4969833",
-      "summary": "",
-      "title_ko": "10월 미국 기업 활동 성장률이 5년 만에 최고치를 기록했습니다.",
       "summary_ko": ""
     }
   ]

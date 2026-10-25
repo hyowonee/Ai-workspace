@@ -1,39 +1,46 @@
 {
-  "updated_at_utc": "2026-10-25 10:01:06 UTC",
+  "updated_at_utc": "2026-10-25 14:29:28 UTC",
   "items": [
     {
-      "title": "Trump announces Audi will build $4 billion US factory in Georgia",
-      "link": "https://www.investing.com/news/stock-market-news/trump-set-to-announce-plan-by-audi-to-build-us-factory-in-georgia-source-says-4970975",
+      "title": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 2.65%",
+      "link": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-265-4971175",
       "summary": "",
-      "title_ko": "트럼프, 아우디가 조지아에 40억 달러 ($) 규모의 미국 공장을 건설할 것이라고 발표",
+      "title_ko": "사우디아라비아 주식은 거래 종료 시점에 하락, 타다울 전체 점유율은 2.65% 하락",
       "summary_ko": ""
     },
     {
-      "title": "Goldman Sachs cuts Kospi target by 25% amid AI stock selloff",
-      "link": "https://www.investing.com/news/stock-market-news/goldman-sachs-cuts-kospi-target-by-25-amid-ai-stock-selloff-4971079",
+      "title": "UBS may cut 12,000 Swiss jobs if capital rules tighten - report",
+      "link": "https://www.investing.com/news/stock-market-news/ubs-may-cut-12000-swiss-jobs-if-capital-rules-tighten--report-4971117",
       "summary": "",
-      "title_ko": "골드만삭스, AI 주가 매진 속 코스피 목표치 25% 인하",
+      "title_ko": "자본 규칙이 강화되면 UBS가 12,000개의 스위스 일자리를 삭감할 수 있음 - 보고서",
       "summary_ko": ""
     },
     {
-      "title": "5 big analyst AI moves: ’Uniquely catalyst-rich’ months ahead for SpaceX",
-      "link": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-uniquely-catalystrich-months-ahead-for-spacex-4970923",
+      "title": "Street Calls of the Week",
+      "link": "https://www.investing.com/news/stock-market-news/street-calls-of-the-week-93CH-4970904",
       "summary": "",
-      "title_ko": "5가지 거대 분석가 AI의 움직임: SpaceX의 ’독특하게 촉매가 풍부한’ 달 앞",
+      "title_ko": "금주의 스트리트콜",
       "summary_ko": ""
     },
     {
-      "title": "HSBC sees cautious optimism in VC and PE activity",
-      "link": "https://www.investing.com/news/stock-market-news/hsbc-sees-cautious-optimism-in-vc-and-pe-activity-4971023",
+      "title": "Recent labor market data show some signs of AI-related hiring headwinds",
+      "link": "https://www.investing.com/news/stock-market-news/recent-labor-market-data-show-some-signs-of-airelated-hiring-headwinds-4971102",
       "summary": "",
-      "title_ko": "HSBC는 VC 및 PE 활동에서 신중한 낙관론을 보고 있습니다.",
+      "title_ko": "최근 노동 시장 데이터는 AI 관련 채용 역풍의 일부 징후를 보여줍니다.",
       "summary_ko": ""
     },
     {
-      "title": "Portuguese police clear Lisbon housing protest camp, make arrests",
+      "title": "Portuguese police clear Lisbon housing protest camp, arresting 25",
       "link": "https://www.investing.com/news/economic-indicators/portuguese-police-clear-lisbon-housing-protest-camp-make-arrests-4971028",
       "summary": "",
-      "title_ko": "포르투갈 경찰, 리스본 숙소 시위 캠프 정리, 체포",
+      "title_ko": "포르투갈 경찰은 리스본 주택 시위 캠프를 정리하고 25명을 체포했습니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "The midterm election outcomes that could shape Trump’s final two years",
+      "link": "https://www.investing.com/news/economic-indicators/the-midterm-election-outcomes-that-could-shape-trumps-final-two-years-4971100",
+      "summary": "",
+      "title_ko": "트럼프의 마지막 2년을 형성할 수 있는 중간선거 결과",
       "summary_ko": ""
     },
     {
@@ -48,13 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/exclusivetanker-carrying-40000-t-of-russian-diesel-heads-to-new-york-after-putintrump-deal-data-shows-4968099",
       "summary": "",
       "title_ko": "데이터에 따르면 미국으로 향하는 푸틴-트럼프 거래의 독점 첫 번째 러시아 디젤",
-      "summary_ko": ""
-    },
-    {
-      "title": "EU vows to fix ’China Shock 2.0’ via talks with Beijing",
-      "link": "https://www.investing.com/news/economic-indicators/eu-ministers-vow-to-tackle-china-shock-20-through-talks-with-beijing-4969048",
-      "summary": "",
-      "title_ko": "EU는 베이징과의 회담을 통해 ’차이나 쇼크 2.0’ 을 수정하겠다고 서약했다.",
       "summary_ko": ""
     }
   ]

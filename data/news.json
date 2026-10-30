@@ -1,32 +1,46 @@
 {
-  "updated_at_utc": "2026-10-30 18:45:35 UTC",
+  "updated_at_utc": "2026-10-30 22:49:41 UTC",
   "items": [
     {
-      "title": "CD&amp;R explores deal to take payments processor Global Payments private, source says",
-      "link": "https://www.investing.com/news/stock-market-news/cdr-pursues-buyout-of-40-billion-payments-processor-global-payments-ft-reports-4988379",
+      "title": "S&amp;P Global revises Meta’s outlook to ’negative’ on AI spending, cash flow worries",
+      "link": "https://www.investing.com/news/stock-market-news/sp-global-revises-outlook-on-meta-to-negative-on-cashflow-concerns-4988756",
       "summary": "",
-      "title_ko": "CD&amp;R은 결제 처리업체인 글로벌 결제 (Global Payments) 를 비공개로 처리하기 위해 거래를 모색한다고 소식통",
+      "title_ko": "S&amp;P글로벌, AI 지출, 현금흐름 우려에 대한 메타의 전망을 ’부정적’ 으로 수정",
       "summary_ko": ""
     },
     {
-      "title": "Top oil &amp; gas exploration stocks, according to Mizuho",
-      "link": "https://www.investing.com/news/stock-market-news/top-oil--gas-exploration-stocks-according-to-mizuho-4988492",
+      "title": "Mizuho favors these U.S. restaurant stocks ahead of earnings",
+      "link": "https://www.investing.com/news/stock-market-news/mizuho-favors-these-us-restaurant-stocks-ahead-of-earnings-4988863",
       "summary": "",
-      "title_ko": "Mizuho에 따르면 최고의 석유 및 가스 탐사 재고",
+      "title_ko": "Mizuho는 수입보다 이러한 미국 레스토랑 주식을 선호합니다",
       "summary_ko": ""
     },
     {
-      "title": "Intel, Reddit among market cap stock movers on Friday",
-      "link": "https://www.investing.com/news/stock-market-news/intel-reddit-among-market-cap-stock-movers-on-friday-93CH-4988482",
+      "title": "Fitch revises France’s outlook to ’negative’ on worsening debt dynamics",
+      "link": "https://www.investing.com/news/stock-market-news/fitch-revises-frances-outlook-to-negative-on-worsening-debt-dynamics-4988846",
       "summary": "",
-      "title_ko": "금요일 시가 총액 주가 변동 중 인텔, 레딧",
+      "title_ko": "피치는 부채 역동성 악화에 대한 프랑스의 전망을 ’부정적’ 으로 수정",
       "summary_ko": ""
     },
     {
-      "title": "Manufacturing PMI and ISM Manufacturing PMI due Monday",
-      "link": "https://www.investing.com/news/stock-market-news/manufacturing-pmi-and-ism-manufacturing-pmi-due-monday-93CH-4988481",
+      "title": "Raizen shareholders approve out-of-court restructuring plan",
+      "link": "https://www.investing.com/news/stock-market-news/raizen-shareholders-approve-outofcourt-restructuring-plan-93CH-4988828",
       "summary": "",
-      "title_ko": "제조업 PMI 및 ISM 제조업 PMI 월요일 마감",
+      "title_ko": "Raizen 주주, 법원 밖 구조조정 계획 승인",
+      "summary_ko": ""
+    },
+    {
+      "title": "Mexico economy beats forecasts in third quarter, cooling rate-cut pressure",
+      "link": "https://www.investing.com/news/economic-indicators/mexicos-economy-slows-less-than-expected-in-third-quarter-4988136",
+      "summary": "",
+      "title_ko": "멕시코 경제, 3분기 예상보다 높은 냉각 속도 감축 압력",
+      "summary_ko": ""
+    },
+    {
+      "title": "White House hearing on Fed’s Cook delayed to December, Hassett says",
+      "link": "https://www.investing.com/news/economic-indicators/white-house-hearing-on-feds-cook-delayed-to-december-hassett-says-4988548",
+      "summary": "",
+      "title_ko": "Hassett는 Fed의 Cook에 대한 백악관 청문회가 12월로 지연되었다고 말합니다.",
       "summary_ko": ""
     },
     {
@@ -37,24 +51,10 @@
       "summary_ko": ""
     },
     {
-      "title": "Mexico’s economy slows less than expected in third quarter",
-      "link": "https://www.investing.com/news/economic-indicators/mexicos-economy-slows-less-than-expected-in-third-quarter-4988136",
-      "summary": "",
-      "title_ko": "멕시코 경제는 3분기 예상보다 둔화",
-      "summary_ko": ""
-    },
-    {
       "title": "Slower wage growth curbs US labor costs in third quarter",
       "link": "https://www.investing.com/news/economic-indicators/us-labor-costs-rise-moderately-in-third-quarter-4987548",
       "summary": "",
       "title_ko": "임금 상승 둔화, 3분기 미국 인건비 억제",
-      "summary_ko": ""
-    },
-    {
-      "title": "German inflation cools on fuel tax cut, economy grows more than expected in Q3",
-      "link": "https://www.investing.com/news/economic-indicators/german-economy-grows-by-02-in-q3-preliminary-data-shows-4986289",
-      "summary": "",
-      "title_ko": "독일의 인플레이션은 연료세 인하로 냉각되고, 경제는 3분기에 예상보다 더 성장합니다.",
       "summary_ko": ""
     }
   ]

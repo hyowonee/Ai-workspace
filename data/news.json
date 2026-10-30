@@ -1,32 +1,46 @@
 {
-  "updated_at_utc": "2026-10-29 20:28:20 UTC",
+  "updated_at_utc": "2026-10-30 00:11:54 UTC",
   "items": [
     {
-      "title": "Coinbase snaps losing streak with third-quarter profit on crypto trading rebound",
-      "link": "https://www.investing.com/news/stock-market-news/coinbase-snaps-losing-streak-with-thirdquarter-profit-on-crypto-trading-rebound-4985073",
+      "title": "Reddit puts logged in experience first as Google AI hits traffic",
+      "link": "https://www.investing.com/news/stock-market-news/reddit-puts-logged-in-experience-first-as-google-ai-hits-traffic-4985602",
       "summary": "",
-      "title_ko": "코인베이스 스냅은 암호화폐 거래 반등에 대한 3분기 이익으로 연이은 손실을 입습니다",
+      "title_ko": "Reddit은 Google AI가 트래픽에 도달할 때 로그인 경험을 최우선으로 합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Walmart commits $6 billion to expand Symbotic deal",
-      "link": "https://www.investing.com/news/stock-market-news/walmart-commits-6-billion-to-expand-symbotic-deal-4985071",
+      "title": "Chinese EVs win over some in South Korea, but Japan is proving to be a rougher road",
+      "link": "https://www.investing.com/news/stock-market-news/chinese-evs-win-over-some-in-south-korea-but-japan-is-proving-to-be-a-rougher-road-4985581",
       "summary": "",
-      "title_ko": "Walmart, Symbotic 거래 확대를 위해 60억 $ 투입",
+      "title_ko": "중국 전기차가 한국에서 일부 승리를 거두고 있지만, 일본은 더 험난한 도로임이 입증되고 있습니다.",
       "summary_ko": ""
     },
     {
-      "title": "Starbucks forecasts annual profit above estimates",
+      "title": "Rivian says it’s on track for $250 million Uber funding by year-end, R2 demand strong",
+      "link": "https://www.investing.com/news/stock-market-news/rivian-says-its-on-track-for-250-million-uber-funding-by-yearend-r2-demand-strong-4985570",
+      "summary": "",
+      "title_ko": "Rivian은 연말까지 2억 5천만 $ 규모의 Uber 기금을 조성할 계획이라고 밝혔습니다. R2 수요 강세",
+      "summary_ko": ""
+    },
+    {
+      "title": "Starbucks sees annual profit above estimates as turnaround gains traction",
       "link": "https://www.investing.com/news/stock-market-news/starbucks-beats-quarterly-sales-and-profit-expectations-4984998",
       "summary": "",
-      "title_ko": "스타벅스는 추정치를 초과하는 연간 이익을 예측합니다",
+      "title_ko": "스타벅스는 연간 이익이 예상치를 초과하는 것을 턴어라운드 이익 견인력으로 보고 있습니다.",
       "summary_ko": ""
     },
     {
-      "title": "Mondelez misses third-quarter sales estimates",
-      "link": "https://www.investing.com/news/stock-market-news/mondelez-misses-thirdquarter-sales-estimates-4985036",
+      "title": "Colombia government proposes steep spending cut as fiscal woes deepen",
+      "link": "https://www.investing.com/news/economic-indicators/colombia-government-proposes-steep-spending-cut-as-fiscal-woes-deepen-4985563",
       "summary": "",
-      "title_ko": "Mondelez의 3분기 매출 추정치 누락",
+      "title_ko": "콜롬비아 정부, 재정 위기가 심화됨에 따라 가파른 지출 삭감 제안",
+      "summary_ko": ""
+    },
+    {
+      "title": "Brazil debt climbs to $1.8 trillion as interest costs surge",
+      "link": "https://www.investing.com/news/economic-indicators/brazil-debt-climbs-to-18-trillion-as-interest-costs-surge-4985122",
+      "summary": "",
+      "title_ko": "이자비용 급증에 따른 브라질 부채 1조 8천억 달러 ($) 증가",
       "summary_ko": ""
     },
     {
@@ -41,20 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/exclusivefirst-russian-diesel-from-putintrump-deal-heading-for-us-data-shows-4984735",
       "summary": "",
       "title_ko": "데이터에 따르면 미국으로 향하는 푸틴-트럼프 거래의 독점 첫 번째 러시아 디젤",
-      "summary_ko": ""
-    },
-    {
-      "title": "Natural gas storage levels rise, surpassing forecasts",
-      "link": "https://www.investing.com/news/economic-indicators/natural-gas-storage-levels-rise-surpassing-forecasts-93CH-4984352",
-      "summary": "",
-      "title_ko": "천연 가스 저장 수준이 상승하여 예측치를 능가합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "U.S. GDP grows 3.4% in the third quarter as inflation squeeze persists",
-      "link": "https://www.investing.com/news/economic-indicators/us-inflation-accelerates-in-september-thirdquarter-gdp-rises-34-4983644",
-      "summary": "",
-      "title_ko": "인플레이션 압박이 지속됨에 따라 3분기 미국 GDP는 3.4% 성장",
       "summary_ko": ""
     }
   ]

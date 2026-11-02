@@ -1,32 +1,46 @@
 {
-  "updated_at_utc": "2026-11-01 23:47:30 UTC",
+  "updated_at_utc": "2026-11-02 04:57:51 UTC",
   "items": [
     {
-      "title": "Binance sees spike in withdrawals as exchange returns online after $6.3 billion heist",
-      "link": "https://www.investing.com/news/stock-market-news/binance-to-resume-withdrawals-after-recovering-bulk-of-6-billion-in-stolen-funds-4989388",
+      "title": "Shares steady as Apple earnings near, oil eases",
+      "link": "https://www.investing.com/news/stock-market-news/asia-shares-bend-under-ai-stress-apple-earnings-loom-4989790",
       "summary": "",
-      "title_ko": "Binance는 $ 63억 강탈 후 환율이 온라인으로 반환됨에 따라 인출이 급증한 것으로 보고 있습니다.",
+      "title_ko": "Apple의 수익이 근접함에 따라 주식이 안정적으로 유지되고, 석유가 쉬워짐",
       "summary_ko": ""
     },
     {
-      "title": "China’s big banks post fastest quarterly profit growth in years as margins stabilise",
-      "link": "https://www.investing.com/news/stock-market-news/chinas-big-banks-post-fastest-quarterly-profit-growth-in-years-as-margins-stabilise-4989783",
+      "title": "HSBC to open Hong Kong AI Institute following Singapore launch",
+      "link": "https://www.investing.com/news/stock-market-news/hsbc-to-open-hong-kong-ai-institute-following-singapore-launch-4989828",
       "summary": "",
-      "title_ko": "중국 대형 은행들은 마진 안정화로 수년 만에 가장 빠른 분기 이익 성장을 기록했습니다.",
+      "title_ko": "HSBC, 싱가포르 출범 후 홍콩 AI 연구소 개소",
       "summary_ko": ""
     },
     {
-      "title": "China’s robot makers have mastered the moves. Now comes the race for brains",
-      "link": "https://www.investing.com/news/stock-market-news/chinas-robot-makers-have-mastered-the-moves-now-comes-the-race-for-brains-4989782",
+      "title": "Why is Reliance Industries stock surging today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-reliance-industries-stock-surging-today-93CH-4989840",
       "summary": "",
-      "title_ko": "중국의 로봇 제조사들은 이러한 움직임을 마스터했습니다. 이제 두뇌 경쟁이 시작됩니다",
+      "title_ko": "오늘날 Reliance Industries의 주가가 급등하는 이유는 무엇입니까?",
       "summary_ko": ""
     },
     {
-      "title": "Westpac’s full-year profit ticks higher, flags slowing loan demand",
-      "link": "https://www.investing.com/news/stock-market-news/australian-lender-westpacs-fullyear-profit-ticks-higher-4989776",
+      "title": "Japan chip earnings roundup: AI a double-edged sword",
+      "link": "https://www.investing.com/news/stock-market-news/japan-chip-earnings-roundup-ai-a-doubleedged-sword-93CH-4989839",
       "summary": "",
-      "title_ko": "Westpac의 전년도 이익은 더 높아지고 대출 수요는 둔화됩니다.",
+      "title_ko": "일본 칩 수입 정리: AI 양날의 검",
+      "summary_ko": ""
+    },
+    {
+      "title": "South Korea’s manufacturing PMI slows to 8-month low in October",
+      "link": "https://www.investing.com/news/economic-indicators/south-koreas-manufacturing-pmi-slows-to-8month-low-in-october-4989822",
+      "summary": "",
+      "title_ko": "한국의 10월 제조업 PMI가 8개월래 최저치로 둔화",
+      "summary_ko": ""
+    },
+    {
+      "title": "Japan manufacturing PMI slows to seven-month low in October",
+      "link": "https://www.investing.com/news/economic-indicators/japan-manufacturing-pmi-slows-to-sevenmonth-low-in-october-4989816",
+      "summary": "",
+      "title_ko": "일본 제조업 PMI, 10월 7개월 최저치로 둔화",
       "summary_ko": ""
     },
     {
@@ -37,24 +51,10 @@
       "summary_ko": ""
     },
     {
-      "title": "Police clear new Lisbon housing protest camp after thousands rally",
-      "link": "https://www.investing.com/news/economic-indicators/thousands-return-to-lisbon-square-press-government-to-scrap-rental-bill-4989325",
+      "title": "China factory output grows at fastest pace in 6 months: RatingDog PMI",
+      "link": "https://www.investing.com/news/economic-indicators/china-factory-output-grows-at-fastest-pace-in-6-months-ratingdog-pmi-4989808",
       "summary": "",
-      "title_ko": "경찰은 수천 번의 집회 후 리스본의 새로운 주택 시위 캠프를 취소합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "South Korea exports nearly double in October on AI investment boom",
-      "link": "https://www.investing.com/news/economic-indicators/south-korea-exports-nearly-double-in-october-strongest-growth-since-1974-4989354",
-      "summary": "",
-      "title_ko": "10월 한국, AI 투자 호황에 두 배 가까이 수출",
-      "summary_ko": ""
-    },
-    {
-      "title": "Mexico economy beats forecasts in third quarter, cooling rate-cut pressure",
-      "link": "https://www.investing.com/news/economic-indicators/mexicos-economy-slows-less-than-expected-in-third-quarter-4988136",
-      "summary": "",
-      "title_ko": "멕시코 경제, 3분기 예상보다 높은 냉각 속도 감축 압력",
+      "title_ko": "중국 공장 생산량이 6개월 만에 가장 빠른 속도로 증가: RatingDog PMI",
       "summary_ko": ""
     }
   ]

@@ -1,60 +1,60 @@
 {
-  "updated_at_utc": "2026-11-02 04:57:51 UTC",
+  "updated_at_utc": "2026-11-02 13:20:25 UTC",
   "items": [
     {
-      "title": "Shares steady as Apple earnings near, oil eases",
-      "link": "https://www.investing.com/news/stock-market-news/asia-shares-bend-under-ai-stress-apple-earnings-loom-4989790",
+      "title": "Marriott lifts annual room revenue growth forecast on resilient travel demand",
+      "link": "https://www.investing.com/news/stock-market-news/marriott-raises-annual-room-revenue-growth-forecast-4991130",
       "summary": "",
-      "title_ko": "Apple의 수익이 근접함에 따라 주식이 안정적으로 유지되고, 석유가 쉬워짐",
+      "title_ko": "메리어트는 탄력적인 여행 수요에 대한 연간 객실 매출 성장 예측을 해제합니다.",
       "summary_ko": ""
     },
     {
-      "title": "HSBC to open Hong Kong AI Institute following Singapore launch",
-      "link": "https://www.investing.com/news/stock-market-news/hsbc-to-open-hong-kong-ai-institute-following-singapore-launch-4989828",
+      "title": "European shares flat as markets weigh France’s outlook cut; earnings in focus",
+      "link": "https://www.investing.com/news/stock-market-news/european-shares-inch-lower-as-fitch-cuts-frances-outlook-4989985",
       "summary": "",
-      "title_ko": "HSBC, 싱가포르 출범 후 홍콩 AI 연구소 개소",
+      "title_ko": "유럽 증시는 시장이 프랑스의 전망을 저울질함에 따라 평평합니다. 수익에 중점을 둡니다.",
       "summary_ko": ""
     },
     {
-      "title": "Why is Reliance Industries stock surging today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-reliance-industries-stock-surging-today-93CH-4989840",
+      "title": "Morgan Stanley names CaixaBank top pick on expected net interest income rebound",
+      "link": "https://www.investing.com/news/stock-market-news/morgan-stanley-names-caixabank-top-pick-on-expected-net-interest-income-rebound-4991460",
       "summary": "",
-      "title_ko": "오늘날 Reliance Industries의 주가가 급등하는 이유는 무엇입니까?",
+      "title_ko": "모건스탠리, 예상 순이자수익 반등에 CaixaBank TOP PICK 선정",
       "summary_ko": ""
     },
     {
-      "title": "Japan chip earnings roundup: AI a double-edged sword",
-      "link": "https://www.investing.com/news/stock-market-news/japan-chip-earnings-roundup-ai-a-doubleedged-sword-93CH-4989839",
+      "title": "Why is Oracle stock slipping today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-oracle-stock-slipping-today-93CH-4991439",
       "summary": "",
-      "title_ko": "일본 칩 수입 정리: AI 양날의 검",
+      "title_ko": "오늘 오라클 재고가 빠지는 이유는 무엇입니까?",
       "summary_ko": ""
     },
     {
-      "title": "South Korea’s manufacturing PMI slows to 8-month low in October",
-      "link": "https://www.investing.com/news/economic-indicators/south-koreas-manufacturing-pmi-slows-to-8month-low-in-october-4989822",
+      "title": "The midterm election outcomes that could shape Trump’s final two years",
+      "link": "https://www.investing.com/news/economic-indicators/the-midterm-election-outcomes-that-could-shape-trumps-final-two-years-4990725",
       "summary": "",
-      "title_ko": "한국의 10월 제조업 PMI가 8개월래 최저치로 둔화",
+      "title_ko": "트럼프의 마지막 2년을 형성할 수 있는 중간선거 결과",
       "summary_ko": ""
     },
     {
-      "title": "Japan manufacturing PMI slows to seven-month low in October",
-      "link": "https://www.investing.com/news/economic-indicators/japan-manufacturing-pmi-slows-to-sevenmonth-low-in-october-4989816",
+      "title": "Saudi Arabia’s GDP falls 3.8% in third quarter",
+      "link": "https://www.investing.com/news/economic-indicators/saudi-arabias-gdp-falls-38-in-third-quarter-93CH-4991085",
       "summary": "",
-      "title_ko": "일본 제조업 PMI, 10월 7개월 최저치로 둔화",
+      "title_ko": "사우디아라비아의 3분기 국내총생산 (GDP) 은 3.8% 하락",
       "summary_ko": ""
     },
     {
-      "title": "New Zealand’s two-speed economy poses election dilemma for ruling National party",
-      "link": "https://www.investing.com/news/economic-indicators/new-zealands-twospeed-economy-poses-election-dilemma-for-ruling-national-party-4989769",
+      "title": "Factbox-Six reasons Democrats may fall short of a midterm landslide",
+      "link": "https://www.investing.com/news/economic-indicators/six-reasons-democrats-may-fall-short-of-a-midterm-landslide-in-november-4990777",
       "summary": "",
-      "title_ko": "뉴질랜드의 2속 경제는 여당인 국민당에게 선거의 딜레마를 안겨준다.",
+      "title_ko": "팩트박스 - 민주당이 중간선거의 산사태에 미치지 못할 수 있는 6가지 이유",
       "summary_ko": ""
     },
     {
-      "title": "China factory output grows at fastest pace in 6 months: RatingDog PMI",
-      "link": "https://www.investing.com/news/economic-indicators/china-factory-output-grows-at-fastest-pace-in-6-months-ratingdog-pmi-4989808",
+      "title": "UK manufacturing PMI rises to 52.8 in October",
+      "link": "https://www.investing.com/news/economic-indicators/uk-manufacturing-pmi-rises-to-528-in-october-4990481",
       "summary": "",
-      "title_ko": "중국 공장 생산량이 6개월 만에 가장 빠른 속도로 증가: RatingDog PMI",
+      "title_ko": "영국 제조업 PMI 10월 52.8로 상승",
       "summary_ko": ""
     }
   ]

@@ -1,32 +1,46 @@
 {
-  "updated_at_utc": "2026-11-04 21:26:04 UTC",
+  "updated_at_utc": "2026-11-05 01:42:08 UTC",
   "items": [
     {
-      "title": "Dow posts best day in 19 months as investors cheer removal of midterms uncertainty",
-      "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-with-midterms-in-focus-amd-rallies-on-strong-earnings-4997029",
+      "title": "Trump’s midterm drubbing demonstrates the power of data center opponents",
+      "link": "https://www.investing.com/news/stock-market-news/analysistrumps-midterm-drubbing-demonstrates-the-power-of-datacentre-opponents-4998061",
       "summary": "",
-      "title_ko": "다우지수는 투자자들이 중간고사 불확실성 제거를 응원하는 19개월 최고의 날을 게시합니다.",
+      "title_ko": "트럼프의 중간고사 드러빙은 데이터 센터 반대자들의 힘을 보여준다.",
       "summary_ko": ""
     },
     {
-      "title": "Elf sees Q2 sales boost with marketing, Europe expansion",
-      "link": "https://www.investing.com/news/stock-market-news/elf-sees-q2-sales-boost-with-marketing-europe-expansion-5001272",
+      "title": "Disney’s Pixar names Jonathan Garson president as Jim Morris steps back",
+      "link": "https://www.investing.com/news/stock-market-news/disneys-pixar-names-jonathan-garson-president-as-jim-morris-steps-back-5001943",
       "summary": "",
-      "title_ko": "Elf는 마케팅, 유럽 확장과 함께 2분기 매출 증대를 봅니다",
+      "title_ko": "디즈니 픽사, 짐 모리스가 물러나면서 조나단 가슨 회장 지명",
       "summary_ko": ""
     },
     {
-      "title": "Chime raises annual revenue forecast on robust demand",
-      "link": "https://www.investing.com/news/stock-market-news/chime-raises-annual-revenue-forecast-on-robust-demand-5001269",
+      "title": "SK Hynix breaks below support in bear flag: Live levels",
+      "link": "https://www.investing.com/news/stock-market-news/sk-hynix-trapped-in-cloud-resistance-bear-flag-live-levels-93CH-4989796",
       "summary": "",
-      "title_ko": "Chime은 탄탄한 수요에 대한 연간 수익 예측을 높입니다.",
+      "title_ko": "SK하이닉스, BEAR FLAG에서 지지선 아래로 돌파: 라이브 레벨",
       "summary_ko": ""
     },
     {
-      "title": "Online travel firm Expedia raises annual forecasts on resilient demand",
-      "link": "https://www.investing.com/news/stock-market-news/online-travel-firm-expedia-raises-annual-forecasts-on-resilient-demand-5001268",
+      "title": "Why is Goodman stock surging today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-goodman-stock-surging-today-93CH-5001927",
       "summary": "",
-      "title_ko": "온라인 여행사 Expedia는 탄력적 수요에 대한 연간 예측을 높입니다.",
+      "title_ko": "Goodman 주가가 오늘 급등하는 이유는 무엇인가요?",
+      "summary_ko": ""
+    },
+    {
+      "title": "Australia trade surplus nearly triples forecasts as gold imports dive in September",
+      "link": "https://www.investing.com/news/economic-indicators/australia-trade-surplus-nearly-triples-forecasts-as-gold-imports-dive-in-september-5001957",
+      "summary": "",
+      "title_ko": "9월에 금 수입이 잠수함에 따라 호주 무역 흑자는 거의 세 배로 증가할 것으로 전망됩니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Japan services activity expands for fifth month, PMI shows",
+      "link": "https://www.investing.com/news/economic-indicators/japan-services-activity-expands-for-fifth-month-pmi-shows-5001915",
+      "summary": "",
+      "title_ko": "일본 서비스 활동이 다섯 번째 달 동안 확대됩니다. PMI는",
       "summary_ko": ""
     },
     {
@@ -41,20 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/billionaire-tax-measure-trails-as-california-tallies-votes-5001028",
       "summary": "",
       "title_ko": "캘리포니아 주가 투표함에 따라 억만장자 세금 측정 흔적",
-      "summary_ko": ""
-    },
-    {
-      "title": "Crude Oil Inventories Decline Less Than Expected, Impacting Prices",
-      "link": "https://www.investing.com/news/economic-indicators/crude-oil-inventories-decline-less-than-expected-impacting-prices-93CH-5000305",
-      "summary": "",
-      "title_ko": "원유 재고가 예상보다 적게 감소하여 가격에 영향을 미침",
-      "summary_ko": ""
-    },
-    {
-      "title": "U.S. services sector activity slows slightly amid elevated fuel, memory costs",
-      "link": "https://www.investing.com/news/economic-indicators/us-services-sector-activity-slows-slightly-amid-elevated-fuel-memory-costs-5000228",
-      "summary": "",
-      "title_ko": "미국 서비스 부문 활동은 연료, 메모리 비용 상승으로 인해 약간 느려집니다.",
       "summary_ko": ""
     }
   ]

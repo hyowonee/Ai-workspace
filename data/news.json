@@ -1,32 +1,53 @@
 {
-  "updated_at_utc": "2026-11-05 17:33:47 UTC",
+  "updated_at_utc": "2026-11-06 03:33:41 UTC",
   "items": [
     {
-      "title": "European shares reverse gains as U.S. indices drop",
-      "link": "https://www.investing.com/news/stock-market-news/european-shares-advance-to-august-highs-on-ai-momentum-and-midterm-relief-5002355",
+      "title": "Bottler Coca-Cola HBC says no notification from Russia on asset changes",
+      "link": "https://www.investing.com/news/stock-market-news/bottler-cocacola-hbc-says-no-notification-from-russia-on-asset-changes-5006376",
       "summary": "",
-      "title_ko": "미국 지수 하락에 따른 유럽 증시 역이익",
+      "title_ko": "보틀러 코카콜라 HBC, 자산 변경에 대한 러시아의 통지 없음",
       "summary_ko": ""
     },
     {
-      "title": "Microsoft declines option to expand Texas data center deal with Nscale, source says",
-      "link": "https://www.investing.com/news/stock-market-news/microsoft-rejects-multibilliondollar-ai-deal-with-uks-nscale-ft-reports-5002300",
+      "title": "Why is Nintendo stock sliding today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-nintendo-stock-sliding-today-93CH-5006370",
       "summary": "",
-      "title_ko": "소식통에 따르면 Microsoft는 Nscale과의 텍사스 데이터 센터 거래 확대 옵션을 거부합니다.",
+      "title_ko": "오늘날 닌텐도 주식이 미끄러지는 이유는 무엇입니까?",
       "summary_ko": ""
     },
     {
-      "title": "Why is Twist Bioscience stock sliding today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-twist-bioscience-stock-sliding-today-93CH-5005238",
+      "title": "Why is Li Ning stock rallying today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-li-ning-stock-rallying-today-93CH-5006369",
       "summary": "",
-      "title_ko": "Twist Bioscience 주가가 오늘 왜 미끄러지고 있습니까?",
+      "title_ko": "리닝주 (李 寧 株) 는 왜 오늘 결집하는가?",
       "summary_ko": ""
     },
     {
-      "title": "Google, Meta, TikTok sue to block California youth social media law",
-      "link": "https://www.investing.com/news/stock-market-news/google-meta-tiktok-sue-to-block-california-youth-social-media-law-5005115",
+      "title": "Japan Tobacco shares face 19% slump after Kremlin seizes Russian assets",
+      "link": "https://www.investing.com/news/stock-market-news/japan-tobacco-shares-face-19-slump-after-kremlin-seizes-russian-assets-5006368",
       "summary": "",
-      "title_ko": "Google, Meta, TikTok, 캘리포니아 청소년 소셜 미디어 법 차단 소송",
+      "title_ko": "크렘린이 러시아 자산을 압류한 후 일본 담배 주식은 19% 의 부진에 직면해 있습니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Philippines Q2 GDP revised upwards to 2.4%",
+      "link": "https://www.investing.com/news/economic-indicators/philippines-q2-gdp-revised-upwards-to-24-5006315",
+      "summary": "",
+      "title_ko": "필리핀 2분기 국내총생산 (GDP) 2.4% 로 상향 조정",
+      "summary_ko": ""
+    },
+    {
+      "title": "Japan average wages climb at fastest pace in 29 yrs in Sept",
+      "link": "https://www.investing.com/news/economic-indicators/japan-average-wages-climb-at-fastest-pace-in-29-yrs-in-sept-5006142",
+      "summary": "",
+      "title_ko": "일본 9월 평균 임금이 29년 만에 가장 빠른 속도로 상승",
+      "summary_ko": ""
+    },
+    {
+      "title": "Argentina analysts cut 2026 growth forecast, bumps inflation outlook",
+      "link": "https://www.investing.com/news/economic-indicators/argentina-analysts-cut-2026-growth-forecast-bumps-inflation-outlook-5005714",
+      "summary": "",
+      "title_ko": "아르헨티나 분석가들은 2026년 성장 전망을 줄이고 인플레이션 전망을 부딪혔다.",
       "summary_ko": ""
     },
     {
@@ -34,27 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/us-weekly-jobless-claims-at-57year-lows-amid-low-layoffs-5004323",
       "summary": "",
       "title_ko": "57년 최저치로 미국 주간 실직 보험금 청구, 3분기 근로자 생산성 급증",
-      "summary_ko": ""
-    },
-    {
-      "title": "Natural gas storage levels decline, signaling rising demand",
-      "link": "https://www.investing.com/news/economic-indicators/natural-gas-storage-levels-decline-signaling-rising-demand-93CH-5005071",
-      "summary": "",
-      "title_ko": "천연 가스 저장 수준이 감소하여 수요 증가를 나타냅니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "US worker productivity surges in third quarter",
-      "link": "https://www.investing.com/news/economic-indicators/us-worker-productivity-surges-in-third-quarter-5004543",
-      "summary": "",
-      "title_ko": "3분기 미국 근로자 생산성 급증",
-      "summary_ko": ""
-    },
-    {
-      "title": "U.S. Initial Jobless Claims Fall, Signaling Strength in Labor Market",
-      "link": "https://www.investing.com/news/economic-indicators/us-initial-jobless-claims-fall-signaling-strength-in-labor-market-93CH-5004236",
-      "summary": "",
-      "title_ko": "미국 초기 실업 보험금 몰락, 노동 시장에서의 신호 강도",
       "summary_ko": ""
     }
   ]

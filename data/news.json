@@ -1,32 +1,46 @@
 {
-  "updated_at_utc": "2026-11-08 23:00:51 UTC",
+  "updated_at_utc": "2026-11-09 02:53:40 UTC",
   "items": [
     {
-      "title": "Could HBF be the solution to the Memory bottleneck?",
-      "link": "https://www.investing.com/news/stock-market-news/could-hbf-be-the-solution-to-the-memory-bottleneck-5010334",
+      "title": "Mitsui Chemicals to buy chip materials maker JSR for $11 bln",
+      "link": "https://www.investing.com/news/stock-market-news/mitsui-chemicals-to-buy-chip-materials-maker-jsr-for-11-bln-5010413",
       "summary": "",
-      "title_ko": "Hbf가 메모리 병목 현상의 해결책이 될 수 있을까요?",
+      "title_ko": "Mitsui Chemicals, 칩 소재 메이커 JSR을 $ 11 bln에 매입",
       "summary_ko": ""
     },
     {
-      "title": "Australian lender ANZ reports 31% rise in full-year cash profit",
-      "link": "https://www.investing.com/news/stock-market-news/australian-lender-anz-reports-31-rise-in-fullyear-cash-profit-5010331",
+      "title": "This cancer-testing stock is BTIG’s top pick after another major earnings beat",
+      "link": "https://www.investing.com/news/stock-market-news/this-cancertesting-stock-is-btigs-top-pick-after-another-major-earnings-beat-5010410",
       "summary": "",
-      "title_ko": "호주 대부업체 ANZ, 전년도 현금 이익 31% 증가",
+      "title_ko": "이 암 검사 주식은 또 다른 주요 수입을 기록한 후 BTIG가 가장 선호하는 주식입니다.",
       "summary_ko": ""
     },
     {
-      "title": "How a digital bank’s collapse toppled Paraguay’s president",
-      "link": "https://www.investing.com/news/stock-market-news/how-a-digital-banks-collapse-toppled-paraguays-president-5010316",
+      "title": "RBA’s Hunter sees limited AI productivity gains so far",
+      "link": "https://www.investing.com/news/stock-market-news/rbas-hunter-sees-limited-ai-productivity-gains-so-far-93CH-5010406",
       "summary": "",
-      "title_ko": "디지털 은행의 붕괴가 파라과이 대통령을 무너뜨린 방법",
+      "title_ko": "RBA의 Hunter는 지금까지 제한된 AI 생산성 이득을 보고 있습니다.",
       "summary_ko": ""
     },
     {
-      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-      "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-5010323",
+      "title": "Berkshire Hathaway speeds up stock buybacks, though profit falls",
+      "link": "https://www.investing.com/news/stock-market-news/berkshire-hathaway-speeds-up-stock-buybacks-though-profit-falls-5010390",
       "summary": "",
-      "title_ko": "러시아 주식은 교역 마감 시점보다 낮습니다. MOEX 러시아 지수는 변동이 없습니다.",
+      "title_ko": "Berkshire Hathaway는 이익은 떨어지지만 주식 매수 속도를 높입니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "China CPI inflation misses forecasts in Oct; factory-gate prices accelerate",
+      "link": "https://www.investing.com/news/economic-indicators/china-cpi-inflation-misses-forecasts-in-oct-factorygate-prices-accelerate-5010405",
+      "summary": "",
+      "title_ko": "중국 CPI 인플레이션은 10월에 예측을 놓치고, 공장 게이트 가격은 가속화됩니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "UK employers report weaker hiring but stronger pay growth in October",
+      "link": "https://www.investing.com/news/economic-indicators/uk-employers-report-weaker-hiring-but-stronger-pay-growth-in-october-5010365",
+      "summary": "",
+      "title_ko": "영국 고용주들은 10월에 고용은 약하지만 임금 상승이 더 강하다고 보고합니다.",
       "summary_ko": ""
     },
     {
@@ -41,20 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/four-things-to-note-from-fridays-us-jobs-report-5009055",
       "summary": "",
       "title_ko": "금요일 미국 일자리 보고서에서 주목해야 할 네 가지 사항",
-      "summary_ko": ""
-    },
-    {
-      "title": "U.S. Consumer Credit Surges, Exceeding Forecasts and Previous Levels",
-      "link": "https://www.investing.com/news/economic-indicators/us-consumer-credit-surges-exceeding-forecasts-and-previous-levels-93CH-5009081",
-      "summary": "",
-      "title_ko": "미국 소비자 신용 급증, 예측치 초과 및 이전 수준",
-      "summary_ko": ""
-    },
-    {
-      "title": "US consumer sentiment improves in November; worries about AI bubble emerge",
-      "link": "https://www.investing.com/news/economic-indicators/us-consumer-sentiment-improves-in-november-worries-about-ai-bubble-emerge-5008776",
-      "summary": "",
-      "title_ko": "11월 미국 소비심리 개선, AI 거품 우려",
       "summary_ko": ""
     }
   ]

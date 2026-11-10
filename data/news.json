@@ -1,32 +1,53 @@
 {
-  "updated_at_utc": "2026-11-10 03:58:40 UTC",
+  "updated_at_utc": "2026-11-10 12:27:44 UTC",
   "items": [
     {
-      "title": "Billionaire tax measure on California ballot defeated",
-      "link": "https://www.investing.com/news/stock-market-news/billionaire-tax-measure-on-california-ballot-defeated-5014025",
+      "title": "Anthropic’s IPO: A close look at AI frontrunner’s rapid growth, spiraling costs",
+      "link": "https://www.investing.com/news/stock-market-news/anthropics-ipo-a-close-look-at-ai-frontrunners-rapid-growth-spiraling-costs-5015034",
       "summary": "",
-      "title_ko": "캘리포니아 투표용지에 대한 억만장자 세금 조치 패배",
+      "title_ko": "Anthropic의 IPO: AI 선두 주자의 급속한 성장, 나선형 비용에 대한 면밀한 검토",
       "summary_ko": ""
     },
     {
-      "title": "Asia stocks rally as Korean chips surge and oil retreat lifts sentiment",
-      "link": "https://www.investing.com/news/stock-market-news/asia-stocks-rally-as-korean-chips-surge-and-oil-retreat-lifts-sentiment-5014024",
+      "title": "Nasdaq futures slip with Nvidia woes, Anthropic IPO in focus",
+      "link": "https://www.investing.com/news/stock-market-news/sp-500-dow-futures-climb-as-oil-slide-lifts-sentiment-5014579",
       "summary": "",
-      "title_ko": "한국 칩이 급등하고 석유 후퇴로 감정이 고조됨에 따라 아시아 증시가 랠리",
+      "title_ko": "Nasdaq 선물 슬립, NVIDIA WOES, Anthropic IPO 집중",
       "summary_ko": ""
     },
     {
-      "title": "Trump’s close ties to Nvidia’s Huang scrutinized after foreign intelligence concerns",
-      "link": "https://www.investing.com/news/stock-market-news/trumps-close-ties-to-nvidias-huang-scrutinized-after-foreign-intelligence-concerns-5012979",
+      "title": "Analysis-Nvidia’s clubby board faces a sticky ’honey pot’ test",
+      "link": "https://www.investing.com/news/stock-market-news/analysisnvidias-clubby-board-faces-a-sticky-honey-pot-test-5014779",
       "summary": "",
-      "title_ko": "트럼프의 엔비디아 황과의 긴밀한 관계는 외국 정보기관의 우려 이후 면밀히 조사되었다.",
+      "title_ko": "Analysis-Nvidia의 클럽비 보드는 끈적끈적한 ’허니 팟’ 테스트에 직면해 있습니다.",
       "summary_ko": ""
     },
     {
-      "title": "New Zealand PM Luxon meets Opportunity’s Wong ahead of possible pact",
-      "link": "https://www.investing.com/news/stock-market-news/new-zealand-pmluxon-meets-opportunitys-wong-ahead-of-possible-pact-5014018",
+      "title": "Alice Huang, Chinese businesswoman tied to Nvidia CEO, went from finance to chips",
+      "link": "https://www.investing.com/news/stock-market-news/alice-huang-chinese-businesswoman-tied-to-nvidia-ceo-went-from-finance-to-chips-5014096",
       "summary": "",
-      "title_ko": "뉴질랜드 PM 룩슨, 가능한 협정보다 앞서 기회의 웡을 만나다",
+      "title_ko": "엔비디아 CEO와 연결된 중국 사업가 앨리스 황 (Alice Huang) 은 금융에서 칩으로 이동했습니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Greece’s annual inflation rises to 5.7% in October",
+      "link": "https://www.investing.com/news/economic-indicators/greeces-annual-inflation-rises-to-57-in-october-93CH-5014780",
+      "summary": "",
+      "title_ko": "그리스의 연간 인플레이션은 10월에 5.7% 로 상승합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Norway’s core inflation rises less than forecast in October",
+      "link": "https://www.investing.com/news/economic-indicators/norways-core-inflation-rises-less-than-forecast-in-october-93CH-5014283",
+      "summary": "",
+      "title_ko": "노르웨이의 핵심 인플레이션은 10월 예상보다 적게 상승합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Dutch inflation rises to 3.7% in October as gas prices climb",
+      "link": "https://www.investing.com/news/economic-indicators/dutch-inflation-rises-to-37-in-october-as-gas-prices-climb-93CH-5014163",
+      "summary": "",
+      "title_ko": "10월에 가스 가격이 상승함에 따라 네덜란드 인플레이션은 3.7% 로 상승합니다.",
       "summary_ko": ""
     },
     {
@@ -34,27 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/indonesias-september-retail-sales-rise-06-yy-survey-shows-5013996",
       "summary": "",
       "title_ko": "인도네시아의 9월 소매 판매는 전년 대비 0.6% 증가한 것으로 조사되었습니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "China trade balance shrinks more than expected in Oct; imports surge",
-      "link": "https://www.investing.com/news/economic-indicators/china-trade-balance-shrinks-more-than-expected-in-oct-imports-surge-5013983",
-      "summary": "",
-      "title_ko": "중국 무역수지가 10월 예상보다 축소, 수입 급증",
-      "summary_ko": ""
-    },
-    {
-      "title": "Japan household spending drops more than expected in September",
-      "link": "https://www.investing.com/news/economic-indicators/japan-household-spending-drops-more-than-expected-in-september-5013857",
-      "summary": "",
-      "title_ko": "일본 가계 지출, 9월 예상보다 감소",
-      "summary_ko": ""
-    },
-    {
-      "title": "Australia consumer sentiment sinks to 4-yr low as rate fears mount - Westpac",
-      "link": "https://www.investing.com/news/economic-indicators/australia-consumer-sentiment-sinks-to-4yr-low-as-rate-fears-mount--westpac-5013795",
-      "summary": "",
-      "title_ko": "호주의 소비심리가 4년래 최저치로 가라앉고 있는 가운데 요금이 높아질 우려가 있음 - Westpac",
       "summary_ko": ""
     }
   ]

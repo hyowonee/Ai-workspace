@@ -1,53 +1,32 @@
 {
-  "updated_at_utc": "2026-11-11 15:55:26 UTC",
+  "updated_at_utc": "2026-11-11 22:31:26 UTC",
   "items": [
     {
-      "title": "TJX Cos. shares may move 4.8% on Nov. 18 earnings report",
-      "link": "https://www.investing.com/news/stock-market-news/tjx-cos-shares-may-move-48-on-nov-18-earnings-report-93CH-5019472",
+      "title": "Pfizer secures up to $1.5 billion from Blackstone for obesity drug development",
+      "link": "https://www.investing.com/news/stock-market-news/pfizer-secures-up-to-15-billion-from-blackstone-for-obesity-drug-development-5019917",
       "summary": "",
-      "title_ko": "TJX Cos. 주가는 11월 18일 실적 보고서 발표에 따라 4.8% 변동할 수 있음",
+      "title_ko": "화이자, 비만 치료제 개발을 위해 블랙스톤으로부터 최대 15억 달러 조달",
       "summary_ko": ""
     },
     {
-      "title": "Why is Micron Technology stock surging today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-micron-technology-stock-surging-today-93CH-5019470",
+      "title": "Nvidia shares slip in after-hours trading on fresh allegations of CEO relationship",
+      "link": "https://www.investing.com/news/stock-market-news/nvidia-shares-slip-in-afterhours-trading-on-fresh-allegations-of-ceo-relationship-5019943",
       "summary": "",
-      "title_ko": "오늘 마이크론 테크놀로지 주가가 급등한 이유는 무엇인가요?",
+      "title_ko": "Nvidia 주가가 CEO의 관계에 대한 새로운 의혹으로 장 마감 후 거래에서 하락했습니다.",
       "summary_ko": ""
     },
     {
-      "title": "Why is Lumentum stock surging today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-lumentum-stock-surging-today-93CH-5019464",
+      "title": "Why is Corteva stock sliding today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-corteva-stock-sliding-today-93CH-5019932",
       "summary": "",
-      "title_ko": "오늘 루멘텀 주가가 급등한 이유는 무엇인가요?",
+      "title_ko": "오늘 코르테바 주가가 하락하는 이유는 무엇인가요?",
       "summary_ko": ""
     },
     {
-      "title": "Why is Dell Technologies stock surging today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-dell-technologies-stock-surging-today-93CH-5019457",
+      "title": "CareTrust REIT stock falls on 17 million share offering",
+      "link": "https://www.investing.com/news/stock-market-news/caretrust-reit-stock-falls-on-17-million-share-offering-5019927",
       "summary": "",
-      "title_ko": "오늘 Dell Technologies 주가가 급등한 이유는 무엇인가요?",
-      "summary_ko": ""
-    },
-    {
-      "title": "Italy industrial output rebounds in September but third quarter weak",
-      "link": "https://www.investing.com/news/economic-indicators/italy-industrial-output-rebounds-in-september-but-third-quarter-weak-5018118",
-      "summary": "",
-      "title_ko": "이탈리아, 9월 산업생산 회복세이나 3분기 부진",
-      "summary_ko": ""
-    },
-    {
-      "title": "Italy’s industrial output climbs 1.2% in September",
-      "link": "https://www.investing.com/news/economic-indicators/italys-industrial-output-climbs-12-in-september-93CH-5018111",
-      "summary": "",
-      "title_ko": "이탈리아의 9월 산업생산 1.2% 증가",
-      "summary_ko": ""
-    },
-    {
-      "title": "German October inflation eases to 2.8% as expected; core slows to 2.1%",
-      "link": "https://www.investing.com/news/economic-indicators/german-october-inflation-eases-to-28-as-expected-core-slows-to-21-5017981",
-      "summary": "",
-      "title_ko": "독일 10월 인플레이션, 예상대로 2.8%로 하락. 근원 인플레이션은 2.1%로 둔화",
+      "title_ko": "CareTrust REIT 주식, 1,700만 주 매각으로 주가 하락",
       "summary_ko": ""
     },
     {
@@ -55,6 +34,27 @@
       "link": "https://www.investing.com/news/economic-indicators/us-and-china-should-stay-cleareyed-on-ai-cooperation-and-competition-bessent-says-5017469",
       "summary": "",
       "title_ko": "베센트, 미국과 중국은 AI 협력과 경쟁에 대해 명확한 시각을 유지해야 한다고 말해",
+      "summary_ko": ""
+    },
+    {
+      "title": "US container imports set all-time volume record in October as Chinese imports spike, Descartes says",
+      "link": "https://www.investing.com/news/economic-indicators/us-container-imports-set-alltime-volume-record-in-october-as-chinese-imports-spike-descartes-says-5019778",
+      "summary": "",
+      "title_ko": "데카르트, 중국산 수입품 급증으로 10월 미국 컨테이너 수입량이 사상 최고치를 기록했다고 밝혀",
+      "summary_ko": ""
+    },
+    {
+      "title": "Italy industrial output rebounds in September but third quarter weak",
+      "link": "https://www.investing.com/news/economic-indicators/italy-industrial-output-rebounds-in-september-but-third-quarter-weak-5018118",
+      "summary": "",
+      "title_ko": "이탈리아, 9월 산업생산 회복세 보였으나 3분기 부진",
+      "summary_ko": ""
+    },
+    {
+      "title": "Italy’s industrial output climbs 1.2% in September",
+      "link": "https://www.investing.com/news/economic-indicators/italys-industrial-output-climbs-12-in-september-93CH-5018111",
+      "summary": "",
+      "title_ko": "이탈리아의 9월 산업생산 1.2% 증가",
       "summary_ko": ""
     }
   ]

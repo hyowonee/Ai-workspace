@@ -1,32 +1,46 @@
 {
-  "updated_at_utc": "2026-11-10 19:57:03 UTC",
+  "updated_at_utc": "2026-11-11 00:31:28 UTC",
   "items": [
     {
-      "title": "Google agrees to additional privacy protections in Spirit Airlines data sale",
-      "link": "https://www.investing.com/news/stock-market-news/google-agrees-to-addition-privacy-protections-in-spirit-airlines-data-sale-5016321",
+      "title": "Petrobras Q3 profit rises 34% but misses expectations",
+      "link": "https://www.investing.com/news/stock-market-news/petrobras-q3-profit-rises-34-but-misses-expectations-93CH-5017371",
       "summary": "",
-      "title_ko": "Google은 Spirit Airlines 데이터 판매에서 추가적인 개인 정보 보호에 동의합니다",
+      "title_ko": "페트로브라스 3분기 이익은 34% 상승하지만 기대치를 상실합니다.",
       "summary_ko": ""
     },
     {
-      "title": "AI cloud firm Nscale considers delaying $35 billion listing, The Telegraph reports",
-      "link": "https://www.investing.com/news/stock-market-news/ai-cloud-firm-nscale-considers-delaying-35-billion-listing-the-telegraph-reports-5016636",
+      "title": "OpenAI posts steep losses even as quarterly revenue rises to $10 billion, WSJ reports",
+      "link": "https://www.investing.com/news/stock-market-news/openai-posts-steep-losses-even-as-quarterly-revenue-rises-to-10-billion-wsj-reports-5017353",
       "summary": "",
-      "title_ko": "The Telegraph는 AI 클라우드 회사 Nscale이 350억 달러 ($) 규모의 상장 지연을 고려하고 있다고 보도했습니다.",
+      "title_ko": "WSJ에 따르면 OpenAI는 분기별 매출이 $ 100억으로 증가하더라도 가파른 손실을 기록합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Why is Booking stock sliding today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-booking-stock-sliding-today-93CH-5016620",
+      "title": "Australia’s IDP Education mulls Blackstone’s revised $571 million takeover bid",
+      "link": "https://www.investing.com/news/stock-market-news/australias-idp-education-mulls-blackstones-revised-571-million-takeover-bid-5017310",
       "summary": "",
-      "title_ko": "오늘 예약 재고가 줄어드는 이유는 무엇인가요?",
+      "title_ko": "호주의 IDP Education은 Blackstone의 수정된 $ 571,000,000 인수 입찰을 무효화합니다.",
       "summary_ko": ""
     },
     {
-      "title": "Why is Expedia stock sliding today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-expedia-stock-sliding-today-93CH-5016617",
+      "title": "US lawmakers push China chip rules after Nvidia CEO allegations",
+      "link": "https://www.investing.com/news/stock-market-news/schumer-says-congress-must-have-answers-on-trump-defense-of-nvidia-ceo-5016683",
       "summary": "",
-      "title_ko": "Expedia 주식이 오늘 미끄러지는 이유는 무엇인가요?",
+      "title_ko": "미국 의원들, 엔비디아 CEO 주장 후 중국 칩 규정 밀어붙여",
+      "summary_ko": ""
+    },
+    {
+      "title": "Japan manufacturers’ mood hits more than 5-year high on chip demand: Reuters poll",
+      "link": "https://www.investing.com/news/economic-indicators/japan-manufacturers-mood-hits-more-than-5year-high-on-chip-demand-reuters-poll-5017285",
+      "summary": "",
+      "title_ko": "일본 제조업체의 기세가 5년 이상 높은 칩 수요에 부딪히다: 로이터 여론조사",
+      "summary_ko": ""
+    },
+    {
+      "title": "API Reports Larger-Than-Expected Drop in US Crude Inventories",
+      "link": "https://www.investing.com/news/economic-indicators/api-reports-largerthanexpected-drop-in-us-crude-inventories-93CH-5017033",
+      "summary": "",
+      "title_ko": "API 보고서 더 큰-한-미국 원유 재고 감소 예상",
       "summary_ko": ""
     },
     {
@@ -41,20 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/us-consumer-prices-rise-04-monthovermonth-in-october-5015577",
       "summary": "",
       "title_ko": "10월 미국 소비자 가격은 전월 대비 0.4% 상승하여 예상보다 견고합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Hot October inflation report rattles markets",
-      "link": "https://www.investing.com/news/economic-indicators/hot-october-inflation-report-rattles-markets-5015775",
-      "summary": "",
-      "title_ko": "뜨거운 10월 인플레이션 보고서가 시장을 뒤흔들다",
-      "summary_ko": ""
-    },
-    {
-      "title": "Anthropic’s $1.4 trillion IPO bid sets up high-stakes test for AI market",
-      "link": "https://www.investing.com/news/economic-indicators/anthropic-targets-1-trillion-ipo-valuation-in-key-test-for-ai-market-5015099",
-      "summary": "",
-      "title_ko": "Anthropic의 $ 1.4 조 IPO 입찰은 AI 시장에 대한 높은 지분 테스트를 설정합니다.",
       "summary_ko": ""
     }
   ]

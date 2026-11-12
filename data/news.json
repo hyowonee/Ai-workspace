@@ -1,32 +1,53 @@
 {
-  "updated_at_utc": "2026-11-11 22:31:26 UTC",
+  "updated_at_utc": "2026-11-12 03:39:16 UTC",
   "items": [
     {
-      "title": "Pfizer secures up to $1.5 billion from Blackstone for obesity drug development",
-      "link": "https://www.investing.com/news/stock-market-news/pfizer-secures-up-to-15-billion-from-blackstone-for-obesity-drug-development-5019917",
+      "title": "Alphabet sets initial price guidance for Hong Kong, Singapore bond sales, term sheet shows",
+      "link": "https://www.investing.com/news/stock-market-news/alphabet-sets-initial-price-guidance-for-hong-kong-singapore-bond-sales-term-sheet-shows-5020243",
       "summary": "",
-      "title_ko": "화이자, 비만 치료제 개발을 위해 블랙스톤으로부터 최대 15억 달러 조달",
+      "title_ko": "알파벳, 홍콩·싱가포르 채권 판매에 대한 초기 가격 가이던스 설정 - 텀시트 공개",
       "summary_ko": ""
     },
     {
-      "title": "Nvidia shares slip in after-hours trading on fresh allegations of CEO relationship",
-      "link": "https://www.investing.com/news/stock-market-news/nvidia-shares-slip-in-afterhours-trading-on-fresh-allegations-of-ceo-relationship-5019943",
+      "title": "Why is Pls stock sliding today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-pls-stock-sliding-today-93CH-5020239",
       "summary": "",
-      "title_ko": "Nvidia 주가가 CEO의 관계에 대한 새로운 의혹으로 장 마감 후 거래에서 하락했습니다.",
+      "title_ko": "오늘 Pls 주가가 하락하는 이유는 무엇인가요?",
       "summary_ko": ""
     },
     {
-      "title": "Why is Corteva stock sliding today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-corteva-stock-sliding-today-93CH-5019932",
+      "title": "Why is Yunnan Lincang Xinyuan Germanium Industrial stock climbing today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-yunnan-lincang-xinyuan-germanium-industrial-stock-climbing-today-93CH-5020237",
       "summary": "",
-      "title_ko": "오늘 코르테바 주가가 하락하는 이유는 무엇인가요?",
+      "title_ko": "오늘 윈난 린창 신위안 게르마늄 산업 주가가 상승하는 이유는 무엇인가요?",
       "summary_ko": ""
     },
     {
-      "title": "CareTrust REIT stock falls on 17 million share offering",
-      "link": "https://www.investing.com/news/stock-market-news/caretrust-reit-stock-falls-on-17-million-share-offering-5019927",
+      "title": "Why is Nissan Motor stock sliding today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-nissan-motor-stock-sliding-today-93CH-5020217",
       "summary": "",
-      "title_ko": "CareTrust REIT 주식, 1,700만 주 매각으로 주가 하락",
+      "title_ko": "오늘 닛산 모터 주가가 하락하는 이유는 무엇인가요?",
+      "summary_ko": ""
+    },
+    {
+      "title": "Japan PPI inflation surges past expectations in Oct",
+      "link": "https://www.investing.com/news/economic-indicators/japan-ppi-inflation-surges-past-expectations-in-oct-5020186",
+      "summary": "",
+      "title_ko": "일본 PPI 인플레이션, 10월 예상치를 상회하며 급등",
+      "summary_ko": ""
+    },
+    {
+      "title": "Fed chair discloses wife’s transactions in pet-care investments",
+      "link": "https://www.investing.com/news/economic-indicators/fed-chair-discloses-wifes-transactions-in-petcare-investments-5020136",
+      "summary": "",
+      "title_ko": "연준 의장, 아내의 반려동물 케어 투자 거래 공개",
+      "summary_ko": ""
+    },
+    {
+      "title": "Global electric vehicle sales return to growth in October",
+      "link": "https://www.investing.com/news/economic-indicators/global-electric-vehicle-sales-return-to-growth-in-october-5020093",
+      "summary": "",
+      "title_ko": "10월 전 세계 전기차 판매량 다시 증가세",
       "summary_ko": ""
     },
     {
@@ -34,27 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/us-and-china-should-stay-cleareyed-on-ai-cooperation-and-competition-bessent-says-5017469",
       "summary": "",
       "title_ko": "베센트, 미국과 중국은 AI 협력과 경쟁에 대해 명확한 시각을 유지해야 한다고 말해",
-      "summary_ko": ""
-    },
-    {
-      "title": "US container imports set all-time volume record in October as Chinese imports spike, Descartes says",
-      "link": "https://www.investing.com/news/economic-indicators/us-container-imports-set-alltime-volume-record-in-october-as-chinese-imports-spike-descartes-says-5019778",
-      "summary": "",
-      "title_ko": "데카르트, 중국산 수입품 급증으로 10월 미국 컨테이너 수입량이 사상 최고치를 기록했다고 밝혀",
-      "summary_ko": ""
-    },
-    {
-      "title": "Italy industrial output rebounds in September but third quarter weak",
-      "link": "https://www.investing.com/news/economic-indicators/italy-industrial-output-rebounds-in-september-but-third-quarter-weak-5018118",
-      "summary": "",
-      "title_ko": "이탈리아, 9월 산업생산 회복세 보였으나 3분기 부진",
-      "summary_ko": ""
-    },
-    {
-      "title": "Italy’s industrial output climbs 1.2% in September",
-      "link": "https://www.investing.com/news/economic-indicators/italys-industrial-output-climbs-12-in-september-93CH-5018111",
-      "summary": "",
-      "title_ko": "이탈리아의 9월 산업생산 1.2% 증가",
       "summary_ko": ""
     }
   ]

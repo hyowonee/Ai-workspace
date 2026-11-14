@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-11-14 16:24:52 UTC",
+  "updated_at_utc": "2026-11-14 20:52:02 UTC",
   "items": [
     {
-      "title": "Thousands of US flights canceled, delayed as air travel system recovers from shutdown",
+      "title": "US aviation shutdown blamed on L3 Harris installed router",
+      "link": "https://www.investing.com/news/stock-market-news/us-aviation-shutdown-blamed-on-l3-harris-installed-router-5027495",
+      "summary": "",
+      "title_ko": "미국 항공 운항 중단, L3 해리스가 설치한 라우터 탓으로 지목",
+      "summary_ko": ""
+    },
+    {
+      "title": "U.S. flight disruptions persist as FAA probes L3Harris role in nationwide outage",
+      "link": "https://www.investing.com/news/stock-market-news/faa-orders-nationwide-ground-stop-citing-extraordinary-safety-concerns-5026489",
+      "summary": "",
+      "title_ko": "FAA가 L3해리스의 전국적인 운항 중단 사태에 대한 역할을 조사하는 가운데, 미국 항공편 운항 차질이 지속되고 있습니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Thousands of US flights canceled, delayed as air travel system slowly recovers from shutdown",
       "link": "https://www.investing.com/news/stock-market-news/thousands-of-us-flights-canceled-delayed-as-air-travel-system-recovers-from-shutdown-5027394",
       "summary": "",
-      "title_ko": "셧다운 사태에서 회복 중인 항공 여행 시스템으로 인해 수천 편의 미국 항공편이 취소되거나 지연됨",
+      "title_ko": "셧다운 사태에서 항공 여행 시스템이 서서히 회복되면서 수천 편의 미국 항공편이 취소되거나 지연됨",
       "summary_ko": ""
     },
     {
-      "title": "Italy fines Meta €805 million over access to Android users’ photos",
-      "link": "https://www.investing.com/news/stock-market-news/italy-fines-meta-805-million-over-access-to-android-users-photos-5027370",
+      "title": "Duffy investigates L3Harris over FAA outage that grounded U.S. flights",
+      "link": "https://www.investing.com/news/stock-market-news/duffy-investigates-l3harris-over-faa-outage-that-grounded-us-flights-5027454",
       "summary": "",
-      "title_ko": "이탈리아, 안드로이드 사용자 사진 접근과 관련해 메타에 8억 5백만 유로의 벌금 부과",
+      "title_ko": "더피 의원, FAA 시스템 장애로 인한 미국 항공편 운항 중단 사태와 관련해 L3Harris 조사",
       "summary_ko": ""
     },
     {
-      "title": "Musk says Nvidia will lose ’critical’ deals without Jensen Huang",
-      "link": "https://www.investing.com/news/stock-market-news/musk-says-nvidia-will-lose-critical-deals-without-jensen-huang-5027369",
+      "title": "After midterm sweep, Democrats split over Trump, cost-cutting agenda",
+      "link": "https://www.investing.com/news/economic-indicators/after-midterm-sweep-democrats-split-over-trump-costcutting-agenda-5027405",
       "summary": "",
-      "title_ko": "머스크는 젠슨 황이 없으면 엔비디아가 '중대한' 거래를 잃게 될 것이라고 말합니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "MSC nears deal for 80% stake in German shipbuilder Meyer Werft, Spiegel reports",
-      "link": "https://www.investing.com/news/stock-market-news/msc-nears-deal-for-80-stake-in-german-shipbuilder-meyer-werft-spiegel-reports-5027358",
-      "summary": "",
-      "title_ko": "MSC, 독일 조선사 Meyer Werft 지분 80% 인수 계약 임박 - Spiegel 보도",
+      "title_ko": "중간선거 승리 후, 트럼프 대통령과 비용 절감 정책을 놓고 민주당 내 분열",
       "summary_ko": ""
     },
     {
@@ -48,13 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/us-producer-prices-rise-by-65-yearoveryear-in-october-5025495",
       "summary": "",
       "title_ko": "10월 미국 생산자물가지수, 전년 동기 대비 6.5% 상승",
-      "summary_ko": ""
-    },
-    {
-      "title": "PPI data reveals slight dip, indicating moderated inflation pressures",
-      "link": "https://www.investing.com/news/economic-indicators/ppi-data-reveals-slight-dip-indicating-moderated-inflation-pressures-93CH-5025470",
-      "summary": "",
-      "title_ko": "PPI 데이터가 소폭 하락하며 물가 상승 압력이 완화된 것으로 나타남",
       "summary_ko": ""
     }
   ]

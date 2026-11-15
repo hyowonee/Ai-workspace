@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-11-15 00:50:39 UTC",
+  "updated_at_utc": "2026-11-15 07:37:50 UTC",
   "items": [
     {
-      "title": "Air travel issues to persist well into Sunday, officials say, with thousands of flights affected",
+      "title": "Kids’ Choice Awards honor Chris Pratt, BTS",
+      "link": "https://www.investing.com/news/stock-market-news/kids-choice-awards-honor-chris-pratt-bts-5027668",
+      "summary": "",
+      "title_ko": "키즈 초이스 어워드, 크리스 프랫과 BTS에게 영예 수여",
+      "summary_ko": ""
+    },
+    {
+      "title": "FAA router overload in Arkansas triggered nationwide flight grounding - WSJ",
+      "link": "https://www.investing.com/news/stock-market-news/faa-router-overload-in-arkansas-triggered-nationwide-flight-grounding--wsj-5027664",
+      "summary": "",
+      "title_ko": "아칸소주 FAA 라우터 과부하로 인한 전국적인 항공기 운항 중단 - 월스트리트저널",
+      "summary_ko": ""
+    },
+    {
+      "title": "ING sets out 10 key questions for China’s economy in 2027",
+      "link": "https://www.investing.com/news/stock-market-news/ing-sets-out-10-key-questions-for-chinas-economy-in-2027-5027649",
+      "summary": "",
+      "title_ko": "ING, 2027년 중국 경제에 대한 10가지 주요 질문 제시",
+      "summary_ko": ""
+    },
+    {
+      "title": "US air travel disruptions to persist until late on Sunday, FAA head says",
       "link": "https://www.investing.com/news/stock-market-news/thousands-of-us-flights-canceled-delayed-as-air-travel-system-recovers-from-shutdown-5027394",
       "summary": "",
-      "title_ko": "당국에 따르면, 항공 여행 문제는 수천 편의 항공편에 영향을 미치며 일요일까지 계속될 것이라고 합니다.",
+      "title_ko": "미국 연방항공청(FAA) 청장, 미국 항공편 운항 차질이 일요일 늦게까지 지속될 것이라고 밝혀",
       "summary_ko": ""
     },
     {
-      "title": "U.S. flight disruptions persist as FAA probes L3Harris role in nationwide outage",
-      "link": "https://www.investing.com/news/stock-market-news/faa-orders-nationwide-ground-stop-citing-extraordinary-safety-concerns-5026489",
+      "title": "Cape Verde votes for president with emigration in focus",
+      "link": "https://www.investing.com/news/economic-indicators/cape-verde-votes-for-president-with-emigration-in-focus-5027689",
       "summary": "",
-      "title_ko": "FAA가 L3해리스의 전국적 운항 중단 사태에 대한 역할을 조사하는 가운데, 미국 항공편 운항 차질이 지속되고 있습니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-      "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-5027517",
-      "summary": "",
-      "title_ko": "러시아 주식, 장 마감 시 하락. MOEX 러시아 지수는 변동 없음",
-      "summary_ko": ""
-    },
-    {
-      "title": "Brookfield, CPPIB advance in Uniper sale as Germany plans stake reduction- Reuters",
-      "link": "https://www.investing.com/news/stock-market-news/duffy-investigates-l3harris-over-faa-outage-that-grounded-us-flights-5027454",
-      "summary": "",
-      "title_ko": "독일 정부가 지분 축소를 계획함에 따라 브룩필드, CPPIB가 유니퍼 매각에 진전을 보임 - 로이터",
+      "title_ko": "카보베르데, 이민 문제에 초점을 맞춘 대통령 선거 실시",
       "summary_ko": ""
     },
     {
@@ -47,14 +54,7 @@
       "title": "Natural gas storage report shows lower-than-expected inventory increase",
       "link": "https://www.investing.com/news/economic-indicators/natural-gas-storage-report-shows-lowerthanexpected-inventory-increase-93CH-5026089",
       "summary": "",
-      "title_ko": "천연가스 비축량 보고서에 따르면 재고 증가율이 예상보다 낮음",
-      "summary_ko": ""
-    },
-    {
-      "title": "U.S. producer prices rise by 6.5% year-over-year in October",
-      "link": "https://www.investing.com/news/economic-indicators/us-producer-prices-rise-by-65-yearoveryear-in-october-5025495",
-      "summary": "",
-      "title_ko": "10월 미국 생산자물가지수, 전년 동기 대비 6.5% 상승",
+      "title_ko": "천연가스 비축량 보고서에 따르면 재고 증가폭이 예상보다 낮음",
       "summary_ko": ""
     }
   ]

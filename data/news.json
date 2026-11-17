@@ -1,32 +1,46 @@
 {
-  "updated_at_utc": "2026-11-16 18:02:59 UTC",
+  "updated_at_utc": "2026-11-17 01:57:02 UTC",
   "items": [
     {
-      "title": "Market positioning risks: why falling P/E ratios may signal a valuation trap",
-      "link": "https://www.investing.com/news/stock-market-news/market-positioning-risks-why-falling-pe-ratios-may-signal-a-valuation-trap-93CH-5030629",
+      "title": "Nvidia rules out Huang comeback as campaign for his return grows",
+      "link": "https://www.investing.com/news/stock-market-news/silicon-valley-leaders-back-call-for-jensen-huangs-return-to-nvidia-5029956",
       "summary": "",
-      "title_ko": "시장 포지셔닝 위험: 하락하는 P/E(주가수익) 비율이 가치 평가 함정을 시사할 수 있는 이유",
+      "title_ko": "황 CEO의 복귀를 바라는 여론이 높아지자 Nvidia가 황 CEO의 복귀 가능성을 배제하다",
       "summary_ko": ""
     },
     {
-      "title": "Tesla to invest €3 billion to expand Berlin factory for Cybercab",
-      "link": "https://www.investing.com/news/stock-market-news/tesla-to-invest-3-billion-to-expand-berlin-factory-for-cybercab-93CH-5030628",
+      "title": "Microsoft reports phishing attack targeting firms with fake emails",
+      "link": "https://www.investing.com/news/stock-market-news/microsoft-reports-phishing-attack-targeting-firms-with-fake-emails-93CH-5031404",
       "summary": "",
-      "title_ko": "테슬라, 사이버캡 생산을 위한 베를린 공장 확장에 30억 유로 투자",
+      "title_ko": "마이크로소프트, 가짜 이메일을 이용한 기업 대상 피싱 공격 보고",
       "summary_ko": ""
     },
     {
-      "title": "FTSE 100 today: Stocks edge lower; defence shares lead and oil falls",
-      "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-up-as-iran-tensions-simmer-5028639",
+      "title": "Mayne Pharma shares surge on $407 mln takeover offer from Gedeon Richter",
+      "link": "https://www.investing.com/news/stock-market-news/mayne-pharma-shares-surge-on-407-mln-takeover-offer-from-gedeon-richter-5031389",
       "summary": "",
-      "title_ko": "오늘의 FTSE 100: 주식 하락, 방위 산업 주식 선두, 유가 하락",
+      "title_ko": "Gedeon Richter의 4억 7백만 달러 인수 제안에 Mayne Pharma 주가 급등",
       "summary_ko": ""
     },
     {
-      "title": "European stocks ease as tech and miners drag",
-      "link": "https://www.investing.com/news/stock-market-news/european-shares-hover-near-record-highs-tech-stocks-lag-5028657",
+      "title": "Investors cooled on data-center stocks in third quarter, filings show",
+      "link": "https://www.investing.com/news/stock-market-news/investors-cooled-on-data-center-stocks-in-third-quarter-filings-show-5030947",
       "summary": "",
-      "title_ko": "기술주와 광산업주의 부진으로 유럽 증시 하락",
+      "title_ko": "투자자들이 3분기 데이터 센터 주식에 대한 관심을 식혔다는 사실이 서류에 나타났습니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Trump to kick off Asia trip with Quad talks in Manila ahead of China visit",
+      "link": "https://www.investing.com/news/economic-indicators/trump-to-kick-off-asia-trip-with-quad-talks-in-manila-ahead-of-china-visit-5031428",
+      "summary": "",
+      "title_ko": "트럼프 대통령, 중국 방문에 앞서 마닐라에서 쿼드 회담으로 아시아 순방 시작",
+      "summary_ko": ""
+    },
+    {
+      "title": "Singapore non-oil exports jump 79.8% in October",
+      "link": "https://www.investing.com/news/economic-indicators/singapore-nonoil-exports-jump-798-in-october-5031377",
+      "summary": "",
+      "title_ko": "10월 싱가포르 비석유 수출 79.8% 급증",
       "summary_ko": ""
     },
     {
@@ -41,20 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/spains-government-to-raise-minimum-wage-53-as-election-looms-5030423",
       "summary": "",
       "title_ko": "스페인 정부, 선거를 앞두고 최저임금 5.3% 인상 예정",
-      "summary_ko": ""
-    },
-    {
-      "title": "Canada inflation holds as surging gasoline prices offset easing price pressures",
-      "link": "https://www.investing.com/news/economic-indicators/canada-inflation-holds-as-surging-gasoline-prices-offset-easing-price-pressures-5029922",
-      "summary": "",
-      "title_ko": "캐나다 인플레이션, 휘발유 가격 급등으로 인한 가격 압력 완화 효과 상쇄하며 유지",
-      "summary_ko": ""
-    },
-    {
-      "title": "NY Empire State Manufacturing Index Falls Short of Expectations",
-      "link": "https://www.investing.com/news/economic-indicators/ny-empire-state-manufacturing-index-falls-short-of-expectations-93CH-5029848",
-      "summary": "",
-      "title_ko": "뉴욕 엠파이어 스테이트 제조업 지수, 기대치에 미달",
       "summary_ko": ""
     }
   ]

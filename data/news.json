@@ -1,32 +1,46 @@
 {
-  "updated_at_utc": "2026-11-17 19:17:42 UTC",
+  "updated_at_utc": "2026-11-18 01:47:07 UTC",
   "items": [
     {
-      "title": "IBM, Microsoft among market cap stock movers on Tuesday",
-      "link": "https://www.investing.com/news/stock-market-news/ibm-microsoft-among-market-cap-stock-movers-on-tuesday-93CH-5033811",
+      "title": "Reliance seeks manufacturing partners for its 1,600-satellite network - Bloomberg",
+      "link": "https://www.investing.com/news/stock-market-news/reliance-seeks-manufacturing-partners-for-its-1600satellite-network--bloomberg-5034495",
       "summary": "",
-      "title_ko": "IBM, 마이크로소프트, 화요일 시가총액 상승 주식에 포함",
+      "title_ko": "릴라이언스, 1,600개 위성 네트워크를 위한 제조 파트너 물색 - 블룸버그",
       "summary_ko": ""
     },
     {
-      "title": "Rising vet bills drive more Americans to pet insurance",
-      "link": "https://www.investing.com/news/stock-market-news/rising-vet-bills-drive-more-americans-to-pet-insurance-5033800",
+      "title": "BHP, Rio Tinto executives to meet Chinese leaders amid iron ore tensions",
+      "link": "https://www.investing.com/news/stock-market-news/bhp-rio-tinto-executives-to-meet-chinese-leaders-amid-iron-ore-tensions-5034462",
       "summary": "",
-      "title_ko": "수의사 진료비 인상으로 인해 더 많은 미국인이 반려동물 보험에 가입",
+      "title_ko": "철광석 관련 긴장 고조 속 BHP, 리오 틴토 경영진이 중국 지도부와 회동 예정",
       "summary_ko": ""
     },
     {
-      "title": "Analysis-Deutsche Bank leaks test CEO Sewing’s pledge to reform",
-      "link": "https://www.investing.com/news/stock-market-news/analysisdeutsche-bank-leaks-test-ceo-sewings-pledge-to-reform-5033810",
+      "title": "Amazon’s Bezos says he helped pick Pattinson as Bond",
+      "link": "https://www.investing.com/news/stock-market-news/amazons-bezos-says-he-helped-pick-pattinson-as-bond-5034420",
       "summary": "",
-      "title_ko": "분석 - 도이체방크 내부 정보 유출 사태, 지빙(Sewing) CEO의 개혁 약속을 시험대에 올리다",
+      "title_ko": "아마존의 베조스, 패틴슨을 본드로 선정하는 데 도움을 줬다고 밝혀",
       "summary_ko": ""
     },
     {
-      "title": "FOMC minutes, building permits and pending home sales due Wednesday",
-      "link": "https://www.investing.com/news/stock-market-news/fomc-minutes-building-permits-and-pending-home-sales-due-wednesday-93CH-5033806",
+      "title": "Huang pitches Nvidia comeback, WSJ reports SEC probing the chipmaker",
+      "link": "https://www.investing.com/news/stock-market-news/nvidia-board-forms-committee-for-national-security-and-export-control-oversight-5032154",
       "summary": "",
-      "title_ko": "FOMC 의사록, 건축 허가 및 주택 매매 대기 건수가 수요일에 발표될 예정입니다.",
+      "title_ko": "황 CEO, 엔비디아의 재기 선언. WSJ, SEC의 칩 제조업체 조사 보도",
+      "summary_ko": ""
+    },
+    {
+      "title": "Japan exports set record in October on strong chip-related demand",
+      "link": "https://www.investing.com/news/economic-indicators/japan-exports-set-record-in-october-on-strong-chiprelated-demand-5034426",
+      "summary": "",
+      "title_ko": "일본, 10월 반도체 관련 수요 호조로 수출액 사상 최고치 경신",
+      "summary_ko": ""
+    },
+    {
+      "title": "Japan’s trade deficit narrows in Oct as exports beat forecasts",
+      "link": "https://www.investing.com/news/economic-indicators/japans-trade-deficit-narrows-in-oct-as-exports-beat-forecasts-5034412",
+      "summary": "",
+      "title_ko": "일본의 무역 적자, 10월 수출이 예상치를 상회하며 축소",
       "summary_ko": ""
     },
     {
@@ -37,24 +51,10 @@
       "summary_ko": ""
     },
     {
-      "title": "Peru appeals for Chinese ’goodwill’ to help it face El Niño",
-      "link": "https://www.investing.com/news/economic-indicators/peru-appeals-for-chinese-goodwill-to-help-it-face-el-nino-5033567",
+      "title": "API crude stock report shows lower-than-expected inventory build",
+      "link": "https://www.investing.com/news/economic-indicators/api-crude-stock-report-shows-lowerthanexpected-inventory-build-93CH-5034153",
       "summary": "",
-      "title_ko": "페루, 엘니뇨에 대처하기 위해 중국의 '선의'를 호소하다",
-      "summary_ko": ""
-    },
-    {
-      "title": "Motor vehicles, AI investment lift US factory production in October",
-      "link": "https://www.investing.com/news/economic-indicators/motor-vehicles-ai-investment-lift-us-factory-production-in-october-5033488",
-      "summary": "",
-      "title_ko": "10월 미국 공장 생산, 자동차 및 AI 투자로 증가",
-      "summary_ko": ""
-    },
-    {
-      "title": "US business inventories increase in September",
-      "link": "https://www.investing.com/news/economic-indicators/us-business-inventories-increase-in-september-5033471",
-      "summary": "",
-      "title_ko": "9월 미국 기업 재고 증가",
+      "title_ko": "API 원유 재고 보고서, 예상보다 낮은 재고 증가율 보여줘",
       "summary_ko": ""
     }
   ]

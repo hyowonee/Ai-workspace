@@ -1,32 +1,53 @@
 {
-  "updated_at_utc": "2026-11-19 08:38:43 UTC",
+  "updated_at_utc": "2026-11-19 18:00:46 UTC",
   "items": [
     {
-      "title": "Why is Soitec stock surging today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-soitec-stock-surging-today-93CH-5038074",
+      "title": "Trump’s  defamation case against New York Times may proceed, judge rules",
+      "link": "https://www.investing.com/news/stock-market-news/trumps-defamation-case-against-new-york-times-may-proceed-judge-rules-5039668",
       "summary": "",
-      "title_ko": "오늘 Soitec 주가가 급등한 이유는 무엇인가요?",
+      "title_ko": "트럼프 전 대통령, 뉴욕타임스에 제기한 명예훼손 소송 진행 가능하다고 판사 판결",
       "summary_ko": ""
     },
     {
-      "title": "FTSE 100 today: Stocks slip as UK consumer gloom deepens; BoE warns on energy",
-      "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-slip-as-uk-consumer-gloom-deepens-boe-warns-on-energy-5038073",
+      "title": "Exclusive: Upstart CEO sees path to high growth as business transforms",
+      "link": "https://www.investing.com/news/stock-market-news/exclusive-upstart-ceo-sees-path-to-high-growth-as-business-transforms-5039682",
       "summary": "",
-      "title_ko": "오늘의 FTSE 100: 영국 소비자 심리가 악화되며 주가 하락, 영국 중앙은행(BoE)이 에너지 관련 경고",
+      "title_ko": "단독: 비즈니스 전환에 따라 고성장을 향한 길을 내다보는 Upstart CEO",
       "summary_ko": ""
     },
     {
-      "title": "European stocks inch up as massive Anthropic IPO counters hawkish Fed",
+      "title": "Houston refinery restart tests Trump’s push to boost US fuel output",
+      "link": "https://www.investing.com/news/stock-market-news/houston-refinery-restart-tests-trumps-push-to-boost-us-fuel-output-5039669",
+      "summary": "",
+      "title_ko": "휴스턴 정유 공장 재가동 테스트, 트럼프 대통령의 미국 연료 생산량 증대 노력에 힘 실어",
+      "summary_ko": ""
+    },
+    {
+      "title": "European stocks close down despite AI enthusiasm sparked by Anthropic IPO",
       "link": "https://www.investing.com/news/stock-market-news/european-stocks-inch-up-as-massive-anthropic-ipo-counters-hawkish-fed-5037955",
       "summary": "",
-      "title_ko": "유럽 증시, 매파적인 연준에 맞서 대규모 앤트로픽 IPO로 소폭 상승",
+      "title_ko": "앤트로픽(Anthropic)의 기업공개(IPO)로 인한 AI 열풍에도 불구하고 유럽 증시 하락 마감",
       "summary_ko": ""
     },
     {
-      "title": "Grand Theft Auto VI draws rave reviews as gamers enter Vice City",
-      "link": "https://www.investing.com/news/stock-market-news/gamers-get-ready-to-enter-vice-city-as-grand-theft-auto-vi-begins-globalrollout-5035485",
+      "title": "Natural gas storage sees unexpected decline, impacts market dynamics",
+      "link": "https://www.investing.com/news/economic-indicators/natural-gas-storage-sees-unexpected-decline-impacts-market-dynamics-93CH-5039474",
       "summary": "",
-      "title_ko": "게이머들이 바이스 시티에 입성하면서 그랜드 테프트 오토 VI가 호평을 받고 있습니다.",
+      "title_ko": "천연가스 비축량이 예상치 못한 감소세를 보이며 시장 역학에 영향을 미침",
+      "summary_ko": ""
+    },
+    {
+      "title": "Initial jobless claims rise slightly, exceeding forecasts",
+      "link": "https://www.investing.com/news/economic-indicators/initial-jobless-claims-rise-slightly-exceeding-forecasts-93CH-5039051",
+      "summary": "",
+      "title_ko": "신규 실업수당 청구 건수가 소폭 증가하며 예상치를 상회",
+      "summary_ko": ""
+    },
+    {
+      "title": "Philadelphia Fed Manufacturing Index Plummets, Misses Forecast",
+      "link": "https://www.investing.com/news/economic-indicators/philadelphia-fed-manufacturing-index-plummets-misses-forecast-93CH-5039043",
+      "summary": "",
+      "title_ko": "필라델피아 연방준비은행 제조업 지수 급락, 예상치 하회",
       "summary_ko": ""
     },
     {
@@ -34,27 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/analysismigrants-fuelled-spains-boom--now-investors-fear-an-antiimmigration-government-could-stifle-economy-5037815",
       "summary": "",
       "title_ko": "분석 - 이민자들이 스페인의 호황을 이끌었지만, 이제 투자자들은 반이민 정부가 경제를 위축시킬 수 있다고 우려하고 있습니다.",
-      "summary_ko": ""
-    },
-    {
-      "title": "Swiss industrial production grows 0.8% in third quarter",
-      "link": "https://www.investing.com/news/economic-indicators/swiss-industrial-production-grows-08-in-third-quarter-93CH-5037963",
-      "summary": "",
-      "title_ko": "스위스 산업 생산, 3분기에 0.8% 성장",
-      "summary_ko": ""
-    },
-    {
-      "title": "Australia unemployment hits five-year high as jobs plunge 43,500; AUD weakens",
-      "link": "https://www.investing.com/news/economic-indicators/australia-unemployment-rises-to-fiveyear-high-as-employment-plunges-43500-5037466",
-      "summary": "",
-      "title_ko": "호주 실업률, 일자리 43,500개 감소로 5년 만에 최고치 기록. 호주 달러 약세",
-      "summary_ko": ""
-    },
-    {
-      "title": "Foreign holdings of US Treasuries fall in September; China slashes to 2008 low, data show",
-      "link": "https://www.investing.com/news/economic-indicators/foreign-holdings-of-us-treasuries-dip-in-sept-china-holdings-hit-2008-low-data-show-5037222",
-      "summary": "",
-      "title_ko": "9월 미국 국채의 외국인 보유액 감소, 중국은 2008년 최저 수준으로 하락",
       "summary_ko": ""
     }
   ]

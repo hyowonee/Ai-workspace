@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-11-20 17:07:37 UTC",
+  "updated_at_utc": "2026-11-20 23:15:59 UTC",
   "items": [
     {
-      "title": "Trump, Xi agreed that military AI decisions should involve humans, Bessent says",
-      "link": "https://www.investing.com/news/stock-market-news/trump-xi-agreed-that-military-ai-decisions-should-involve-humans-bessent-says-5042288",
+      "title": "Exclusive-Lutnick asked battery startup Pure Lithium to accept US takeover, documents and source say",
+      "link": "https://www.investing.com/news/stock-market-news/exclusivelutnick-asked-battery-startup-pure-lithium-to-accept-us-takeover-documents-and-source-say-5042851",
       "summary": "",
-      "title_ko": "트럼프 대통령과 시 주석, 군사 AI 결정에 인간이 개입해야 한다는 데 동의했다고 베센트 고문이 밝혔다",
+      "title_ko": "[단독] 러트닉, 배터리 스타트업 퓨어리튬에 미국 인수 제안... 문서 및 소식통에 따르면",
       "summary_ko": ""
     },
     {
-      "title": "Wall Street briefly dips into correction territory, Nasdaq plunges 3% amid AI rout",
-      "link": "https://www.investing.com/news/stock-market-news/wall-street-futures-fall-as-anthropic-debut-fails-to-revive-ai-trade-5040450",
+      "title": "Wall Street regulator proposes to take control of market surveillance tool",
+      "link": "https://www.investing.com/news/stock-market-news/wall-street-regulator-proposes-totakecontrol-ofmarketsurveillance-tool-5042609",
       "summary": "",
-      "title_ko": "월스트리트, 잠시 조정 국면에 진입. AI 관련주 폭락 속 나스닥 3% 급락",
+      "title_ko": "월스트리트 규제 기관, 시장 감시 도구 통제권 확보 제안",
       "summary_ko": ""
     },
     {
-      "title": "Exclusive-ABB considers robotics listing if sale to SoftBank fails, sources say",
-      "link": "https://www.investing.com/news/stock-market-news/exclusiveabb-considers-robotics-listing-if-sale-to-softbank-fails-sources-say-5042268",
+      "title": "Missouri judge approves Bayer’s $7.25 billion Roundup settlement",
+      "link": "https://www.investing.com/news/stock-market-news/missouri-judge-approves-bayers-725-billion-roundup-settlement-5042643",
       "summary": "",
-      "title_ko": "[단독] 소식통에 따르면 ABB가 소프트뱅크 매각이 실패할 경우 로봇 사업부 상장을 고려하고 있다고 합니다.",
+      "title_ko": "미주리주 판사, 바이어의 라운드업 합의금 72억 5천만 달러 승인",
       "summary_ko": ""
     },
     {
-      "title": "Why is Advanced Micro Devices stock plunging today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-advanced-micro-devices-stock-plunging-today-93CH-5042282",
+      "title": "Singaporean extradited to face US charges over global insider trading scheme",
+      "link": "https://www.investing.com/news/stock-market-news/singaporean-extradited-to-face-us-charges-over-global-insider-trading-scheme-5042823",
       "summary": "",
-      "title_ko": "오늘 어드밴스드 마이크로 디바이시스(AMD) 주가가 폭락한 이유는 무엇인가요?",
+      "title_ko": "싱가포르인, 글로벌 내부자 거래 계획과 관련해 미국에서 기소될 예정으로 미국에 인도됨",
+      "summary_ko": ""
+    },
+    {
+      "title": "France, Germany to take key ECB roles, with Spain set for presidency",
+      "link": "https://www.investing.com/news/economic-indicators/france-germany-to-take-key-ecb-roles-with-spain-set-for-presidency-5042345",
+      "summary": "",
+      "title_ko": "프랑스와 독일이 유럽중앙은행(ECB)의 핵심 역할을 맡고, 스페인이 총재직을 맡을 예정입니다.",
       "summary_ko": ""
     },
     {
@@ -47,14 +54,7 @@
       "title": "EU’s Hansen says US trade uncertainty is drawing Mexico, Europe closer",
       "link": "https://www.investing.com/news/economic-indicators/eus-hansen-says-us-trade-uncertainty-is-drawing-mexico-europe-closer-5041312",
       "summary": "",
-      "title_ko": "EU의 한센 위원, 미국의 무역 불확실성으로 인해 멕시코와 유럽이 더 가까워지고 있다고 밝혀",
-      "summary_ko": ""
-    },
-    {
-      "title": "ECB to expand currency swap lines, Lagarde says",
-      "link": "https://www.investing.com/news/economic-indicators/ecb-to-expand-currency-swap-lines-lagarde-says-93CH-5041118",
-      "summary": "",
-      "title_ko": "라가르드 총재, ECB의 통화 스왑 라인 확대 계획 밝혀",
+      "title_ko": "EU의 한센 위원, \"미국의 무역 불확실성으로 인해 멕시코와 유럽이 더 가까워지고 있다\"고 밝혀",
       "summary_ko": ""
     }
   ]

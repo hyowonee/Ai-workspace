@@ -1,32 +1,46 @@
 {
-  "updated_at_utc": "2026-11-19 18:00:46 UTC",
+  "updated_at_utc": "2026-11-20 00:48:07 UTC",
   "items": [
     {
-      "title": "Trump’s  defamation case against New York Times may proceed, judge rules",
-      "link": "https://www.investing.com/news/stock-market-news/trumps-defamation-case-against-new-york-times-may-proceed-judge-rules-5039668",
+      "title": "UK tribunal confirms government order demanding access to Apple data",
+      "link": "https://www.investing.com/news/stock-market-news/uk-has-imposed-an-order-demanding-access-to-apple-data-uk-tribunal-says-5039030",
       "summary": "",
-      "title_ko": "트럼프 전 대통령, 뉴욕타임스에 제기한 명예훼손 소송 진행 가능하다고 판사 판결",
+      "title_ko": "영국 법원이 애플 데이터에 대한 접근을 요구하는 정부 명령을 인정",
       "summary_ko": ""
     },
     {
-      "title": "Exclusive: Upstart CEO sees path to high growth as business transforms",
-      "link": "https://www.investing.com/news/stock-market-news/exclusive-upstart-ceo-sees-path-to-high-growth-as-business-transforms-5039682",
+      "title": "Citigroup misbooked trades at European unit, underestimated risk by $35 bln, Reuters reports",
+      "link": "https://www.investing.com/news/stock-market-news/citigroup-misbooked-trades-at-european-unit-underestimated-risk-by-35-bln-reuters-reports-93CH-5040402",
       "summary": "",
-      "title_ko": "단독: 비즈니스 전환에 따라 고성장을 향한 길을 내다보는 Upstart CEO",
+      "title_ko": "로이터 통신, 씨티그룹이 유럽 지점에서 거래를 잘못 기록하고 위험을 350억 달러 과소평가했다고 보도",
       "summary_ko": ""
     },
     {
-      "title": "Houston refinery restart tests Trump’s push to boost US fuel output",
-      "link": "https://www.investing.com/news/stock-market-news/houston-refinery-restart-tests-trumps-push-to-boost-us-fuel-output-5039669",
+      "title": "Trump cyber director Sean Cairncross to leave post- Axios",
+      "link": "https://www.investing.com/news/stock-market-news/trump-cyber-director-sean-cairncross-to-leave-post-axios-93CH-5040401",
       "summary": "",
-      "title_ko": "휴스턴 정유 공장 재가동 테스트, 트럼프 대통령의 미국 연료 생산량 증대 노력에 힘 실어",
+      "title_ko": "트럼프 사이버 안보 담당 국장 션 케언크로스, 퇴임 예정 - Axios",
       "summary_ko": ""
     },
     {
-      "title": "European stocks close down despite AI enthusiasm sparked by Anthropic IPO",
-      "link": "https://www.investing.com/news/stock-market-news/european-stocks-inch-up-as-massive-anthropic-ipo-counters-hawkish-fed-5037955",
+      "title": "Exclusive-Citi incorrectly booked trades, underestimated risky assets by $35 billion, sources say",
+      "link": "https://www.investing.com/news/stock-market-news/exclusivecitiincorrectly-booked-trades-underestimatedrisky-assets-by-35-billion-sources-say-5040342",
       "summary": "",
-      "title_ko": "앤트로픽(Anthropic)의 기업공개(IPO)로 인한 AI 열풍에도 불구하고 유럽 증시 하락 마감",
+      "title_ko": "[단독] 소식통에 따르면, 씨티그룹이 거래를 잘못 기록하고 위험 자산을 350억 달러 과소평가했다고 합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Japan CPI inflation hits 11-mth high in Oct, core print slightly misses estimates",
+      "link": "https://www.investing.com/news/economic-indicators/japan-cpi-inflation-rises-in-oct-core-print-slightly-ducks-estimates-5040353",
+      "summary": "",
+      "title_ko": "일본 소비자물가지수(CPI) 인플레이션, 10월 11개월 만에 최고치 기록, 핵심 지표는 예상치에 약간 미달",
+      "summary_ko": ""
+    },
+    {
+      "title": "Japan Oct core CPI rises 2.2% yr/yr",
+      "link": "https://www.investing.com/news/economic-indicators/japan-oct-core-cpi-rises-22-yryr-5040343",
+      "summary": "",
+      "title_ko": "일본 10월 핵심 소비자물가지수(CPI) 전년 동기 대비 2.2% 상승",
       "summary_ko": ""
     },
     {
@@ -41,20 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/initial-jobless-claims-rise-slightly-exceeding-forecasts-93CH-5039051",
       "summary": "",
       "title_ko": "신규 실업수당 청구 건수가 소폭 증가하며 예상치를 상회",
-      "summary_ko": ""
-    },
-    {
-      "title": "Philadelphia Fed Manufacturing Index Plummets, Misses Forecast",
-      "link": "https://www.investing.com/news/economic-indicators/philadelphia-fed-manufacturing-index-plummets-misses-forecast-93CH-5039043",
-      "summary": "",
-      "title_ko": "필라델피아 연방준비은행 제조업 지수 급락, 예상치 하회",
-      "summary_ko": ""
-    },
-    {
-      "title": "Analysis-Migrants fuelled Spain’s boom - now investors fear an anti-immigration government could stifle economy",
-      "link": "https://www.investing.com/news/economic-indicators/analysismigrants-fuelled-spains-boom--now-investors-fear-an-antiimmigration-government-could-stifle-economy-5037815",
-      "summary": "",
-      "title_ko": "분석 - 이민자들이 스페인의 호황을 이끌었지만, 이제 투자자들은 반이민 정부가 경제를 위축시킬 수 있다고 우려하고 있습니다.",
       "summary_ko": ""
     }
   ]

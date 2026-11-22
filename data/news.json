@@ -1,6 +1,20 @@
 {
-  "updated_at_utc": "2026-11-21 19:57:59 UTC",
+  "updated_at_utc": "2026-11-22 00:14:16 UTC",
   "items": [
+    {
+      "title": "German car and shipyard workers set to strike as IG Metall union extends walkout",
+      "link": "https://www.investing.com/news/stock-market-news/german-car-and-shipyard-workers-set-to-strike-as-ig-metall-union-extends-walkout-5043609",
+      "summary": "",
+      "title_ko": "독일 자동차 및 조선소 노동자들, IG 메탈 노조의 파업 연장으로 파업 예정",
+      "summary_ko": ""
+    },
+    {
+      "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-5043590",
+      "summary": "",
+      "title_ko": "장 마감 시 러시아 주식 하락, MOEX 러시아 지수는 변동 없음",
+      "summary_ko": ""
+    },
     {
       "title": "Who really wins from AI?",
       "link": "https://www.investing.com/news/stock-market-news/who-really-wins-from-ai-5043557",
@@ -16,24 +30,10 @@
       "summary_ko": ""
     },
     {
-      "title": "UBS assesses impact of nationwide ground stop on US airlines’ 4Q outlook",
-      "link": "https://www.investing.com/news/stock-market-news/ubs-assesses-impact-of-nationwide-ground-stop-on-us-airlines-4q-outlook-5043328",
-      "summary": "",
-      "title_ko": "UBS, 미국 항공사의 4분기 전망에 대한 전국적인 운항 중단의 영향 평가",
-      "summary_ko": ""
-    },
-    {
-      "title": "Intesa Sanpaolo launches €34.5bn cash-and-share offer for Monte dei Paschi",
-      "link": "https://www.investing.com/news/stock-market-news/intesa-sanpaolo-launches-345bn-cashandshare-offer-for-monte-dei-paschi-5043303",
-      "summary": "",
-      "title_ko": "인테사 산파올로, 몬테 데이 파스키에 대해 345억 유로 규모의 현금 및 주식 매수 제안 발표",
-      "summary_ko": ""
-    },
-    {
       "title": "France, Germany to take key ECB roles, with Spain set for presidency",
       "link": "https://www.investing.com/news/economic-indicators/france-germany-to-take-key-ecb-roles-with-spain-set-for-presidency-5042345",
       "summary": "",
-      "title_ko": "프랑스와 독일이 유럽중앙은행(ECB)의 핵심 역할을 맡고, 스페인이 총재직을 맡을 예정입니다.",
+      "title_ko": "프랑스와 독일이 유럽중앙은행(ECB)의 핵심 역할을 맡고, 스페인이 총재직을 맡을 예정",
       "summary_ko": ""
     },
     {
@@ -54,7 +54,7 @@
       "title": "EU’s Hansen says US trade uncertainty is drawing Mexico, Europe closer",
       "link": "https://www.investing.com/news/economic-indicators/eus-hansen-says-us-trade-uncertainty-is-drawing-mexico-europe-closer-5041312",
       "summary": "",
-      "title_ko": "EU의 한센 위원, 미국의 무역 불확실성으로 인해 멕시코와 유럽이 더 가까워지고 있다고 밝혀",
+      "title_ko": "EU의 한센 위원, \"미국의 무역 불확실성으로 인해 멕시코와 유럽이 더 가까워지고 있다\"고 밝혀",
       "summary_ko": ""
     }
   ]

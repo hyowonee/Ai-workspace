@@ -1,32 +1,39 @@
 {
-  "updated_at_utc": "2026-11-25 22:10:38 UTC",
+  "updated_at_utc": "2026-11-26 04:16:36 UTC",
   "items": [
     {
-      "title": "Macy’s Thanksgiving Day Parade in New York City postponed due to storm projections",
+      "title": "Exclusive-Alice Huang-linked firms listed $270 million in AI servers in China, records show",
+      "link": "https://www.investing.com/news/stock-market-news/exclusivealice-huanglinked-firms-listed-270-million-in-ai-servers-in-china-records-show-5049792",
+      "summary": "",
+      "title_ko": "[단독] 앨리스 황과 연관된 기업들이 중국에서 2억 7천만 달러 규모의 AI 서버를 상장했다고 기록에 나타남",
+      "summary_ko": ""
+    },
+    {
+      "title": "Stocks rally in Asia, unrocked by US tariffs",
+      "link": "https://www.investing.com/news/stock-market-news/asia-shares-bounce-ai-and-tariffs-lurk-in-background-5051871",
+      "summary": "",
+      "title_ko": "미국 관세에도 흔들리지 않는 아시아 증시 상승세",
+      "summary_ko": ""
+    },
+    {
+      "title": "Trump admin weighed using Cold War law to reinstate Nvidia CEO Huang, WaPo reports",
+      "link": "https://www.investing.com/news/stock-market-news/trump-admin-weighed-using-cold-war-law-to-reinstate-nvidia-ceo-huang-wapo-reports-5051938",
+      "summary": "",
+      "title_ko": "워싱턴 포스트 보도에 따르면, 트럼프 행정부는 엔비디아 CEO 황씨를 복직시키기 위해 냉전 시대 법률을 적용하는 방안을 검토했다고 합니다.",
+      "summary_ko": ""
+    },
+    {
+      "title": "Macy’s Thanksgiving Day Parade postponed due to weather for first time in 100 years",
       "link": "https://www.investing.com/news/stock-market-news/macys-thanksgiving-day-parade-postponed-due-to-storm-projections-us-media-reports-5051483",
       "summary": "",
-      "title_ko": "폭풍 예보로 인해 뉴욕시의 메이시스 추수감사절 퍼레이드가 연기되었습니다.",
+      "title_ko": "메이시스 추수감사절 퍼레이드, 100년 만에 처음으로 기상 악화로 연기",
       "summary_ko": ""
     },
     {
-      "title": "Why is Vertex Pharmaceuticals stock sliding today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-vertex-pharmaceuticals-stock-sliding-today-93CH-5051579",
+      "title": "Analysis-For Trump, doubling down on tariffs is about power, not popularity",
+      "link": "https://www.investing.com/news/economic-indicators/analysisfor-trump-doubling-down-on-tariffs-is-about-power-not-popularity-5051748",
       "summary": "",
-      "title_ko": "오늘 Vertex Pharmaceuticals 주가가 하락하는 이유는 무엇인가요?",
-      "summary_ko": ""
-    },
-    {
-      "title": "Why is Vera Therapeutics stock surging today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-vera-therapeutics-stock-surging-today-93CH-5051578",
-      "summary": "",
-      "title_ko": "오늘 Vera Therapeutics 주가가 급등한 이유는 무엇인가요?",
-      "summary_ko": ""
-    },
-    {
-      "title": "Why is Palo Alto Networks stock sliding today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-palo-alto-networks-stock-sliding-today-93CH-5051576",
-      "summary": "",
-      "title_ko": "오늘 Palo Alto Networks 주가가 하락하는 이유는 무엇인가요?",
+      "title_ko": "분석 - 트럼프에게 관세 인상은 인기가 아닌 권력과 관련이 있다",
       "summary_ko": ""
     },
     {
@@ -48,13 +55,6 @@
       "link": "https://www.investing.com/news/economic-indicators/crude-oil-inventories-fall-short-of-forecast-indicating-strong-demand-93CH-5051144",
       "summary": "",
       "title_ko": "원유 재고가 예상치를 하회하며 강력한 수요를 시사",
-      "summary_ko": ""
-    },
-    {
-      "title": "New Home Sales Surge Past Expectations, Boosting Economic Outlook",
-      "link": "https://www.investing.com/news/economic-indicators/new-home-sales-surge-past-expectations-boosting-economic-outlook-93CH-5051094",
-      "summary": "",
-      "title_ko": "신규 주택 판매가 예상치를 크게 상회하며 경제 전망을 밝게 하다",
       "summary_ko": ""
     }
   ]
